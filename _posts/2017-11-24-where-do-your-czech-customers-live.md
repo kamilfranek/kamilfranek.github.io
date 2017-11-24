@@ -5,6 +5,9 @@ categories:
 tags:
   - image
   - Post Formats
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_color: "#333"
 ---
 
 The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
@@ -20,7 +23,7 @@ Standard image with no width modifier classes applied.
 **or Kramdown:**
 
 ```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg){% endraw %}
 ```
 
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg)
