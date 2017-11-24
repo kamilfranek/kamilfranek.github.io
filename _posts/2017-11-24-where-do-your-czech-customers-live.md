@@ -9,39 +9,14 @@ excerpt: "This post should display a **header with a solid background color**, i
 header:
   overlay_color: "#333"
 ---
-
-The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
+The preferred way of using images is placing them in he preferred way of using images is placing them i sdv sfsdfdsfdsfds sdfds  dsfdsf sdf dsf sdf dsf sdf sdf dsf dsf  sdf s df sd fds fsd fds fdsfdsfds f sdfdsf dsf  sdfdsf dsf dsf sdf dsf dsf sdf sdf dsf ds fsd fds   dsfdsfdsfs dsfdsfsdfdsf
 
 Standard image with no width modifier classes applied.
 
-**HTML:**
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg" alt="">{% endraw %}
-```
-
-**or Kramdown:**
-
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg){% endraw %}
-```
-
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg)
 
-Image that fills page content container by adding the `.full` class with:
+The preferred way of using images is placing them in he preferred way of using images is placing them i sdv sfsdfdsfdsfds sdfds  dsfdsf sdf dsf sdf dsf sdf sdf dsf dsf  sdf s df sd fds fsd fds fdsfdsfds f sdfdsf dsf  sdfdsf dsf dsf sdf dsf dsf sdf sdf dsf ds fsd fds   dsfdsfdsfs dsfdsfsdfdsf
 
-**HTML:**
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg" alt="" class="full">{% endraw %}
-```
-
-**or Kramdown:**
-
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg)
-{: .full}{% endraw %}
-```
 
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/map_cr_cities_bubbles.jpg)
 {: .full}
