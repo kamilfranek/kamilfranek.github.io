@@ -5,9 +5,10 @@ categories:
 tags:
   - image
   - Post Formats
-excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+excerpt: "Population distribution within Czech Republic"
 header:
   overlay_color: "#333"
+  teaser: "assets/images/map_cr_cities_bubbles.jpg"
 ---
 The preferred way of using images is placing them in he preferred way of using images is placing them i sdv sfsdfdsfdsfds sdfds  dsfdsf sdf dsf sdf dsf sdf sdf dsf dsf  sdf s df sd fds fsd fds fdsfdsfds f sdfdsf dsf  sdfdsf dsf dsf sdf dsf dsf sdf sdf dsf ds fsd fds   dsfdsfdsfs dsfdsfsdfdsf
 
