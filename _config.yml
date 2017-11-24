@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Kamil Franek"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kamilfranek_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Prague"
   email            :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/kamilfranek"
+  github           : "kamilfranek"
   gitlab           :
   google_plus      :
   keybase          :
@@ -247,7 +247,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
