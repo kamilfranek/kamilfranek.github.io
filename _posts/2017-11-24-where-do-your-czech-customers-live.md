@@ -1,5 +1,5 @@
 ---
-title: "Where Do Your Czech Customers Live?"
+title: "[DRAFT] Where Do Your Czech Customers Live?"
 categories:
 tags:
 excerpt: "Population distribution within Czech Republic."
