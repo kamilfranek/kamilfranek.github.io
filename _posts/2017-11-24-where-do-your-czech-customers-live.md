@@ -21,6 +21,7 @@ Average Population density 134 people per km2. It is above EU average (112 peopl
 
 | City Category    | #      | # % | Cumulative Population | Cum. Population %  |
 | --------         | ------ | ----|-----------------------|--------------------|
+| sdfsdfsd    | sdfsd     | 4353543 | 45% | 66 %  |
 
 
 
