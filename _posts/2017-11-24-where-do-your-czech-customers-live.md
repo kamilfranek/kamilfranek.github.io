@@ -25,7 +25,7 @@ Average Population density 134 people per km2. It is above EU average (112 peopl
 <h2>50% of population live in top 130 Cities</h2>
 
 | City Size (Inhabitants)    | #      | # % | Population | Population %  |
-| --------     | ----- | ------|----------|-------|
+|--------|-----:| ------:|----------:|-------:|
 | > 1 000 000  | 1     | 0.0 % | 1 280 508  | 12%% | 
 | > 150 000    | 4     | 0.1 % | 2 120 663  |  20% | 
 | > 20 000     | 62    | 0.9%  | 4 517 904  | 43%  |
