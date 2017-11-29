@@ -8,8 +8,13 @@ header:
 ---
 If you are in physical retail business, it is crucial to know your demographics. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are they evenly spread out? What are the top cities? Which cities should I be present in? The following overview should give you high-level answers to those questions.
 
-<h2>Basic Overview</h2>
+<h2>Basic Info - Czechia</h2>
 Czechia (Czech Republic) is situated in middle of Europe. Neigboring with Germany, Austria, Poland and Slovakia.
+
+> Population: 10.6 millions
+> Area: 78 866 km2
+> Density: 134 people per km2
+
 <figure>
     <a href="/assets/images/map_cr_border.jpg"><img src="/assets/images/map_cr_border.jpg"></a>
     <figcaption></figcaption>
@@ -17,16 +22,16 @@ Czechia (Czech Republic) is situated in middle of Europe. Neigboring with German
 
 Average Population density 134 people per km2. It is above EU average (112 people). it is less densely inhabited than Germany and Great Brittain but more than France and Spain. Neighboring Poland has very similar density.
 
-<h2>130 Cities With Population Over 10 000 = 50% of Population</h2>
+<h2>50% of population live in top 130 Cities</h2>
 
-| City Category    | #      | # % | Population | Population %  |
+| City Size (Inhabitants)    | #      | # % | Population | Population %  |
 | --------     | ----- | ------|----------|-------|
-| > 1 000 000  | 1     | 0.0 % | 1280508  | 12%%  | 
-| > 150 000    | 4     | 0.1 % | 2120663  |  20%  | 
-| > 20 000     | 62    | 0.9%  | 4517904  | 43%  |
-| > 10 000     | 130   | 2.1%  | 5476304  | 52%  |
-| > 5 000      | 274   | 4.4%  | 6460567  | 61%   |
-| > ALL        | 6257  | 100%  | 10578757 | 100%  |
+| > 1 000 000  | 1     | 0.0 % | 1 280 508  | 12%% | 
+| > 150 000    | 4     | 0.1 % | 2 120 663  |  20% | 
+| > 20 000     | 62    | 0.9%  | 4 517 904  | 43%  |
+| > 10 000     | 130   | 2.1%  | 5 476 304  | 52%  |
+| > 5 000      | 274   | 4.4%  | 6 460 567  | 61%  |
+| > ALL        | 6257  | 100%  |10 578 757  | 100% |
 
 
 
