@@ -19,9 +19,14 @@ Average Population density 134 people per km2. It is above EU average (112 peopl
 
 <h2>130 Cities With Population Over 10 000 = 50% of Population</h2>
 
-| City Category    | #      | # % | Cumulative Population | Cum. Population %  |
-| --------         | ------ | ----|-----------------------|--------------------|
-| sdfsdfsd    | sdfsd     | 4353543 | 45% | 66 %  |
+| City Category    | #      | # % | Population | Population %  |
+| --------     | ----- | ------|----------|-------|
+| > 1 000 000  | 1     | 0.0 % | 1280508  | 12%%  | 
+| > 150 000    | 4     | 0.1 % | 2120663  |  20%  | 
+| > 20 000     | 62    | 0.9%  | 4517904  | 43%  |
+| > 10 000     | 130   | 2.1%  | 5476304  | 52%  |
+| > 5 000      | 274   | 4.4%  | 6460567  | 61%   |
+| > ALL        | 6257  | 100%  | 10578757 | 100%  |
 
 
 
