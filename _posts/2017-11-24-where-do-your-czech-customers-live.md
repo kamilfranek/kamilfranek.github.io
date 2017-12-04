@@ -4,16 +4,16 @@ categories:
 tags:
 excerpt: "Population distribution within Czech Republic."
 header:
-teaser: "assets/images/map_cr_cities_density.jpg"
+ teaser: "assets/images/map_cr_cities_density.jpg"
 ---
 If you are in physical retail business, it is crucial to know your demographics. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should I be present in? The following overview should give you high-level answers to those questions.
 
 ## Basic Info - Czechia
 Czechia (Czech Republic) is situated in middle of Europe. Neigboring with Germany, Austria, Poland and Slovakia.
 
-> Population: 10.6 millions  
-> Area: 78 866 km2  
-> Density: 134 people per km<sup>2</sup> 
+> Population: **10.6 millions**  
+> Area: **78 866 km<sup>2</sup>**
+> Density: **134 people per km<sup>2</sup>**
 
 Average Population density 134 people per km^2^. It is above EU average (112 people). Czechia is less densely inhabited than Germany and Great Brittain but more than France and Spain. Neighboring Poland has very similar density.
 
