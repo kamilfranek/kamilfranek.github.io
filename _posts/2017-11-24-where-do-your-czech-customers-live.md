@@ -13,28 +13,28 @@ Czechia (Czech Republic) is situated in middle of Europe. Neigboring with German
 
 > Population: 10.6 millions  
 > Area: 78 866 km2  
-> Density: 134 people per km2  
+> Density: 134 people per km<sup>2</sup> 
 
-Average Population density 134 people per km2. It is above EU average (112 people). Czechia is less densely inhabited than Germany and Great Brittain but more than France and Spain. Neighboring Poland has very similar density.
+Average Population density 134 people per km^2^. It is above EU average (112 people). Czechia is less densely inhabited than Germany and Great Brittain but more than France and Spain. Neighboring Poland has very similar density.
 
-## 50% of population live in top 130 Cities</h2>
+## 50% of population live in top 130 Cities
 
 | City Inhabitants    | #      | # % | Population | Popul. %  |
 |--------|-----:| ------:|----------:|-------:|
 | # > 1 000 000  | 1     | 0.0%  | 1 280 508  | 12%  | 
-| # > 150 000    | 4     | 0.1%  | 2 120 663  |  20% | 
+| # > 150 000    | 4     | 0.1%  | 2 120 663  | 20%  | 
 | # > 20 000     | 62    | 0.9%  | 4 517 904  | 43%  |
 | # > 10 000     | 130   | 2.1%  | 5 476 304  | 52%  |
 | # > 5 000      | 274   | 4.4%  | 6 460 567  | 61%  |
 | # > 1 250      | 1 172 |18.7%  | 8 470 963  | 80%  |
-| ALL            | 6 257 | 100%  |10 578 757  | 100% |
+| ALL            | 6 257 |100.0% |10 578 757  | 100% |
 
 <figure>
     <a href="/assets/images/map_cr_cities_bubbles.jpg"><img src="/assets/images/map_cr_cities_bubbles.jpg"></a>
     <figcaption></figcaption>
 </figure>
 
-<h2>Population Density By City</h2>
+## Population Density By City
 On the next map, we can also look at the same data in terms of population density. It is not surprising that the biggest cities are very densely populated but you can find also some other medium-sized towns with a high-density population. Moravia and North-South border with Germany are quite dense areas. On the other hand south of the Czech Republic below Prague is populated relatively sparsely, except few big cities.
 
 <figure>
