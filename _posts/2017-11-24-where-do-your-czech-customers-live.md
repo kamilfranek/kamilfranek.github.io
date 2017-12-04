@@ -8,16 +8,16 @@ teaser: "assets/images/map_cr_cities_density.jpg"
 ---
 If you are in physical retail business, it is crucial to know your demographics. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should I be present in? The following overview should give you high-level answers to those questions.
 
-<h2>Basic Info - Czechia</h2>
+## Basic Info - Czechia
 Czechia (Czech Republic) is situated in middle of Europe. Neigboring with Germany, Austria, Poland and Slovakia.
 
-> Population: 10.6 millions
-> Area: 78 866 km2
-> Density: 134 people per km2
+> Population: 10.6 millions  
+> Area: 78 866 km2  
+> Density: 134 people per km2  
 
-Average Population density 134 people per km2. It is above EU average (112 people). it is less densely inhabited than Germany and Great Brittain but more than France and Spain. Neighboring Poland has very similar density.
+Average Population density 134 people per km2. It is above EU average (112 people). Czechia is less densely inhabited than Germany and Great Brittain but more than France and Spain. Neighboring Poland has very similar density.
 
-<h2>50% of population live in top 130 Cities</h2>
+## 50% of population live in top 130 Cities</h2>
 
 | City Inhabitants    | #      | # % | Population | Popul. %  |
 |--------|-----:| ------:|----------:|-------:|
@@ -44,7 +44,7 @@ On the next map, we can also look at the same data in terms of population densit
 
 **References**
 
-Czech Statistical Office (2017). *Population of municipalities of the Czech republic (1.1.2017).* https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017.
+Czech Statistical Office (2017). *Population of municipalities of the Czech republic (1.1.2017).* [https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017.](https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017)
 
 Geoportál ČÚZK (2017). *INSPIRE harmonized dataset on Administrative Units.* http://geoportal.cuzk.cz.
 
