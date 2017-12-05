@@ -43,6 +43,7 @@ On the next map, we can also look at the same data in terms of population densit
 </figure>
 
 <sub>**References:**</sub>
+
 <sub>
 Czech Statistical Office (2017). *Population of municipalities of the Czech republic (1.1.2017).*[https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017.](https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017)
 </sub>
