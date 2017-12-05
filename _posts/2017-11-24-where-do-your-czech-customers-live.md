@@ -43,14 +43,15 @@ On the next map, we can also look at the same data in terms of population densit
 </figure>
 
 **References:**
+
 <sub>
 Czech Statistical Office (2017). *Population of municipalities of the Czech republic (1.1.2017).*[https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017.](https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017)
 
-Geoportál ČÚZK (2017). *INSPIRE harmonized dataset on Administrative Units.*[http://geoportal.cuzk.cz.](http://geoportal.cuzk.cz.) </sub>
-<h5>
+Geoportál ČÚZK (2017). *INSPIRE harmonized dataset on Administrative Units.*[http://geoportal.cuzk.cz.](http://geoportal.cuzk.cz.) 
+
 R Core Team (2016). *R: A language and environment for statistical computing.* R Foundation for Statistical Computing, Vienna, Austria. [https://www.R-project.org/.](https://www.R-project.org/.) 
 
-Hadley Wickham (2017). *tidyverse: Easily Install and Load 'Tidyverse' Packages. R package version 1.1.1.*[https://CRAN.R-project.org/package=tidyverse.](https://CRAN.R-project.org/package=tidyverse.) </h5>
-
+Hadley Wickham (2017). *tidyverse: Easily Install and Load 'Tidyverse' Packages. R package version 1.1.1.*[https://CRAN.R-project.org/package=tidyverse.](https://CRAN.R-project.org/package=tidyverse.) 
+</sub>
 
 
