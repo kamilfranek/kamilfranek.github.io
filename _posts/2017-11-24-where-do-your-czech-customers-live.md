@@ -29,7 +29,7 @@ Average population density 134 inhabitants per km<sup>2</sup> is above EU averag
 | > 1 250      | 1 172 |18.7%  | 8 470 963  | 80%  |
 | ALL           | 6 257 |100.0% |10 578 757  | 100% |
 
-Pareto principle works and roughly 80% of the population lives in 20% of top cities.
+Pareto principle works and roughly 80% of the population lives in 20% biggest cities.
 
 <figure>
     <a href="/assets/images/map_cr_cities_bubbles.png"><img src="/assets/images/map_cr_cities_bubbles.png"></a>
