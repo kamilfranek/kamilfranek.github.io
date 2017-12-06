@@ -1,10 +1,10 @@
 ---
-title: "[DRAFT] Where Do Your Czech Customers Live?"
+title: "Where Do Your Czech Customers Live?"
 categories:
 tags:
 excerpt: "Population distribution within Czech Republic."
 header:
- teaser: "assets/images/map_cr_cities_density.jpg"
+ teaser: "assets/images/map_cr_cities_density.png"
 ---
 If you are in physical retail business, it is crucial to know your demographics. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should I be present in? The following overview should give you high-level answers to those questions.
 
