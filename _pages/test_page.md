@@ -18,6 +18,7 @@ Czechia (Czech Republic) is situated in middle of Europe. Neigboring with German
 Average population density 134 people per km<sup>2</sup> is above EU average (112 people per km<sup>2</sup>). Czechia is less densely inhabited than Germany and Great Brittain but more than France and Spain. Neighboring Poland has very similar density.
 
 ## 50% of population live in top 130 Cities
+Pareto principle works here and roughly 80% of population lives in 20% of top cities.
 
 | City Inhabitants | # of Cities | # % | Population | Popul. %  |
 |--------|-----:| ------:|----------:|-------:|
