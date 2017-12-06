@@ -30,7 +30,7 @@ Average population density 134 people per km<sup>2</sup> is above EU average (11
 | ALL           | 6 257 |100.0% |10 578 757  | 100% |
 
 <figure>
-    <a href="/assets/images/map_cr_cities_bubbles.jpg"><img src="/assets/images/map_cr_cities_bubbles.png"></a>
+    <a href="/assets/images/map_cr_cities_bubbles.png"><img src="/assets/images/map_cr_cities_bubbles.png"></a>
     <figcaption></figcaption>
 </figure>
 
