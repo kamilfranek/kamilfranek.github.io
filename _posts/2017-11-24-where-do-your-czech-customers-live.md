@@ -2,7 +2,7 @@
 title: "Where Do Your Czech Customers Live?"
 categories:
 tags:
-excerpt: "Population distribution within Czech Republic."
+excerpt: "Population distribution within the Czech Republic."
 header:
  teaser: "assets/images/map_cr_cities_density.png"
 ---
