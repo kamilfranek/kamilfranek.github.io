@@ -1,12 +1,12 @@
 ---
 title: "Where Do Your Czech Customers Live?"
-type: "post"
+type: "article"
 categories:
 tags:
 excerpt: "Population distribution within the Czech Republic."
 header:
- image: "assets/images/map_cr_cities_density.png"
  teaser: "assets/images/map_cr_cities_density.png"
+ url: "http://www.kamilfranek.com/where-do-your-czech-customers-live/"
 ---
 If you are in physical retail business, it is crucial to know your demographics. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should I be present in? The following overview should give you high-level answers to those questions.
 
