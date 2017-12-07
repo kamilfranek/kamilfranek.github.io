@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "default" , "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "KAMIL FRANEK | Blog of Business Analytics Enthusiast"
+title                    : "KAMIL FRANEK | Business Analytics Enthusiast"
 title_separator          : "-"
 name                     : "Kamil Franek"
 description              : "Business Analytics Enthusiast - Turning Data into Business Insights"
