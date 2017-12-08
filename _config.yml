@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "KAMIL FRANEK | Business Analytics Enthusiast"
 title_separator          : "-"
 name                     : "Kamil Franek"
-description              : "Business Analytics Enthusiast - Turning Data into Business Insights"
+description              : "Business Analytics Enthusiast - Analyst Turning Data into Business Insights"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Kamil Franek"
   avatar           : "/assets/images/kamilfranek_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Turning Data into Business Insights"
+  bio              : "I´m Analyst, Who Turns Data into Business Insights"
   location         : "Prague, Czech Republic"
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
