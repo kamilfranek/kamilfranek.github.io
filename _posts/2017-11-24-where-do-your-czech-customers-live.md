@@ -8,16 +8,16 @@ header:
  teaser: "assets/images/map_cr_cities_density.png"
  
 ---
-If you are active in physical retail business in the Czech Republic or thinking about starting a new one, you will need to know a thing or two about Czech population distribution. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should I be present in? The following overview should give you high-level answers to those questions.
+If you are active in a physical retail business in the Czech Republic or thinking about starting a new one, you will need to know a thing or two about Czech population distribution. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should I be present in? The following overview should give you high-level answers to those questions.
 
 ## Basic Info - Czechia
-Czechia (Czech Republic) is situated in the middle of Europe. Neighboring with Germany, Austria, Poland, and Slovakia.
+Czechia (Czech Republic) is situated in the middle of Europe. It is neighboring with Germany, Austria, Poland, and Slovakia.
 
 > Population: **10.6 millions**  
 > Area: **78 866 km<sup>2</sup>**  
 > Density: **134 inhabitants per km<sup>2</sup>**
 
-Average population density 134 inhabitants per km<sup>2</sup> is above EU average. Czechia is less densely inhabited than Germany and Great Britain but more than France and Spain. Neighboring Poland has very similar density.
+Average population density 134 inhabitants per km<sup>2</sup> is above EU average. Czechia is less densely inhabited than Germany and Great Britain but more than France and Spain. Neighboring Poland has a very similar density.
 
 ## 50% of The Population Live in Top 130 Cities
 
@@ -41,7 +41,7 @@ Pareto principle works and roughly 80% of the population lives in top 20% of cit
 ## Population Density By City
 On the next map, you can see the same data in terms of population density. It is not surprising that the biggest cities are very densely populated but you can find also some other medium-sized cities with a high-density population. Prague is the most densely populated city in Czechia (2.6k inhabitants per km<sup>2</sup>) followed by Havířov (2.3k) which is the 12th biggest city. 
 
-Moravia and North-South border with Germany are quite dense areas. On the other hand south of the Czech Republic below Prague is populated relatively sparsely, except few big cities.
+Moravia and North-South border with Germany are quite dense areas. On the other hand, South of the Czech Republic below Prague is populated relatively sparsely, except few big cities.
 
 You can also clearly see, that top 4 biggest cities (Praha, Brno, Ostrava, Plzen) are surrounded by smaller satellite-cities.
 
