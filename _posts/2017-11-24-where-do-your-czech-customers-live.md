@@ -8,7 +8,7 @@ header:
  teaser: "assets/images/map_cr_cities_density.png"
  
 ---
-If you are active in a physical retail business in the Czech Republic or thinking about starting a new one, you will need to know a thing or two about Czech population distribution. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should I be present in? The following overview should give you high-level answers to those questions.
+If you are active in a physical retail business in the Czech Republic or thinking about starting a new one, you will need to know a thing or two about Czech population distribution. Where do your customers live? Where is the biggest concentration? Do most people live in bigger cities or are evenly spread out in mid-sized ones? Which cities should you be present in? The following overview should give you high-level answers to those questions.
 
 ## Basic Info - Czechia
 Czechia (Czech Republic) is situated in the middle of Europe. It is neighboring  Germany, Austria, Poland, and Slovakia.
