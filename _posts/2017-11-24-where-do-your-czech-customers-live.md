@@ -13,8 +13,8 @@ If you are active in a physical retail business in the Czech Republic or thinkin
 ## Basic Info - Czechia
 Czechia (Czech Republic) is situated in the middle of Europe. It is neighboring with Germany, Austria, Poland, and Slovakia.
 
-> Population: **10.6 millions**  
-> Area: **78 866 km<sup>2</sup>**  
+> Population: **10.6 million**  
+> Area: **78,866 km<sup>2</sup>**  
 > Density: **134 inhabitants per km<sup>2</sup>**
 
 Average population density 134 inhabitants per km<sup>2</sup> is above EU average. Czechia is less densely inhabited than Germany and Great Britain but more than France and Spain. Neighboring Poland has a very similar density.
@@ -23,13 +23,13 @@ Average population density 134 inhabitants per km<sup>2</sup> is above EU averag
 
 | City Inhabitants| # of Cities| # % | Population  | Popul. %|
 |--------|-----:| ------:|------------:|-------:|
-|> 1 000 000| 1     | 0.0%| 1 280 508| 12%| 
-|> 150 000  | 4     | 0.1%| 2 120 663| 20%| 
-|> 20 000   | 62    | 0.9%| 4 517 904| 43%|
-|> 10 000   | 130   | 2.1%| 5 476 304| 52%|
-|> 5 000    | 274   | 4.4%| 6 460 567| 61%|
-|> 1 250    | 1 172 |18.7%| 8 470 963| 80%|
-|ALL        | 6 257 |100% |10 578 757|100%|
+|> 1,000,000| 1     | 0.0%| 1,280,508| 12%| 
+|> 150,000  | 4     | 0.1%| 2,120,663| 20%| 
+|> 20,000   | 62    | 0.9%| 4,517,904| 43%|
+|> 10,000   | 130   | 2.1%| 5,476,304| 52%|
+|> 5,000    | 274   | 4.4%| 6,460,567| 61%|
+|> 1,250    | 1,172 |18.7%| 8,470,963| 80%|
+|ALL        | 6,257 |100% |10,578,757|100%|
 
 Pareto principle works and roughly 80% of the population lives in top 20% of cities.
 
