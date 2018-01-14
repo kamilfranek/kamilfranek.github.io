@@ -5,7 +5,7 @@ categories:
 tags:
 excerpt: "Who are your best salespeople or sales teams and who are the worst ones? Tips how to avoid rewarding them for luck"
 header: 
- teaser: "assets/images/performance_vs_growth_matrix.png"
+ teaser: "assets/images/performance_vs_growth_matrix_teaser.png"
  
 ---
 If you are a sales leader, sales manager or a sales analytics professionals, one question that you will need to answer is who are your best salespeople or sales teams and who are the worst ones. It is not a straightforward task to tackle and will be heavily influenced by the situation in your company. That being said, in practice, one "straightforward solution" is very often used in a form of traditional sales leaderboard.  We all love Leaderboards, don't we? I have designed few of them too :-), but are they really the right tool for ranking of your salespeople? 
