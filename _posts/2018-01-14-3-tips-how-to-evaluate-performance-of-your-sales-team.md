@@ -1,10 +1,10 @@
 ---
-title: "Who Are Your Top Salespeople? 3 tips how to evaluate performance of your sales teams"
+title: "3 Tips How To Evaluate Performance of Your Sales Team"
 type: "article"
 categories:
 tags:
-excerpt: "Who are your best salespeople or sales teams and who are the worst ones. Do your reward for luck or skill."
-header:
+excerpt: "Who are your best salespeople or sales teams and who are the worst ones? Tips how to avoid rewarding them for luck"
+header: 
  teaser: "assets/images/performance_vs_growth_matrix.png"
  
 ---
@@ -21,7 +21,8 @@ The attractiveness of leaderboards is that they are simple to create and simple 
 Sounds pretty straightforward, right? So what is wrong with that? As I said at the beginning, I don't think the leaderboard itself is the issue, the problem lies in the metrics that are used in them that do not take into account at least some basic evaluation of the potential of assigned territories or assigned client portfolios. 
 
 In an example below I designed simple leaderboard with Revenue as one and only metric.
-## Traditional Sales Leaderboard Example
+### Traditional Sales Leaderboard Example
+
 |Nickname | Revenues| Rank|
 |:--------|--------:|----:|
 |Buzz     |  1,500,000|    1|
@@ -63,7 +64,8 @@ Drivers you might choose will be very depended on your business and product, it 
 
 See the leaderboard below, that I adjusted based on number of clients in portfolio of each salesperson. It is still leaderboard but at least it is measuring the performance of your salespeople, not the size of the territories. For example Buzz, the salesperson with biggest revenues is not in lead anymore and fell to the third place because Woody and Mike were able to utilize their smaller portfolios better. Woody was the star is actually extremely far ahead of everybody else based on revenue per client metric. Another interesting different in both leaderboards is e.g. Mike who jumped significantly up because the potential of his portfolio is significantly smaller than for examples that of Buzz or Rocky.In traditional leaderboard he was hiding in the middle of the field, adjusted leaderboard tell your that he is actually one of your stars an was just unlucky to be assigned smaller portfolio.
 
-## Adjusted Sales Leaderboard Example
+### Adjusted Sales Leaderboard Example
+
 |Nickname | Revenue| Revenue Rank| Assigned # of clients| Revenue per client| Revenue per client Rank|
 |:--------|-------:|------------:|---------------------:|------------------:|-----------------------:|
 |Woody    | 1,400,000|            2|                   378|          3704|                       1|
@@ -119,4 +121,4 @@ What does the chart above tell us about our fictional sales team? It shows us as
 
 As in everything, there is no general "best way" of doing the sales performance evaluation of your sales team and every team has its specifics. 
 
-**Whats your preferred way how to rank your salespeople and to visualize their performance? Please Let me know. I would love to hear your view.**
+**Whats your preferred way how to rank your salespeople and to visualize their performance? Let me know, I would love to hear your view.**
