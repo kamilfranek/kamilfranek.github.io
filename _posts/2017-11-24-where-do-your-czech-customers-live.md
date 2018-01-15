@@ -3,7 +3,7 @@ title: "Where Do Your Czech Customers Live?"
 type: "article"
 categories:
 tags:
-excerpt: "Where do your Czech customers live? Where is the highest population density? Do most people live in bigger cities or are they evenly spread out in mid-sized ones? Which cities should you be present in?"
+excerpt: "Where do your Czech customers live? Where is the highest population density? Do most people live in bigger cities or are they evenly spread out? Which cities should you be present in?"
 header:
  teaser: "assets/images/map_cr_cities_density_teaser.png"
  
