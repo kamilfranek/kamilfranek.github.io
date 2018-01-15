@@ -53,7 +53,7 @@ There are situations where this traditional leaderboard might work. For example 
 
 Another situation where it might be fine to use traditional leaderboard is when you've already taken potential into account in your sales targets and you rank salespeople based on quota fulfillment, not absolute sales. In that case, if you allocated targets centrally based on your potential "driver" to individual salespeople and are not reallocating them after that, you are already doing what I will try to suggest as a tip #1.
 
-## Tip #1: Fix your Leaderboard By Taking Into Account Territory/Portfolio Potential
+## Tip #1: Fix Your Leaderboard By Taking Into Account Territory/Portfolio Potential
 
 If you want to rank salespeople really by how good they are at selling and mitigate at least to some extent how lucky they were to be allocated good portfolio or territory, you need some other tool than traditional leaderboard.
 
@@ -118,8 +118,6 @@ You do not need to spend too much time focusing on salespeople who are getting b
     <figcaption></figcaption>
 </figure>
 What does the chart above tell us about our fictional sales team? It shows us as in the previous visualization that Woody is your best performer (after adjustment for portfolio potential), but he still should get more sales management attention than Rocky or Mike. Yes, Woody is selling more than they are right now and earning more money for his company but his sales are decreasing in time. This should alert his sales manager to find out what is happening. Better sooner than later. This visualization also shows that all our junior salespeople (Jessie + Wheezy + Etch ) have a good growth trajectory. On the opposite scale of deteriorating salespeople is Hamm in the red quadrant. He is the worst performer and his sales manager need to have some serious discussion with him. 
-
-As in everything, there is no general "best way" of doing the sales performance evaluation and you will need to adjust these tips to specifics of your organization. 
 
 **Whats your preferred way how to rank your salespeople and to visualize their performance? Let me know, I would love to hear your view.**
 
