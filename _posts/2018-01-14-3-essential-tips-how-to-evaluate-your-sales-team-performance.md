@@ -3,12 +3,12 @@ title: "3 Essential Tips How To Evaluate Your Sales Team Performance"
 type: "article"
 categories:
 tags:
-excerpt: "Who are your best salespeople or sales teams and who are the worst ones? Do you reward salespeople for luck or skill? Here are 3 sales analytics tips to evaluate performance of your sales team. It is about using the right metrics and appropriate data visualisation."
+excerpt: "Who are your best salespeople and who are the worst ones? Do you reward salespeople for luck or skill? Here are 3 sales analytics tips to evaluate performance of your sales team. It is about using the right metrics and appropriate data visualisation."
 header: 
  teaser: "assets/images/performance_vs_growth_matrix_teaser.png"
  
 ---
-If you are a sales leader, sales manager or a sales analytics professional, one question that you will need to answer is who are your best salespeople or sales teams and who are the worst ones. It is not a straightforward task to tackle and will be heavily influenced by the situation in your company. That being said, in practice, one *"straightforward"* solution is very often used in a form of traditional sales leaderboard.  We all love Leaderboards, don't we? But are they really the right tool for ranking of your salespeople? 
+If you are a sales leader, sales manager or a sales analytics professional, one question that you will need to answer is who are your best salespeople and who are the worst ones. It is not a straightforward task to tackle and will be heavily influenced by the situation in your company. That being said, in practice, one *"straightforward"* solution is very often used in a form of traditional sales leaderboard.  We all love Leaderboards, don't we? But are they really the right tool for ranking of your salespeople? 
 
 >I will try to argue that although there is nothing wrong with a leaderboard as such, it is misused in practice. The main problem is not the leaderboard itself but metric that is used in it and I will suggest three alternatives which I find more appropriate.
 
