@@ -8,11 +8,11 @@ header:
  teaser: "assets/images/population_top10_activity.png"
  
 ---
-A few months ago I’ve put together a very basic overview of where people live in the Czech Republic in an article “Where do your Czech Customers live”. It was a short post with basic metrics and visualizations about what are the biggest Czech cities, where is the biggest population density and that Pareto 20/80 rule really works. However, I felt that I need to get back to this topic and try to go one step deeper. Suggesting that biggest businesses potential (at least for retail) is in the biggest cities by population appeared just too simplistic. Though it might be a good rule of thumb, a bigger city does not have to mean that you will have more customer potential there be because characteristics of the population will vary between cities. This is something I want to explore in this post, using the Czech Republic census data.
+A few months ago I’ve put together a very basic overview of where people live in the Czech Republic in an article <a href="http://www.kamilfranek.com/where-do-your-czech-customers-live/">“Where do your Czech Customers live”<a>. It was a short post with basic metrics and visualizations about what are the biggest Czech cities, where is the biggest population density and that Pareto 20/80 rule really works. However, I felt that I need to get back to this topic and try to go one step deeper. Suggesting that biggest businesses potential (at least for retail) is in the biggest cities by population appeared just too simplistic. Though it might be a good rule of thumb, a bigger city does not have to mean that you will have more customer potential there. Simply because characteristics of the population will vary between cities. This is something I want to explore in this post, using the Czech Republic census data.
 
 ## City population is not enough to evaluate city business potential. Or is it?
 
-If I want to answer the question “Which city should I open my next store in?” or “From which territory should I expect more sales?” more properly than just looking at the population level, you would ideally want actual market sales data for your particular product/service in a given city. Unfortunately, that’s not always the option. There are many other data options we can incorporate as a proxy. We might look at economic activity, purchasing power, age structure, education, your competition presence, weather etc.
+If I want to answer the question “Which city should I open my next store in?” or “From which territory should I expect more sales?” more properly than just looking at the population level, you would ideally want actual market sales data for your product/service in a given city. Unfortunately, that’s not always the option. There are many other data options we can incorporate as a proxy. We might look at economic activity, purchasing power, age structure, education, your competition presence, weather etc.
 
 I want to go deeper than before, but I will limit the scope of this post only to a subset of few important characteristics that are included in publicly available Czech census data..
 
@@ -74,7 +74,7 @@ So we got an overview of Czech Republic demographic characteristic and we can no
     <figcaption></figcaption>
 </figure>
 
-With the exception of a higher share of unemployed in Ústi, it looks like our original simplified advice that more people mean more customers was roughly right. But be careful that this cant’be generalized and we looked only top 10 cities. The Czech Republic is also extremely small and homogenous country so this might be relevant somewhere else.
+With the exception of a higher share of unemployed in Ústí nad Labem, it looks like our original simplified advice that more people mean more customers was roughly right. But be careful that this cant’be generalized and we looked only top 10 cities. The Czech Republic is also extremely small and homogenous country so this might be relevant somewhere else.
 
 Let’s look at the same data differently as % of the total populations, because chart above might be hiding some structural differences between cities.
 
@@ -83,7 +83,7 @@ Let’s look at the same data differently as % of the total populations, because
     <figcaption></figcaption>
 </figure>
 
-In the chart above you can see that it is not only Usti nad Labem that stands out but also Ostrava. Both of these cities have a significantly higher share of employed people offset by lower share of the self-employed and employed population. The rest look roughly homogenous except the capital Praha, with a high share of self-employed and lower unemployment.
+In the chart above you can see that it is not only Ustí nad Labem that stands out but also Ostrava. Both of these cities have a significantly higher share of unemployed people offset by lower share of the self-employed and employed population. The rest looks roughly homogenous except the capital Praha, with a high share of self-employed and lower unemployment.
 
 Detail split by age structure below is pretty similar across cities, but if you focus on Ústi and Ostrava again you can spot slightly higher share of young people below 19-year-old. This is strongly connected to a higher share of unemployment we showed before. A segment of young people below 19 years usually has quite higher unemployment rate than is the population average.
 
@@ -99,11 +99,11 @@ The final demographic characteristic we will explore for top 10 Czech cities is 
     <figcaption></figcaption>
 </figure>
 
-To sum it up, we confirmed that although the rule of thumb that “business potential = population” works most of the time, it is important too look also at some more detail city characteristics to avoid wrong decisions. When we looked at relative share for top cities we found two of them (Ostrava/Ústí) have a quite lower share of the active population. We confirmed that these cities have also younger population and also with a lower level of formal education. All these characteristics are characteristics generally connected with higher unemployment.
+To sum it up, we confirmed that although the rule of thumb that “business potential = population size” works most of the time, it is important too look also at some more detail city characteristics to avoid wrong decisions. When we looked at relative share for top cities we found two of them (Ostrava/Ústí) have a quite lower share of the active population. We confirmed that these cities have also younger population and also with a lower level of formal education. All these characteristics are characteristics generally connected with higher unemployment.
 
 Does it mean that you should avoid these two cities and prefer a city with the lower population and with a higher share of an economically active population? For Ostrava, the answer is no, because size difference to 4th Plzen is so large that differences in the population structure won’t outweigh it. In case of Ústí, if we would look only at self-employed or employed segment as important for our business you would probably do better by prioritizing smaller Pardubice. Difference between the population of Pardubice and Ústi is small, therefore relative differences make up for it.
 
-It is important to say, that it all depends on who are your customers and in which city you have most of them. Demographic might give you rough guidance in this. More niche your business or customers are, more important will detailed customer structure in given city will be important for your business.
+>It is important to say, that it all depends on who are your customers and in which city you have most of them. Demographic might give you rough guidance in this. More niche your business or customers are, more important will detailed customer structure in given city will be important for your business.
 
 What if your business is online, you might think, do I care about the geographical distribution of my customers? You don’t, but the underlying logic is similar. You don’t care about a number of teenagers in different geographical locations, but you care about a number of teenagers across different online territories, eg. how much teenagers are active on Facebook vs Snapchat.
 
@@ -112,7 +112,7 @@ What if your business is online, you might think, do I care about the geographic
 
 So far I concentrated only at few top cities but top cities have different demographics that the rest of the Czech Republic. It is true that 25% of the Czechia population live in the top 10 cities, but most of the population still live outside of the top 10.
 
-If we want to look visually on the whole Cechia by a city, it is where the granularity of census data really shines and allows you to have really detail picture by a city. We do not need to rely on less granular data by regions, which might hide some local differences.
+If we want to look visually on the whole Czechia by a city, it is where the granularity of census data really shines and allows you to have really detail picture by a city. We do not need to rely on less granular data by regions, which might hide some local differences.
 
 Two “twins” heat maps below are inverse to each other and are showing the self-employed share of the population versus share of the unemployed population.
 
@@ -121,7 +121,7 @@ Two “twins” heat maps below are inverse to each other and are showing the se
     <figcaption></figcaption>
 </figure>
 
-Heatmap above is messy and the smaller the area more common it is to see some extremely low and high value. This is a quite normal phenomenon because by chance it is much more probable to achieve extremes shares of unemployment in smaller cities than in bigger one. Similarly, if you toss a coin ten times you have bigger change to achieve a higher share of heads compared to the situation when you would toss a coin 10 000 times where it is quite unusual (with fair coin) to differ too much from 50%.
+Heatmap above give general overview. Be carefull that the smaller the area, the more common it is to see some extremely low and high values. This is a quite normal phenomenon because by chance it is much more probable to achieve extremes shares of unemployment in smaller cities than in bigger one. Similarly, if you toss a coin ten times you have bigger change to achieve a higher share of heads compared to the situation when you would toss a coin 10 000 times where it is quite unusual (with fair coin) to differ too much from 50%.
 
 Below is similar heat map “twin” map visualization comparing the share of people with basic vs university education. Bigger cities clearly stand out with two exceptions (Ostrava + Ustí nad Labem).
 
@@ -130,7 +130,7 @@ Below is similar heat map “twin” map visualization comparing the share of pe
     <figcaption></figcaption>
 </figure>
 
-<sub>**References:**</sub>
+<sub>**References:**</sub>\
 <sub>
 Czech Statistical Office (2011). *Selected data from 2011 Czech Republic Census (26. 3. 2011).*[ https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011.](https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011)
 </sub>
