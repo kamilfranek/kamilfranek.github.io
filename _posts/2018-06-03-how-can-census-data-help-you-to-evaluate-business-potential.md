@@ -103,12 +103,12 @@ To sum it up, we confirmed that although the rule of thumb that “business pote
 
 Does it mean that you should avoid these two cities and prefer a city with the lower population and with a higher share of an economically active population? For Ostrava, the answer is no, because size difference to 4th Plzen is so large that differences in the population structure won’t outweigh it. In case of Ústí, if we would look only at self-employed or employed segment as important for our business you would probably do better by prioritizing smaller Pardubice. Difference between the population of Pardubice and Ústi is small, therefore relative differences make up for it.
 
->It is important to say, that it all depends on who are your customers and in which city you have most of them. Demographic might give you rough guidance in this. More niche your business or customers are, more important will detailed customer structure in given city will be important for your business.
+>It is important to say, that it all depends on who are your customers. Demographic might give you rough guidance in this but more niche your business or customers are, more important will be detailed customer structure in given city.
 
 What if your business is online, you might think, do I care about the geographical distribution of my customers? You don’t, but the underlying logic is similar. You don’t care about a number of teenagers in different geographical locations, but you care about a number of teenagers across different online territories, eg. how much teenagers are active on Facebook vs Snapchat.
 
 
-### How Do Population Characteristics Look Outside the Top 10 Czech Cities
+## How Do Population Characteristics Look Outside the Top 10 Czech Cities
 
 So far I concentrated only at few top cities but top cities have different demographics that the rest of the Czech Republic. It is true that 25% of the Czechia population live in the top 10 cities, but most of the population still live outside of the top 10.
 
@@ -130,7 +130,8 @@ Below is similar heat map “twin” map visualization comparing the share of pe
     <figcaption></figcaption>
 </figure>
 
-<sub>**References:**</sub></br>
+<sub>**References:**</sub>
+
 <sub>
 Czech Statistical Office (2011). *Selected data from 2011 Czech Republic Census (26. 3. 2011).*[ https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011.](https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011)
 </sub>
