@@ -25,7 +25,7 @@ Below is a map showing cities over 10 000 population. Roughly 50% of the Czech p
 
 <figure>
     <a href="/assets/images/map_cr_over10_bubbles.png"><img src="/assets/images/map_cr_over10_bubbles.png"></a>
-    <figcaption></figcaption>
+    <figcaption>50% of Czechs Live in Cities with More Than 10 000 Inhabitants: Showing all cities over 10k inhabitants in Czechia. Top 10 cities are red and annotated. Size of circles represents the population size. Top 10 cities (red dots) represent 25% of the population.</figcaption>
 </figure>
 
 To give you a better idea of how the top cities population compares to each other, see the bar chart below. Prague is quite disproportionately large vs the other cities. Second Brno and third Ostrava are close to each other and then there is the rest. Plzen as the fourth biggest city (yes that’s the town where that great Pilsen beer comes from :-)) is only slightly ahead of the rest of the top 10 group. All comparisons I’m going to do here will be limited to these top 10 cities.
