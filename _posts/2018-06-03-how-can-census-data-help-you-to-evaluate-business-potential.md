@@ -24,14 +24,16 @@ Demographic characteristics, fortunately, do not change very quickly in time, so
 Below is a map showing cities over 10 000 population. Roughly 50% of the Czech population lives in these cities and I highlighted the top 10 biggest ones over 90K population in red. These top 10 cities represent roughly 25% of Czechia population. These are the cities I will concentrate on.
 
 <figure>
-    <a href="/assets/images/map_cr_over10_bubbles.png"><img src="/assets/images/map_cr_over10_bubbles.png" alt="50% of Czechs Live in Cities with More Than 10 000 Inhabitants"/></a>
-    <figcaption>50% of Czechs Live in Cities with More Than 10 000 Inhabitants: Showing all cities over 10k inhabitants in Czechia. Top 10 cities are red and annotated. Size of circles represents the population size. Top 10 cities (red dots) represent 25% of the population.</figcaption>
+    <a href="/assets/images/map_cr_over10_bubbles.png">
+        <img src="/assets/images/map_cr_over10_bubbles.png" 
+             alt="50% of Czechs Live in Cities with More Than 10 000 Inhabitants">
+    </a>
 </figure>
 
 To give you a better idea of how the top cities population compares to each other, see the bar chart below. Prague is quite disproportionately large vs the other cities. Second Brno and third Ostrava are close to each other and then there is the rest. Plzen as the fourth biggest city (yes that’s the town where that great Pilsen beer comes from :-)) is only slightly ahead of the rest of the top 10 group. All comparisons I’m going to do here will be limited to these top 10 cities.
 
 <figure>
-    <a href="/assets/images/population_cr_top10.png"><img src="/assets/images/population_cr_top10.png"></a>
+    <a href="/assets/images/population_cr_top10.png"><img src="/assets/images/population_cr_top10.png" alt="Top 10 Largest Czech Cities by Population"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -44,9 +46,9 @@ I picked these 3 characteristics that I will look at city level later but for no
 - education
 
 Below see visualizations of these characteristics as total numbers for the Czech Republic.
-
+What is the Economic Activity of the Czech Population?
 <figure>
-    <a href="/assets/images/cr_economic_activity.png"><img src="/assets/images/cr_economic_activity.png"></a>
+    <a href="/assets/images/cr_economic_activity.png"><img src="/assets/images/cr_economic_activity.png" alt="What is the Economic Activity of the Czech Population?"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -55,14 +57,14 @@ The chart above on the left shows only that population is split roughly 50:50 on
 Another important characteristic I want to look at is age. Note that I’m using census data, which allows me to look at the whole country at a city level. On the other hand, I have to accept that data are shifted a few years back since the last census was in 2011.
 
 <figure>
-    <a href="/assets/images/plot_cr_age.png"><img src="/assets/images/plot_cr_age.png"></a>
+    <a href="/assets/images/plot_cr_age.png"><img src="/assets/images/plot_cr_age.png" alt="How old is the Czech Population"></a>
     <figcaption></figcaption>
 </figure>
 
 Lastly, here is look at Czechia maximum achieved education level.
 
 <figure>
-    <a href="/assets/images/population_cz_edu.png"><img src="/assets/images/population_cz_edu.png"></a>
+    <a href="/assets/images/population_cz_edu.png"><img src="/assets/images/population_cz_edu.png" alt="How Educated is the Czech Population"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -71,7 +73,7 @@ Lastly, here is look at Czechia maximum achieved education level.
 So we got an overview of Czech Republic demographic characteristic and we can now look at the same metrics at the city level to see how would ranking of top cities for setting up your business change if we looked at characteristic mentioned above.
 
 <figure>
-    <a href="/assets/images/population_top10_activity.png"><img src="/assets/images/population_top10_activity.png"></a>
+    <a href="/assets/images/population_top10_activity.png"><img src="/assets/images/population_top10_activity.png" alt="Population by Economic Activity in the Top 10 Czech Cities"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -80,7 +82,7 @@ With the exception of a higher share of unemployed in Ústí nad Labem, it looks
 Let’s look at the same data differently as % of the total populations, because chart above might be hiding some structural differences between cities.
 
 <figure>
-    <a href="/assets/images/population_top10_activity_shares.png"><img src="/assets/images/population_top10_activity_shares.png"></a>
+    <a href="/assets/images/population_top10_activity_shares.png"><img src="/assets/images/population_top10_activity_shares.png" alt="How Economic Activity of the Top 10 Czech Cities Differs?"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -89,14 +91,14 @@ In the chart above you can see that it is not only Ustí nad Labem that stands o
 Detail split by age structure below is pretty similar across cities, but if you focus on Ústi and Ostrava again you can spot slightly higher share of young people below 19-year-old. This is strongly connected to a higher share of unemployment we showed before. A segment of young people below 19 years usually has quite higher unemployment rate than is the population average.
 
 <figure>
-    <a href="/assets/images/population_top10_age_shares.png"><img src="/assets/images/population_top10_age_shares.png"></a>
+    <a href="/assets/images/population_top10_age_shares.png"><img src="/assets/images/population_top10_age_shares.png" alt="How Age Structure of the Top 10 Czech Cities Differs?"></a>
     <figcaption></figcaption>
 </figure>
 
 The final demographic characteristic we will explore for top 10 Czech cities is education level. Again, the same two cities stand out from the rest, this time in a higher share of people with basic education and a lower share of University educated people. This also explains why these two cities show a higher level of unemployment since people with basic education level have generally a significantly higher unemployment rate.
 
 <figure>
-    <a href="/assets/images/population_top10_edu_shares.png"><img src="/assets/images/population_top10_edu_shares.png"></a>
+    <a href="/assets/images/population_top10_edu_shares.png"><img src="/assets/images/population_top10_edu_shares.png" alt="How Different Are Education Levels of the Top 10 Czech Cities"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -118,7 +120,7 @@ If we want to look visually on the whole Czechia by a city, it is where the gran
 Two “twins” heat maps below are inverse to each other and are showing the self-employed share of the population versus share of the unemployed population.
 
 <figure>
-    <a href="/assets/images/map_cr_activity_twin_heatmap.png"><img src="/assets/images/map_cr_activity_twin_heatmap.png"></a>
+    <a href="/assets/images/map_cr_activity_twin_heatmap.png"><img src="/assets/images/map_cr_activity_twin_heatmap.png" alt="Share of Self-employed vs. Unemployed in Czechia"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -127,7 +129,7 @@ Heatmap above give general overview. Be carefull that the smaller the area, the 
 Below is similar heat map “twin” map visualization comparing the share of people with basic vs university education. Bigger cities clearly stand out with two exceptions (Ostrava + Ustí nad Labem).
 
 <figure>
-    <a href="/assets/images/map_cr_education_twin_heatmap.png"><img src="/assets/images/map_cr_education_twin_heatmap.png"></a>
+    <a href="/assets/images/map_cr_education_twin_heatmap.png"><img src="/assets/images/map_cr_education_twin_heatmap.png" alt="Share of people with Basic vs University Education"></a>
     <figcaption></figcaption>
 </figure>
 
