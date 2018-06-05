@@ -24,7 +24,7 @@ Demographic characteristics, fortunately, do not change very quickly in time, so
 Below is a map showing cities over 10 000 population. Roughly 50% of the Czech population lives in these cities and I highlighted the top 10 biggest ones over 90K population in red. These top 10 cities represent roughly 25% of Czechia population. These are the cities I will concentrate on.
 
 <figure>
-    <a href="/assets/images/map_cr_over10_bubbles.png"><img src="/assets/images/map_cr_over10_bubbles.png"></a>
+    <a href="/assets/images/map_cr_over10_bubbles.png"><img src="/assets/images/map_cr_over10_bubbles.png" alt="50% of Czechs Live in Cities with More Than 10 000 Inhabitants"></a>
     <figcaption>50% of Czechs Live in Cities with More Than 10 000 Inhabitants: Showing all cities over 10k inhabitants in Czechia. Top 10 cities are red and annotated. Size of circles represents the population size. Top 10 cities (red dots) represent 25% of the population.</figcaption>
 </figure>
 
