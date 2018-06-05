@@ -7,7 +7,11 @@ layout: archive
 <h3 class="archive__subtitle">Posts</h3>
 <div class="grid__wrapper">
   {% for post in paginator.posts %}
-    {% include archive-single.html type="grid" %}
+    {% if post.tags contains 'draft' %}
+
+    {% else %} 
+      {% include archive-single.html type="grid" %}
+    {% endif %}
   {% endfor %}
 </div>
 

@@ -4,7 +4,7 @@ type: "article"
 categories:
 tags:
 excerpt: "Census data can help you to evaluate business potential of a particular city or sales territories. Bigger city/territory population does not automatically mean more customers for your business. "
-visible: 1
+draft: true
 header: 
  teaser: "assets/images/population_top10_activity.png"
  
