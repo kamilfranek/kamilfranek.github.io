@@ -1,5 +1,5 @@
 ---
-title: "How Can Census Data Help You to Evaluate Business Potential"
+title: "How Census Data Can Help You to Evaluate Business Potential"
 type: "article"
 categories:
 tags:
