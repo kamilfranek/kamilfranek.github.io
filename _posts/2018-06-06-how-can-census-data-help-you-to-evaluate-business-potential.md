@@ -60,6 +60,8 @@ The chart above on the left shows only that population is split roughly 50:50 on
 
 Another important characteristic I want to look at is age. Note that I’m using census data, which allows me to look at the whole country at a city level. On the other hand, I have to accept that data are shifted a few years back since the last census was in 2011.
 
+>The strongest group are people born at the 70s called "Husák's Children" after the Communist leader of Czechoslovakia at that time. A Result of population policies.
+
 <figure>
     <a href="/assets/images/plot_cr_age.png"><img src="/assets/images/plot_cr_age.png" alt="How old is the Czech Population"></a>
     <figcaption></figcaption>
