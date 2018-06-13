@@ -56,7 +56,7 @@ Below see visualizations of these characteristics as total numbers for the Czech
     <figcaption></figcaption>
 </figure>
 
-The chart above on the left shows only that population is split roughly 50:50 on active on no active, more interesting detail emerges if you go to more granular level as in the chart on the right.
+The chart above on the left shows only that population is split roughly 50:50 on active and inactive, more interesting detail emerges if you go to more granular level as in the chart on the right.
 
 Another important characteristic I want to look at is age. Note that I’m using census data, which allows me to look at the whole country at a city level. On the other hand, I have to accept that data are shifted a few years back since the last census was in 2011.
 
