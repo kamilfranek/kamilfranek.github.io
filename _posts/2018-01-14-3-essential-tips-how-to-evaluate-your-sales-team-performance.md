@@ -43,13 +43,13 @@ In an example below I designed simple leaderboard for our fictional sales team w
 |Wheezy   |    50,000|   15| 
 |Jessie   |        0|   16|
 
-Nice and easy, but what does this leaderboard really tell you? It tells you that Buzz sold toys for most revenue, but it is not what you want to know. What you want to know is who is your best salesperson not who achieved the biggest revenue.
+Nice and easy, but what does this leaderboard actually tells you? It tells you that Buzz sold toys for most revenue, but it is not what you want to know. What you want to know is who is your best salesperson not who achieved the biggest revenue.
 
-It might be tempting to say that salesperson who has the biggest revenues, volumes or units sold (Buzz in our example) is the best one. n most real-life scenarios this easy solution will fail because "potential" of assigned territory or portfolio will heavily influence it.
+It might be tempting to say that salesperson who has the biggest revenues, volumes or units sold (Buzz in our example) is the best one. In most real-life scenarios this easy solution will fail because "potential" of assigned territory or portfolio will heavily influence it.
 
 > In fact, a leaderboard with traditional sales metrics like revenue, volume or even incremental net income tells you which of your salespeople is the luckiest to be assigned the juiciest territory or portfolio. Do you really want to celebrate or reward people for this? 
 
-There are situations where this traditional leaderboard might work. For example in a rare case of very similar assigned territories/portfolios with similar potential, it might be a viable option. Another reason why you might use it is the simplicity when you do not have enough data or sales analytics capacity and you need something for the beginning to start with. That's fine, just make sure it won't become a permanent solution.
+There are situations where this traditional leaderboard might work. For example in a rare case of very similar assigned territories/portfolios with similar potential, it might be a viable option. Another reason why you might use it is the simplicity when you do not have enough data or sales analytics capacity, and you need something for the beginning to start with. That's fine, just make sure it won't become a permanent solution.
 
 Another situation where it might be fine to use traditional leaderboard is when you've already taken potential into account in your sales targets, and you rank salespeople based on quota fulfillment, not absolute sales. In that case, if you allocated targets centrally based on your potential "driver" to individual salespeople and are not reallocating them after that, you are already doing what I will suggest as a tip #1.
 
@@ -109,7 +109,7 @@ Another way I recommend is to visualize performance compared to trend. Are your 
 
 What I particularly like about this visualization of your sales team performance is that it helps you to identify the main areas to focus on. 
 
->Focusing on your falling stars to identify potential performance problems as soon as possible is more important financially than focusing on your weak performers. 
+>Focusing on your falling stars to identify potential performance problems as soon as possible is more important financially than concentrating on your weak performers. 
 
 You do not need to spend too much time focusing on salespeople who are getting better vs. previous periods. However, people who are deteriorating should catch your attention, mainly if they are one or your current sales stars. 
 
@@ -119,6 +119,6 @@ You do not need to spend too much time focusing on salespeople who are getting b
 </figure>
 What does the chart above tell us about our fictional sales team? It shows us as in the previous visualization that Woody is your best performer after adjusting for portfolio potential, but he still should get more sales management attention than Rocky or Mike. Yes, Woody is selling more than they are right now and earning more money for his company but his sales are decreasing over time. This should alert his sales manager to find out what is happening. Better sooner than later. This visualization also shows that all our junior salespeople (Jessie + Wheezy + Etch ) have a good growth trajectory. On the opposite scale of deteriorating salespeople is Hamm in the red quadrant. He is the worst performer, and his sales manager need to have some serious discussion with him. 
 
-**What's your preferred way how to rank your salespeople? How would you visualize their performance? Let me know, I would love to hear your view.**
+**What's your preferred way how to rank your salespeople? How would you visualize their performance? Let me know. I would love to hear your view.**
 
 <sub>**References:**</sub> <sub>Charts in this article were created using R and ggplot2.</sub>
