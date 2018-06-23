@@ -35,7 +35,7 @@ Pareto principle works and roughly 80% of the population lives in top 20% of cit
 
 <figure>
     <a href="/assets/images/map_cr_cities_bubbles.png"><img src="/assets/images/map_cr_cities_bubbles.png"
-    alt="50% of Czechs live in the top 130 cities with more than 10 000 inhabitants></a>
+    alt="50% of Czechs live in the top 130 cities with more than 10 000 inhabitants"></a>
     <figcaption></figcaption>
 </figure>
 
