@@ -123,7 +123,7 @@ What if your business is online, you might think, do I care about the geographic
 
 So far I concentrated only at few top cities, but top cities have different demographics that the rest of the Czech Republic. It is true that 25% of the Czechia population live in the top 10 cities, but most of the population still live outside of the top 10.
 
-If we want to look visually on the whole Czechia by a city, it is where the granularity of census data really shines and allows you to have detail picture by a city. We do not need to rely on less granular data by regions, which might hide some local differences.
+If we want to look visually on the whole Czechia by a city, it is where the granularity of census data really shines and allows you to have a detailed picture by a city. We do not need to rely on less granular data by regions, which might hide some local differences.
 
 Two “twins” heat maps below are inverse to each other and are showing the self-employed share of the population versus share of the unemployed population.
 
