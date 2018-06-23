@@ -97,7 +97,8 @@ The data visualization below displays our fictional sales team. It shows that al
 The worst salesperson based on his distance from ramp-up curve is Hamm. Notice that both previous leaderboards I showed you above say that he is just the third worst salesperson because he was hiding among more junior colleagues.
 
 <figure>
-    <a href="/assets/images/ramp_up_curve_example.png"><img src="/assets/images/ramp_up_curve_example.png"></a>
+    <a href="/assets/images/ramp_up_curve_example.png"><img src="/assets/images/ramp_up_curve_example.png"
+    alt="Sales performance vs. historical sales ramp-up curve"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -114,7 +115,8 @@ What I particularly like about this visualization of your sales team performance
 You do not need to spend too much time focusing on salespeople who are getting better vs. previous periods. However, people who are deteriorating should catch your attention, mainly if they are one or your current sales stars. 
 
 <figure>
-    <a href="/assets/images/performance_vs_growth_matrix.png"><img src="/assets/images/performance_vs_growth_matrix.png"></a>
+    <a href="/assets/images/performance_vs_growth_matrix.png"><img src="/assets/images/performance_vs_growth_matrix.png"
+    alt="It is not only about performance but also its dynamic"></a>
     <figcaption></figcaption>
 </figure>
 What does the chart above tell us about our fictional sales team? It shows us as in the previous visualization that Woody is your best performer after adjusting for portfolio potential, but he still should get more sales management attention than Rocky or Mike. Yes, Woody is selling more than they are right now and earning more money for his company but his sales are decreasing over time. This should alert his sales manager to find out what is happening. Better sooner than later. This visualization also shows that all our junior salespeople (Jessie + Wheezy + Etch ) have a good growth trajectory. On the opposite scale of deteriorating salespeople is Hamm in the red quadrant. He is the worst performer, and his sales manager need to have some serious discussion with him. 

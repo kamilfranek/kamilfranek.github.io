@@ -34,12 +34,13 @@ Average population density 134 inhabitants per km<sup>2</sup> is above EU averag
 Pareto principle works and roughly 80% of the population lives in top 20% of cities.
 
 <figure>
-    <a href="/assets/images/map_cr_cities_bubbles.png"><img src="/assets/images/map_cr_cities_bubbles.png"></a>
+    <a href="/assets/images/map_cr_cities_bubbles.png"><img src="/assets/images/map_cr_cities_bubbles.png"
+    alt="50% of Czechs live in the top 130 cities with more than 10 000 inhabitants></a>
     <figcaption></figcaption>
 </figure>
 
 ## Population Density By City
-On the next map, you can see the same data in terms of population density. It is not surprising that the biggest cities are very densely populated but you can find also some other medium-sized cities with a high-density population. Prague is the most densely populated city in Czechia (2.6k inhabitants per km<sup>2</sup>) followed by Havířov (2.3k) which is the 12th biggest city. 
+On the next map, you can see the same data in terms of population density. It is not surprising that the biggest cities are very densely populated, but you can also find some other medium-sized cities with a high-density population. Prague is the most densely populated city in Czechia (2.6k inhabitants per km<sup>2</sup>) followed by Havířov (2.3k) which is the 12th biggest city. 
 
 Moravia and North-South border with Germany are quite dense areas. On the other hand, South of the Czech Republic below Prague is populated relatively sparsely, except few big cities.
 
@@ -48,7 +49,8 @@ You can also clearly see, that top 4 biggest cities (Praha, Brno, Ostrava, Plzen
 
 
 <figure>
-    <a href="/assets/images/map_cr_cities_density.png"><img src="/assets/images/map_cr_cities_density.png"></a>
+    <a href="/assets/images/map_cr_cities_density.png"><img src="/assets/images/map_cr_cities_density.png"
+    alt="Population density of the Czech Republic"></a>
     <figcaption></figcaption>
 </figure>
 
