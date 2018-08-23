@@ -6,7 +6,6 @@ tags:
 excerpt: "Dump your old P&L design and use waterfall instead for clearer income statement overview & comparison"
 draft:
 header: 
-
  teaser: "assets/images/waterfall_income_statement_header.png"
 
 ---
