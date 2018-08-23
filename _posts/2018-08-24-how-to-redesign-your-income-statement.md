@@ -1,10 +1,10 @@
 ---
-title: "How to redesign your income statement (P&L)"
+title: "How to Visually Redesign Your Income Statement (P&L)"
 type: "article"
 categories:
 tags:
 excerpt: "Dump your old P&L design and use waterfall instead for clearer income statement overview & comparison"
-draft: true
+draft:
 header: 
  teaser: "assets/images/waterfall_income_statement_header.png"
 
@@ -77,12 +77,12 @@ Before I jump into tweaking raw waterfall chart that I showed you earlier, I wan
 You can look at Income statement at different levels:
 
 * **Company**: I will use this approach in my examples because that data is publicly available. However, I believe there are better use cases within business analytics.
-* **Regions**: Compare income statement for different countries or regions based on how your business is organized
+* **Regions**: Compare income statement for different countries or regions based on how your business is organized.
 * **Customer segments**: Use it to have an overview of the profitability of different customers segments. 
 * **Key Customers**: For more significant customers that make junk of your revenues, it makes sense to look at TOP X of them individually.
 * **Product lines**: having profitability split by product is also very important at least as an additional view
 
-It is not only about choosing one view, you will probably need to look at it from all different angles. They all have their value.
+It is not about choosing one view. You will need to look at it from different angles. They all have their value.
 
 So when you go through examples for publicly traded companies that I've put together, think about how it can be applied to the product line and customer segments in your business. Similar to companies I use in my examples, your product line or customer segments will have different margin levels and different growth dynamic. Some of them can be loss-making because you are starting something new (as in the case of Testla Inc example). Some of them will be high margin & lower growth similar to what you can see in Apple Inc.P&L.
 
