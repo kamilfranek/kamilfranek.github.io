@@ -10,6 +10,7 @@ header:
  
 ---
 #How Income Statement (P&L) usually looks like
+
 "Income statement" or also called "Profit & Loss Statment (P&L)" or "Consolidated statements of operations" is an essential way how to look at your business. Together with the Cash Flow statement probably the most important one. Income statement gives us a high-level overview of how much money did we make in the last quarter or year and compare it with previous periods. 
 
 Unfortunately most common way how income statement looks today is similar to this:
@@ -167,5 +168,5 @@ Also if you are looking at the income statement, you probably would like to see 
 
 Stay tuned, I will try to tackle some of those challenges in one of my future articles. In a meant time, I would love to hear your thought about what approach do you use for income statement visualization in your business.
 
-<sub>**References:** </sub> \
-<sub>- Visualizations in this article were created using R and ggplot2.</sub>
+<sub>**References:**</sub> 
+<sub>Visualizations in this article were created using R and ggplot2.</sub>
