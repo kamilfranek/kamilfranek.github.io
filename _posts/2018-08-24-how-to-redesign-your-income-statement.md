@@ -7,13 +7,13 @@ excerpt: "Dump your old P&L design and use waterfall instead for clearer income 
 draft: true
 header: 
  teaser: "assets/images/waterfall_income_statement_header.png"
- 
+
 ---
 
 "Income statement" or also called "Profit & Loss Statment (P&L)" or "Consolidated statements of operations" is an essential way how to look at your business. Together with the Cash Flow statement probably the most important one. Income statement gives us a high-level overview of how much money did we make in the last quarter or year and compare it with previous periods. 
 
 ## How Income Statement (P&L) usually looks like
-Unfortunately most common way how income statement looks today is similar to this:
+Unfortunately, the most common way how income statement looks today is similar to this:
 <figure>
     <a href="/assets/images/standard_income_aapl.png">
         <img src="/assets/images/standard_income_aapl.png" 
@@ -39,9 +39,9 @@ In the visualization below, you can see what is driving Apple net income and pro
     </a>
 </figure>
 
-The waterfall chart for Apple above shows that a significant proportion of revenues is left after costs are deducted and as you will see later when we look at more companies, these profit margins are enormous. However, if you look at how various years results differ, there is not much of a difference. 
-
-In the second chart (showing Tesla) below both revenues and costs increase significantly each year. Comparing Tesla to Apple is like comparing Apples to Oranges because they are in a different growth stage. So far, Tesla is losing money. As you can see Tesla managed to spend all incremental revenues in 2017 and even something on top of it.
+The waterfall chart for Apple above shows that a significant proportion of revenues is left as profit after costs are deducted. As you are going to see later when we look at more companies, these profit margins are enormous. The problem is that if you look at how various years results differ, there is not much of a difference.
+ 
+In the second chart below (showing Tesla) both revenues and costs increase each year significantly. Comparing Tesla to Apple is like comparing Apples to Oranges because they are in a different growth stage. So far, Tesla is losing money  and as you can see Tesla managed to spend all incremental revenues in 2017 and even something on top of it.
 
 <figure>
     <a href="/assets/images/raw_waterfall_income_statement_2017_tsla.png">
@@ -50,24 +50,24 @@ In the second chart (showing Tesla) below both revenues and costs increase signi
     </a>
 </figure>
 
-In case you are not familiar with waterfall chart, think about it as usual P&L table where rows depict core P&L items and instead of numbers you have them visualized by bars. These bars have their length proportional to the underlying number. One core feature that makes the waterfall chart what it is, is that bars do not start at zero for each item, but they start where the previous bar ended. So each P&L line(bar) is added or deducted from the previous one. 
+In case you are not familiar with waterfall chart, think about it as usual P&L table where rows depict core P&L items and instead of numbers you have them visualized by bars. These bars have their length proportional to the underlying number. One core feature that makes the waterfall chart what it is that bars do not start at zero for each item, but they start where the previous bar ended. So each P&L line(bar) is added or deducted from the previous one. 
 
 In charts in this article blue represents items that are increasing net income and yellow represent items like expenses that are decreasing net income. Grey bars are subtotals of core items. 
 
->Overall, the waterfall chart is an extremely helpful tool. From my experience, whenever some executive struggled to understand why specific numbers decreased/increase, the best way to explain it to them quickly was the waterfall chart. Why our costs increased by so much this year what is driving it? Why our revenues dropped? It is super clear and even MS Excel provides this chart type nowadays.
+>Overall, the waterfall chart is a very helpful tool. From my experience, whenever some executive struggled to understand why specific numbers decreased/increase, the best way to explain it to them quickly was the waterfall chart. Why our costs increased by so much this year?  What is driving it? Why our revenues dropped? It is super clear, and even MS Excel provides this chart type nowadays.
 
 ## Why should we care about this? Is it worth the effort?
 Analytics revolution that started years ago is not only about machine learning models and artificial intelligence. It is also about data visualization. 
 
->There can be a significant positive impact on business just from taking data that you already have and visualizing it in a way that makes right people understand it more efficiently. Only when people understand something they can then use it in their decision making or idea generation.
+>There can be a significant positive impact on business just from taking data that you already have and visualizing it in a way that makes the right people understand it more efficiently. Only when people understand something, then they can use it in their decision making or idea generation.
 
-So why are we still seeing boring table style income statements with comments hidden somewhere in fine print that nobody reads? I think it comes down to data visualization literacy. Despite immense analytics & visualization developments in recent years, people tend to do things the same way they have always done it. But this is fortunately slowly changing and companies that are not going to adjust quickly will pay the price in lower productivity.
+So why are we still seeing boring table style income statements with comments hidden somewhere in fine print that nobody reads? I think it comes down to data visualization literacy. Despite immense analytics & visualization developments in recent years, people tend to do things the same way they have always done it. However, this is fortunately slowly changing, and companies that are not going to adjust quickly will pay the price in lower productivity.
 
-Also, tools that analytics & finance teams have available are not comparable to what we had 10 years ago. There is no excuse for not trying to humanize P&L statements and make it easier to understand. The aim is to make sure that business people (not only people from finance that prepare it) use it and understand it. 
+Also, tools that analytics & finance teams have available are not comparable to what we had ten years ago. There is no excuse for not trying to humanize P&L statements and make it easier to understand. The aim is to make sure that business people (not only people from finance that prepare it) use it and understand it.
 
->It is really just common sense. If we want users of P&L report to understand it, we have to invest energy to making it really user-friendly the same way as the same companies invest money UX design to make their products user-friendly for their customers. 
+>It is just common sense. If we want users of P&L report to understand it, we have to invest energy to making it user-friendly the same way as the same companies invest money in UX design to make their products user-friendly for their customers.
 
-Otherwise, customers won't use it. It's that simple, more effort has to be put into the design of these things. Especially finance department that is in charge of putting P&L together has to realize that they are not creating these report for themselves and therefore they have to look for new ways to communicate these crucial data to other business users and drive this change. 
+Otherwise, customers won’t use it. It’s that simple, more effort has to be put into the design of these things. Especially finance department that is in charge of putting P&L together has to realize that they are not creating these report for themselves and therefore they have to look for new ways to communicate these crucial data to other business users and drive this change. 
 
 ## There are many different P&Ls within each company
 Before I jump into tweaking raw waterfall chart that I showed you earlier, I want to stress out that although examples I will use in this article are income statements of whole companies, this approach is not limited only to companies P&L. 
@@ -76,7 +76,7 @@ Before I jump into tweaking raw waterfall chart that I showed you earlier, I wan
 
 You can look at Income statement at different levels:
 
-* **Company**: I will use this approach in my examples because that data is publicly available. But I believe there are better use cases within business analytics
+* **Company**: I will use this approach in my examples because that data is publicly available. However, I believe there are better use cases within business analytics.
 * **Regions**: Compare income statement for different countries or regions based on how your business is organized
 * **Customer segments**: Use it to have an overview of the profitability of different customers segments. 
 * **Key Customers**: For more significant customers that make junk of your revenues, it makes sense to look at TOP X of them individually.
@@ -95,7 +95,6 @@ Raw version allows to compare income statements items between each other and als
 As you probably noticed when you were looking at an example of Appl Inc. earlier, waterfalls for all years look similar because the company was relatively stable in all items across all three years. Changes were not relatively large, but for a company like Apple, these small relative differences are huge in absolute terms. You can see if we are growing and how much from the labels, but that is not ideal and we want to make the differences stand out more. 
 
 One way, how to tweak this chart to show more explicitly difference between periods is to add another column where we will see differences between years. It would work and is usually used also in traditional reporting, but since we are working with waterfall charts, why not to show differences in waterfall too? 
-
 To make it happen, we will have to use different scales on a horizontal axis for the new incremental waterfall. I will also use different colors to indicate that this waterfall has different scales. Otherwise, changes would have a separate waterfall but would still be very small to differentiate visually. To focus on last year changes, I will show only 2017 vs 2016 changes.
 
 <figure>
@@ -122,11 +121,11 @@ Question is how to do it. In this case, I think that just labels next to the val
 ### Tweak #3: Put Core Comments Directly in the Chart  
 Every P&L have some core developments you would like people to see and notice. Adding commentary below the chart where you explain the main takeaway will probably do the job, but I think these type of comments are more suitable for more detailed explanation and less important stuff.
 
-The core takeaway should be evident from the chart, and we probably need to be more explicit. Is is not very good idea to assume that thinks does not need comments because anybody "must" have noticed it.
+The core takeaway should be evident from the chart, and we probably need to be more explicit. It is not a very good idea to assume that things do not need comments because anybody “must” have noticed it.
 
 The takeaway heading is one way how to communicate your main point, and if you want to point specific change or item, then direct comments in the chart seem to me like the best option. See the examples below.
 
-## Puting it all together: income statement Visualiztation for four Publicly Traded Companies
+## Puting it all together: income statement Visualization for four Publicly Traded Companies
 Here you can find several complete P&L visualizations of publicly traded companies that include all tweaks. When you go through them, keep in mind that this is only one of many ways how you can use this approach and that you can use it for the same analysis on internal business data. Just imagine product lines, customers segment, regions or even individual customers instead of companies. 
 
 <figure>
@@ -162,7 +161,7 @@ Waterfalls charts are great for income statement visualization, but they have so
 
 One of them is that trend is not so clear from the chart unless there is extreme growth or decline between different periods.  
 
-Another problem is that having one waterfall for every company or segment makes comparison between them quite clumsy. I would like to see some additional chart added to these waterfalls for more high-level comparison of different customers/clients/segments/products on various metrics. Waterfalls are too granular for this and not right visual form for this comparison. 
+Another problem is that having one waterfall for every company or segment makes the comparison between them quite clumsy. I would like to see some additional chart added to these waterfalls for more high-level comparison of different customers/clients/segments/products on various metrics. Waterfalls are too granular for this and not right visual form for this comparison. 
 
 Also if you are looking at the income statement, you probably would like to see also other core financial statements for the same company. Cash Flow statement is the easy one because you can use the same approach that I used in this article for the income statement. The balance sheet would require a different approach than waterfall charts.
 
