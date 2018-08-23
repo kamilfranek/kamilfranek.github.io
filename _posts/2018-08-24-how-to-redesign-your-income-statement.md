@@ -12,7 +12,7 @@ header:
 
 "Income statement" or also called "Profit & Loss Statment (P&L)" or "Consolidated statements of operations" is an essential way how to look at your business. Together with the Cash Flow statement probably the most important one. Income statement gives us a high-level overview of how much money did we make in the last quarter or year and compare it with previous periods. 
 
-#How Income Statement (P&L) usually looks like
+# How Income Statement (P&L) usually looks like
 Unfortunately most common way how income statement looks today is similar to this:
 <figure>
     <a href="/assets/images/standard_income_aapl.png">
