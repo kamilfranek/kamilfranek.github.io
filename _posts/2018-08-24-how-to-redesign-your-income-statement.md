@@ -165,7 +165,7 @@ Another problem is that having one waterfall for every company or segment makes 
 
 Also if you are looking at the income statement, you probably would like to see also other core financial statements for the same company. Cash Flow statement is the easy one because you can use the same approach that I used in this article for the income statement. The balance sheet would require a different approach than waterfall charts.
 
-Stay tuned, I will try to tackle some of those challenges in one of my future articles. In a mean time, I would love to hear your thought about what approach do you use for income statement visualization in your business.
+Stay tuned, I will try to tackle some of those challenges in one of my future articles. In a mean time, I would love to hear your thoughts about what approach do you use for income statement visualization in your business.
 
 <sub>**References:**</sub> 
 <sub>Visualizations in this article were created using R and ggplot2.</sub>
