@@ -23,14 +23,14 @@ Unfortunately, the most common way how an income statement looks today is simila
 
 What do you think about it? Do you see what is happening in different years? What are the main takeaways? Is net income growing or decreasing? What are the primary drivers of net income change? What is a proportion of expenses to revenue? 
 
-All answers to these question are in there, but I find this table format extremely unhelpful for a quick overview of what is happening with the company. It is also pretty bad for communicating these data to broader business audiences. I picked Apple Inc. as an example, but you would find a very similar format used for other companies. Since we are talking about the core statement that every company produces, I think income statement deserves a redesign and waterfall chart is a great visualization technique to show this type of information.
+All answers to these question are in there, but I find this table format extremely unhelpful for a quick overview of what is happening with the company. It is also pretty bad for communicating these data to broader business audiences. I picked Apple Inc. as an example, but you would find a very similar format used for other companies. Since we are talking about the core statement that every company produces, I think income statement deserves a redesign and waterfall chart is a great data visualization technique to show this type of information.
 
 ## How to humanize income statement (P&L) - raw version
 Look at the charts below where I took the same numbers from the table you saw before and showed it as a basic waterfall chart. It is just a raw version that has some flaws that I will tackle later in this article, but I'm confident that this visual representation better communicates what is happening with Apple Inc business.
 
 >Waterfall charts are especially useful for showing proportions of different income statement (P&L) items to each other and how they contribute to the bottom line. 
 
-In the visualization below, you can see what is driving Apple net income and proportions of different P&L items. You can also see where you started (revenues) and where you ended (net income) and which items are substantial and which ones are immaterial.
+In the data visualization below, you can see what is driving Apple net income and proportions of different P&L items. You can also see where you started (revenues) and where you ended (net income) and which items are substantial and which ones are immaterial.
 
 <figure>
     <a href="/assets/images/raw_waterfall_income_statement_2017_aapl.png">
