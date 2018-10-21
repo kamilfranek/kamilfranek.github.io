@@ -1,5 +1,5 @@
 ---
-title: "Visualization of 2017 F-A-A-N-G Annual Financial Statements"
+title: "Visualization of 2017 FAANG Annual Financial Statements"
 type: "article"
 categories:
 tags:
@@ -25,7 +25,7 @@ This article will be about application of what I preached in the previous one fo
 FAANG companies are technological giants, but it doesn't mean they are similar. Quite far from that. You have income generating giant Apple with quite limited growth opportunities. There are also Amazon & Netflix that are mainly about minimum profits and lot of growth potential.  Alphabet (Google) and Facebook stand somewhere between.
 
 ## #1 Facebook
-Facebook is a social media giant. It owns also Instagram and WhatsApp.
+Facebook is a social media giant. It owns also Instagram and WhatsApp. It is hard to find company with highe operation margin (50% in 2017).
 
 <figure>
     <a href="/assets/images/waterfall_income_statement_2017_fb.png">
@@ -38,7 +38,7 @@ Facebook grew rapidly in 2017 both in revenues and margins which is a rare combi
 
 Facebook revenues grew by 47% thanks to both growth in active users (+17%) and revenue per user (+26%). ⠀
 
-Average revenue per user was $20.21 worldwide (In US & Canada average revenue per user is roughly 4x of worldwide average. Average outside US, Canada & Europe is significantly below worldwide average. The primary sources of user growth are India, Indonesia, and Vietnam.
+Average revenue per user was $20.21 worldwide. In US & Canada average revenue per user is roughly 4x of worldwide average. Average outside US, Canada & Europe is significantly below worldwide average. The primary sources of user growth are India, Indonesia, and Vietnam.
 
 ## #2 Apple
 Apple is a great company and a profitable one with high margins. The first thing that will hit you in its income statement is an enormous net income line. Apple is the 2nd most profitable company in the world. (1st one is Saudi Aramco, but not by much). Apple is earning to its shareholders approximately 50bn US dollars a year. 
@@ -50,11 +50,11 @@ Apple is a great company and a profitable one with high margins. The first thing
     </a>
 </figure>
 
-Apple is a mature company with low expected growth rate. Recently, Apple hit 1 trillion US dollar valuation mark, and it should be no surprise for anyone. With current market P/E ratio above 20, it is just a simple multiplication exercise: $50bn of net income * 20 P/E ratio = $1 trillion. ⠀
+Apple is a mature company with low expected growth rate. Recently, Apple hit $1 trillion US dollar valuation mark, and it should be no surprise for anyone. With current market P/E ratio above 20, it is just a simple multiplication exercise: $50bn of net income * 20 P/E ratio = $1 trillion. ⠀
 
 In 2017 Apple grew by 6% ($13.6bn). In absolute term, most of this growth was coming from services (+$6.5bn) and iPhone (+$4.6bn) product line. 
 
-If you look at revenue by product line, you will find out that most of the revenue is coming from iPhone (62%). Other product line shares are Services (13%), Mac (11%), iPad (8%), Other (6%). 
+If you look at revenue by product line, you will find out that most of the revenue is coming from iPhone (62%). Other product lines shares are Services (13%), Mac (11%), iPad (8%), and Other (6%). 
 
 All product lines are growing by double-digits except iPhone (only 3% growth) and the only decreasing product line iPad (-7%)
 
@@ -88,10 +88,10 @@ Growth in average subscription price is around 10% in both US and international 
 
 So far it looks that the US and international segment are roughly balanced in its size. However, when you look at margins of those segments, taking into account cost of revenues and marketing costs, you will see that while US streaming service has a healthy margin of 37%, a margin of the international streaming segment was only 4% in 2017. Good news is that in 2018 we already see higher margins even for the international segment (15%).⠀
 
-Another point to keep in mind when you are looking at Netlifx P&L is that positive net income does not mean Netflix is already a self-financing business. Netflix is still burning billions of cash each year that they need to produce new content and buy licenses. It is then amortized, so you do not see it all as cost in 2017. Therefore it needs to borrow billions each year to finance its aggressive growth.⠀
+Another point to keep in mind when you are looking at Netlifx P&L is that positive net income does not mean Netflix is already a self-financing business. Netflix is still burning billions of cash each year that they need to produce new content and buy licenses. Since it is amortized, so you do not see it all as cost in 2017. Therefore it needs to borrow billions each year to finance its aggressive growth.⠀
 
 ## #5 Alphabet (Google)
-An alphabet is a new name (since 2015) for Google and all its projects. But do not let it confuse you, Alphabet is still from 99% Google and 86% advertising company. ⠀
+Alphabet is a new name (since 2015) for Google and all its projects. But do not let it confuse you, Alphabet is still from 99% old Google and from 86% advertising company.
 
 <figure>
     <a href="/assets/images/waterfall_income_statement_2017_goog.png">
@@ -100,11 +100,11 @@ An alphabet is a new name (since 2015) for Google and all its projects. But do n
     </a>
 </figure>
 
-Revenues grew by 23% thanks to an increase in clicks by 46%, offset by a decrease in cost-per-click. Even though Alphabet is a global company 47% of revenues are still coming from the US.⠀
+Revenues grew by 23% thanks to an increase in clicks by 46%, offset by a decrease in cost-per-click. Even though Alphabet is a global company, 47% of revenues is still coming from the US.⠀
 
-Advertising revenues grew by 22%, Other Google revenues by 42% and so far negligible non-Google projects by 49%.⠀
+Advertising revenues grew by 22%, other Google revenues by 42% and so far negligible non-Google projects by 49%.⠀
 
-Operating margin decreased by 2% to 24% and Alphabet expect another decrease thanks to both increase of traffic acquisition costs (TAC) and also thanks to an increasing share of non-advertising revenues (with generally lower margin)
+Operating margin decreased by from 26% to 24% and Alphabet expects another decrease thanks to both increase of traffic acquisition costs (TAC) and also thanks to an increasing share of non-advertising revenues (with generally lower margin)
 
 
 <sub>**References:**</sub> 
