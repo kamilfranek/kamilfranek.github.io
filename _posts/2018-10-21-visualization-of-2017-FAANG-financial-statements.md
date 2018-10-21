@@ -9,7 +9,7 @@ header:
  teaser: "assets/images/faang_logos.png"
 ---
 
-FAANG  is an acronym commonly used to represent five technological giants Facebook, Apple, Amazon, Netflix, and Alphabet (Google). Acronyms for a group of countries or stocks were always popular buzzwords.  There is BAT, referring to top Chinese internet companies Baidu, Alibaba, and Tencent. For countries the most prominent is probably BRICS, referring to emerging economies: Brazil, Russia, India, China, and South Africa. 
+FAANG  is an acronym commonly used to represent five technological giants **F**acebook, **A**pple, **A**mazon, **N**etflix, and **A**lphabet (Google). Acronyms for a group of countries or stocks were always popular buzzwords.  There is BAT, referring to top Chinese internet companies Baidu, Alibaba, and Tencent. For countries the most prominent is probably BRICS, referring to emerging economies: Brazil, Russia, India, China, and South Africa. 
 
 <figure>
     <a href="/assets/images/faang_logos.png">
