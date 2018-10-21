@@ -1,9 +1,9 @@
 ---
-title: "Visualization of 2017 FAANG Financial Statements (P&L)"
+title: "Visualization of 2017 FAANG Income Statements (P&L)"
 type: "article"
 categories:
 tags:
-excerpt: "Visualization and overview of P&L for FAANG companies (Facebook, Apple, Amazon, Netflix, and Alphabet/Google) using 2017 annual financial statements"
+excerpt: "Visualization and overview of P&L for FAANG companies (Facebook, Apple, Amazon, Netflix, and Alphabet/Google) using 2017 annual income statements"
 draft:
 header: 
  teaser: "assets/images/faang_logos.png"
