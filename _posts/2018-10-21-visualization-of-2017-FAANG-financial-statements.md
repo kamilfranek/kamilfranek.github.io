@@ -18,7 +18,7 @@ header:
     </a>
 </figure>
 
-Several weeks ago I published a post on my blog about <a href="/visualization-of-2017-FAANG-financial-statements"> how to visually redesign the income statement using waterfall chart </a> and I also added a couple of examples using publicly traded companies.  If you haven't checked it out, I highly recommend it. Between the companies, I used as examples were also P&L visualizations for Amazon and Apple, two of the FAANG stocks.
+Several weeks ago I published a post on my blog about <a href="/visualization-of-2017-FAANG-financial-statements/"> how to visually redesign the income statement using waterfall chart </a> and I also added a couple of examples using publicly traded companies.  If you haven't checked it out, I highly recommend it. Between the companies, I used as examples were also P&L visualizations for Amazon and Apple, two of the FAANG stocks.
 
 That article was mainly about the P&L visualization and there was not too much space for comments about particular companies. Therefore I decided to create this post that would use the P&L visualization techniques from the previous post for all of the FAANG companies and explain the main dynamics for each company.
 
