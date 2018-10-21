@@ -1,15 +1,15 @@
 ---
-title: "Visualization of 2017 FAANG Annual Financial Statements"
+title: "Visualization of 2017 FAANG Financial Statements (P&L)"
 type: "article"
 categories:
 tags:
 excerpt: "Visualization and overview of P&L for FAANG companies (Facebook, Apple, Amazon, Netflix, and Alphabet/Google) using 2017 annual financial statements"
-draft: true
+draft:
 header: 
  teaser: "assets/images/faang_logos.png"
 ---
 
-**FAANG**  is an acronym commonly used to represent five technological giants **F**acebook, **A**pple, **A**mazon, **N**etflix, and **A**lphabet (Google). Acronyms for a group of countries or companies are quite popular. There is BAT, referring to top Chinese internet companies Baidu, Alibaba, and Tencent and for countries the most prominent is probably BRICS, referring to emerging economies Brazil, Russia, India, China, and South Africa. 
+**FAANG**  is an acronym commonly used to represent five technological giants **F**acebook, **A**pple, **A**mazon, **N**etflix, and **A**lphabet (Google). Acronyms for a group of countries or companies are quite popular. There is the BAT, referring to top Chinese internet companies Baidu, Alibaba, and Tencent and for countries the most prominent is probably BRICS, referring to emerging economies Brazil, Russia, India, China, and South Africa. 
 
 <figure>
     <a href="/assets/images/faang_logos.png">
@@ -18,14 +18,14 @@ header:
     </a>
 </figure>
 
-Several weeks ago I published an article about <a href="/how-to-redesign-your-income-statement/">how to visually redesign the income statement using waterfall chart </a> and I also added a couple of examples using publicly traded companies, btween them were also two FAANG companies (Apple & Amazon). If you haven't checked it out, I highly recommend it as a first step before you continue further.
+Several weeks ago I published an article about <a href="/how-to-redesign-your-income-statement/">how to visually redesign the income statement using waterfall chart </a> and I also added a couple of examples using publicly traded companies. Between the examples were also two FAANG companies (Apple & Amazon). If you haven't checked it out, I highly recommend it as a first step before you continue further.
 
-This article will be about application of what I preached in the previous one for all five FAANG companies. Currently I will focus only on income statement visualization and some basic overview of the main P&L dynamics for each company.
+This article will be about applying of what I preached previously for all five FAANG companies. Currently, I will focus only on income statement visualization and some basic overview of the main P&L dynamics for each company.
 
 FAANG companies are technological giants, but it doesn't mean they are similar. Quite far from that. You have income generating giant Apple with quite limited growth opportunities. There are also Amazon & Netflix that are mainly about minimum profits and lot of growth potential.  Alphabet (Google) and Facebook stand somewhere between.
 
 ## #1 Facebook
-Facebook is a social media giant. It owns also Instagram and WhatsApp. It is hard to find company with highe operation margin (50% in 2017).
+Facebook is a social media giant. It also owns Instagram and WhatsApp. It is hard to find a company with a higher operating margin (50% in 2017).
 
 <figure>
     <a href="/assets/images/waterfall_income_statement_2017_fb.png">
@@ -41,7 +41,7 @@ Facebook revenues grew by 47% thanks to both growth in active users (+17%) and r
 Average revenue per user was $20.21 worldwide. In US & Canada average revenue per user is roughly 4x of worldwide average. Average outside US, Canada & Europe is significantly below worldwide average. The primary sources of user growth are India, Indonesia, and Vietnam.
 
 ## #2 Apple
-Apple is a great company and a profitable one with high margins. The first thing that will hit you in its income statement is an enormous net income line. Apple is the 2nd most profitable company in the world. (1st one is Saudi Aramco, but not by much). Apple is earning to its shareholders approximately 50bn US dollars a year. 
+Apple is a great company and a profitable one with high margins. The first thing that will hit you in its income statement is an enormous net income line. Apple is the 2nd most profitable company in the world. (1st one is Saudi Aramco, but not by much). Apple is earning to its shareholders approximately $50bn a year. 
 
 <figure>
     <a href="/assets/images/waterfall_income_statement_2017_aapl.png">
@@ -100,7 +100,7 @@ Alphabet is a new name (since 2015) for Google and all its projects. But do not 
     </a>
 </figure>
 
-Revenues grew by 23% thanks to an increase in clicks by 46%, offset by a decrease in cost-per-click. Even though Alphabet is a global company, 47% of revenues is still coming from the US.⠀
+Revenues grew by 23% thanks to an increase in clicks by 46%, offset by a decrease in cost-per-click. Even though Alphabet is a global company, 47% of revenues are still coming from the US.⠀
 
 Advertising revenues grew by 22%, other Google revenues by 42% and so far negligible non-Google projects by 49%.⠀
 
