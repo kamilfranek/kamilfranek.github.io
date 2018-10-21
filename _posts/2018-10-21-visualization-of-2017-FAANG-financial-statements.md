@@ -9,7 +9,7 @@ header:
  teaser: "assets/images/faang_logos.png"
 ---
 
-**FAANG**  is an acronym commonly used to represent five technological giants **F**acebook, **A**pple, **A**mazon, **N**etflix, and **A**lphabet (Google). Acronyms for a group of countries or companies are quite popular. There is BAT, referring to top Chinese internet companies Baidu, Alibaba, and Tencent. For countries the most prominent is probably BRICS, referring to emerging economies: Brazil, Russia, India, China, and South Africa. 
+**FAANG**  is an acronym commonly used to represent five technological giants **F**acebook, **A**pple, **A**mazon, **N**etflix, and **A**lphabet (Google). Acronyms for a group of countries or companies are quite popular. There is BAT, referring to top Chinese internet companies Baidu, Alibaba, and Tencent and for countries the most prominent is probably BRICS, referring to emerging economies Brazil, Russia, India, China, and South Africa. 
 
 <figure>
     <a href="/assets/images/faang_logos.png">
@@ -18,11 +18,11 @@ header:
     </a>
 </figure>
 
-Several weeks ago I published a post on my blog about <a href="/visualization-of-2017-FAANG-financial-statements/"> how to visually redesign the income statement using waterfall chart </a> and I also added a couple of examples using publicly traded companies.  If you haven't checked it out, I highly recommend it. Between the companies, I used as examples were also P&L visualizations for Amazon and Apple, two of the FAANG stocks.
+Several weeks ago I published an article about <a href="/how-to-redesign-your-income-statement/">how to visually redesign the income statement using waterfall chart </a> and I also added a couple of examples using publicly traded companies, btween them were also two FAANG companies (Apple & Amazon). If you haven't checked it out, I highly recommend it as a first step before you continue further.
 
-That article was mainly about the P&L visualization and there was not too much space for comments about particular companies. Therefore I decided to create this post that would use the P&L visualization techniques from the previous post for all of the FAANG companies and explain the main dynamics for each company.
+This article will be about application of what I preached in the previous one for all five FAANG companies. Currently I will focus only on income statement visualization and some basic overview of the main P&L dynamics for each company.
 
-FAANG companies are technological giants, but it doesn't mean they are similar. Quite far from that. You have income generation giant Apple with quite limited growth opportunities there and also Amazon & Netflix that are mainly about minimum profits and lot of growth potential.  Alphabet (Google) and Facebook stand somewhere between.
+FAANG companies are technological giants, but it doesn't mean they are similar. Quite far from that. You have income generating giant Apple with quite limited growth opportunities. There are also Amazon & Netflix that are mainly about minimum profits and lot of growth potential.  Alphabet (Google) and Facebook stand somewhere between.
 
 ## #1 Facebook
 Facebook is a social media giant. It owns also Instagram and WhatsApp.
