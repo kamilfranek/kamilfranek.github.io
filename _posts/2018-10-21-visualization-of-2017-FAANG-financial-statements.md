@@ -70,7 +70,7 @@ Amazon is an e-commerce giant who sells hundreds of millions of products online 
 
 Amazon is rapidly growing both in revenues and expenses, however operating margin is still minuscule. In 2017 Amazon's revenues (Total Net sales) were  $178bn. From that 60 % were from Noth America segment, 30% from the International segment and 10% from Amazon Web Services (AWS).
 
-If we look at operation income though, the story is different. Nearly all operation income is achieved thanks to AWS business (+$4bn). Does it mean that the e-commerce part of Amazon doesn't earn a dime? Yes if you look at both North Americal and International segment together. If you look at their financial statements closer, you will see that North America's segment earned +$3bn and international segment lost roughly the same amount (-$3bn).
+If we look at operating income though, the story is different. Nearly all operating income is achieved thanks to AWS business (+$4bn). Does it mean that the e-commerce part of Amazon doesn't earn a dime? Yes if you look at both North American and International business segment together. If you look at their financial statements closer, you will see that North America's segment earned +$3bn and international segment lost roughly the same amount (-$3bn).
 
 ## #4 Netflix
 Netflix grew its revenue in 2017 by 32%. Around third of this growth was achieved by an increase in average subscription price and the rest thanks to subscribers growth.
@@ -88,10 +88,10 @@ Growth in average subscription price is around 10% in both US and international 
 
 So far it looks that the US and international segment are roughly balanced in its size. However, when you look at margins of those segments, taking into account cost of revenues and marketing costs, you will see that while US streaming service has a healthy margin of 37%, a margin of the international streaming segment was only 4% in 2017. Good news is that in 2018 we already see higher margins even for the international segment (15%).⠀
 
-Another point to keep in mind when you are looking at Netlifx P&L is that positive net income does not mean Netflix is already a self-financing business. Netflix is still burning billions of cash each year that they need to produce new content and buy licenses. Since it is amortized, so you do not see it all as cost in 2017. Therefore it needs to borrow billions each year to finance its aggressive growth.⠀
+Another point to keep in mind when you are looking at Netflix P&L is that positive net income does not mean Netflix is already a self-financing business. Netflix is still burning billions of cash each year that they need to produce new content and buy licenses. Since it is amortized, so you do not see it all as cost in 2017. Therefore it needs to borrow billions each year to finance its aggressive growth.⠀
 
 ## #5 Alphabet (Google)
-Alphabet is a new name (since 2015) for Google and all its projects. But do not let it confuse you, Alphabet is still from 99% old Google and from 86% advertising company.
+Alphabet is a new name (since 2015) for Google and all its projects. But do not let it confuse you, Alphabet is still from 99% old Google and from 86% it relies on advertising revenues.
 
 <figure>
     <a href="/assets/images/waterfall_income_statement_2017_goog.png">
@@ -104,7 +104,7 @@ Revenues grew by 23% thanks to an increase in clicks by 46%, offset by a decreas
 
 Advertising revenues grew by 22%, other Google revenues by 42% and so far negligible non-Google projects by 49%.⠀
 
-Operating margin decreased by from 26% to 24% and Alphabet expects another decrease thanks to both increase of traffic acquisition costs (TAC) and also thanks to an increasing share of non-advertising revenues (with generally lower margin)
+Operating margin decreased from 26% to 24% and Alphabet expects another decrease thanks to both increase of traffic acquisition costs (TAC) and also thanks to an increasing share of non-advertising revenues (with generally lower margin)
 
 
 <sub>**References:**</sub> 
