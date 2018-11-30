@@ -14,6 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<!-- popup -->
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"90b6ed3e1669069a0a41d50d3","lid":"0ac862f287","uniqueMethods":true}) })</script>
+
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -62,6 +66,8 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
+
+
 
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
