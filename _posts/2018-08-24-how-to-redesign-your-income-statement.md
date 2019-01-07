@@ -100,8 +100,8 @@ One way, how to tweak this chart to show more explicitly difference between peri
 To make it happen, we will have to use different scales on a horizontal axis for the new incremental waterfall. I will also use different colors to indicate that this waterfall has different scales. Otherwise, bar that show changes would be too small to differentiate visually. To focus on the last year, I will show only 2017 vs 2016 changes.
 
 <figure>
-    <a href="/assets/images/raw_with_change_waterfall_income_statement_2017_aapl.png">
-        <img src="/assets/images/raw_with_change_waterfall_income_statement_2017_aapl.png" 
+    <a href="http://eepurl.com/dPx9qz">
+        <img src="/assets/images/subscribe_small_blue.png" 
              alt="Waterfall Income Statement Visualization for Apple Inc.">
     </a>
 </figure>
@@ -168,6 +168,13 @@ Another problem is that having one waterfall for every company or segment makes 
 Also if you are looking at the income statement, you probably would like to see also other core financial statements for the same company. Cash Flow statement is the easy one because you can use the same approach that I used in this article for the income statement. The balance sheet would require a different approach than waterfall charts.
 
 Stay tuned, I will try to tackle some of those challenges in one of my future articles. In a mean time, I would love to hear your thoughts about what approach do you use for income statement visualization in your business.
+
+<figure>
+    <a href="/assets/images/standard_income_aapl.png">
+        <img src="/assets/images/standard_income_aapl.png" 
+             alt="Do not miss any of my new posts and SUBSCRIBE to my mailing list.">
+    </a>
+</figure>
 
 <sub>**References:**</sub> 
 <sub>Visualizations in this article were created using R and ggplot2.</sub>
