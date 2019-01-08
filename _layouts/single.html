@@ -54,18 +54,21 @@ layout: default
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
+
+        <figure style="width: 300px" class="align-center">
+          <a href="http://eepurl.com/dPx9qz">
+              <img src="/assets/images/subscribe_blue_small.png" 
+                   alt="Subscribe to my mailing list - do not miss any of my new posts">
+          </a>
+        </figure>
+
         {% include page__taxonomy.html %}
         {% if page.last_modified_at %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        <figure style="width: 200px" class="align-center">
-          <a href=http://eepurl.com/dPx9qz>
-              <img src="/assets/images/subscribe_blue_small.png" 
-                   alt="Subscribe to my mailing list - do not miss any of my new posts">
-          </a>
-        </figure>
+     
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
