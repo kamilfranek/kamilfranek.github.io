@@ -60,7 +60,7 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        <figure>
+        <figure style="width: 200px" class="align-center">
           <a href=http://eepurl.com/dPx9qz>
               <img src="/assets/images/subscribe_blue_small.png" 
                    alt="Subscribe to my mailing list - do not miss any of my new posts">
