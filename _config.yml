@@ -258,3 +258,14 @@ defaults:
       comments: true
       share: true
       related: true
+
+  # _companies
+  # _portfolio
+  - scope:
+      path: ""
+      type: companies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
