@@ -260,7 +260,6 @@ defaults:
       related: true
 
   # _companies
-  # _portfolio
   - scope:
       path: ""
       type: companies

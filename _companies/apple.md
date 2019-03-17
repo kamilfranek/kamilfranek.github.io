@@ -1,6 +1,5 @@
 ---
 title: "Apple test"
-#type: "article"
 categories:
 tags:
 excerpt: "Apple test"
