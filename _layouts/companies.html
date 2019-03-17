@@ -6,8 +6,8 @@ layout: archive
 -->
 <!-- <h3 class="archive__subtitle">Posts</h3>-->
 <div class="grid__wrapper">
-  {% for post in paginator.posts %}
-    {% if post.draft == 1 %}
+  {% for company in paginator.companies %}
+    {% if company.draft == 1 %}
 
     {% else %} 
       {% include archive-single.html type="grid" %}

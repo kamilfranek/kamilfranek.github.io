@@ -1,5 +1,5 @@
 ---
 layout: companies
-title: "Individual companies"
+author_profile: true
 permalink: /companies/
 ---

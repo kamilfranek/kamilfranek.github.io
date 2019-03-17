@@ -1,6 +1,6 @@
 ---
 title: "Apple test"
-type: "article"
+#type: "article"
 categories:
 tags:
 excerpt: "Apple test"
@@ -9,4 +9,4 @@ header:
  teaser: "assets/images/faang_logos.png"
 ---
 
-**FAANG**  
+**Apple test**  
