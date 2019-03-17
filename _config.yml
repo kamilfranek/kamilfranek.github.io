@@ -242,7 +242,7 @@ compress_html:
 collections:
   companies:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 
 # Defaults
