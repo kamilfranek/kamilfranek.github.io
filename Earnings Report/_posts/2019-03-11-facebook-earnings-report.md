@@ -4,7 +4,7 @@ categories:
 tags:
 excerpt: "Visualization of Facebook's Income Statement (earnings report) using waterfall chart"
 draft:
-header: "assets/images/facebook_income_statement_2018.png"
+header: #"assets/images/facebook_income_statement_2018.png"
  teaser: "assets/images/facebook_income_statement_2018.png"
  #teaser: "assets/images/facebook_logo.png"
 ---
