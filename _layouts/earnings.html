@@ -6,7 +6,7 @@ layout: archive
 -->
 <h3 class="archive__subtitle">Earnings Reports</h3>
 <div class="grid__wrapper">
-{% assign posts = site.posts | where: "category", "Earnings Report" %}
+{% assign posts = site.categories['Earnings Report']  %}
   {% for post in posts %}
     {% if post.draft == 1}
 
