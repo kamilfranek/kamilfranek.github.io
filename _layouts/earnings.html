@@ -6,7 +6,7 @@ layout: archive
 -->
 <h3 class="archive__subtitle">Earnings Reports</h3>
 <div class="grid__wrapper">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     {% if post.draft == 1 %}
 
     {% else %} 
@@ -16,4 +16,4 @@ layout: archive
 </div>
 
 
-{% include paginator.html %}
+<!--{% include paginator.html %}-->
