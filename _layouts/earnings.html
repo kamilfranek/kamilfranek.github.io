@@ -6,12 +6,15 @@ layout: archive
 -->
 <h3 class="archive__subtitle">Earnings Reports</h3>
 <div class="grid__wrapper">
-{% assign posts = site.categories['Earnings Report']  %}
-  {% for post in posts %}
-    {% if post.draft == 1}
+<!--{% assign posts = site.categories['Earnings Report']  %}-->
 
+
+
+  {% for post in site.posts %}
+    {% if post.categories contains "Earnings Report" %}
+         {% include archive-single.html type="grid" %}
     {% else %} 
-      {% include archive-single.html type="grid" %}
+     
     {% endif %}
   {% endfor %}
 </div>
