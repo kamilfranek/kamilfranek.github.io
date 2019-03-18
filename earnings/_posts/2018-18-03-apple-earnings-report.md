@@ -1,5 +1,5 @@
 ---
-title: "Apple test"
+title: "Apple Earnings Report"
 categories:
 tags:
 excerpt: "Apple test"
@@ -8,4 +8,4 @@ header:
  teaser: "assets/images/faang_logos.png"
 ---
 
-**Apple test**  
+**Apple test page - Under construction**  
