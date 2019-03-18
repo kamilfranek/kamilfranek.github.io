@@ -1,5 +1,5 @@
 ---
-title: "Apple Earnings Report"
+title: "Apple Earnings Report as subfolder"
 categories:
 tags:
 excerpt: "Apple test"
