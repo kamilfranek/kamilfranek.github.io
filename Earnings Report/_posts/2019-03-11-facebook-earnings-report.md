@@ -5,7 +5,8 @@ tags:
 excerpt: "Visualization of Facebook's Income Statement (earnings report) using waterfall chart"
 draft:
 header: "assets/images/facebook_income_statement_2018.png"
- teaser: "assets/images/facebook_logo.png"
+ teaser: "assets/images/facebook_income_statement_2018.png"
+ #teaser: "assets/images/facebook_logo.png"
 ---
 
 This chart visualizes Facebook's 2018 income statement. Facebook earns 99% of its revenues from advertising and despite a lot of regulatory and media pressure on the company during 2018 their financial result doesn't really show it. Its revenue grew from $40.7bn to $55.8bn (+37% growth) and its net income grew from $15.9bn to $22.1bn (+ 39% growth). Facebook did really well in 2018. If you want to know why, check my explanation of core trends below. 
