@@ -3,7 +3,7 @@ title: "Facebook Earnings Report Visualization (2018)"
 categories:
 tags:
 excerpt: "Visualization of Facebook's Income Statement (earnings report) using waterfall chart"
-draft: 1
+draft:
 header: "assets/images/facebook_income_statement_2018.png"
  teaser: "assets/images/facebook_logo.png"
 ---
