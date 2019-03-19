@@ -9,8 +9,8 @@ header:
 ---
 
 <figure>
-    <a href="assets/images/facebook_income_statement_2018.png">
-        <img src="assets/images/facebook_income_statement_2018.png" 
+    <a href="/assets/images/facebook_income_statement_2018.png">
+        <img src="/assets/images/facebook_income_statement_2018.png" 
              alt="Income Statement (P&L) Visualization for Facebook, Inc. (waterfall chart)">
     </a>
 </figure>
