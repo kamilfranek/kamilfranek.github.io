@@ -9,9 +9,8 @@ Facebook is one of the technological giants and is dominating the social media m
 
 Facebook is making money in one core business and it's advertising which makes 99% of its revenue. Facebook generated  $55.8bn (+37%) of annual revenues in 2018, and only "tiny" amount of $0.8bn (1% of total revenue) is not coming from advertising and mostly consist from net fee coming from Facebook Payments and also revenue from consumer hardware like  Oculus or Portal. 
 
-Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Below is a summary of Facebook's P&L that shows that even net income growth was strong (+39%) and Facebook made $22.1bn of annual net income in 2018. If you look at the table below, you will quickly realize that although bottom line result is great, not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.
-
 ### Summarize Income Statement for Facebook, Inc.
+
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |Revenue						| 27.6  | 40.7	| 55.8	| +37%	| 
@@ -20,6 +19,8 @@ Revenue grew by 37% compared to last year which is good news, but the company's 
 |Other   						| 0.1  	| 0.4	| 0.4	| +15%	|
 |Taxes    						| -2.3  | -4.7	| -3.2	| -30%	|
 |**Net income**				    | 10.2 	|15.9	| 22.1	| +39%	|
+
+Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that even net income growth was strong (+39%) and Facebook made $22.1bn of annual net income in 2018. Problem is that although bottom line result is great, not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.
 
 The following chart is a more detailed visualization of the facebook income statement and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will go through Facebook's results in a more detailed way. 
 
