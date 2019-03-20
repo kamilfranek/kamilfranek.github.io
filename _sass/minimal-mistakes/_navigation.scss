@@ -481,7 +481,7 @@
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     font-weight: bold;
-    text-transform: uppercase;
+    text-transform: upcapercase;
     border-bottom: 1px solid $border-color;
   }
 
@@ -493,7 +493,7 @@
   .toc {
     font-family: $sans-serif-narrow;
     color: $gray;
-    text-transform: uppercase;
+    text-transform: capitalize;
     letter-spacing: 1px;
     background-color: $background-color;
     border: 1px solid $border-color;

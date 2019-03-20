@@ -9,16 +9,16 @@ Facebook is one of the technological giants and is dominating the social media m
 
 Facebook is making money in one core business and it's advertising which makes 99% of its revenue. Facebook generated  $55.8bn (+37%) of annual revenues in 2018, and only "tiny" amount of $0.8bn (1% of total revenue) is not coming from advertising and mostly consist from net fee coming from Facebook Payments and also revenue from consumer hardware like  Oculus or Portal. 
 
-### Summarize Income Statement for Facebook, Inc.
+**Summarize Income Statement for Facebook, Inc.**
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |Revenue						| 27.6  | 40.7	| 55.8	| +37%	| 
 |Expenses 						| -15.2 | -20.5	| -30.9	| +51%	| 
-|**Income from operations**	    |12.4   | 20.2 	| 24.9	| +23%	|
+|**Income from operations**	    |**12.4**| **20.2**	| **24.9**	| +23%	|
 |Other   						| 0.1  	| 0.4	| 0.4	| +15%	|
 |Taxes    						| -2.3  | -4.7	| -3.2	| -30%	|
-|**Net income**				    | 10.2 	|15.9	| 22.1	| +39%	|
+|**Net income**				    |**10.2**	|**15.9**	|**22.1**	| +39%	|
 
 Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that even net income growth was strong (+39%) and Facebook made $22.1bn of annual net income in 2018. Problem is that although bottom line result is great, not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.
 
@@ -41,6 +41,15 @@ Facebook's revenue grew by 37% in 2018.  The number of users was still growing (
 Relative growth in revenue was quite evenly spread out between different regions. Since the majority of revenues comes from US&Canada and Europe, then in absolute terms, the majority of revenue growth also comes from  US&Canada and Europe. Nearly all of it was thanks to growth in revenue per user because active user growth in these regions was only around 1% to 2%. 
 
 Average revenue per user in 2018 in the United States & Canada region was more than ten times higher than in the Asia-Pacific region.
+
+**Revenue by Geographic Region**
+| 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
+|-------------------------------|------:|------:|------:|------:|
+|US & Canada					| 13.4  | 19.1	| 25.7	| +35%	| 
+|Europe 						| 6.8   | 10.1	| 13.6	| +35%  |
+|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| +48%	|
+|Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
+|**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
 
 ## COSTS and OPERATING INCOME
 
