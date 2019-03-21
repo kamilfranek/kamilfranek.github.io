@@ -50,7 +50,7 @@ Average revenue per user in 2018 in the United States & Canada region was more t
 |Europe 						| 6.8   | 10.1	| 13.6	| +35%  |
 |Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="color:blue">+48% </span>	|
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
-|**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
+|**Worldwide**				    |**27.6**	|**40.7**	|**55.8bn**	| **+37%**|
 
 
 ### Monthly Active Users (MAU) by Geographic Region (in millions, average in given year)**
