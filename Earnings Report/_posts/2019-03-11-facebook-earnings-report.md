@@ -24,6 +24,12 @@ Facebook is one of the technology giants and is dominating the social media mark
 
 Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that even net income growth was strong (+39%) and Facebook made $22.1bn of annual net income in 2018. **Problem is that although bottom line result is great, not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.**
 
+Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 21% even though its costs & expenses rose by 51%. 
+
+## 2019 Outlook
+
+
+
 ## Facebook's Income Statement Visualizaton
 
 The following chart is a more detailed visualization of the facebook income statement and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will go through Facebook's results in a more detailed way. 
@@ -47,8 +53,8 @@ In general, Facebook can earn more revenue by:
 - Increasing number of active users
 - Increasing user monetization (revenue per user). This can be split further into price per add increase and increase in the number of ads per user
 
-Growth of Facebook revenue in 2018 was driven by:
-- **9% increase in active users** (Facebook made $24.96 per active user in 2018)
+**Growth of Facebook revenue in 2018 was driven by:**
+- **9% increase in active users** (Facebook made **$24.96** per active user in 2018)
 - **24% increase in revenue per user** 
 	- **13% increase in price per add**
 	- **10% increase in adds delivered per user** 
@@ -94,7 +100,7 @@ Includes only monthly active users for facebook.com and Messenger. Users who hav
 |Rest of the World    			| -     | $6.2	| $7.52	| +21%	|
 |**Worldwide**				    |-	    |**$20.21**	|**$24.96**	| **+24%**|
 
-## Summary of Facebook Revenue Breakdown (Highlights)
+### Summary of Facebook Revenue Breakdown (Highlights)
 
 - Revenue increased by 37% (+ $15.2bn) in 2018. This growth was balances across all regions, only Asia-Pacific overperformed, growing by 48%.
 - Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
@@ -102,7 +108,7 @@ Includes only monthly active users for facebook.com and Messenger. Users who hav
 - The US & Europe make 70% of Revenue but only 27% of monthly active users
 - Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.
 
-## Will Facebook Revenue Growth Decelerate in 2019?.
+### Will Facebook Revenue Growth Decelerate in 2019?.
 
 So what should you make of it? You can see a glass half full because you can see the big potential of monetization growth outside the US and Europe. On the other hand, you can see the glass half empty because Facebook you can frame see it as Facebook struggling with monetization outside developed markets and you don't believe it is going to get better.
 
@@ -110,14 +116,42 @@ Even if you are an optimist, thinks are not probably to change in 2019. That is 
 
 > "We also expect that our revenue growth rates will
 continue to decelerate sequentially throughout 2019 on a constant currency basis." 
+>
+>-- <cite>David Wehner, CFO of Facebook</cite>
 
-## COSTS and OPERATING INCOME
+## How Does Facebook Spend Money
 
-Good news is that revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 21% even though its costs & expenses rose by 51%. 
+To make money, you have to spend money and Facebook is really spending significantly more than last year. Total expenses increased by +51%. Two main reasons behind that growth are massive investments in data centers and technical infrastructure and massive growth of headcount.
 
-The growth of the cost of revenues was driven mainly by an increase in operating expenses related to data centers and technical infrastructure and higher costs associated with partnership agreements (traffic acquisition and content acquisition costs)
+### How Much Money and on What is Facebook Spending
 
-Other expense items were growing mainly thanks to share-based compensation and growth in headcount. Headcount of Facebook was 35,587 at the end of 2018. An increase of a staggering 42% year-over-year.
+| 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
+|-------------------------------|------:|------:|------:|------:|
+|Cost of revenue				| -3.8  | -5.5	| -9.4	| <span style="color:red">+72% </span>  |	
+|R&D expense					| -5.9   | -7.8	| -10.3	| +32%   |
+|Marketing and sales expense    | -3.8	|-4.7	| -7.8	| <span style="color:red">+66% </span>	|
+|General and admin. expense		| -1.7   | -2.5	| -3.5	| +37%	|
+|**Total Expenses**				|**-15.2**	|**-20.5**	|**-30.9**	| **+51%**|
+
+- **Cost of revenues** is an item with the highest annual growth  revenues and its increase was driven mainly by an increase in operating expenses related to **data centers and technical infrastructure and higher costs associated with partnership agreements** (traffic acquisition and content acquisition costs)
+
+- **Other expense items** were growing mainly thanks to share-based compensation and **growth in headcount**. With the exception of Marketing and sales expense where that is growing quicker thanks to **increase in investments into marketing and community operations**. Without that, the growth would be in line with revenue growth.
+
+Headcount of Facebook grew massively. Facebook had 35,587 employees at the end of 2018. An **increase of a staggering 42% year-over-year.**
+
+| 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
+|-------------------------------|------:|------:|------:|------:|
+|Emploees				        | 17,048| 25,105| 35,587| <span style="color:red">+42% </span>	|
+
+### High expense growth will continue in 2019
+
+Facebook will continue to heavily invest in its datacenters in 2018 and also continue growing its headcount. That was a management guidance during companys Q4 earnings call.
+
+>On a full-year basis, we continue to expect 2019 total expenses will grow approximately 40-50%
+compared to 2018. 
+>Our 2019 capital expenditures outlook is unchanged at $18-$20 billion, driven primarily by our
+continued large investment in building data centers.
+>-- <cite>David Wehner, CFO of Facebook</cite>
 
 ## 2019 OUTLOOK
 
