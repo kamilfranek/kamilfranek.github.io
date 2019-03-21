@@ -7,7 +7,7 @@ header:
 ---
 <figure>
         <img src="/assets/images/facebook_logo.png" 
-             alt="Facebook logo" style="width: 50%">
+             alt="Facebook logo" style="width: 50%; align="middle";">
 </figure>
 
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
@@ -117,7 +117,7 @@ Even if you are an optimist, thinks are not probably to change in 2019. That is 
 > "We also expect that our revenue growth rates will
 continue to decelerate sequentially throughout 2019 on a constant currency basis." 
 >
->--<cite>David Wehner, CFO of Facebook</cite>
+>--David Wehner, CFO of Facebook
 
 ## How Does Facebook Spend Money?
 
@@ -152,7 +152,8 @@ compared to 2018.
 > 
 >Our 2019 capital expenditures outlook is unchanged at $18-$20 billion, driven primarily by our
 continued large investment in building data centers.
->-- <cite>David Wehner, CFO of Facebook</cite>
+>
+>--<cite>David Wehner, CFO of Facebook</cite>
 
 ## 2019 Outlook
 
@@ -162,5 +163,5 @@ So in 2018 Facebook showed solid results. However, Facebook guidance is that rev
 
 ## References & Links
 
-|Annual Report - K10	                                                            | https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm| 
-|Facebook Q4 2018 Earnings Call Documents & Transcripts                             | https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx|  
+- Annual Report - K10	                                                            | https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm| 
+- Facebook Q4 2018 Earnings Call Documents & Transcripts                             | https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx|  
