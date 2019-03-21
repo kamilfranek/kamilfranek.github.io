@@ -1,15 +1,15 @@
 ---
-title: "How Does Facebook Make Money - Earnings Visualization (2018)"
-excerpt: "Commented breakdown of Facebook's Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L) using waterfall chart"
+title: "How Does Facebook Make Money - Earnings Review (2018)"
+excerpt: "Commented breakdown of Facebook's Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L)"
 draft:
 header: 
   teaser: "assets/images/facebook_logo.png"
 ---
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
 
-## Key Highlight from Facebook's Annual Report
+## How Does Facebook Make Money: Key Highlights
 
-**Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018, and nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources, like net fee coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.
+**Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018, and nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources, like net fee coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
 
 **Summarize Income Statement for Facebook, Inc.**
 
@@ -26,13 +26,9 @@ Revenue grew by 37% compared to last year which is good news, but the company's 
 
 Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 21% even though its costs & expenses rose by 51%. 
 
-## 2019 Outlook
-
-
-
 ## Facebook's Income Statement Visualizaton
 
-The following chart is a more detailed visualization of the facebook income statement and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will go through Facebook's results in a more detailed way. 
+The following waterfall chart is a more detailed visualization of the facebook income statement and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will go through Facebook's results in a more detailed way. 
 
 If you haven't encountered this chart before and are not familiar with it, I recommend going through my post explaining how and why I prefer to show income statement in this form.
 
@@ -44,7 +40,7 @@ If you haven't encountered this chart before and are not familiar with it, I rec
 </figure>
 
 
-## Revenue
+## How Does Facebook Generate Revenue? 
 
 Facebook's revenue grew by 37% in 2018 to $55.8 billion. Relative growth in revenue was quite evenly spread out between different regions with the exception of Asia-Pacific region where revenue grew by 48%. But the core question is what exactly is driving this growth. 
 
@@ -78,9 +74,11 @@ In countries outside the US, Canada, and Europe, the number of active users grew
 |**Worldwide**				    |**27.6**	|**40.7**	|**55.8bn**	| **+37%**|
 
 
-### Monthly Active Users (MAU) by Geographic Region (in millions, average in given year)**
+### Monthly Active Users (MAU) by Geographic Region 
 
-| 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
+**(in millions, average in given year)**
+
+|in millions $   	            | 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 231   | 239	| 242	| +1%   |	
 |Europe 						| 349   | 370	| 381	| +3%   |
@@ -100,7 +98,7 @@ Includes only monthly active users for facebook.com and Messenger. Users who hav
 |Rest of the World    			| -     | $6.2	| $7.52	| +21%	|
 |**Worldwide**				    |-	    |**$20.21**	|**$24.96**	| **+24%**|
 
-### Summary of Facebook Revenue Breakdown (Highlights)
+### Key highlights of Facebook Revenue Breakdown
 
 - Revenue increased by 37% (+ $15.2bn) in 2018. This growth was balances across all regions, only Asia-Pacific overperformed, growing by 48%.
 - Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
@@ -108,7 +106,7 @@ Includes only monthly active users for facebook.com and Messenger. Users who hav
 - The US & Europe make 70% of Revenue but only 27% of monthly active users
 - Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.
 
-### Will Facebook Revenue Growth Decelerate in 2019?.
+### Will Facebook Revenue Growth Decelerate in 2019?
 
 So what should you make of it? You can see a glass half full because you can see the big potential of monetization growth outside the US and Europe. On the other hand, you can see the glass half empty because Facebook you can frame see it as Facebook struggling with monetization outside developed markets and you don't believe it is going to get better.
 
@@ -117,7 +115,7 @@ Even if you are an optimist, thinks are not probably to change in 2019. That is 
 > "We also expect that our revenue growth rates will
 continue to decelerate sequentially throughout 2019 on a constant currency basis." 
 >
->-- <cite>David Wehner, CFO of Facebook</cite>
+>--<cite>David Wehner, CFO of Facebook</cite>
 
 ## How Does Facebook Spend Money
 
@@ -153,8 +151,13 @@ compared to 2018.
 continued large investment in building data centers.
 >-- <cite>David Wehner, CFO of Facebook</cite>
 
-## 2019 OUTLOOK
+## 2019 Outlook
 
 So in 2018 Facebook showed solid results. However, Facebook guidance is that revenue growth will decelerate in 2019. Not only that, but the company also said that they expect its expenses to continue to grow strongly in 2019 (by 40-50%).  As you can expect, revenue growth below 30% and expenses growth of 50% means none or quite small growth in operating income. 
 
 **So What do you think, will Facebook positively surprise again in 2019?**
+
+## References & Links
+
+|Annual Report - K10	        | https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm| 
+|Facebook Q4 2018 Earnings Call Documents & Transcripts| https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx| 
