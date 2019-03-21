@@ -42,14 +42,38 @@ Relative growth in revenue was quite evenly spread out between different regions
 
 Average revenue per user in 2018 in the United States & Canada region was more than ten times higher than in the Asia-Pacific region.
 
-**Revenue by Geographic Region**
+### How Much Revenue Does Facebook Generate by Geographic Region**
+
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 13.4  | 19.1	| 25.7	| +35%	| 
 |Europe 						| 6.8   | 10.1	| 13.6	| +35%  |
-|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| +48%	|
+|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="color:blue">+48% </span>	|
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
 |**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
+
+
+### Monthly Active Users (MAU) by Geographic Region (in millions, average in given year)**
+
+| 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
+|-------------------------------|------:|------:|------:|------:|
+|US & Canada					| 231   | 239	| 242	| +1%   |	
+|Europe 						| 349   | 370	| 381	| +3%   |
+|Asia-Pacific   			    | 673	| 828	| 947	| <span style="color:blue">+14% </span>	|
+|Rest of the World    			| 606   | 692	| 750	| +9%	|
+|**Worldwide**				    |**1,860**	|**2,129**	|**2,320**	| **+9%**|
+
+Includes only monthly active users for facebook.com and Messenger. Users who has only used Instagram or WhatsUp are not included. 
+
+### How Much Money Does Facebook Make Per User: Average Revenue per User by Geographic Region (ARPU).
+
+| 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
+|-------------------------------|------:|------:|------:|------:|
+|US & Canada					| -     | 84.41	| 111.97| +33% 	| 
+|Europe 						| -     | 27.41	| 36.68	| +34%  |
+|Asia-Pacific   			    | - 	| 8.92	| 10.71	| +20%  |
+|Rest of the World    			| -     | 6.2	| 7.52	| +21%	|
+|**Worldwide**				    |-	    |**20.21**	|**$24.96**	| **+24%**|
 
 ## COSTS and OPERATING INCOME
 
