@@ -7,7 +7,7 @@ header:
 ---
 <figure>
         <img src="/assets/images/facebook_logo.png" 
-             alt="Facebook logo">
+             alt="Facebook logo" style="width: 50%">
 </figure>
 
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
@@ -16,11 +16,11 @@ Facebook is one of the technology giants and is dominating the social media mark
 
 **Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018. Nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources, like net fee coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
 
-**Summarized Income Statement for Facebook, Inc. (in billions $)**
+**Summarized Income Statement for Facebook, Inc.**
 
-| 								| 2016 	| 2017	| 2018 	| *2018 % Growth*|
+|(in millions $)				| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
-|Revenue						| 27.6  | 40.7	| 55.8	| +37%	| 
+|Revenue						| 27.6  | 40.7	| 55.8	| <span style="color:#009F6B">+37%</span>	| 
 |Expenses 						| -15.2 | -20.5	| -30.9	| <span style="color:#d7141a">+51%</span>	| 
 |**Operating Income**	        |**12.4**| **20.2**	| **24.9**| **+23%**|
 |Other   						| 0.1  	| 0.4	| 0.4	|+15%	|
@@ -51,13 +51,13 @@ Facebook's revenue grew by 37% in 2018 to $55.8 billion. Relative growth in reve
 
 ### How Much Revenue Does Facebook Generate by Geographic Region**
 
-| 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
+|(in billions $) 				| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 13.4  | 19.1	| 25.7	| +35%	| 
 |Europe 						| 6.8   | 10.1	| 13.6	| +35%  |
-|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="color:red">+48% </span>	|
+|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="#009F6B">+48% </span>	|
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
-|**Worldwide**				    |**27.6**	|**40.7**	|**55.8bn**	| **+37%**|
+|**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
 
 In general, Facebook can earn more revenue by increasing number of active users or increasing user monetization (revenue per user). User monetization can be split further into increase in price per add and increase in the number of ads per user. So let's break it down using 2018 earnings numbers.
 
@@ -78,11 +78,9 @@ In countries outside the US, Canada, and Europe, the number of active users grew
 
 
 
-### Monthly Active Users (MAU) by Geographic Region 
+### Monthly Active Users (MAU) by Geographic Region (End of year)
 
-**(in millions, average in given year)**
-
-|in millions $   	            | 2016 	| 2017	| 2018 	| 2018 % Growth|
+|(in millions $)   	            | 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 231   | 239	| 242	| +1%   |	
 |Europe 						| 349   | 370	| 381	| +3%   |
@@ -96,11 +94,11 @@ Includes only monthly active users for facebook.com and Messenger. Users who hav
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
-|US & Canada					| -     | $84.41	| $111.97| +33% 	| 
-|Europe 						| -     | $27.41	| $36.68	| +34%  |
-|Asia-Pacific   			    | - 	| $8.92	| $10.71	| +20%  |
-|Rest of the World    			| -     | $6.2	| $7.52	| +21%	|
-|**Worldwide**				    |-	    |**$20.21**	|**$24.96**	| **+24%**|
+|US & Canada					| $62.23| $84.41	| $111.97| +33% 	| 
+|Europe 						| $19.41| $27.41	| $36.68	| +34%  |
+|Asia-Pacific   			    | $7.29 | $8.92	| $10.71	| +20%  |
+|Rest of the World    			|  $4.66| $6.2	| $7.52	| +21%	|
+|**Worldwide**				    |**$15.98** |**$20.21**	|**$24.96**	| **+24%**|
 
 ### Key highlights of Facebook Revenue Breakdown
 
@@ -150,7 +148,8 @@ Headcount of Facebook grew massively. Facebook had 35,587 employees at the end o
 Facebook will continue to heavily invest in its datacenters in 2018 and also continue growing its headcount. That was a management guidance during companys Q4 earnings call.
 
 >On a full-year basis, we continue to expect 2019 total expenses will grow approximately 40-50%
-compared to 2018. 
+compared to 2018.
+> 
 >Our 2019 capital expenditures outlook is unchanged at $18-$20 billion, driven primarily by our
 continued large investment in building data centers.
 >-- <cite>David Wehner, CFO of Facebook</cite>
