@@ -97,7 +97,7 @@ Includes only monthly active users for facebook.com and Messenger. Users who hav
 ## Summary of Facebook Revenue Breakdown (Highlights)
 
 - Revenue increased by 37% (+ $15.2bn) in 2018. This growth was balances across all regions, only Asia-Pacific overperformed, growing by 48%.
-- The number of monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
+- Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
 - Higher growth in revenue per user in the US, Canada & Europe compared to the rest of the word helped to offset slow growth in active users in these regions.
 - The US & Europe make 70% of Revenue but only 27% of monthly active users
 - Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.
