@@ -17,10 +17,10 @@ Facebook is one of the technology giants and is dominating the social media mark
 |-------------------------------|------:|------:|------:|------:|
 |Revenue						| 27.6  | 40.7	| 55.8	| *+37%*	| 
 |Expenses 						| -15.2 | -20.5	| -30.9	| *+51%*	| 
-|**Operating Income**	        |**12.4**| **20.2**	| **24.9**| ** *+23% * **|
-|Other   						| 0.1  	| 0.4	| 0.4	|* +15%*	|
-|Taxes    						| -2.3  | -4.7	| -3.2	|* -30%*	|
-|`**Net income**`				    |**10.2**	|**15.9**	|**22.1**	| **+39%**|
+|**Operating Income**	        |**12.4**| **20.2**	| **24.9**| ***+23% ***|
+|Other   						| 0.1  	| 0.4	| 0.4	|*+15%*	|
+|Taxes    						| -2.3  | -4.7	| -3.2	|*-30%*	|
+|**Net income**				    |**10.2**	|**15.9**	|**22.1**	| **+39%**|
 
 Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that even net income growth was strong (+39%) and Facebook made $22.1bn of annual net income in 2018. **Problem is that although bottom line result is great, not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.**
 
@@ -50,8 +50,8 @@ In general, Facebook can earn more revenue by:
 Growth of Facebook revenue in 2018 was driven by:
 - **9% increase in active users** (Facebook made $24.96 per active user in 2018)
 - **24% increase in revenue per user** 
-	- 13% increase in price per add
-	- 10% increase in adds delivered per user 
+	- **13% increase in price per add**
+	- **10% increase in adds delivered per user** 
 
 Wait a minute, isn't it in all the news that Facebook is plateauing and people are fed up with it and are closing their accounts?  Well, it wouldn't be the first nor the last time news outlet exaggerated, but although on overall numbers you can see that active users are growing, they are not growing in the same rate in all geographical regions that Facebook reports. 
 
