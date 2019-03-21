@@ -1,28 +1,33 @@
 ---
-title: "How Does Facebook Make Money - Earnings Review (2018)"
+title: "How Does Facebook Make Money - Earnings Report 2018"
 excerpt: "Commented breakdown of Facebook's Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L)"
 draft:
 header: 
   teaser: "assets/images/facebook_logo.png"
 ---
+<figure>
+        <img src="/assets/images/facebook_logo.png" 
+             alt="Facebook logo">
+</figure>
+
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
 
 ## How Does Facebook Make Money: Key Highlights
 
-**Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018, and nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources, like net fee coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
+**Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018. Nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources, like net fee coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
 
-**Summarize Income Statement for Facebook, Inc.**
+**Summarized Income Statement for Facebook, Inc. (in billions $)**
 
 | 								| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
-|Revenue						| 27.6  | 40.7	| 55.8	| *+37%*	| 
-|Expenses 						| -15.2 | -20.5	| -30.9	| *+51%*	| 
-|**Operating Income**	        |**12.4**| **20.2**	| **24.9**| ***+23%***|
-|Other   						| 0.1  	| 0.4	| 0.4	|*+15%*	|
-|Taxes    						| -2.3  | -4.7	| -3.2	|*-30%*	|
+|Revenue						| 27.6  | 40.7	| 55.8	| +37%	| 
+|Expenses 						| -15.2 | -20.5	| -30.9	| <span style="color:#d7141a">+51%</span>	| 
+|**Operating Income**	        |**12.4**| **20.2**	| **24.9**| **+23%**|
+|Other   						| 0.1  	| 0.4	| 0.4	|+15%	|
+|Taxes    						| -2.3  | -4.7	| -3.2	|<span style="color:#009F6B">-30%</span>	|
 |**Net income**				    |**10.2**	|**15.9**	|**22.1**	| **+39%**|
 
-Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that even net income growth was strong (+39%) and Facebook made $22.1bn of annual net income in 2018. **Problem is that although bottom line result is great, not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.**
+Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that **net income growth was strong (+39%) and Facebook made $22.1bn of annual net income** in 2018. Problem is that although bottom line result is great, **not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.**
 
 Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 21% even though its costs & expenses rose by 51%. 
 
@@ -30,7 +35,7 @@ Revenue growth of 37% together with high starting operating income margin (50%) 
 
 The following waterfall chart is a more detailed visualization of the facebook income statement and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will go through Facebook's results in a more detailed way. 
 
-If you haven't encountered this chart before and are not familiar with it, I recommend going through my post explaining how and why I prefer to show income statement in this form.
+If you haven't encountered this chart before and are not familiar with it, <a href="/how-to-redesign-your-income-statement/"> I recommend going through my post explaining how and why I prefer to show income statement in this form.</a>
 
 <figure>
     <a href="/assets/images/facebook_income_statement_2018.png">
@@ -44,25 +49,6 @@ If you haven't encountered this chart before and are not familiar with it, I rec
 
 Facebook's revenue grew by 37% in 2018 to $55.8 billion. Relative growth in revenue was quite evenly spread out between different regions with the exception of Asia-Pacific region where revenue grew by 48%. But the core question is what exactly is driving this growth. 
 
-
-In general, Facebook can earn more revenue by:
-- Increasing number of active users
-- Increasing user monetization (revenue per user). This can be split further into price per add increase and increase in the number of ads per user
-
-**Growth of Facebook revenue in 2018 was driven by:**
-- **9% increase in active users** (Facebook made **$24.96** per active user in 2018)
-- **24% increase in revenue per user** 
-	- **13% increase in price per add**
-	- **10% increase in adds delivered per user** 
-
-Wait a minute, isn't it in all the news that Facebook is plateauing and people are fed up with it and are closing their accounts?  Well, it wouldn't be the first nor the last time news outlet exaggerated, but although on overall numbers you can see that active users are growing, they are not growing in the same rate in all geographical regions that Facebook reports. 
-
-In developed markets, active users grew around 2-3% only in 2018, which might be called plateauing, but thanks to higher growth in revenues per user compared to other regions (+34%) they still perform pretty well in revenue growth
-
-In countries outside the US, Canada, and Europe, the number of active users grew by  12% in 2018 and revenues per user by 20%.
-
-
-
 ### How Much Revenue Does Facebook Generate by Geographic Region**
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
@@ -72,6 +58,24 @@ In countries outside the US, Canada, and Europe, the number of active users grew
 |Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="color:red">+48% </span>	|
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
 |**Worldwide**				    |**27.6**	|**40.7**	|**55.8bn**	| **+37%**|
+
+In general, Facebook can earn more revenue by increasing number of active users or increasing user monetization (revenue per user). User monetization can be split further into increase in price per add and increase in the number of ads per user. So let's break it down using 2018 earnings numbers.
+
+**Growth of Facebook revenue (+ 37%) in 2018 was driven by:**
+- **9% increase in active users** 
+- **24% increase in revenue per user** (Facebook made **$24.96** per active user in 2018)
+	- **13% increase in price per add**
+	- **10% increase in adds delivered per user** 
+
+Wait a minute, isn't it in all the news that Facebook's number of users is plateauing becuase people are fed up with it and are closing their accounts?  Well, it wouldn't be the first nor the last time news outlets exaggerated something, but although on overall numbers you can see that active users are growing, they are not growing in the same rate in all geographical regions that Facebook reports. 
+
+In developed markets, active users grew only around 2-3% in 2018, which might be called plateauing, but thanks to higher growth in revenues per user compared to other regions (+34%) they still perform pretty well in revenue growth.
+
+In countries outside the US, Canada, and Europe, the number of active users grew by  12% in 2018 and revenues per user by 20%.
+
+
+
+
 
 
 ### Monthly Active Users (MAU) by Geographic Region 
@@ -117,7 +121,7 @@ continue to decelerate sequentially throughout 2019 on a constant currency basis
 >
 >--<cite>David Wehner, CFO of Facebook</cite>
 
-## How Does Facebook Spend Money
+## How Does Facebook Spend Money?
 
 To make money, you have to spend money and Facebook is really spending significantly more than last year. Total expenses increased by +51%. Two main reasons behind that growth are massive investments in data centers and technical infrastructure and massive growth of headcount.
 
@@ -159,5 +163,5 @@ So in 2018 Facebook showed solid results. However, Facebook guidance is that rev
 
 ## References & Links
 
-|Annual Report - K10	        | https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm| 
-|Facebook Q4 2018 Earnings Call Documents & Transcripts| https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx| 
+|Annual Report - K10	                                                            | https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm| 
+|Facebook Q4 2018 Earnings Call Documents & Transcripts                             | https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx|  
