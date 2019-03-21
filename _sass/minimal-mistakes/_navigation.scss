@@ -518,11 +518,11 @@
 
     a {
       display: block;
-      padding: 0.25rem 0.5rem;
+      padding: 0.25rem 0.75rem;
       color: $muted-text-color;
       font-size: $type-size-7;
       font-weight: bold;
-      line-height: 1;
+      line-height: 1.5;
       border-bottom: 1px solid $border-color;
 
       &:hover {
