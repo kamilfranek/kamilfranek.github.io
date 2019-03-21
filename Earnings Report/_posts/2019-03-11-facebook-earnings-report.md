@@ -7,7 +7,7 @@ header:
 ---
 <figure>
         <img src="/assets/images/facebook_logo.png" 
-             alt="Facebook logo" style="width: 50%; align="middle";">
+             alt="Facebook logo" style="width: 50%; align='middle'">
 </figure>
 
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
@@ -47,9 +47,9 @@ If you haven't encountered this chart before and are not familiar with it, <a hr
 
 ## How Does Facebook Generate Revenue? 
 
-Facebook's revenue grew by 37% in 2018 to $55.8 billion. Relative growth in revenue was quite evenly spread out between different regions with the exception of Asia-Pacific region where revenue grew by 48%. But the core question is what exactly is driving this growth. 
+**Facebook's revenue grew by 37% in 2018 to $55.8 billion.** Relative growth in revenue was quite evenly spread out between different regions with the exception of Asia-Pacific region where revenue grew by 48%. But the core question is what exactly is driving this growth. 
 
-### How Much Revenue Does Facebook Generate by Geographic Region**
+### How much revenue does Facebook generates in different geographic regions
 
 |(in billions $) 				| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
