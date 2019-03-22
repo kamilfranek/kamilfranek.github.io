@@ -5,9 +5,9 @@ draft:
 header: 
   teaser: "assets/images/facebook_logo.png"
 ---
-<figure>
+<figure style="text-align: center;">
         <img src="/assets/images/facebook_logo.png" 
-             alt="Facebook logo" style="width: 50%; text-align: middle;">
+             alt="Facebook logo" style="width: 50%">
 </figure>
 
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
@@ -97,11 +97,11 @@ The strongest growth was in Asia-Pacific region, where key sources of growth are
 
 ### Key highlights of Facebook Revenue Breakdown
 
-- **Revenue increased by 37% (+ $15.2bn) in 2018. This growth was balances across all regions, only Asia-Pacific overperformed, growing by 48%.**
-- **Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.**
-- **Higher growth in revenue per user in the US, Canada & Europe compared to the rest of the word helped to offset slow growth in active users in these regions.**
-- **The US & Europe make 70% of Revenue but only 27% of monthly active users.**
-- **Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.**
+- Revenue increased by 37% (+ $15.2bn) in 2018. This growth was balances across all regions, only Asia-Pacific overperformed, growing by 48%.
+- Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
+- Higher growth in revenue per user in the US, Canada & Europe compared to the rest of the word helped to offset slow growth in active users in these regions.
+- The US & Europe make 70% of Revenue but only 27% of monthly active users.
+- Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.
 
 ### Will Facebook Revenue Growth Decelerate in 2019?
 
