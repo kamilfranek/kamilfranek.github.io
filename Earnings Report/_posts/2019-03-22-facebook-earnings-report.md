@@ -5,7 +5,7 @@ draft:
 header: 
   teaser: "assets/images/facebook_logo.png"
 ---
-<figure align="middle" style="width: 50%">
+<figure style="width: 50%;text-align: center;">
         <img src="/assets/images/facebook_logo.png" 
              alt="Facebook logo">
 </figure>
