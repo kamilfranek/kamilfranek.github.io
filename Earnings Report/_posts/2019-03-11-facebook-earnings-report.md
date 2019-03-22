@@ -55,7 +55,7 @@ If you haven't encountered this chart before and are not familiar with it, <a hr
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 13.4  | 19.1	| 25.7	| +35%	| 
 |Europe 						| 6.8   | 10.1	| 13.6	| +35%  |
-|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="#009F6B">+48% </span>	|
+|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="#009F6B">+48%</span>|
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
 |**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
 
@@ -89,8 +89,8 @@ The strongest growth was in Asia-Pacific region, where key sources of growth are
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
-|US & Canada					| $62.23| $84.41	| $111.97| +33% 	| 
-|Europe 						| $19.41| $27.41	| $36.68	| +34%  |
+|US & Canada					| $62.23| $84.41	| $111.97| <span style="color:#009F6B">+33%</span> 	| 
+|Europe 						| $19.41| $27.41	| $36.68	| <span style="color:#009F6B">+34%</span>  |
 |Asia-Pacific   			    | $7.29 | $8.92	| $10.71	| +20%  |
 |Rest of the World    			|  $4.66| $6.2	| $7.52	| +21%	|
 |**Worldwide**				    |**$15.98** |**$20.21**	|**$24.96**	| **+24%**|
@@ -148,7 +148,7 @@ compared to 2018.
 >Our 2019 capital expenditures outlook is unchanged at $18-$20 billion, driven primarily by our
 continued large investment in building data centers.
 >
->--<cite>David Wehner, CFO of Facebook</cite>
+>--David Wehner, CFO of Facebook
 
 ## 2019 Outlook
 
