@@ -5,7 +5,7 @@ draft:
 header: 
   teaser: "assets/images/facebook_logo.png"
 ---
-<figure style="text-align: center;">
+<figure class="align-center">
         <img src="/assets/images/facebook_logo.png" 
              alt="Facebook logo" style="width: 50%">
 </figure>
@@ -55,7 +55,7 @@ If you haven't encountered this chart before and are not familiar with it, <a hr
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 13.4  | 19.1	| 25.7	| +35%	| 
 |Europe 						| 6.8   | 10.1	| 13.6	| +35%  |
-|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="#009F6B">+48%</span>|
+|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="#009F6B">+48%</span> |
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
 |**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
 
