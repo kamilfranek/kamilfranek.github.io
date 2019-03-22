@@ -7,7 +7,7 @@ header:
 ---
 <figure>
         <img src="/assets/images/facebook_logo.png" 
-             alt="Facebook logo" style="width: 50%; align='middle'">
+             alt="Facebook logo" style="width: 50%; text-align: center:middle">
 </figure>
 
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
@@ -69,26 +69,21 @@ In general, Facebook can earn more revenue by increasing number of active users 
 
 Wait a minute, isn't it in all the news that Facebook's number of users is plateauing becuase people are fed up with it and are closing their accounts?  Well, it wouldn't be the first nor the last time news outlets exaggerated something, but although on overall numbers you can see that active users are growing, they are not growing in the same rate in all geographical regions that Facebook reports. 
 
-In developed markets, active users grew only around 2-3% in 2018, which might be called plateauing, but thanks to higher growth in revenues per user compared to other regions (+34%) they still perform pretty well in revenue growth.
-
-In countries outside the US, Canada, and Europe, the number of active users grew by  12% in 2018 and revenues per user by 20%.
-
-
-
-
-
-
 ### Monthly Active Users (MAU) by Geographic Region (End of year)
+
+Table below includes only monthly active users for facebook.com and Messenger. Users who have only used Instagram or WhatsUp are not included. 
 
 |(in millions $)   	            | 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 231   | 239	| 242	| +1%   |	
 |Europe 						| 349   | 370	| 381	| +3%   |
-|Asia-Pacific   			    | 673	| 828	| 947	| <span style="color:red">+14% </span>	|
-|Rest of the World    			| 606   | 692	| 750	| +9%	|
+|Asia-Pacific   			    | 673	| 828	| 947	| <span style="color:#009F6B">+14% </span>	|
+|Rest of the World    			| 606   | 692	| 750	| <span style="color:#009F6B">+9%</span>	|
 |**Worldwide**				    |**1,860**	|**2,129**	|**2,320**	| **+9%**|
 
-Includes only monthly active users for facebook.com and Messenger. Users who have only used Instagram or WhatsUp are not included. The strongest growth was in Asia-Pacific region, where key sources of growth are India, Indonesia, and the Philippines.
+In developed markets, active users grew only around 2-3% in 2018, which might be called plateauing, but thanks to higher growth in revenues per user compared to other regions (+34%) they still perform pretty well in revenue growth.
+
+The strongest growth was in Asia-Pacific region, where key sources of growth are India, Indonesia, and the Philippines.In countries outside the US, Canada, and Europe, the number of active users grew by  12% in 2018 and revenues per user by 20%. 
 
 ### How Much Money Does Facebook Make Per User: Average Revenue per User by Geographic Region (ARPU).
 
@@ -102,17 +97,19 @@ Includes only monthly active users for facebook.com and Messenger. Users who hav
 
 ### Key highlights of Facebook Revenue Breakdown
 
+<div class="notice">
 - Revenue increased by 37% (+ $15.2bn) in 2018. This growth was balances across all regions, only Asia-Pacific overperformed, growing by 48%.
 - Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
 - Higher growth in revenue per user in the US, Canada & Europe compared to the rest of the word helped to offset slow growth in active users in these regions.
 - The US & Europe make 70% of Revenue but only 27% of monthly active users
 - Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.
+</div>
 
 ### Will Facebook Revenue Growth Decelerate in 2019?
 
-So what should you make of it? You can see a glass half full because you can see the big potential of monetization growth outside the US and Europe. On the other hand, you can see the glass half empty because Facebook you can frame see it as Facebook struggling with monetization outside developed markets and you don't believe it is going to get better.
+So what should you make of it? You can see a glass half full because there might be the big potential of monetization growth outside the US and Europe. On the other hand, you can see the glass half empty because Facebook is struggling with monetization outside developed markets and you don't believe it is going to get better.
 
-Even if you are an optimist, thinks are not probably to change in 2019. That is also a message from Facebook's CFO David Wehner, who said it quite clearly during company's  Q4 earnings call.
+Even if you are an optimist, things are probably not going to change in 2019. That is also a message from Facebook's CFO David Wehner, who said it quite clearly during company's  Q4 earnings call.
 
 > "We also expect that our revenue growth rates will
 continue to decelerate sequentially throughout 2019 on a constant currency basis." 
@@ -121,9 +118,9 @@ continue to decelerate sequentially throughout 2019 on a constant currency basis
 
 ## How Does Facebook Spend Money?
 
-To make money, you have to spend money and Facebook is really spending significantly more than last year. Total expenses increased by +51%. Two main reasons behind that growth are massive investments in data centers and technical infrastructure and massive growth of headcount.
+To make money, you have to spend money and Facebook is really spending significantly more than last year. Total expenses increased by +51%. Two main reasons behind this growth are massive investments in data centers, technical infrastructure and massive growth of headcount.
 
-### How Much Money and on What is Facebook Spending
+### How much money and on what is Facebook spending
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
@@ -133,11 +130,11 @@ To make money, you have to spend money and Facebook is really spending significa
 |General and admin. expense		| -1.7   | -2.5	| -3.5	| +37%	|
 |**Total Expenses**				|**-15.2**	|**-20.5**	|**-30.9**	| **+51%**|
 
-- **Cost of revenues** is an item with the highest annual growth  revenues and its increase was driven mainly by an increase in operating expenses related to **data centers and technical infrastructure and higher costs associated with partnership agreements** (traffic acquisition and content acquisition costs)
+- **Cost of revenues** is an item with the highest annual growth and its increase was driven mainly by an increase in operating expenses related to **data centers, technical infrastructure and higher costs associated with partnership agreements** (traffic acquisition and content acquisition costs)
 
-- **Other expense items** were growing mainly thanks to share-based compensation and **growth in headcount**. With the exception of Marketing and sales expense where that is growing quicker thanks to **increase in investments into marketing and community operations**. Without that, the growth would be in line with revenue growth.
+- **Other expense items** were growing mainly thanks to share-based compensation and **growth in headcount**. This growth was in line with revenue growth with the exception of marketing and sales expense that is growing quicker thanks to **increase in investments into marketing and community operations**. Without that, the growth would be in line with revenue growth.
 
-Headcount of Facebook grew massively. Facebook had 35,587 employees at the end of 2018. An **increase of a staggering 42% year-over-year.**
+Headcount of Facebook grew massively. Facebook had 35,587 employees at the end of 2018. An **increase of a staggering 42% in one year**
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
@@ -163,5 +160,4 @@ So in 2018 Facebook showed solid results. However, Facebook guidance is that rev
 
 ## References & Links
 
-- Annual Report - K10	                                                            | https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm| 
-- Facebook Q4 2018 Earnings Call Documents & Transcripts                             | https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx|  
+- [Facebook's Annual Report (K10)](https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm) 	  - [Facebook Q4 2018 Earnings Call Documents & Transcripts](https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx)
