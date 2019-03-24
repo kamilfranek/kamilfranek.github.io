@@ -14,7 +14,7 @@ Facebook is one of the technology giants and is dominating the social media mark
 
 ## How Does Facebook Make Money: Key Highlights
 
-**Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018. Nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources, like net fee coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
+**Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018. Nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources. Other sources are net fees coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
 
 **Summarized Income Statement for Facebook, Inc.**
 
