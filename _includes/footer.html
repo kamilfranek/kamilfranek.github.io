@@ -4,13 +4,16 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.twitter.username %}
+    <li><a href="https://linkedin.com/{{ site.author.linkedin }}"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+    {% endif %}
+    {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
     {% if site.author.instagram %}
-      <li><a href="https://www.instagram.com/{{ site.author.instagram }}"><i class="fa fa-fw fa-instagram-square" aria-hidden="true"></i> Instagram</a></li>
+      <li><a href="https://www.instagram.com/{{ site.author.instagram }}"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
     {% endif %}
-    {% if site.youtube.username %}
-      <li><a href="https://www.youtube.com/{{ site.youtube.username }}"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+    {% if site.author.youtube %}
+      <li><a href="{{ site.author.youtube }}"><i class="fa fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
     {% endif %}
     {% if site.facebook.username %}
       <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
