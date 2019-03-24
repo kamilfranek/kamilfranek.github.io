@@ -1,6 +1,6 @@
 ---
-title: "How Does Facebook Make Money: Earnings Report 2018"
-excerpt: "Commented breakdown of Facebook's Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L)"
+title: "How Does Facebook Make Money | Earnings Report 2018"
+excerpt: "Breakdown analysis of Facebook's Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L)"
 draft:
 header: 
   teaser: "assets/images/facebook_logo.png"
@@ -10,13 +10,13 @@ header:
              alt="Facebook logo">
 </figure>
 
-Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financial results don't really show it and Facebook did really well in 2018.
+Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financials don't really show it and company did really well in 2018. Let me walk you throug its financial results. 
 
 ## How Does Facebook Make Money: Key Highlights
 
 **Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018. Nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources. Other sources are net fees coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
 
-**Summarized Income Statement for Facebook, Inc.**
+**Summarized Income Statement (P&L) for Facebook, Inc.**
 
 |(in millions $)				| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
@@ -27,15 +27,21 @@ Facebook is one of the technology giants and is dominating the social media mark
 |Taxes    						| -2.3  | -4.7	| -3.2	|<span style="color:#009F6B">-30%</span>	|
 |**Net income**				    |**10.2**	|**15.9**	|**22.1**	| **+39%**|
 
-Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that **net income growth was strong (+39%) and Facebook made $22.1bn of annual net income** in 2018. Problem is that although the bottom line result is great, **not everything looks so rosy, because the one-off decrease in taxes is hiding quite a massive growth in expenses.**
+Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that **net income growth was strong (+39%) and Facebook made $22.1bn of annual net income** in 2018. The problem is that although the bottom line result is excellent, **not everything looks so rosy when you look at operating income, which increased "only" by +23%. A massive increase in expenses (51%) diluted Facebook's operating income growth. You can't see this dilution on the net income line, because the tax line decreased significantly compared to last year, when the new Tax Code negatively impacted it.**
 
-Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 21% even though its costs & expenses rose by 51%. 
+**Other key metrics for Facebook, Inc.**
+|                   			| 2016 	| 2017	| 2018 	| *2018 % Growth*|
+|-------------------------------|------:|------:|------:|------:|
+|Operating margin				| 45%  | 50%	| 45%	| -	| 
+|EPS (Earnings per share -diluted) 	 $3.49 | $5.39	| $7.57	| +40% | 
+
+Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 23% even though its costs & expenses rose by 51%. Result for shareholders was a earning per share of $7.57.
 
 ## Facebook's Income Statement Visualization
 
 The following waterfall chart is a more detailed visualization of the facebook income statement and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will analyze Facebook's results in a more detailed way. 
 
-If you haven't encountered this chart before and are not familiar with it, <a href="/how-to-redesign-your-income-statement/"> I recommend going through my post explaining how and why I prefer to show income statement in this form.</a>
+If you haven't encountered this chart before and are not familiar with it, <a href="/how-to-redesign-your-income-statement/"> I recommend going through my post explaining how and why I prefer to show P&L statement in this form.</a>
 
 <figure>
     <a href="/assets/images/facebook_income_statement_2018.png">
@@ -69,11 +75,11 @@ In general, Facebook can earn more revenue by increasing number of the active us
 
 Wait a minute, isn't it in all the news that Facebook's number of users is plateauing because people are fed up with it and are closing their accounts?  Well, it wouldn't be the first nor the last time news outlets exaggerated something, but although on overall numbers you can see that active users are growing, they are not growing in the same rate in all geographical regions that Facebook reports. 
 
-### Monthly Active Users (MAU) by Geographic Region (End of year)
+### Monthly active users (MAU) by geographic region
 
-The table below includes only monthly active users for facebook.com and Messenger. Users who have only used Instagram or WhatsUp are not included. 
+The table below includes only monthly active users for facebook.com and Messenger as of December. Counted as of the end of December in each year. Users who have only used Instagram or WhatsUp are not included. 
 
-|(in millions $)   	            | 2016 	| 2017	| 2018 	| 2018 % Growth|
+|(in millions)   	            | 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 231   | 239	| 242	| +1%   |	
 |Europe 						| 349   | 370	| 381	| +3%   |
@@ -85,7 +91,7 @@ In developed markets, active users grew only around 2-3% in 2018, which might be
 
 The most substantial growth was in the Asia-Pacific region, where key sources of growth are India, Indonesia, and the Philippines. In countries outside the US, Canada, and Europe, the number of active users grew by  12% in 2018 and revenues per user by 20%. 
 
-### How Much Money Does Facebook Make Per User: Average Revenue per User by Geographic Region (ARPU).
+### How much money does Facebook make per user: Average revenue per user by geographic region (ARPU).
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
@@ -95,7 +101,7 @@ The most substantial growth was in the Asia-Pacific region, where key sources of
 |Rest of the World    			|  $4.66| $6.2	| $7.52	| +21%	|
 |**Worldwide**				    |**$15.98** |**$20.21**	|**$24.96**	| **+24%**|
 
-### Key highlights of Facebook Revenue Breakdown
+### Key highlights of Facebook revenue analysis
 
 - Revenue increased by 37% (+ $15.2bn) in 2018. This growth was balances across all regions, only Asia-Pacific overperformed, growing by 48%.
 - Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
@@ -103,7 +109,7 @@ The most substantial growth was in the Asia-Pacific region, where key sources of
 - The US & Europe make 70% of Revenue but only 27% of monthly active users.
 - Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.
 
-### Will Facebook Revenue Growth Decelerate in 2019?
+### Will Facebook revenue growth decelerate in 2019?
 
 So what should you make of it? You can see a glass half full because there might be a significant potential of monetization growth outside the US and Europe. On the other hand, you can see the glass half empty because Facebook is struggling with monetization outside developed markets and you don't believe it is going to get better.
 
