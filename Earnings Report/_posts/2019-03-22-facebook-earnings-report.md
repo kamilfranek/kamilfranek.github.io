@@ -16,7 +16,7 @@ Facebook is one of the technology giants and is dominating the social media mark
 
 **Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018. Nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources. Other sources are net fees coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
 
-**Summarized Income Statement (P&L) for Facebook, Inc.**
+### Summarized income statement (P&L) for Facebook, Inc.
 
 |(in millions $)				| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
@@ -31,14 +31,21 @@ Revenue grew by 37% compared to last year which is good news, but the company's 
 
 The problem is that although the bottom line result is excellent, **not everything looks so rosy when you look at operating income, which increased "only" by +23%. A massive increase in expenses (51%) diluted Facebook's operating income growth.** You can't see this dilution on the net income line, because the tax line decreased significantly compared to last year, when the new Tax Code negatively impacted it.
 
-**Other key metrics for Facebook, Inc.**
+### Other key metrics for Facebook, Inc.
 
 |                   			| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
 |Operating margin				| 45%  | 50%	| 45%	| -	| 
-|EPS (Earnings per share) diluted)| 	 $3.49 | $5.39	| $7.57	| +40% | 
+|EPS (Earnings per share) diluted| 	 $3.49 | $5.39	| $7.57	| +40% | 
 
 Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 23% even though its costs & expenses rose by 51%. Result for shareholders was a earning per share of $7.57.
+
+### Facebook (FB) stock performance over last three years
+
+<figure>
+        <img src="/assets/images/facebook_stock_performance_2018.png" 
+             alt="Facebook (FB) stock performance chart">
+</figure>
 
 ## Facebook's Income Statement Visualization
 
