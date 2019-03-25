@@ -3,16 +3,16 @@ title: "How Does Facebook Make Money: Earnings Report 2018"
 excerpt: "Breakdown analysis of Facebook's Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L)"
 draft:
 header: 
-  teaser: "assets/images/facebook_logo.png"
+  teaser: "assets/images/facebook_earnings_review_teaser.png"
 ---
-<figure style="width: 50%;text-align: center;">
+<figure style="width: 50%; text-align:center;">
         <img src="/assets/images/facebook_logo.png" 
              alt="Facebook logo">
 </figure>
 
 Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financials don't really show it and company did really well in 2018. Let me walk you through its financial results. 
 
-## How Does Facebook Make Money: Key Highlights
+## How Does Facebook Make Money - Summary
 
 **Facebook is making money mainly from advertising which makes 99% of its revenue.** Facebook generated  $55.8bn (+37%) of annual revenues in 2018. Nearly all of it came from advertising and only "tiny" amount of $0.8bn (1% of total revenue) was from other sources. Other sources are net fees coming from Facebook Payments and also revenue from consumer hardware (Oculus and Portal). **Mobile advertising revenue represented approximately 92% of total advertising revenue in 2018.**
 
@@ -40,11 +40,18 @@ The problem is that although the bottom line result is excellent, **not everythi
 
 Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 23% even though its costs & expenses rose by 51%. Result for shareholders was a earning per share of $7.57.
 
-### Facebook (FB) stock performance over last three years
+### Facebook (ticker:FB) stock price history over last three years
+
+Analysis of financial statements is very important input for investment decision or valuation. Faocus of this article is not Facebook valuation and its stock price. talk about Facebook stock price or valuation, it makes sense to me to at lest show the stock price and market capitalization over the last 3 years to see how it relatet to facebooks historical financials.
+
+Focus of this article is review of of Facebook's business mainly based on its financial statments and I will not to spend too much time talking about Facebook stock price or its valuation. But it makes sense to show at least this chart with Facebook's stock price development over the last 3 years, to give you some historical context.
 
 <figure>
-        <img src="/assets/images/facebook_stock_performance_2018.png" 
-             alt="Facebook (FB) stock performance chart">
+    <a href="/assets/images/facebook_stock_price_history_2018_3Y.png">
+        <img src="/assets/images/facebook_stock_price_history_2018_3Y.png" 
+             alt="Facebook (FB) stock price historical development over last three years">
+
+     </a>
 </figure>
 
 ## Facebook's Income Statement Visualization
@@ -128,7 +135,14 @@ Even if you are an optimist, things are probably not going to change in 2019. Th
 > "We also expect that our revenue growth rates will
 continue to decelerate sequentially throughout 2019 on a constant currency basis." 
 >
->---David Wehner, CFO of Facebook
+>---David Wehner, CFO of Facebook, Q4 2018 Earnings Call
+
+During Q4 earnings calls, you cant no notice the core message aside from securingy from Mark was focus on messaging and commerce and shopping on Instagram. What we dont know is how much time it will take before it start to be significant revenue contributor.
+
+> "In Instagram, one of the areas I'm most excited about this year is commerce and shopping. There's a lot of natural activity happening here, and this year I expect us to deliver some qualitatively new
+experiences around that."
+>
+>---David Wehner, CEO of Facebook, Q4 2018 Earnings Call
 
 ## How Does Facebook Spend Money?
 
@@ -166,15 +180,15 @@ compared to 2018.
 >Our 2019 capital expenditures outlook is unchanged at $18-$20 billion, driven primarily by our
 continued large investment in building data centers.
 >
->--David Wehner, CFO of Facebook
+>--David Wehner, CFO of Facebook, Q4 2018 Earnings Call
 
 ## 2019 Outlook
 
 So in 2018 Facebook showed solid financial results. However, Facebook guidance is that revenue growth will decelerate in 2019. Not only that, but the company also said that they expect its expenses to continue to grow strongly in 2019 (by 40-50%).  As you can expect, revenue growth below 30% and expenses growth of 50% means none or quite small increase in operating income. 
 
-**So What do you think, will Facebook positively surprise again in 2019?**
+**So what do you think? Will Facebook positively surprise again in 2019?**
 
 ## References & Links
 
-- [Facebook's Annual Report (K10)](https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm)
+- [Facebook's Annual Report (10-K)](https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm)
 - [Facebook Q4 2018 Earnings Call Documents & Transcripts](https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx)
