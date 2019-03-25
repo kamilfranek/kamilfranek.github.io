@@ -40,9 +40,9 @@ The problem is that although the bottom line result is excellent, **not everythi
 
 Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 23% even though its costs & expenses rose by 51%. Result for shareholders was an earning per share of $7.57.
 
-### Facebook stock price history over the last three years (ticker: FB)
+### Facebook (fb) stock price history over the last three years
 
-The focus of this article is a review of Facebook's business based on its financial statements and I will not spend too much time talking about Facebook stock price or its valuation. But it makes sense to show at least this chart with Facebook's stock price development over the last 3 years, to give you some historical context.
+The focus of this article is a review of Facebook's business based on its financial statements and I will not spend too much time talking about Facebook stock price or its valuation. But it makes sense to show at least this chart with Facebook's stock price development over the last 3 years, to give you some historical context. One bar in the chart represents one week.
 
 <figure>
     <a href="/assets/images/facebook_stock_price_history_2018_3Y.png">
