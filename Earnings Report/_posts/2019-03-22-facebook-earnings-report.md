@@ -10,7 +10,7 @@ header:
              alt="Facebook logo">
 </figure>
 
-Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financials don't really show it and company did really well in 2018. Let me walk you through its financial results. 
+Facebook is one of the technology giants and is dominating the social media market with Facebook.com, Instagram, Messenger, and WhatsUp.  The year 2018 wasn't the easiest one for Facebook since they were under a lot of regulatory and media pressure. However, Facebook financials don't really show it and the company did quite well in 2018. Let me walk you through its financial results. 
 
 ## How Does Facebook Make Money - Summary
 
@@ -29,7 +29,7 @@ Facebook is one of the technology giants and is dominating the social media mark
 
 Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that **net income growth was strong (+39%) and Facebook made $22.1bn of annual net income** in 2018. 
 
-The problem is that although the bottom line result is excellent, **not everything looks so rosy when you look at operating income, which increased "only" by +23%. A massive increase in expenses (51%) diluted Facebook's operating income growth.** You can't see this dilution on the net income line, because the tax line decreased significantly compared to last year, when the new Tax Code negatively impacted it.
+The problem is that although the bottom line result is excellent, **not everything looks so rosy when you look at operating income, which increased "only" by +23%. A massive increase in expenses (51%) diluted Facebook's operating income growth.** You can't see this dilution on the net income line, because the tax line decreased significantly compared to last year when the new Tax Code negatively impacted it.
 
 ### Other key metrics for Facebook, Inc.
 
@@ -38,13 +38,11 @@ The problem is that although the bottom line result is excellent, **not everythi
 |Operating margin				| 45%  | 50%	| 45%	| -	| 
 |EPS (Earnings per share) diluted| 	 $3.49 | $5.39	| $7.57	| +40% | 
 
-Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 23% even though its costs & expenses rose by 51%. Result for shareholders was a earning per share of $7.57.
+Revenue growth of 37% together with high starting operating income margin (50%) meant that Facebook grew in operating income by 23% even though its costs & expenses rose by 51%. Result for shareholders was an earning per share of $7.57.
 
-### Facebook (ticker:FB) stock price history over last three years
+### Facebook stock price history over the last three years (ticker: FB)
 
-Analysis of financial statements is very important input for investment decision or valuation. Faocus of this article is not Facebook valuation and its stock price. talk about Facebook stock price or valuation, it makes sense to me to at lest show the stock price and market capitalization over the last 3 years to see how it relatet to facebooks historical financials.
-
-Focus of this article is review of of Facebook's business mainly based on its financial statments and I will not to spend too much time talking about Facebook stock price or its valuation. But it makes sense to show at least this chart with Facebook's stock price development over the last 3 years, to give you some historical context.
+The focus of this article is a review of Facebook's business based on its financial statements and I will not spend too much time talking about Facebook stock price or its valuation. But it makes sense to show at least this chart with Facebook's stock price development over the last 3 years, to give you some historical context.
 
 <figure>
     <a href="/assets/images/facebook_stock_price_history_2018_3Y.png">
@@ -82,7 +80,7 @@ If you haven't encountered this chart before and are not familiar with it, <a hr
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
 |**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
 
-In general, Facebook can earn more revenue by increasing number of the active users or increasing user monetization (revenue per user). User monetization can be split further into an increase in price per add and an increase in the number of ads per user. So let's break it down using 2018 earnings numbers.
+In general, Facebook can earn more revenue by increasing the number of active users or increasing user monetization (revenue per user). User monetization can be split further into an increase in price per add and an increase in the number of ads per user. So let's break it down using 2018 earnings numbers.
 
 **The growth of Facebook revenue (+ 37%) in 2018 was driven by:**
 - **9% increase in active users** 
@@ -124,11 +122,18 @@ The most substantial growth was in the Asia-Pacific region, where key sources of
 - Monthly active users (MAU) grew by 9% in 2018. There was minimal growth in Europe and the US (1% vs 3%) and quite a strong growth (+12%) in the rest of the world.
 - Higher growth in revenue per user in the US, Canada & Europe compared to the rest of the word helped to offset slow growth in active users in these regions.
 - The US & Europe make 70% of Revenue but only 27% of monthly active users.
-- Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in Asia-Pacific region.
+- Average revenue per user in 2018 in the United States & Canada region was $112, which is more than 10x of revenue per user in the Asia-Pacific region.
 
 ### Will Facebook revenue growth decelerate in 2019?
 
 So what should you make of it? You can see a glass half full because there might be a significant potential of monetization growth outside the US and Europe. On the other hand, you can see the glass half empty because Facebook is struggling with monetization outside developed markets and you don't believe it is going to get better.
+
+During 2018 Q4 earnings call, the core message from Mark Zuckerberg aside from security was about focus on messaging and commerce and shopping on Instagram. However, there is big uncertainty about how much time it will take before it starts to be a significant revenue contributor.
+
+> "In Instagram, one of the areas I'm most excited about this year is commerce and shopping. There's a lot of natural activity happening here, and this year I expect us to deliver some qualitatively new
+experiences around that."
+>
+>---Mark Zuckerberg, CEO of Facebook, Q4 2018 Earnings Call
 
 Even if you are an optimist, things are probably not going to change in 2019. That is also a message from Facebook's CFO David Wehner, who said it quite clearly during the company's Q4 earnings call.
 
@@ -137,16 +142,11 @@ continue to decelerate sequentially throughout 2019 on a constant currency basis
 >
 >---David Wehner, CFO of Facebook, Q4 2018 Earnings Call
 
-During Q4 earnings calls, you cant no notice the core message aside from securingy from Mark was focus on messaging and commerce and shopping on Instagram. What we dont know is how much time it will take before it start to be significant revenue contributor.
 
-> "In Instagram, one of the areas I'm most excited about this year is commerce and shopping. There's a lot of natural activity happening here, and this year I expect us to deliver some qualitatively new
-experiences around that."
->
->---David Wehner, CEO of Facebook, Q4 2018 Earnings Call
 
 ## How Does Facebook Spend Money?
 
-To make money, you have to spend money and Facebook is spending significantly more than last year. Total expenses increased by +51% (+$10.4bn). Two main reasons behind this growth are massive investments in data centers, technical infrastructure and enourmous growth in number of employees.
+To make money, you have to spend money and Facebook is spending significantly more than last year. Total expenses increased by +51% (+$10.4bn). Two main reasons behind this growth are massive investments in data centers, technical infrastructure and enormous growth in the number of employees.
 
 ### How much money and on what is Facebook spending
 
@@ -160,9 +160,9 @@ To make money, you have to spend money and Facebook is spending significantly mo
 
 - **Cost of revenues** is an item with the highest annual growth and its increase was driven mainly by an increase in operating expenses related to **data centers, technical infrastructure and higher costs associated with partnership agreements** (traffic acquisition and content acquisition costs)
 
-- **Other expense items** were growing mainly thanks to share-based compensation and **growth in headcount**. This growth was in line with revenue growth except for marketing and sales expense that is growing quicker thanks to **increase in investments into marketing and community operations**. Without that, the marketing expense increase would be in line with revenue growth.
+- **Other expense items** were growing mainly thanks to share-based compensation and **growth in headcount**. This growth was in line with revenue growth except for marketing and sales expense that is growing quicker thanks to **the increase in investments into marketing and community operations**. Without that, the marketing expense increase would be in line with revenue growth.
 
-### How many emploees does Facebook have
+### How many employees does Facebook have
 
 Headcount of Facebook grew massively. Facebook had 35,587 employees at the end of 2018. An **increase of a staggering 42% in one year**
 
@@ -184,7 +184,7 @@ continued large investment in building data centers.
 
 ## 2019 Outlook
 
-So in 2018 Facebook showed solid financial results. However, Facebook guidance is that revenue growth will decelerate in 2019. Not only that, but the company also said that they expect its expenses to continue to grow strongly in 2019 (by 40-50%).  As you can expect, revenue growth below 30% and expenses growth of 50% means none or quite small increase in operating income. 
+So in 2018 Facebook showed solid financial results. However, Facebook guidance is that revenue growth will decelerate in 2019. Not only that, but the company also said that they expect its expenses to continue to grow strongly in 2019 (by 40-50%).  As you can expect, revenue growth below 30% and expenses growth of 50% means none or a quite small increase in operating income. 
 
 **So what do you think? Will Facebook positively surprise again in 2019?**
 
