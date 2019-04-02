@@ -5,7 +5,7 @@ draft: 1
 header: 
   teaser: "assets/images/apple_earnings_review_teaser.png"
 ---
-<figure style="width: 50%; text-align:center;">
+<figure style="width: 30%; text-align:center;">
         <img src="/assets/images/apple_logo.png" 
              alt="Apple logo">
 </figure>
@@ -209,7 +209,7 @@ Looking at costs and expenses for Apple is, fortunately, quite a boring activity
 
 Although I'm focusing mainly on the income statement and not so much on Apple's balance sheet, there is one balance sheet item that I want to look into, and that's Apple's cash balance and how it changed.
 
-In the end of 2018 fiscal year (which for Apple is September 29), Apple had $237.1bn of cash pile. It is a decrease of 12% vs previous year. One of the drivers was that Apple in 2018 repurchase common stock of $72.7 billion compared to $32.9 in 2017.
+In the end of 2018 fiscal year (which for Apple is September 29), ***Apple had $237.1bn cash pile.** It is a decrease of 12% vs previous year. One of the drivers was that **Apple in 2018 repurchase common stock of $72.7 billion** compared to $32.9 in 2017.
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
@@ -235,11 +235,11 @@ See below dates when Apple reported their quarterly and annual earnings reports 
 
 Apple's fiscal year ends in September, so financials above do not include Q4 (July-Sep). Since I already have an update about Q1 2019 (which in calendar terms is Q4 2018) let me give you quick update.
 
-Result in Q4 were not so positive as the full year 2018 result mainly because of overall net sales decrease compared to Q4 2017. Revenues in China decreased by $4.8bn which is a decrease of 27%. Without this decrease, revenue would be stable because a decrease in the Europe segment offset a small increase in the Americas segment. 
+Result in Q4 were not so positive as the full year 2018 result mainly because of **overall net sales decreased compared to Q4 2017. Revenues in China decreased by $4.8bn** which is a decrease of 27%. Without this decrease, revenue would be stable because a decrease in the Europe segment offset a small increase in the Americas segment. 
  
-The revenue decrease was as you probably expect in the iPhone product line. Other product lines including services are continuing to grow. Even iPads and Mac line are growing.
+The revenue decrease was, as you probably expect, in the **iPhone product line.** Other product lines including services are continuing to grow. Even iPads and Mac line are growing.
 
-During Q1 earnings call, Apple pointed several times that although China numbers were worse than was expected based on historical data, active installed base is still growing in China and so are services.
+During Q1 earnings call, Apple pointed several times that although China numbers were worse than was expected based on historical data, **active installed base is still growing in China and so are services**.
 
 So what is the company outlook going forward? Apple confirmed its decision to move into original content and announced that it signed a contract with Oprah. However, **Apple expects that Q2 will have the same problems a Q1 and weakness in China for iPhone will continue.**
 
