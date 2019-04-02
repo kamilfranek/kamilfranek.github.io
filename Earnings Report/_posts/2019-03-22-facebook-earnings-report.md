@@ -1,6 +1,6 @@
 ---
 title: "How Does Facebook Make Money: Earnings Report 2018"
-excerpt: "Breakdown analysis of Facebook's Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L)"
+excerpt: "Breakdown analysis of Facebook's (FB) Annual Earnings Report (2018) with visualization of Facebook's income statement (P&L)"
 draft:
 header: 
   teaser: "assets/images/facebook_earnings_review_teaser.png"
@@ -76,7 +76,7 @@ If you haven't encountered this chart before and are not familiar with it, <a hr
 |-------------------------------|------:|------:|------:|------:|
 |US & Canada					| 13.4  | 19.1	| 25.7	| +35%	| 
 |Europe 						| 6.8   | 10.1	| 13.6	| +35%  |
-|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="#009F6B">+48%</span> |
+|Asia-Pacific   			    | 5  	| 7.9	| 11.7	| <span style="color:#009F6B">+48%</span> |
 |Rest of the World    			| 2.4   | 3.5	| 4.7	| +34%	|
 |**Worldwide**				    |**27.6**	|**40.7**	|**55.8**	| **+37%**|
 
