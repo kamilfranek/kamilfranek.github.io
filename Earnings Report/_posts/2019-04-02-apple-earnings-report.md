@@ -10,13 +10,13 @@ header:
              alt="Apple logo">
 </figure>
 
-Apple Inc. is an iconic company with even more iconic pricing & business strategy that makes it **the most profitable public company in the world.** Apple is often included in one group with other technology giants. Although Apple is a technology company, it differs in the fact that Apple is a matured business with huge revenue, profit, and market share. The other side of it is that it has limited growth potential. 
+Apple Inc. is an iconic company with even more iconic pricing & business strategy that makes it **the most profitable public company in the world.** Apple is often included in one group with other technology giants. Although Apple is a technology company, it is also a matured business with huge revenue, profit and market share, but also limited growth potential. 
 
 Let me walk you through Apple's annual report. I will start with a summary, and we will get into more detailed breakdown later.
 
 ## How Does Apple Make Money - Summary
 
-Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared to the previous year. Majority of Apple's money comes from designing and selling an iPhone and iPhone represented 63% of revenue. Apple's dependence on the iPhone is strong, but there is some diversification. Mac, iPad, wearables and also strongly growing services brought in 37% of the revenues. That being said, when iPhone sales will get hit, Apple will feel it strongly and vice versa.
+Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared to the previous year. **Majority of Apple's money comes from designing and selling an iPhone and iPhone represented 63% of revenue.** Apple's dependence on the iPhone is strong, but there is some diversification. Mac, iPad, wearables and also strongly growing services brought in 37% of the revenues. That being said, when iPhone sales will get hit, Apple will feel it strongly and vice versa.
 
 ### Summarized income statement for Apple, Inc.
 
@@ -209,7 +209,7 @@ Looking at costs and expenses for Apple is, fortunately, quite a boring activity
 
 Although I'm focusing mainly on the income statement and not so much on Apple's balance sheet, there is one balance sheet item that I want to look into, and that's Apple's cash balance and how it changed.
 
-In the end of 2018 fiscal year (which for Apple is September 29), ***Apple had $237.1bn cash pile.** It is a decrease of 12% vs previous year. One of the drivers was that **Apple in 2018 repurchase common stock of $72.7 billion** compared to $32.9 in 2017.
+In the end of 2018 fiscal year (which for Apple is September 29), ***Apple had $237.1bn in cash.** It is a decrease of 12% vs previous year. One of the drivers was that **Apple in 2018 repurchase common stock of $72.7 billion** compared to $32.9 in 2017.
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
@@ -233,15 +233,15 @@ See below dates when Apple reported their quarterly and annual earnings reports 
 
 ## 2019 Outlook and Q4 2018 update
 
-Apple's fiscal year ends in September, so financials above do not include Q4 (July-Sep). Since I already have an update about Q1 2019 (which in calendar terms is Q4 2018) let me give you quick update.
+Apple's fiscal year ends in September, so financials above do not include Q4 (July-Sep). Since I already have an update about Q1 2019 (which in calendar terms is Q4 2018) let me share the main things with you.
 
-Result in Q4 were not so positive as the full year 2018 result mainly because of **overall net sales decreased compared to Q4 2017. Revenues in China decreased by $4.8bn** which is a decrease of 27%. Without this decrease, revenue would be stable because a decrease in the Europe segment offset a small increase in the Americas segment. 
+Result in Q4 were not so positive as the full year 2018 result mainly because **overall net sales decreased compared to Q4 2017. Revenues in China decreased by $4.8bn** which is a decrease of 27%. Without this decrease, revenue would be stable because a decrease in the Europe segment offset a small increase in the Americas segment. 
  
 The revenue decrease was, as you probably expect, in the **iPhone product line.** Other product lines including services are continuing to grow. Even iPads and Mac line are growing.
 
 During Q1 earnings call, Apple pointed several times that although China numbers were worse than was expected based on historical data, **active installed base is still growing in China and so are services**.
 
-So what is the company outlook going forward? Apple confirmed its decision to move into original content and announced that it signed a contract with Oprah. However, **Apple expects that Q2 will have the same problems a Q1 and weakness in China for iPhone will continue.**
+So what is the company outlook going forward? Apple confirmed its decision to move into original content and announced that it signed a contract with Oprah. However, **Apple expects that Q2 will have the same problems as Q1 and weakness in China for iPhone will continue.**
 
 **So what do you think? Will Apple become trillion dollar company again in 2019?**
 
