@@ -5,7 +5,7 @@ draft:
 header: 
   teaser: "assets/images/facebook_earnings_review_teaser.png"
 ---
-<figure style="width: 50%; text-align:center;">
+<figure style="width: 50%" class="align-right">
         <img src="/assets/images/facebook_logo.png" 
              alt="Facebook logo">
 </figure>
