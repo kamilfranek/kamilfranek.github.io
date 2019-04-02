@@ -5,7 +5,7 @@ draft: 1
 header: 
   teaser: "assets/images/apple_earnings_review_teaser.png"
 ---
-<figure style="width: 30%; text-align:center;">
+<figure style="width: 30%" class="align-right"> 
         <img src="/assets/images/apple_logo.png" 
              alt="Apple logo">
 </figure>
@@ -61,11 +61,11 @@ Apple was **the first company which market capitalization got above $1 trillion.
     </a>
 </figure>
 
-## Apples's Income Statement Visualization
+## Apples's Income Statement Visualization - New P&L format
 
 The following waterfall chart is a more detailed visualization of the P&L for Apple and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will walk you through Apple's P&L and show you a more detailed breakdown.
 
-If you haven't encountered this chart before and are not familiar with it, I recommend going through<a href="/how-to-redesign-your-income-statement/"> my post explaining how and why I prefer to show P&L statement in this form.</a>
+If you haven't encountered this p&L format before and are not familiar with it, I recommend going through<a href="/how-to-redesign-your-income-statement/"> my post explaining how and why I prefer to show P&L statement in this form.</a>
 
 <figure>
     <a href="/assets/images/apple_income_statement_chart_2018.png">
@@ -125,7 +125,7 @@ During its Q1 earnings Apple also disclosed the total number of active install b
 |iPad 				| 452  | 439  | 432	| <span style="color:#d7141a">-2% </span> |
 |Mac   			    | 1235 | 1343 | 1400| <span style="color:#009F6B">+4%</span> |
 
-Notice the difference between 2018 and 2017 iPhone average selling price. Apple did not increase prices, but it offered more expensive phones to its customers. It worked, and *this change earned Apple $25 billion in 2018*.
+Notice the difference between 2018 and 2017 iPhone average selling price. Apple did not increase prices, but it offered more expensive phones to its customers. It worked, and **this change earned Apple $25 billion in 2018**.
 
 Unfortunately, Apple decided that it will stop publishing units sales by product in its earnings report. It means that I will not be able to show you a table like this one anymore. 
 
@@ -205,7 +205,7 @@ Looking at costs and expenses for Apple is, fortunately, quite a boring activity
 |-------------------------------|------:|------:|------:|------:|
 |Employees				        | 116,000| 123,000| 132,000| +7% |
 
-## How much money does Apple have (How much cash has Apple 2018?)
+## How much cash does Apple have
 
 Although I'm focusing mainly on the income statement and not so much on Apple's balance sheet, there is one balance sheet item that I want to look into, and that's Apple's cash balance and how it changed.
 
