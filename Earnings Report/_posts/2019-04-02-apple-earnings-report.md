@@ -20,13 +20,6 @@ Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared 
 
 ### Summarized income statement for Apple, Inc.
 
-<figure>
-    <a href="/assets/images/waterfall_income_statement_2018_apple_summarized.png"> 
-        <img src="/assets/images/waterfall_income_statement_2018_apple_summarized.png" 
-             alt="Summarized annual income statement (P&L) visualization for Apple. Based on its 2018 earnings report">
-    </a>
-</figure>
-
 |(in millions $)				| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
 |Revenue						| 215.6  | 229.2 | 265.6 | <span style="color:#009F6B">+16%</span>	| 
@@ -35,7 +28,12 @@ Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared 
 |Other   						| 1.3  	| 2.7	| 2.0	|-27%	|
 |Taxes    						| -15.7  | -15.7	| -13.4	|<span style="color:#009F6B">-15%</span>	|
 |**Net income**				    |**45.7**	|**48.4**	|**59.5**	| **+23%**|
-
+<figure>
+    <a href="/assets/images/waterfall_income_statement_2018_apple_summarized.png"> 
+        <img src="/assets/images/waterfall_income_statement_2018_apple_summarized.png" 
+             alt="Summarized annual income statement (P&L) visualization for Apple. Based on its 2018 earnings report">
+    </a>
+</figure>
 Apple again proved its dominance and ability to innovate in 2018 by significantly **increasing its already enormous operating income and revenue by 16% on quite a saturated market**. Sales of iPhones in units did not grow much compared to last year, but the company **strategy of offering more expensive phones with higher margin paid off**, at least for the time being. 
 
 **Revenue and operating income of Apple was growing by 16% and net income by 23%.** So what was the difference? Apple's expenses did not cause that, because they increased in line with revenue by 16%. The reason behind net income growing more quickly than revenue is taxes that dropped significantly vs. 2017 as a result of the new Tax Code. The bottom line is that **Apple increased its already enormous profit by +11bn (+23% growth vs. 2017) and earned $59.5bn in the 2018 fiscal year.** 

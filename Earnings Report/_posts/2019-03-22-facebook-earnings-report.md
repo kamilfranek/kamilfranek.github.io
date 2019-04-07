@@ -18,13 +18,6 @@ Facebook is one of the technology giants and is dominating the social media mark
 
 ### Summarized income statement (P&L) for Facebook, Inc.
 
-<figure>
-    <a href="/assets/images/waterfall_income_statement_2018_facebook_summarized.png"> 
-        <img src="/assets/images/waterfall_income_statement_2018_facebook_summarized.png" 
-             alt="Summarized annual income statement (P&L) visualization for Facebook. Based on its 2018 earnings report">
-    </a>
-</figure>
-
 |(in millions $)				| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
 |Revenue						| 27.6  | 40.7	| 55.8	| <span style="color:#009F6B">+37%</span>	| 
@@ -33,7 +26,12 @@ Facebook is one of the technology giants and is dominating the social media mark
 |Other   						| 0.1  	| 0.4	| 0.4	|+15%	|
 |Taxes    						| -2.3  | -4.7	| -3.2	|<span style="color:#009F6B">-30%</span>	|
 |**Net income**				    |**10.2**	|**15.9**	|**22.1**	| **+39%**|
-
+<figure>
+    <a href="/assets/images/waterfall_income_statement_2018_facebook_summarized.png"> 
+        <img src="/assets/images/waterfall_income_statement_2018_facebook_summarized.png" 
+             alt="Summarized annual income statement (P&L) visualization for Facebook. Based on its 2018 earnings report">
+    </a>
+</figure>
 Revenue grew by 37% compared to last year which is good news, but the company's revenue is just one piece of Facebook's net income. Above is a summary of Facebook's P&L that shows that **net income growth was strong (+39%) and Facebook made $22.1bn of annual net income** in 2018. 
 
 The problem is that although the bottom line result is excellent, **not everything looks so rosy when you look at operating income, which increased "only" by +23%. A massive increase in expenses (51%) diluted Facebook's operating income growth.** You can't see this dilution on the net income line, because the tax line decreased significantly compared to last year when the new Tax Code negatively impacted it.
