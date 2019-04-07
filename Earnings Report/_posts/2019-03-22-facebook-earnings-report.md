@@ -18,6 +18,13 @@ Facebook is one of the technology giants and is dominating the social media mark
 
 ### Summarized income statement (P&L) for Facebook, Inc.
 
+<figure>
+    <a href="/assets/images/waterfall_income_statement_2018_facebook_summarized.png"> 
+        <img src="/assets/images/waterfall_income_statement_2018_facebook_summarized.png" 
+             alt="Summarized annual income statement (P&L) visualization for Facebook. Based on its 2018 earnings report">
+    </a>
+</figure>
+
 |(in millions $)				| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
 |Revenue						| 27.6  | 40.7	| 55.8	| <span style="color:#009F6B">+37%</span>	| 

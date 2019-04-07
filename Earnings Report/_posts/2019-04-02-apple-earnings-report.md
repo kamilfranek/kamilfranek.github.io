@@ -20,6 +20,13 @@ Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared 
 
 ### Summarized income statement for Apple, Inc.
 
+<figure>
+    <a href="/assets/images/waterfall_income_statement_2018_apple_summarized.png"> 
+        <img src="/assets/images/waterfall_income_statement_2018_apple_summarized.png" 
+             alt="Summarized annual income statement (P&L) visualization for Apple. Based on its 2018 earnings report">
+    </a>
+</figure>
+
 |(in millions $)				| 2016 	| 2017	| 2018 	| *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|
 |Revenue						| 215.6  | 229.2 | 265.6 | <span style="color:#009F6B">+16%</span>	| 
@@ -61,7 +68,7 @@ Apple was **the first company which market capitalization got above $1 trillion.
     </a>
 </figure>
 
-## Apples's Income Statement Visualization - New P&L format
+## Apples's Income Statement Visualization
 
 The following waterfall chart is a more detailed visualization of the P&L for Apple and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will walk you through Apple's P&L and show you a more detailed breakdown.
 
@@ -102,7 +109,7 @@ Services contain both App Store revenue and revenues from selling content.
 
 |(in millions units)	| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------|------:|------:|------:|------:|
-|iPhone				| 211.9  | 216.8| 217,7	| +0% 	| 
+|iPhone				| 211.9  | 216.8| 217.7	| +0% 	| 
 |iPad 				| 45.6   | 43.8	| 43.5	| -1%  |
 |Mac   			    | 18.5  	| 19.3	| 18.2	| <span style="color:#d7141a">-5%</span> |
 
@@ -110,7 +117,7 @@ As you see above Apple managed to sell 218 million iPhones in 2018.
 
 ### How many Apple users were there in the world in 2018?
 
-During its Q1 earnings Apple also disclosed the total number of active install based devices.
+During its Q1 earnings call Apple also disclosed the total number of active install based devices.
 
 >".. our total active installed base devices has grown from **1.3 billion** at the end of January of 2018 to **1.4 billion by the end of December** reaching a new all-time high for each of the main product categories and for all five of our geographic segments"
 >
