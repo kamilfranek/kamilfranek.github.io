@@ -28,6 +28,7 @@ Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared 
 |Other   						| 1.3  	| 2.7	| 2.0	|-27%	|
 |Taxes    						| -15.7  | -15.7	| -13.4	|<span style="color:#009F6B">-15%</span>	|
 |**Net income**				    |**45.7**	|**48.4**	|**59.5**	| **+23%**|
+
 <figure>
     <a href="/assets/images/waterfall_income_statement_2018_apple_summarized.png"> 
         <img src="/assets/images/waterfall_income_statement_2018_apple_summarized.png" 

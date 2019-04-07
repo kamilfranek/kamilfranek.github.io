@@ -26,6 +26,7 @@ Facebook is one of the technology giants and is dominating the social media mark
 |Other   						| 0.1  	| 0.4	| 0.4	|+15%	|
 |Taxes    						| -2.3  | -4.7	| -3.2	|<span style="color:#009F6B">-30%</span>	|
 |**Net income**				    |**10.2**	|**15.9**	|**22.1**	| **+39%**|
+
 <figure>
     <a href="/assets/images/waterfall_income_statement_2018_facebook_summarized.png"> 
         <img src="/assets/images/waterfall_income_statement_2018_facebook_summarized.png" 
