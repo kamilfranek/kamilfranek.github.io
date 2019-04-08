@@ -16,7 +16,7 @@ Let me walk you through Apple's annual report. I will start with a summary, and 
 
 ## How Does Apple Make Money - Summary
 
-Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared to the previous year. **Majority of Apple's money comes from designing and selling an iPhone and iPhone represented 63% of revenue.** Apple's dependence on the iPhone is strong, but there is some diversification. Mac, iPad, wearables and also strongly growing services brought in 37% of the revenues. That being said, when iPhone sales will get hit, Apple will feel it strongly and vice versa.
+Apple made **$266bn in revenue in 2018** with a growth rate of **16%** compared to the previous year. **Majority of Apple's money comes from designing and selling an iPhone, and iPhone represented 63% of revenue.** Apple's dependence on the iPhone is strong, but there is some diversification. Mac, iPad, wearables and also strongly growing services brought in 37% of the revenues. That being said, when iPhone sales will get hit, Apple will feel it strongly and vice versa.
 
 ### Summarized income statement for Apple, Inc.
 
@@ -39,7 +39,7 @@ Apple again proved its dominance and ability to innovate in 2018 by significantl
 
 **Revenue and operating income of Apple was growing by 16% and net income by 23%.** So what was the difference? Apple's expenses did not cause that, because they increased in line with revenue by 16%. The reason behind net income growing more quickly than revenue is taxes that dropped significantly vs. 2017 as a result of the new Tax Code. The bottom line is that **Apple increased its already enormous profit by +11bn (+23% growth vs. 2017) and earned $59.5bn in the 2018 fiscal year.** 
 
-It is important to note that although Apple is strongly dependent on iPhones (63% of its revenue), it is very well diversified geographically and only **37% of its revenue is from the U.S**, rest is international. Another good news from Apple's results is that growth in revenue is evenly spread across all regional segments.
+It is important to note that although Apple is strongly dependent on iPhones (63% of its revenue), it is very well diversified geographically and only **37% of its revenue is from the U.S.** The rest is international. Another good news from Apple's results is that growth in revenue is evenly spread across all regional segments.
 
 ### Earnings per share (EPS) & Profit margins for Apple, Inc.
 
@@ -57,7 +57,7 @@ Operating margin of 27% is an amazing achievement for phone manufacturer, and ev
 
 The focus of this analysis is to review Apple's business based on its financial statements, and I will not spend too much time talking about its stock price or its valuation. But it makes sense to show at least this chart with Apple’s stock price development over the last three years, to give you some historical context. One bar in the graph represents one week.
 
-Apple was **the first company which market capitalization got above $1 trillion.** Unfortunately, it was only for three months in the second half of 2018. At the end of 2018 Apples, stocks got hammered together with the rest of the market and particularly technology stocks.  It's market capitalization **dropped to $0.7 trillion**. Since then it got to around **$0.9 trillion** in the first quarter of 2019.
+Apple was **the first company which market capitalization got above $1 trillion.** Unfortunately, it was only for three months in the second half of 2018. At the end of 2018, Apple stocks got hammered together with the rest of the market and particularly technology stocks.  It's market capitalization **dropped to $0.7 trillion**. Since then it got to around **$0.9 trillion** in the first quarter of 2019.
 
 <figure>
     <a href="/assets/images/apple_stock_price_history_2018_3Y.png">
@@ -71,7 +71,7 @@ Apple was **the first company which market capitalization got above $1 trillion.
 
 The following waterfall chart is a more detailed visualization of the P&L for Apple and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will walk you through Apple's P&L and show you a more detailed breakdown.
 
-If you haven't encountered this p&L format before and are not familiar with it, I recommend going through<a href="/how-to-redesign-your-income-statement/"> my post explaining how and why I prefer to show P&L statement in this form.</a>
+If you haven't encountered this P&L format before and are not familiar with it, I recommend going through my<a href="/how-to-redesign-your-income-statement/"> post explaining how and why I prefer to show P&L statement in this form.</a>
 
 <figure>
     <a href="/assets/images/apple_income_statement_chart_2018.png">
@@ -82,7 +82,7 @@ If you haven't encountered this p&L format before and are not familiar with it, 
 
 
 ## How Does Apple Generate Revenue: Revenue Breakdown
-Apple's **revenue increase by 16% (+$36.4bn)** in 2018. Given Apple's size, it is an amazing result. What is the core driver of this growth? It wasn't Apple Watch and neither services that Apple's executives like to talk about as an important revenue stream for the future. 
+Apple's **revenue increased by 16% (+$36.4bn)** in 2018. Given Apple's size, it is an amazing result. What is the core driver of this growth? It wasn't Apple Watch and neither services that Apple's executives like to talk about as an important revenue stream for the future. 
 
 **The dominant driver behind Apples's 2018 revenue growth was iPhone revenue**, which represented **70% of revenue growth in 2018.** Another critical fact is that all this iPhone revenue growth was thanks to an **increase in iPhone average price** because the **number of sold units did not change**.
 
@@ -161,7 +161,7 @@ Apple also discloses revenue for the U.S. separately, which was **$98bn in 2018*
 |Greater China  		| 18.8 	| 17.0	| 19.7	| +16% |
 |Japan    			    | 7.2  | 8.1	| 9.5	| +17%	|
 |Rest of Asia Pacific   | 4.8  | 5.3	| 6.2	| +17%	|
-|**Total**			|**215.6**	|**229.2**	|**265.6**	| **+16%**|
+|**Total**			|**60.0**	|**61.3**	|**70.9**	| **+16%**|
 
 ### Operating margin by geographic regions
 
@@ -175,13 +175,13 @@ Apple also discloses revenue for the U.S. separately, which was **$98bn in 2018*
 
 Similar to absolute operating income by geographic segments, operating margins above include only expenses directly attributable to a given geographical region. Therefore they are not comparable to the overall operating margin of 27%. 
 
-If you look at margins by geographic regions **margins in Asia are significantly higher than in the rest Americas or Europe regions.** Japan is standing out here with **44% margin**.
+If you look at margins by geographic regions **margins in Asia are significantly higher than in the rest Americas or Europe** regions. **Japan** is standing out here with **44% margin**.
 
 ### Key highlights of Apple revenue breakdown
 
 - **Net sales increased by $36.4 billion** during 2018 (16% growth), and Apple was able to keep the same **gross margin** as in 2017 at **38%**. The company anticipates first quarter of 2019 gross margin to be between 38.0% and 38.5%.
 
-- **iPhone is a core product** for Apple, but this year it was **responsible also for the majority of revenue growth**. iPhone contributed $25bn from total $36bn of revenue growth. The second most important item in term of growth were **Services**. Services revenue increased vs. last year by +$7bn. Revenues form iMac and iPad slightly decreased.
+- **iPhone is a core product** for Apple, but this year it was **responsible also for the majority of revenue growth**. iPhone contributed $25bn from total $36bn of revenue growth. The second most important item in terms of growth were **Services**. Services revenue increased vs. last year by +$7bn. Revenues form iMac and iPad slightly decreased.
 
 - iPhone units sold grew only by 0,4% (vs +2% last year), which means that **all revenue growth for iPhone product segment is attributable to Apple's bet on more expensive models** (increase in the average price of iPhones). The company sold nearly 218 million units in 2018.⠀⠀
  
@@ -215,7 +215,7 @@ Looking at costs and expenses for Apple is, fortunately, quite a boring activity
 
 Although I'm focusing mainly on the income statement and not so much on Apple's balance sheet, there is one balance sheet item that I want to look into, and that's Apple's cash balance and how it changed.
 
-In the end of 2018 fiscal year (which for Apple is September 29), ***Apple had $237.1bn in cash.** It is a decrease of 12% vs previous year. One of the drivers was that **Apple in 2018 repurchase common stock of $72.7 billion** compared to $32.9 in 2017.
+In the end of 2018 fiscal year (which for Apple is September 29), **Apple had $237.1bn in cash.** It is a decrease of 12% vs previous year. One of the drivers was that **Apple in 2018 repurchase common stock of $72.7 billion** compared to $32.9 in 2017.
 
 | 								| 2016 	| 2017	| 2018 	| 2018 % Growth|
 |-------------------------------|------:|------:|------:|------:|
