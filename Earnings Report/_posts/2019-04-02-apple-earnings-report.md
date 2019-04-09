@@ -10,6 +10,21 @@ header:
              alt="Apple logo">
 </figure>
 
+<style>
+
+.cardlist { 
+li { 
+  list-style-type: none;
+  position: relative;
+  font-size: 1.5rem;
+  padding: 15px;
+  margin-bottom: 10px;
+  background: #ADD8E6;
+  color: #fff;
+}
+}
+</style>
+
 Apple Inc. is an iconic company with even more iconic pricing & business strategy that makes it **the most profitable public company in the world.** Apple is often included in one group with other technology giants. Although Apple is a technology company, it is also a matured business with huge revenue, profit and market share, but also limited growth potential. 
 
 Let me walk you through Apple's annual report. I will start with a summary, and we will get into more detailed breakdown later.
@@ -175,10 +190,11 @@ Apple also discloses revenue for the U.S. separately, which was **$98bn in 2018*
 
 Similar to absolute operating income by geographic segments, operating margins above include only expenses directly attributable to a given geographical region. Therefore they are not comparable to the overall operating margin of 27%. 
 
-If you look at margins by geographic regions **margins in Asia are significantly higher than in the rest Americas or Europe** regions. **Japan** is standing out here with **44% margin**.
+If you look at margins by geographic regions **margins in Asia are significantly higher than in the Americas or Europe** regions. **Japan** is standing out here with **44% margin**.
 
 ### Key highlights of Apple revenue breakdown
 
+<div style="cardlist">
 - **Net sales increased by $36.4 billion** during 2018 (16% growth), and Apple was able to keep the same **gross margin** as in 2017 at **38%**. The company anticipates first quarter of 2019 gross margin to be between 38.0% and 38.5%.
 
 - **iPhone is a core product** for Apple, but this year it was **responsible also for the majority of revenue growth**. iPhone contributed $25bn from total $36bn of revenue growth. The second most important item in terms of growth were **Services**. Services revenue increased vs. last year by +$7bn. Revenues form iMac and iPad slightly decreased.
@@ -192,6 +208,8 @@ If you look at margins by geographic regions **margins in Asia are significantly
 - Currently, **37% of Apple revenue come from the US and 20% from China.** Dependence on China market might mean trouble going forward, given the current foreign policy situation. ⠀
 
 - **active installed base** devices have grown **from 1.3 billion** at the end of January of 2018 to **1.4 billion** by the end of December
+
+</div>
 
 ## How Does Apple Spend Money? (Cost & Expenses)
 Looking at costs and expenses for Apple is, fortunately, quite a boring activity. Expenses increases are roughly in line with revenue growth, and also headcount growth is reasonable (+7%). 
