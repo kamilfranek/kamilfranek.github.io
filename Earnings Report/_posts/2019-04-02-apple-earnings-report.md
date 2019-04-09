@@ -198,6 +198,7 @@ If you look at margins by geographic regions **margins in Asia are significantly
 {:.cardlist}
 - **Net sales increased by $36.4 billion** during 2018 (16% growth), and Apple was able to keep the same **gross margin** as in 2017 at **38%**. The company anticipates first quarter of 2019 gross margin to be between 38.0% and 38.5%.
 
+{:.cardlist}
 - **iPhone is a core product** for Apple, but this year it was **responsible also for the majority of revenue growth**. iPhone contributed $25bn from total $36bn of revenue growth. The second most important item in terms of growth were **Services**. Services revenue increased vs. last year by +$7bn. Revenues form iMac and iPad slightly decreased.
 
 - iPhone units sold grew only by 0,4% (vs +2% last year), which means that **all revenue growth for iPhone product segment is attributable to Apple's bet on more expensive models** (increase in the average price of iPhones). The company sold nearly 218 million units in 2018.⠀⠀
