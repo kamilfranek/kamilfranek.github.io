@@ -13,7 +13,8 @@ header:
 <style>
 
 .cardlist { 
-li { 
+
+ul li { 
   list-style-type: none;
   position: relative;
   font-size: 1.5rem;
@@ -208,8 +209,6 @@ If you look at margins by geographic regions **margins in Asia are significantly
 - Currently, **37% of Apple revenue come from the US and 20% from China.** Dependence on China market might mean trouble going forward, given the current foreign policy situation. ⠀
 
 - **active installed base** devices have grown **from 1.3 billion** at the end of January of 2018 to **1.4 billion** by the end of December
-
-</div>
 
 ## How Does Apple Spend Money? (Cost & Expenses)
 Looking at costs and expenses for Apple is, fortunately, quite a boring activity. Expenses increases are roughly in line with revenue growth, and also headcount growth is reasonable (+7%). 
