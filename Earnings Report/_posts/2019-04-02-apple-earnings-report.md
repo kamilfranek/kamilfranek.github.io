@@ -16,10 +16,9 @@ header:
   list-style-type: none;
   position: relative;
   font-size: 1 rem;
-  padding: 10px;
-  margin-bottom: 10px;
-  background: #8fbef0;
-  color: #fff;
+  padding: 8;
+  margin-bottom: 10;
+  background: #d2e4f9;
 }
 </style>
 
