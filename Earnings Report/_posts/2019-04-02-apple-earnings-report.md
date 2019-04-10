@@ -24,10 +24,7 @@ header:
   cursor: pointer;
 }
 
-.cardlist ul {
-  list-style-type: none;
-  padding: 10px;
-}
+
 </style>
 
 
