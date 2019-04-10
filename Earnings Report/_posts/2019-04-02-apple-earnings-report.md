@@ -19,12 +19,12 @@ header:
   background: #d2e4f9;
 }
 
-.test li:hover {
+.cardlist li:hover {
   background: #eee;
   cursor: pointer;
 }
 
-.test ul {
+.cardlist ul {
   list-style-type: none;
   padding: 10px;
 }
