@@ -12,13 +12,21 @@ header:
 
 <style>
 .cardlist li {
-
-  list-style-type: none;
   position: relative;
   font-size: 1 rem;
-  padding: 8;
-  margin-bottom: 10;
+  padding: 8px;
+  margin-bottom: 10px;
   background: #d2e4f9;
+}
+
+.test li:hover {
+  background: #eee;
+  cursor: pointer;
+}
+
+.test ul {
+  list-style-type: none;
+  padding: 10px;
 }
 </style>
 
