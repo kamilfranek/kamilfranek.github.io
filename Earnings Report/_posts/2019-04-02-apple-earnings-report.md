@@ -19,10 +19,11 @@ header:
   background: #d2e4f9;
 }
 
-.cardlist li:hover {
+/*
+ .cardlist li:hover {
   background: #eee;
   cursor: pointer;
-}
+}   */
 
 
 </style>
@@ -244,7 +245,7 @@ In the end of 2018 fiscal year (which for Apple is September 29), **Apple had $2
 |Cash, cash equivalents and marketable securities | $237.6bn| $268.9bn| $237.1bn| -12% |
 
 
-### When does apple report earnings?
+## When does apple report earnings?
 
 See below dates when Apple reported their quarterly and annual earnings reports last year. You can expect this year schedule to be very similar, although it might differ by a few days.
 
