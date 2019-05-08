@@ -1,7 +1,7 @@
 ---
 title: "How Does Apple Make Money: Earnings Report 2018"
 excerpt: "Analysis of Apple's (AAPL) Annual Earnings Report (2018) with visualization of Apple's income statement (P&L)"
-draft: 1
+draft:
 header: 
   teaser: "assets/images/apple_earnings_review_teaser.png"
 ---
