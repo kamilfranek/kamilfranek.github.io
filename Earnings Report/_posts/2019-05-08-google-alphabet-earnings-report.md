@@ -5,7 +5,7 @@ draft: 1
 header: 
   teaser: "assets/images/alphabet_google_earnings_report_teaser.png"
 ---
-<figure style="width: 30%" class="align-right"> 
+<figure style="width: 50%" class="align-right"> 
         <img src="/assets/images/alphabet_google_earnings_report_teaser.png" 
              alt="Google and Alphabet logo">
 </figure>
@@ -79,8 +79,8 @@ Here you can see a simplified income statement both as a table and visualization
 |**Net income**            |**14.1**    |**16.3**    |**19.5**    |**12.7**    |**30.7**    |<span style="color:#009F6B"> **+243%**</span>|
 
 <figure>
-    <a href="/assets/images/waterfall_income_statement_2018_apple_summarized.png"> 
-        <img src="/assets/images/waterfall_income_statement_2018_apple_summarized.png" 
+    <a href="/assets/images/alphabet_google_income_statement_summarized_chart.png"> 
+        <img src="/assets/images/alphabet_google_income_statement_summarized_chart.png" 
              alt="Summarized annual income statement (P&L) visualization for Alphabet/Google. Based on its 2018 earnings report">
     </a>
 </figure>
@@ -163,9 +163,9 @@ The following waterfall chart is a more detailed visualization of the P&L for Al
 If you haven't encountered this income statement format before and are not familiar with it, I recommend going through my<a href="/how-to-redesign-your-income-statement/"> post explaining how and why I prefer to show P&L statement in this format.</a>
 
 <figure>
-    <a href="/assets/images/alphabet_google_income_statement_chart_2018.png">
-        <img src="/assets/images/alphabet_google_income_statement_chart_2018.png" 
-             alt="Income statement (P&L) 2018 visualization for Alphabet/Google using waterfall chart">
+    <a href="/assets/images/alphabet_google_income_statement_waterfall_chart.png">
+        <img src="/assets/images/alphabet_google_income_statement_waterfall_chart.png" 
+             alt="Income statement (P&L) 2018 visualization for Alphabet/Google, using waterfall chart">
     </a>
 </figure>
 
@@ -414,8 +414,8 @@ It is important to note that price below is price of Class C Alphabet's stock. B
 Publicly traded are only Class A & C. Both of these classes price is tightly connected. Class A stock price is always slightly higher than Class C since it has the voting right, but the difference is small. 
 
 <figure>
-    <a href="/assets/images/alphabet_google_stock_price_history_2018_5Y.png">
-        <img src="/assets/images/alphabet_google_stock_price_history_2018_5Y.png" 
+    <a href="/assets/images/alphabet_google_stock_price_history_5Y.png">
+        <img src="/assets/images/alphabet_google_stock_price_history_5Y.png" 
              alt="Alphabet/Google (GOOGL) stock price history over the last five years">
 
    </a>
