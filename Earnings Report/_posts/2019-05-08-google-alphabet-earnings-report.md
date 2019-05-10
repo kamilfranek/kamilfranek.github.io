@@ -410,6 +410,7 @@ At the end of the 2018 fiscal year, **Google/Alphabet had $109.1bn in cash.** It
 
 The focus of this analysis is to review Google's business based on its financial statements, and I will not spend too much time talking about its stock price or its valuation. But it makes sense to show at least this chart with Alphabet's stock price development over the last three years, to give you some historical context. One bar in the graph represents one week.
 
+
 It is important to note that price below is price of Class C Alphabet's stock. But Alphabet has three classes of stock:
 - **Class A:** stocks with voting rights (1 stock = 1 vote). Traded at stock exchanges as GOOGL.
 - **Class B:** supershares with super voting right (1 stock = 10 votes) mostly in the hands of insiders. This class of stock is not traded at public markets. Thanks to these stocks and associated votes, Larry Page and Sergey Brin retained control over Alphabet.
