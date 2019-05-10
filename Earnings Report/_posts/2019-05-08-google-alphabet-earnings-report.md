@@ -5,8 +5,8 @@ draft: 1
 header: 
   teaser: "assets/images/alphabet_google_earnings_report_teaser.png"
 ---
-<figure style="width: 50%" class="align-right"> 
-        <img src="/assets/images/alphabet_google_earnings_report_teaser.png" 
+<figure class="align-right"> 
+        <img src="/assets/images/alphabet_google_logo.png" 
              alt="Google and Alphabet logo">
 </figure>
 
