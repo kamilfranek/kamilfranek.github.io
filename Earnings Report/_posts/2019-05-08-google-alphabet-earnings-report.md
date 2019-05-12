@@ -1,5 +1,5 @@
 ---
-title: "Google (Alphabet) Financial Results Breakdown 2018 (with Charts)"
+title: "Google (Alphabet) Financial Results: Breakdown of 2018 with Charts"
 excerpt: "Step by step explanation of Alphabet/Google (GOOG) financial statements from annual earnings report. All with added charts, detailed revenue breakdown, income statement (P&L) visualization and key takeaways."
 draft: 1
 header: 
@@ -39,7 +39,7 @@ In this article, I will walk you through the Alphabet's annual report to see how
 
 ## How Does Google/Alphabet Make Money?
 
-Google/Alphabet is active in many areas, but it's main source of income is digital advertising. **Advertising made 85% of $137bn of Alphabets revenues** in 2018.
+Google (Alphabet) is active in many areas, but it's main source of income is digital advertising. **Advertising made 85% of $137bn of Alphabets revenues** in 2018.
 
 Google is earning money from advertising mainly by **selling ads on its own sites** (they call them Google properties). It is not only Google.com search but also Gmail, Google Maps, YouTube, Google Play. Revenue from Google properties **makes the majority (70%) of Google's revenues.**
 
@@ -53,7 +53,7 @@ So only **15% of Alphabet's/Google's revenue is non-advertising** and here is a 
 
 You might notice that all of the revenue sources above are google services and products and none of it mentions other non-Google businesses that Alphabet owns. It is not because I forgot to mention it; it is because the **Alphabet's other subsidiaries besides Google does not generate any material revenues**. Alphabets "Other Bets" are not even 0.5% of revenue, so we can simply ignore it for now. Maybe it will change in the future, but this is where we are now and at least in terms of revenues Alphabet = Google. Alphabet = Google doesn't so easily apply if we look at operating income or net income level, but I will come to this later.
 
-## How Much Money Does Google/Alphabet make: Summarized Earnings Report
+## How Much Money Does Google (Alphabet) make: Summarized Earnings Report
 
 With **$137bn in revenues last year** which was a solid growth of **23%**, **Google/Alphabet earned 30.7bn net income in 2018** which is a staggering 243% increase compared to the previous year.
 
@@ -61,9 +61,11 @@ Does it look too good to be true? It definitely is because if you look at Alphab
 -  One of them is high tax expense last year, which means that a new Tax Code impact temporarily inflated the tax line and comparison of 2018 to 2017 is skewed.
 - The second reason is high extraordinary unrealized gains on equity securities which are influencing "Other" line of Alphabet's income statement
 
+Here you can see a simplified income statement both as a table and visualization in the form of a waterfall chart. It should give you bird eyes view of what is happening, and we will get into much bigger detail later.
+
 ### Alphabet (Google) summarized income statement with 5 year history
 
-|(in millions $)                | 2014     | 2015     | 2016     | 2017    | 2018     | *2018 % Growth*|
+|(in billions $)                | 2014     | 2015     | 2016     | 2017    | 2018     | *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|------:|------:|
 |Revenue                        | 66.0  |75.0   | 90.3  | 110.9 | 136.8 | <span style="color:#009F6B">+23%</span>    | 
 |Expenses                         |   -49.5     |   -55.6     | -66.6 | -84.7    | -110.5    | <span style="color:#d7141a">+30%</span>
@@ -83,11 +85,9 @@ If you look at operating income, results do not look so promising because **Alph
 
 I don't think Google has a revenue problem, but **it has a ballooning expenses problem which they will need to address sooner or later.**  The thing is that Alphabet management expects higher expenses growth to continue.
 
-Here you can see a simplified income statement both as a table and visualization in the form of a waterfall chart. It should give you bird eyes view of what is happening, and we will get into much bigger detail later.
+### Earnings per share (EPS) & Profit margins for Alphabet (Google)
 
 Below you can see another summarized look at the Alphabet's financial performance. Operating margin dropped significantly because expenses grew more quickly than revenues, but earnings per share doubled thanks to extraordinary items.
-
-### Earnings per share (EPS) & Profit margins for Alphabet (Google)
 
 |                               | 2014     | 2015     | 2016     | 2017    | 2018     | *2018 % Growth*|
 |-------------------------------|------:|------:|------:|------:|------:|------:|
@@ -97,7 +97,7 @@ Below you can see another summarized look at the Alphabet's financial performanc
 ### How much does Alphabet (Google) make a day or a second
 It is tough to imagine how much Google really earns. We are talking about billions of dollars which is hard to conceptualize for most people. Therefore it might be more manageable to look at how much Alphabet/Google earns per day or even per second. 
 
-From the table below you can see that if you average 2018 results per second, **Alphabet (Google) earned $4.3k of revenues per second** which translated into **net income of $1k per second. **
+From the table below you can see that if you average 2018 results per second, **Alphabet (Google) earned $4.3k of revenues per second** which translated into **net income of $1k per second.**
 
 |        | Per Year (2018)     | Per Day     |  Per Second|
 |-------------------------------|------:|------:|------:|------:|
@@ -108,13 +108,12 @@ From the table below you can see that if you average 2018 results per second, **
 ### Main takeaways from Alphabet/Google earnings report
 
 <div class="cardlist" markdown="1">
-- net income result **looks impressive** both in size and growth, **but it is just an illusion created by** huge tax last year and **extraordinary items** from unrealized gains.
+- net income result **looks impressive** both in size and growth, **but it is just an illusion created by** huge tax last year and from unrealized gains.
 
 - the **revenue growth rate is solid** and Google is dominating search business
 
 - revenue is not Alphabets/Google problem, but it looks that **Alphabet does not have its expenses under control**. Google expenses are growing significantly quicker than revenue. This is a long term trend for Alphabet/Google.
 
-- Action on this expenses issue so far not in sight.   ....xxxxx...
 </div>
 
 
@@ -160,7 +159,7 @@ Alphabet Inc is a publicly traded company, and anybody can buy its stocks if the
 
 It sounds weird, but this is quite a common scheme for tech stocks and similar supervoting power over Facebook has Mark Zuckerberg.
 
-## Google (Alphabet) Detailed Income Statement (P&L) Visualization (using waterfall chart)
+## Google (Alphabet) Detailed Income Statement Visualization (waterfall chart)
 
 The following waterfall chart is a more detailed visualization of the P&L for Alphabet(Google) and should help you understand the proportion between different items and highlight the main changes compared to the previous year. Below the chart, I will walk you through the Alphabet's P&L and show you a more detailed breakdown.
 
@@ -198,7 +197,7 @@ See revenue breakdown by segment below. Overall, all segment growth is roughly s
 
 Let's continue with a more detailed breakdown of individual revenue segments where we will look at different drivers behind each segment.
 
-### Advertising revenue from Google properties (rename based on takeaway)
+### Advertising revenue from Google own sites (Google properties) 
 
 **Majority of $116.3bn of advertising revenue ($96.3bn) is coming from ads that Google shows on its own sites** which Google calls "Google properties." These are sites like google.com, youtube.com, Google Maps or Gmail which Google has in its control so it can keep all ads revenue from ads showed on these sites.
 
@@ -215,7 +214,7 @@ This is the main revenue segment for Alphabet/Google, and it is no surprise that
 
 To sum it up, **Google is getting less per one click, but thanks to growth in Youtube and mobile search there are more clicks, so overall ads revenue from Google properties increased by 24%.**
 
-### Advertising revenue from Network Members' properties (rename based on takeaway)
+### Advertising revenue from Network Members' properties
 
 **A smaller part of Google's revenue ($20.0bn) is coming from ads served through Google on other sites of Google Network Member's**.
 
@@ -225,7 +224,7 @@ This segment has lower growth and had lower growth even last year. The split bet
 
 So to sum up, on **Google Network Members properties Google increased revenues by 14%** and the main driver was **the cost per impression increase**, since the number of impressions grew only by 2%. 
 
-### Google other revenues (rename based on takeaway)
+### Google's other revenues
 
 Other Google revenues consist primarily of revenue from:
 - Apps, in-app purchases, and digital content in the Google Play store
@@ -237,7 +236,7 @@ This segment is the fastest growing revenue segment (33%), and this growth was d
 - Google Play (mainly in-app purchases)
 - Hardware sales
 
-### Google other revenues (rename based on takeaway)
+### Non-Google revenues of Alphabet (Other Bets)
 Revenue from Other Bets segment is minuscule for Alphabet. **Alphabet earned $0.6bn from Other Bets in 2018** and this was coming mainly from  internet and TV services (Google Fiber business) as well as licensing and R&D services (Verily)
 
 ### How much revenue does Google/Alphabet generate in different geographical regions 
@@ -274,10 +273,6 @@ Welcome to the breakdown of Google's expenses. You probably already realized tha
 
 If you remember the revenue growth drivers like mobile search and Youtube traffic, these are also **reasons why a proportion of the cost of revenues increased.** In its annual earning report Alphabet is even warning about this going forward.
 
----- citation from earning call about normalization
-> We expect the cost of revenues to increase in dollar amount and as a percentage of total revenues in future periods based on a number of factors, including the following:
-
-
 Let's look at the breakdown of Alphabets expenses and their growth. Most of the items are growing above the revenue growth rate of 23%. There are two lines which are increasing by a rate that is in line with revenue growth or below and those are "Cost of revenue - TAC" and "General and administrative." 
 
 ### How much money and on what is Alphabet/Google spending
@@ -293,7 +288,7 @@ Let's look at the breakdown of Alphabets expenses and their growth. Most of the 
 |**Total Expenses**                |  **-49.5**   |  **-55.6**   |**-66.6**    |**-84.7**    |**-110.5**    | **+30%**|
 
 ### Cost of revenues - TAC (Traffic acquisition costs)
-**Overall traffic acquisition cost (TAC) grew by 23%** which is in line with revenue growth. Therefore one could wrongly find this number "fine" and move on. However, this is a nice example of how aggregate numbers can hide dynamics within it. If you split this number between the cost of revenues for Google properties vs. partners network, you will get far bigger insight into what is going on.
+Overall traffic acquisition cost (TAC) **grew by 23%** which is in line with revenue growth. Therefore one could wrongly find this number "fine" and move on. However, this is a nice example of how aggregate numbers can hide dynamics within it. If you split this number between the cost of revenues for Google properties vs. partners network, you will get far bigger insight into what is going on.
 
 Alphabet/Google has a problem across nearly all cost lines, but based on the summarized data it might seem that problem is in line "Cost of revenues - Other" that increase 37% compared to the previous year. However, if you split TAC into TAC to distribution partners and TAC to Google Network Members, you will see that there is **another problem right there in the form of 39% increase in TAC to distribution partners that are growing nearly double the rate of revenue for this channel.**
 
@@ -351,7 +346,7 @@ Let's look at the 5-year history of a number of Employees of Alphabet. It is gro
 
 </div>
 
-### How much **revenue** does Alphabet generate in different segments (the breakdown of revenues between Google and other bets) Other Bets are material after all
+### Breakdown of Alphabet's revenues between Google and Other bets
 
 I mentioned several times that in terms of revenue Google = Alphabet because non-Google revenue is minuscule, not even 0,5% of the total revenue of Alphabet.
 
@@ -363,7 +358,7 @@ I mentioned several times that in terms of revenue Google = Alphabet because non
 
 Even though Other Bets doesn't bring any significant revenue, they cost Alphabet a lot of money each year. Luckily Alphabet splits Operating income between Google and Other Bets so we can have an idea of how much money is Alphabet spending on all of those non-Google businesses that doesn't bring any revenue. As you can see below, it is not a tiny amount and it is increasing. 
 
-### How much **operating income** does Alphabet Generate generate in different segments (change to breakdow of ... between Google and other bets)
+### Breakdown of Alphabet's operating income between Google and Other bets
 
 |(in billions $)    | 2016     | 2017    | 2018     | 2018 % Growth|
 |-------------------|------:|------:|------:|------:|
@@ -385,7 +380,8 @@ If you look at long term operating income trend, I think that **Google is an exc
 - Google's main sources of revenue growth like mobile search and Youtube are also reasons why gross margin is decreasing because of the **bigger cost of revenue in these channels**
 - Google is also massively hiring, **growing it's workforce by 23% in 2018.**
 - Problems (although compared to Google not as significant) is also expenses connected with Other Bets. **Alphabet incurred loss of 3.4bn on Other Bets in 2018 alone.**
-- // add info about outlook/ 
+- // add info about outlook/
+
 </div>
 
 
@@ -441,7 +437,9 @@ This article focus is 2018 financial results for Alphabet Inc. But because Alpha
 
 ## 2019 Outlook
 
-I don't worry about Google going out of business at all, but given its growing expenses, it is hard to see some plan how is Google going to increase net income in the future. So far it looks that significant growth in costs that eats up all incremental revenue is going to continue, which might be fine and make sense for an established company that has to heavily invest just to stay at the top, but then the question is if Google's current valuation is justifiable. 
+I thing there is not need to worry about Google going out of business, but given its growing expenses, it is hard to see how is Google going to increase net income in the future. 
+
+So far it looks that significant growth in costs that eats up all incremental revenue is going to continue. And it might be fine and make sense for an established company that has to heavily invest just to stay at the top, but then the question is if Google's current valuation is justifiable.
 
 **So what do you think? Will Google/Alphabet get its expenses under control soon?**
 
