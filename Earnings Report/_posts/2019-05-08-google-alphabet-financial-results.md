@@ -38,8 +38,6 @@ Google is doing so many things at once that the management decided to reorganize
 
 However, **none of the Alphabet's "Other Bets" holdings is earning any significant revenues so far**. Quite frankly if you talk about Alphabet, you talk about Google and vice versa. All the talk about self-driving cars, hot air balloons providing internet, mosquito elimination and other similar projects so far did not translate into financial results.
 
-On the other hand Google's capabilities in AI as cle
-
 In this article, I will walk you through the Alphabet's annual report to see how it is generating its income and analyze its financial results. First few paragraphs summarize its annual earnings reports with more detail breakdown later. 
 
 ## How Does Google/Alphabet Make Money?
@@ -283,9 +281,7 @@ Welcome to the breakdown of Google's expenses. You probably already realized tha
 
 If you remember the revenue growth drivers like mobile search and Youtube traffic, these are also **reasons why a proportion of the cost of revenues increased.** In its annual earning report Alphabet is even warning about this going forward.
 
-For example one of the reasons why an increase in mobile search means more traffic acquisition costs (TAC) for **Google is that it** <a href=https://www.cnbc.com/2019/02/12/goldman-sachs-apple-dependent-on-google-for-services-revenue.html>
-
-**probably pays $9.5 billion to Apple**</a> just to keep Google as a default search engine in Apple products.
+For example one of the reasons why an increase in mobile search means more traffic acquisition costs (TAC) for **Google is that it** <a href="https://www.cnbc.com/2019/02/12/goldman-sachs-apple-dependent-on-google-for-services-revenue.html">**probably pays $9.5 billion to Apple**</a> just to keep Google as a default search engine in Apple products.
 
 Let's look at the breakdown of Alphabets expenses and their growth. Most of the items are growing above the revenue growth rate of 23%. There are two lines which are increasing by a growth rate that is in line with revenue growth or below and those are "Cost of revenue - TAC" and "General and administrative." 
 
@@ -459,7 +455,7 @@ So far it looks that significant growth in costs that eats up all incremental re
 ## References & Links
 
 - [Alphabet/Google's Annual Report 2018 (10-K)](https://www.sec.gov/Archives/edgar/data/1652044/000165204419000004/goog10-kq42018.htm)
-- [Google/Alphabet Q4 2018 Earnings Call Transcript](https://abc.xyz/investor/static/pdf/2018_Q4_Earnings_Transcript.pdf?cache=945e2ca)
+- [Alphabet/Google Q4 2018 Earnings Call Transcript](https://abc.xyz/investor/static/pdf/2018_Q4_Earnings_Transcript.pdf?cache=945e2ca)
 - [Alphabet/Google's Quarterly Earnings Report Q1 2019 (10-Q)](https://www.sec.gov/ix?doc=/Archives/edgar/data/1652044/000165204419000015/goog10-qq12019.htm)
 - [Other Alphabet Earnings Documents](https://abc.xyz/investor/)
 
