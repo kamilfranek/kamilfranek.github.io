@@ -51,9 +51,11 @@ So only **15% of Alphabet's/Google's revenue is non-advertising** and here is a 
 - Google Cloud
 - Hardware (e.g. Nest thermostat, Pixel Phones, Google Home Speakers and others)
 
-You might notice that all of the revenue sources above are google services and products and none of it mentions other non-Google businesses that Alphabet owns. It is not because I forgot to mention it; it is because the **Alphabet's other subsidiaries besides Google does not generate any material revenues**. Alphabets "Other Bets" are not even 0.5% of revenue, so we can simply ignore it for now. Maybe it will change in the future, but this is where we are now and at least in terms of revenues Alphabet = Google. Alphabet = Google doesn't so easily apply if we look at operating income or net income level, but I will come to this later.
+You might notice that all of the revenue sources above are google services and products and none of it mentions other non-Google businesses that Alphabet owns. It is not because I forgot to mention it; it is because the **Alphabet's other subsidiaries besides Google does not generate any material revenues**. 
 
-## How Much Money Does Google (Alphabet) make: Summarized Earnings Report
+Alphabets "Other Bets" are not even 0.5% of revenue, so we can simply ignore it for now. Maybe it will change in the future, but this is where we are now and at least in terms of revenues Alphabet = Google. Alphabet = Google doesn't so easily apply if we look at operating income or net income level, but I will come to this later.
+
+## How Much Money Does Google (Alphabet) Make: Summarized Earnings Report
 
 With **$137bn in revenues last year** which was a solid growth of **23%**, **Google/Alphabet earned 30.7bn net income in 2018** which is a staggering 243% increase compared to the previous year.
 
@@ -155,7 +157,9 @@ The CEO of Alphabet is Lary Page, one of Google's founders. CEO of Google LLC is
 
 ### Who owns Alphabet?
 
-Alphabet Inc is a publicly traded company, and anybody can buy its stocks if they want to. However, even if you buy all the Alphabet publicly traded shares out there you won't have the last word on Alphabet's board because Lary Page and Sergey Brin can easily outvote you. How is it possible? To put it simply, there are different classes of Google Stocks, and class C which is mostly held by Sergey and Lary have supervoting rights. Ordinary Alphabet share has one vote, class C share has 10 votes. 
+Alphabet Inc is a publicly traded company, and anybody can buy its stocks if they want to. However, even if you buy all the Alphabet publicly traded shares out there you won't have the last word on Alphabet's board because Lary Page and Sergey Brin can easily outvote you. How is it possible? 
+
+To put it simply, there are different classes of Google Stocks, and class C which is mostly held by Sergey and Lary have supervoting rights. Ordinary Alphabet share has one vote, class C share has 10 votes. 
 
 It sounds weird, but this is quite a common scheme for tech stocks and similar supervoting power over Facebook has Mark Zuckerberg.
 
@@ -199,7 +203,7 @@ Let's continue with a more detailed breakdown of individual revenue segments whe
 
 ### Advertising revenue from Google own sites (Google properties) 
 
-**Majority of $116.3bn of advertising revenue ($96.3bn) is coming from ads that Google shows on its own sites** which Google calls "Google properties." These are sites like google.com, youtube.com, Google Maps or Gmail which Google has in its control so it can keep all ads revenue from ads showed on these sites.
+Majority of **$116.3bn of advertising revenue** ($96.3bn) is coming from ads that Google shows on its own sites which Google calls **"Google properties."** These are sites like google.com, youtube.com, Google Maps or Gmail which Google has in its control so it can keep all ads revenue from ads showed on these sites.
 
 This is the main revenue segment for Alphabet/Google, and it is no surprise that it is roughly in line with overall Alphabet's Revenue growth.
 
@@ -216,7 +220,7 @@ To sum it up, **Google is getting less per one click, but thanks to growth in Yo
 
 ### Advertising revenue from Network Members' properties
 
-**A smaller part of Google's revenue ($20.0bn) is coming from ads served through Google on other sites of Google Network Member's**.
+A smaller part of Google's revenue (**$20.0bn**) is coming from **ads served through Google on other sites** of Google Network Member's.
 
 This segment has lower growth and had lower growth even last year. The split between quantity and price is also different:
 - impressions of ads on non-google sites increased by 2% only (3% last year)
