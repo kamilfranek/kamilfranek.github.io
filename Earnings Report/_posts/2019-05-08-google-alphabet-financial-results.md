@@ -30,7 +30,7 @@ header:
 </style>
 
 
-Google is a company that does a lot of things. But what is **Google really good at** and became a household name for is **search** where it commands **90+% market share** and using AI in Google's products.
+Google is a company that does a lot of things. But what is **Google really good at** and became a household name for is **search** where it commands **90+% market share** and using AI in its products.
 
 Before I start my guide tour of Google/Alphabet financial results, let's remind ourselfs how does google earns it monedy and what it mainly focuses on.
 
@@ -281,7 +281,7 @@ Welcome to the breakdown of Google's expenses. You probably already realized tha
 
 If you remember the revenue growth drivers like mobile search and Youtube traffic, these are also **reasons why a proportion of the cost of revenues increased.** In its annual earning report Alphabet is even warning about this going forward.
 
-For example one of the reasons why an increase in mobile search means more traffic acquisition costs (TAC) for **Google is that it** <a href="https://www.cnbc.com/2019/02/12/goldman-sachs-apple-dependent-on-google-for-services-revenue.html">**probably pays $9.5 billion to Apple**</a> just to keep Google as a default search engine in Apple products.
+For example one of the reasons why an increase in mobile search means more traffic acquisition costs (TAC) for **Google is that it probably** <a href="https://www.cnbc.com/2019/02/12/goldman-sachs-apple-dependent-on-google-for-services-revenue.html">**pays $9.5 billion to Apple**</a> just to keep Google as a default search engine in Apple products.
 
 Let's look at the breakdown of Alphabets expenses and their growth. Most of the items are growing above the revenue growth rate of 23%. There are two lines which are increasing by a growth rate that is in line with revenue growth or below and those are "Cost of revenue - TAC" and "General and administrative." 
 
