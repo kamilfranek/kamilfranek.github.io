@@ -8,7 +8,7 @@ layout: archive
 <div class="grid__wrapper">
   {% for post in paginator.posts %} 
     {% if post.draft == 1 %}
-
+       
     {% else %} 
       {% include archive-single.html type="grid" %}
     {% endif %}
