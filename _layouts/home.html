@@ -6,15 +6,13 @@ layout: archive
 -->
 <!-- <h3 class="archive__subtitle">Posts</h3>-->
 <div class="grid__wrapper">
-
-  {% for post in paginator.posts %} 
-    {% if post.draft == 1 or post.categories contains "Draft" %} 
-        
-    {% else %} 
-        {% include archive-single.html type="grid" %}
-    {% endif %}
-  {% endfor %}
+    {% for post in paginator.posts %}
+      {% if post.draft == 1 or post.categories contains "Earnings Report" %}
   
-</div>
+      {% else %} 
+        {% include archive-single.html type="grid" %}
+      {% endif %}
+    {% endfor %}
+  </div>
 
 {% include paginator.html %}
