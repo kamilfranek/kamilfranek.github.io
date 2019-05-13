@@ -10,6 +10,8 @@ layout: archive
   {% for post in paginator.posts %} 
     {% if post.draft != 1 %} 
         {% include archive-single.html type="grid" %}
+    {% else %} 
+      
     {% endif %}
   {% endfor %}
   
