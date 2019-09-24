@@ -32,7 +32,7 @@ header:
 
 Google is a company that does a lot of things. But what is **Google really good at** and became a household name for is **search** where it commands **90+% market share** and using AI in its products.
 
-Before I start my guide tour of Google/Alphabet financial results, let's remind ourselfs how does google earns it monedy and what it mainly focuses on.
+Before I start my guide tour of Google/Alphabet financial results, let's remind ourselfs how does google earn its money and what it mainly focuses on.
 
 Google is doing so many things at once that the management decided to reorganize its structure in 2015 and created holding company **Alphabet** that currently owns Google as its subsidiary together with all the other different businesses that were part of Google and they started calling them "Other Bets."
 
