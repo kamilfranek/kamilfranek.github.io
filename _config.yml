@@ -9,10 +9,12 @@ minimal_mistakes_skin    : "default" # "default" , "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "KAMIL FRANEK | Business Analytics Enthusiast"
+title                    : "KAMIL FRANEK | Business Analytics"
 title_separator          : "-"
+logo                     : "/assets/images/branding/logo_kamilfranek_small.png"
+masthead_title           : "Business <br/> Analytics"
 name                     : "Kamil Franek"
-description              : "Business Analytics Enthusiast - Turning Data into Business Insights"
+description              : "Business Analytics Professional - Turning Data Into Business Insights"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
