@@ -144,11 +144,11 @@ Below is similar heat map “twin” map visualization comparing the share of pe
 <sub>**References:**</sub>
 
 <sub>
-Czech Statistical Office (2011). *Selected data from 2011 Czech Republic Census (26. 3. 2011).*[ https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011.](https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011)
+Czech Statistical Office (2011). *Selected data from 2011 Czech Republic Census (26. 3. 2011).*[ https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011.](https://www.czso.cz/csu/czso/otevrena_data_pro_vysledky_scitani_lidu_domu_a_bytu_2011_sldb_2011){:target=" _blank"} 
 </sub>
 
 <sub>
-Geoportál ČÚZK (2017). *INSPIRE harmonized dataset on Administrative Units.*[ http://geoportal.cuzk.cz.](http://geoportal.cuzk.cz.) 
+Geoportál ČÚZK (2017). *INSPIRE harmonized dataset on Administrative Units.*[ http://geoportal.cuzk.cz.](http://geoportal.cuzk.cz.){:target=" _blank"}  
 </sub>
 
 <sub>Charts in this article were created using R and ggplot2.</sub>

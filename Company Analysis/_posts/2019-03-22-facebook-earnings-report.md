@@ -196,5 +196,5 @@ So in 2018 Facebook showed solid financial results. However, Facebook guidance i
 
 ## References & Links
 
-- [Facebook's Annual Report (10-K)](https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm)
-- [Facebook Q4 2018 Earnings Call Documents & Transcripts](https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx)
+- [Facebook's Annual Report (10-K)](https://www.sec.gov/Archives/edgar/data/1326801/000132680119000009/fb-12312018x10k.htm){:target=" _blank"} 
+- [Facebook Q4 2018 Earnings Call Documents & Transcripts](https://investor.fb.com/investor-events/event-details/2019/Facebook-Q4-2018-Earnings/default.aspx){:target=" _blank"} 

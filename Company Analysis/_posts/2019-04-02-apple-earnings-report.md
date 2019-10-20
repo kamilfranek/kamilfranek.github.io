@@ -277,5 +277,5 @@ So what is the company outlook going forward? Apple confirmed its decision to mo
 ## References & Links
 
 
-- [Apple's Annual Report (10-K)](https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm)
-- [Apple Earnings Documents](https://investor.apple.com/investor-relations/financial-information/default.aspx)
+- [Apple's Annual Report (10-K)](https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm){:target=" _blank"} 
+- [Apple Earnings Documents](https://investor.apple.com/investor-relations/financial-information/default.aspx){:target=" _blank"} 

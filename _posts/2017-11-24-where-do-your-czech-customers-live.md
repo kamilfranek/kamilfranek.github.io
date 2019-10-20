@@ -57,19 +57,19 @@ You can also clearly see, that top 4 biggest cities (Praha, Brno, Ostrava, Plzen
 <sub>**References:**</sub>
 
 <sub>
-Czech Statistical Office (2017). *Population of municipalities of the Czech Republic (1.1.2017).*[ https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017.](https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017)
+Czech Statistical Office (2017). *Population of municipalities of the Czech Republic (1.1.2017).*[ https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017.](https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2017){:target=" _blank"} 
 </sub>
 
 <sub>
-Geoportál ČÚZK (2017). *INSPIRE harmonized dataset on Administrative Units.*[ http://geoportal.cuzk.cz.](http://geoportal.cuzk.cz.) 
+Geoportál ČÚZK (2017). *INSPIRE harmonized dataset on Administrative Units.*[ http://geoportal.cuzk.cz.](http://geoportal.cuzk.cz.){:target=" _blank"}  
 </sub>
 
 <sub>
-R Core Team (2016). *R: A language and environment for statistical computing.* R Foundation for Statistical Computing, Vienna, Austria. [ https://www.R-project.org/.](https://www.R-project.org/.) 
+R Core Team (2016). *R: A language and environment for statistical computing.* R Foundation for Statistical Computing, Vienna, Austria. [ https://www.R-project.org/.](https://www.R-project.org/.){:target=" _blank"}  
 </sub>
 
 <sub>
-Hadley Wickham (2017). *tidyverse: Easily Install and Load 'Tidyverse' Packages. R package version 1.1.1.*  [ https://CRAN.R-project.org/package=tidyverse.](https://CRAN.R-project.org/package=tidyverse.) 
+Hadley Wickham (2017). *tidyverse: Easily Install and Load 'Tidyverse' Packages. R package version 1.1.1.*  [ https://CRAN.R-project.org/package=tidyverse.](https://CRAN.R-project.org/package=tidyverse.){:target=" _blank"} 
 </sub>
 
 
