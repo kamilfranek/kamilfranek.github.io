@@ -1,6 +1,6 @@
 ---
-title: "What Companies Alphabet (Google) Owns: Visuals & Full List"
-excerpt: "Visual overview of what companies Alphabet (Google) owns that will help you to understand its structure. With a full list of known subsidiaries."
+title: "What Companies Google & Alphabet Own: Visuals & Full List"
+excerpt: "Visual overview of what companies do Alphabet and Google own that will help you to understand its structure. With a full list of known subsidiaries."
 header: 
   teaser: "assets/images/teasers/alphabet_google_what_companies_it_owns_teaser.png"
 ---
