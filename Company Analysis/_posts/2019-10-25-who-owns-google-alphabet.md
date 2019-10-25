@@ -160,7 +160,7 @@ Some of the Alphabet's "Other Bets" might seem like these kinds of pet projects.
 - [Certificate of Incorporation for Alphabet Inc](https://www.sec.gov/Archives/edgar/data/1652044/000119312515336577/d82837dex31.htm){:target="_blank"} that contains all the detail about different stock classes and provisions related to them.
 - [SEC FORM 4 from Sergey](https://www.sec.gov/Archives/edgar/data/1295032/000120919118060691/xslF345X03/doc4.xml){:target="_blank"} through which Sergey disclosed his latest stock transaction of 2018 and so state also his holdings of different share classes at the end of 2018.
 - [SEC form 5 from Larry](https://www.sec.gov/Archives/edgar/data/1295231/000120919118008623/xslF345X03/doc5.xml){:target="_blank"} through which Larry disclosed his latest stock transaction in 2017. Form also includes status at the end of 2017. Larry did not do any stock transaction in 2018 so his holdings did not change.
-
+ 
 *Disclaimer: Although I use third party trademarks and logos in this article and its visuals, kamilfranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
 
 
