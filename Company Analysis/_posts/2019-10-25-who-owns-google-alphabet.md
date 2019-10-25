@@ -47,7 +47,7 @@ The main takeaway from the infographic above is that **although the share on Alp
 
 If Larry and Sergey agree on something, it will happen, regardless of what are other shareholders' opinions. There is one hypothetical situation when other shareholder's voting rights might matter, and it is when Larry and Sergey do not agree on something and would vote a different way. 
 
-## Different 📜 Share Classes are Behind Difference Between 💵 Owners and 🕹️ Voting Power Holders
+## Different 📃 Share Classes are Behind Difference Between 💵 Owners and 🕹️ Voting Power Holders
 
 I already mentioned that Alphabet Inc has three classes of shares. Differences between those are the very reason why Lary and Sergey have retained control over the company. 
 
@@ -59,7 +59,7 @@ Alphabet Inc has currently three classes of shares outstanding: (use the table?!
 Now, let's look at the breakdown of all outstanding shares as of December 2018 by share class where you can see how many of each class each shareholder had. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### 🧮 Significant shareholders by number of shares
+### 📃 Significant shareholders by number of shares
 
 | # in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>Class C</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shares (Non-voting)| TOTAL|% of Total Shares|      
 |---------------|----------------:|----------------:|----------------:|----------------:|----------------:|
@@ -84,7 +84,7 @@ To make it even more apparent, the table below shows the same thing as share on 
 | Sergey Brin | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>192<span/> | <span style='color:#fac901'>0<span/> | 192| **25.1%** |
 | Eric E. Schmidt | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>41<span/> | <span style='color:#fac901'>0<span/> | 41| **5.4%** |
 | Vanguard | <span style='color:#11457E'> 22<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>0<span/> | 22| **2.9%** |
-| BlackRock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span style='color:#11457E'> 19<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>0<span/> | 19| **2.5%** |
+| BlackRock; | <span style='color:#11457E'> 19<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>0<span/> | 19| **2.5%** |
 | Fidelity | <span style='color:#11457E'> 16<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>0<span/> | 16| **2.1%** |
 | Other shareholders | <span style='color:#11457E'> 242<span/> | <span style='color:#d7141a'>34<span/> | <span style='color:#fac901'>0<span/> | 276| **36%** |
 | **Total Votes** | <span style='color:#11457E'> **299**<span/> | <span style='color:#d7141a'>**466**<span/> | <span style='color:#fac901'>**0**<span/> | **766**| **100%** |
