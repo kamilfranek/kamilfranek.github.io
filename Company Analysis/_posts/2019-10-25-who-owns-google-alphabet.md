@@ -61,7 +61,7 @@ Now, let's look at the breakdown of all outstanding shares as of December 2018 b
 
 ### 📃 Significant shareholders by number of shares
 
-| # in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>Class C</span> Shares (Nonvoting)| TOTAL|% of Total Shares|      
+| # in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>&nbsp;&nbsp;&nbsp;;&nbsp;Class C</span> Shares (Nonvoting)| TOTAL|% of Total Shares|      
 |---------------|----------------:|----------------:|----------------:|----------------:|----------------:|
 | Vanguard | <span style='color:#11457E'> 22<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>22<span/> | 44| **6.4%** |
 | Larry Page | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>20<span/> | <span style='color:#fac901'>20<span/> | 40| **5.7%** |
@@ -78,7 +78,7 @@ To make it even more apparent, the table below shows the same thing as share on 
 
 ### 🗳️ Significant shareholders by number of votes
 
-| # of votes in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>Class C</span> Shares (Nonvoting)| Total|As % of Alphabet Votes|      
+| # of votes in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>&nbsp;&nbsp;&nbsp;;&nbsp;Class C</span> Shares (Nonvoting)| Total|As % of Alphabet Votes|      
 |---------------|----------------:|----------------:|----------------:|----------------:|----------------:|
 | Larry Page | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>200<span/> | <span style='color:#fac901'>0<span/> | 200| **26.1%** |
 | Sergey Brin | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>192<span/> | <span style='color:#fac901'>0<span/> | 192| **25.1%** |
