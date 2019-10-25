@@ -66,7 +66,7 @@ Now, let's look at the breakdown of all outstanding shares as of December 2018 b
 | Vanguard | <span style='color:#11457E'> 22<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>22<span/> | 44| **6.4%** |
 | Larry Page | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>20<span/> | <span style='color:#fac901'>20<span/> | 40| **5.7%** |
 | Sergey Brin | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>19<span/> | <span style='color:#fac901'>19<span/> | 38| **5.5%** |
-| BlackRock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span style='color:#11457E'> 19<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>20<span/> | 39| **5.5%** |
+| BlackRock | <span style='color:#11457E'> 19<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>20<span/> | 39| **5.5%** |
 | Fidelity | <span style='color:#11457E'> 16<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>10<span/> | 26| **3.7%** |
 | Eric E. Schmidt | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>4<span/> | <span style='color:#fac901'>4<span/> | 8| **1.2%** |
 | Other shareholders | <span style='color:#11457E'> 242<span/> | <span style='color:#d7141a'>3<span/> | <span style='color:#fac901'>255<span/> | 500| **71.9%** |
