@@ -61,7 +61,7 @@ Now, let's look at the breakdown of all outstanding shares as of December 2018 b
 
 ### 📃 Alphabet's Significant shareholders by number of shares
 
-| # in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>&nbsp;&nbsp;&nbsp;&nbsp;Class C</span> Shares </br> (Non-voting)| TOTAL|% of Total Shares|      
+| # in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>&nbsp;&nbsp;&nbsp;&nbsp;Class C</span> Shares <br> (Non-voting)| TOTAL|% of Total Shares|      
 |---------------|----------------:|----------------:|----------------:|----------------:|----------------:|
 | Vanguard | <span style='color:#11457E'> 22<span/> | <span style='color:#d7141a'>0<span/> | <span style='color:#fac901'>22<span/> | 44| **6.4%** |
 | Larry Page | <span style='color:#11457E'> 0<span/> | <span style='color:#d7141a'>20<span/> | <span style='color:#fac901'>20<span/> | 40| **5.7%** |
