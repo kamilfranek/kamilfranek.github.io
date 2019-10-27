@@ -37,7 +37,7 @@ So who owns Alphabet (Google)? **Top shareholders are Vanguard with a 6.4% share
 
 As you can see from the table above, founders Larry and Sergey are clearly **in control** . They have a majority of votes without owning the majority of shares. Let's look, in more detail, at how is this possible. We will look at different share classes of Alphabet Inc. and how they are distributed among the shareholders. 
 
-## Who Owns 💵 Equity  vs. Who Has 🕹️ Voting Power 
+## Who Owns Alphabet's 💵 Equity  vs. Who Has 🕹️ Voting Power 
 
 Let's have a look again,  in a more visual way, at the difference between who owns Alphabet's (Google's) equity vs. voting power. I included all stockholders with at least a 5% share on any of Alphabet's three share classes. 
 
@@ -47,7 +47,7 @@ The main takeaway from the infographic above is that **although the share on Alp
 
 If Larry and Sergey agree on something, it will happen, regardless of what are other shareholders' opinions. There is one hypothetical situation when other shareholder's voting rights might matter, and it is when Larry and Sergey do not agree on something and would vote a different way. 
 
-## Different 📃 Share Classes are Behind Difference Between 💵 Owners and 🕹️ Voting Power Holders
+## Different 📃 Share Classes are Behind Difference Between Google 💵 Owners and 🕹️ Voting Power Holders
 
 I already mentioned that Alphabet Inc has three classes of shares. Differences between those are the very reason why Lary and Sergey have retained control over the company. 
 
@@ -59,7 +59,7 @@ Alphabet Inc has currently three classes of shares outstanding: (use the table?!
 Now, let's look at the breakdown of all outstanding shares as of December 2018 by share class where you can see how many of each class each shareholder had. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### 📃 Significant shareholders by number of shares
+### 📃 Alphabet's Significant shareholders by number of shares
 
 | # in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>&nbsp;&nbsp;&nbsp;&nbsp;Class C</span> Shares (Non-voting)| TOTAL|% of Total Shares|      
 |---------------|----------------:|----------------:|----------------:|----------------:|----------------:|
@@ -76,7 +76,7 @@ Owning class B shares is the key to Larry and Sergey's control of Alphabet (and 
 
 To make it even more apparent, the table below shows the same thing as share on total votes.
 
-### 🗳️ Significant shareholders by number of votes
+### 🗳️ Alphabet's significant shareholders by number of votes
 
 | # of votes in millions as of Dec 2018 | <span style='color:#11457E'>Class A</span> Shares (Normal) |<span style='color:#d7141a'>Class B</span> Shares (Super)| <span style='color:#fac901'>&nbsp;&nbsp;&nbsp;&nbsp;Class C</span> Shares (Non-voting)| Total|As % of Alphabet Votes|      
 |---------------|----------------:|----------------:|----------------:|----------------:|----------------:|
@@ -91,7 +91,7 @@ To make it even more apparent, the table below shows the same thing as share on 
 
 So now we have a clear picture of how it is possible that **two people with an 11% share on capital control 51% of votes.**  To make a whole picture complete, let's multiply the number of shares by prices at the end of 2018 to show you Alphabet's market capitalization by top shareholders. 
 
-### 📈 Market capitalization breakdown by significant shareholders 
+### 📈 Alphabet's Market capitalization breakdown by significant shareholders 
 
 | in billions $ as of Dec 2018 | Total Market Value | As % of Alphabet Market Value|     
 |---------------|----------------:|----------------:|
@@ -105,7 +105,7 @@ So now we have a clear picture of how it is possible that **two people with an 1
 | **Total** | **$727 bn** |**100%** |
 
 
-## 💸 Can Larry or Sergey Sell Their Super-voting Shares to Somebody Else? 
+## 💸 Can Larry or Sergey Sell Their Alphabet's Super-voting Shares to Somebody Else? 
 
 Yes they can and they are already slowly doing that, but we don't need to worry about that. **Class B shares have their super-voting power only if they are in hand of original holders**. In case original holders sell them, stocks will automatically convert to ordinary Class A shares with one vote per share.
 
