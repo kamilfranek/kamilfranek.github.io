@@ -70,6 +70,7 @@ Since market averages can sometimes be hard to interpret, I would like to show y
 
 
 ### Dividends, Buybacks & Total Payout: Comparison of Alphabet (Google) with Selected Large Companies (all numbers in billions $)
+
 | Company | Cash Dividends  |Cash Buybacks |<span style='color:#11457E'>Total Cash Payout </span> |Net Income |<span style='color:#11457E'>Payout Ratio </span>|
 |-------|--------:|--------:|--------:|--------:|------------:|
 | **Alphabet** | $0  |$9.1  |<span style='color:#11457E'>**$9.1 **</span> |$30.7  |<span style='color:#11457E'>**30%** </span>|
@@ -89,6 +90,7 @@ It looks like Amazon founder Jeff Bezons and Google founders Larry & Sergey have
 When you look at the number of outstanding stocks for Alphabet Inc. by year,  you can quickly see that something does not add up.
 
 ### Total Outstanding Stocks for Alphabet Inc. and its growth in time
+
 | Year| Outstanding shares count in millions | Growth vs Last Year  |
 |-------|--------:|--------:|
 | 2015 | **$687.3 bn** |**1.06%**|
