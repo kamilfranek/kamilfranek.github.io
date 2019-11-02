@@ -44,11 +44,11 @@ Although it is technically correct to say that Google does not payout dividends,
 
 The chart below shows how much Alphabet Inc. paid out each year. Since 2015 Alphabet paid out more and more each ear, and based on the first three quarters of 2019 results, I can already confirm that it will continue to grow even in 2019.
 
-![Chart of How Much Google/Alphabet Pays Out in Dividends and Buybacks to Shareholders Each Year](/assets/images/alphabet_google_how_much_google_pays_out_in_dividends_and_buybacks_each_year.png)
+![Chart of How Much Google/Alphabet Pays Out in Dividends and Buybacks to Shareholders Each Year](/assets/images/alphabet_google_how_much_google_pays_out_in_dividends_and_buybacks_each_year_chart.png)
 
 Here is how it compares to Alphabets' net income.  Note that net income in 2017 was lower mainly thanks to the one-off impact of tax code changes in the US, and without that, net income would be growing in 2017 compared to 2016. 
 
-![Chart Comparing Google (Alphabet) Payout in Dividends and Buybacks vs Net Income](/assets/images/alphabet_google_cash_payout_vs_net_income.png)
+![Chart Comparing Google (Alphabet) Payout in Dividends and Buybacks vs Net Income](/assets/images/alphabet_google_cash_payout_vs_net_income_chart.png)
 
 I showed you so far that Google is paying out roughly one-third of its net income, so let's have a look at how it compares to others.
 
@@ -62,7 +62,7 @@ I would want to stress out that I will compare the total cash paid that includes
 
 Charts below will tell you how Google's (Alphabet's)  cash payout compares to other companies on the market. Data for Alphabet are from their annual reports.  Data for market benchmarks are based on a great [article about buybacks and dividens](http://aswathdamodaran.blogspot.com/2019/02/january-2019-data-update-8-dividends.html){:target="_blank"} from Aswath Damodaran, Professor of Finance at the Stern School of Business at NYU, who is a living legend in a field of valuation and company analysis.
 
-![Chart Comparing Alphabet's (Google's) payout ratio and cash yield with market average](/assets/images/alphabet_google_payout_ratio_and_cash_yield_vs_market_average.png)
+![Chart Comparing Alphabet's (Google's) payout ratio and cash yield with market average](/assets/images/alphabet_google_payout_ratio_and_cash_yield_vs_market_average_chart.png)
 
 Charts above show you that, compared to other companies, Google (Alphabet) pays out just a fraction of what other companies do. It looks that complains of shareholders that Google is not paying enough have some merit. 
 
