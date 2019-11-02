@@ -89,14 +89,14 @@ It looks like Amazon founder Jeff Bezons and Google founders Larry & Sergey have
 
 When you look at the number of outstanding stocks for Alphabet Inc. by year,  you can quickly see that something does not add up.
 
-### Total Outstanding Stocks for Alphabet Inc. and its growth in time
+### Total Outstanding Stocks for Alphabet Inc. and its Growth in Time
 
 | Year| Outstanding Shares (in millions) | Growth vs Last Year  |
 |-------|--------:|--------:|
-| 2015 | **$687.3 bn** |**1.06%**|
-| 2016 | **$691.3 bn** |**0.57%**|
-| 2017 | **$694.8 bn** |**0.51%**|
-| 2018 | **$695.6 bn** |**0.11%**|
+| 2015 | **687.3 m** |**1.06%**|
+| 2016 | **691.3 m** |**0.57%**|
+| 2017 | **694.8 m** |**0.51%**|
+| 2018 | **695.6 m** |**0.11%**|
 
 Based on the charts that I showed earlier, we know that since 2015 Google is increasing the number of share buybacks every single year. But if Google is buying back shares, why is the total number of outstanding shares still growing? Well, the fact is that **Alphabet Inc is still issuing new stocks as part of its stock-based bonuses to selected employees.**
 
