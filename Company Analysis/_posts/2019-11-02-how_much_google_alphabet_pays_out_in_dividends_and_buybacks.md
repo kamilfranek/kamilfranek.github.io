@@ -152,7 +152,7 @@ Alphabet's slow but stable increases in the amount of stock buyback in a couple 
 ## 📚 Resources & Links
 - [Alphabet's 10-K Annual Reports](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K&dateb=&owner=exclude&count=40){:target="_blank"}
 
-- [Dividends and Buybacks - Fact and Fiction](http://aswathdamodaran.blogspot.com/2019/02/january-2019-data-update-8-dividends.html){:target="_blank"}: Market averages that I used to that I used in this article are based on numbers from this article by Aswath Damodaran, Professor Professor of Finance at the Stern School of Business at NYU. 
+- [Dividends and Buybacks - Fact and Fiction](http://aswathdamodaran.blogspot.com/2019/02/january-2019-data-update-8-dividends.html){:target="_blank"}: Article by Aswath Damodaran, Professor Professor of Finance at the Stern School of Business at NYU.
 
 *Disclaimer: Although I use third party trademarks and logos in this article and its visuals, kamilfranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
 
