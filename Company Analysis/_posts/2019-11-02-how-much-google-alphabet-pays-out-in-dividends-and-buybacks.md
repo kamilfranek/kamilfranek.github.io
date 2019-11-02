@@ -38,7 +38,7 @@ So it is false to say that Google is not paying out money to shareholders becaus
 
 Let's look in more detail about how much it pays out relative to what it can and how payout compares with other companies and also the whole market.
 
-## 💸 How much is Google (Alphabet) Paying Back to Its Shareholders Both in Dividend and Stock Buybacks?
+## 💸 How much is Google (Alphabet) Paying Back to Its Shareholders Both in Dividends and Stock Buybacks?
 
 Although it is technically correct to say that Google does not payout dividends, it is wrong to say that id does return cash to shareholders. **Google is returning money to its shareholders through cash buybacks, which is just another form of how to return cash to them**, and it might also be preferable form in most cases.
 
