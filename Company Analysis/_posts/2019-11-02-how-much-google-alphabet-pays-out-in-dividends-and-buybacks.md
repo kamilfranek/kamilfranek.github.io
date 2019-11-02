@@ -73,7 +73,7 @@ Since market averages can sometimes be hard to interpret, I would like to show y
 
 | Company | Cash Dividends  |Cash Buybacks |<span style='color:#11457E'>Total Cash Payout </span> |Net Income |<span style='color:#11457E'>Payout Ratio </span>|
 |-------|--------:|--------:|--------:|--------:|------------:|
-| **Alphabet** | $0  |$9.1  |<span style='color:#11457E'>**$9.1**</span> |$30.7  |<span style='color:#11457E'>**30%** </span>|
+| Alphabet | $0  |$9.1  |<span style='color:#11457E'>**$9.1**</span> |$30.7  |<span style='color:#11457E'>**30%** </span>|
 | Amazon | $0  |$0  |<span style='color:#11457E'>**$0**</span> |$10.1  |<span style='color:#11457E'>**0%** </span>|
 | Apple | $13.7  |$72.7  |<span style='color:#11457E'>**$86.5**</span> |$59.5  |<span style='color:#11457E'>**145%** </span>|
 | Bank of America | $6.9  |$20.1  |<span style='color:#11457E'>**$27.0**</span> |$28.1  |<span style='color:#11457E'>**96%** </span>|
@@ -91,7 +91,7 @@ When you look at the number of outstanding stocks for Alphabet Inc. by year,  yo
 
 ### Total Outstanding Stocks for Alphabet Inc. and its growth in time
 
-| Year| Outstanding shares count in millions | Growth vs Last Year  |
+| Year| Outstanding Shares (in millions) | Growth vs Last Year  |
 |-------|--------:|--------:|
 | 2015 | **$687.3 bn** |**1.06%**|
 | 2016 | **$691.3 bn** |**0.57%**|
