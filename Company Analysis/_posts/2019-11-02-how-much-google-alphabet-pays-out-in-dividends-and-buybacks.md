@@ -24,7 +24,7 @@ I often read complaints that Google or, more precisely, its holding company Alph
 
 The table below shows how much precisely each year Google/Alphabet paid out to its shareholders and how much from it were cash dividends, and how much were cash buybacks.
 
-### Google (Alphabet) Cash Payouts to Shareholders by Year
+### Alphabet's (Google's) Cash Payouts to Shareholders by Year
 
 | Year| Cash Dividends | Cash Buybacks  |
 |-------|--------:|--------:|
