@@ -1,6 +1,6 @@
 ---
 title: "How Much Google/Alphabet Pays Out in Dividends and Buybacks"
-excerpt: "How much cash does Google (Alphabet) pays to its shareholder every year and how it compares to what other companies are doing."
+excerpt: "How much cash does Google (Alphabet) pays to its shareholders every year and how it compares to what other companies are doing."
 header: 
   teaser: "assets/images/teasers/alphabet_google_how_much_google_pays_out_in_dividends_and_buybacks_teaser.png"
 ---
