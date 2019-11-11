@@ -1,6 +1,6 @@
 ---
 title: "How Much Google Paid for YouTube? Was It Worth It?"
-excerpt: "Details of how much Google paid for Youtube in 2006 to whom. The article also shows a YouTube revenue history and current YouTube valuation estimate." 
+excerpt: "Details of how much Google paid for Youtube in 2006 and to whom. The article also shows a YouTube revenue history and current YouTube valuation estimate." 
 header: 
   teaser: "assets/images/teasers/alphabet_google_how much_google_paid_for_youtube_teaser.png"
 ---
@@ -68,7 +68,7 @@ Today, thirteen years after YouTube acquisition by Google, **it might seem like 
 
 YouTube was **not even two years old in 2006**, had **no revenue** to speak of, and also was **drowning in copyright mess**, which it wasn't able to solve alone. It also was **running out of cash** that YouTube needed to support the ever-growing requirement for storage and bandwidth. YouTube needed a partner. The only thing it could offer was **20 million monthly active users** and promise of aggressive growth, and that turned out to be enough.
 
-$1.65bn price was a result of interest from other bidders. The rumor was that [**Yahoo was in the bidding war until the very end.**](
+$1.65bn price was a result of interest from other bidders. The rumor was that [Yahoo was in the bidding war until the very end.](
 https://techcrunch.com/2006/10/09/google-has-acquired-youtube/){:target="_blank"}  
 
 Today, a consensus view on Youtube acquisition is that it was **one of the most successful ones Google did.** YouTube **monthly active users** are now nearly **2 billion**n (1000x more than when Google bought it). It means that roughly half of the people who have internet access use Youtube at least once a month.
@@ -118,7 +118,7 @@ Putting it together, **I came up with the valuation rage for YouTube as a standa
 ## 📚 Resources & Links
 - [Form S-3 registration statement from February 2007](https://www.sec.gov/Archives/edgar/data/1288776/000119312507022578/ds3asr.htm){:target="_blank"}: In this SEC filling Google registered stocks it issued for YouTube shareholders. The document contains details bout each individual YouTube investor and how much Google stocks were distributed to them.
 
-- [Viacom vs YouTube Lawsuit Document](https://www.scribd.com/doc/28587257/Viacom-Lawsuit-Vs-Google-YouTube){:target="_blank"}: Viacom's document that was part of Viacom's lawsuit against YouTube/Google and contains a lot of interesting snippets of emails between YouTube founders that give a good insight fo what YouTube was dealing with before the acquisition. 
+- [Viacom vs YouTube Lawsuit Document](https://www.scribd.com/doc/28587257/Viacom-Lawsuit-Vs-Google-YouTube){:target="_blank"}: Viacom's document that was part of Viacom's lawsuit against YouTube/Google contains a lot of interesting snippets of emails between YouTube founders that give a good insight of what YouTube was dealing with before the acquisition.
 
 - [Annual Report of Google Inc. for 2006 (10-K)](https://www.sec.gov/Archives/edgar/data/1288776/000119312507044494/d10k.htm){:target="_blank"}: Google's annual report with details about YouTube acquisitions price.
 
