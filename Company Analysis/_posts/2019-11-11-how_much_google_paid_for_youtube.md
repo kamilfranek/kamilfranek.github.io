@@ -101,7 +101,7 @@ Benefits of Alphabet/Google owning YouTube go beyond just what YouTube alone can
 
 Another way how to answer the question if YouTube acquisition is worth it for Google and quantify it better is to **estimate its value today as a standalone company.**
 
-The **best proxy for YouTube value in 2006 is probably the purchase price of 1.65 bn.** It is true that Erik Smith, Google's CEO at the time, in one interview mentioned that Google probably overpaid $1 billion for YouTube. On the other hand, Google,[ based on court documents from 2010](https://www.scribd.com/doc/28587257/Viacom-Lawsuit-Vs-Google-YouTube){:target="_blank"},  commissioned Credit Suisse to do a valuation of YouTube before the acquisition, and the number they came up with was 2.7 bn as a base case scenario.
+The **best proxy for YouTube value in 2006 is probably the purchase price of 1.65 bn.** It is true that Erik Smith, Google's CEO at the time, in court deposition said, that [ Google overpaid $1 billion](https://www.cnet.com/news/schmidt-we-paid-1-billion-premium-for-youtube/){:target="_blank"} for YouTube. On the other hand, Google,[ based on court documents from 2010](https://www.scribd.com/doc/28587257/Viacom-Lawsuit-Vs-Google-YouTube){:target="_blank"},  commissioned Credit Suisse to do a valuation of YouTube before the acquisition, and the number they came up with was 2.7 bn as a base case scenario.
 
 Hard to say where the truth is, either Credit Suisse estimate was "pushed up," so Google's board had a justification for the price they were paying, or Erik Smith's comment was self-serving and was somehow connected with ongoing litigation with Viacom.
 
