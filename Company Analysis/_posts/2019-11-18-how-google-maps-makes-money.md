@@ -215,7 +215,7 @@ We will see how long will Waze survive because **Google Maps recently introduced
 
 ## 📚 Resources & Links
 - [Google Maps Platform](https://cloud.google.com/maps-platform/){:target="_blank"} homepage, where you can find more details and use cases for Google Maps API and also their current pricing.
-- [Uber IPO Prospectus]({:target="_blank"}){:target="_blank"}: Contains how big equity share Google has in Uber and also how much it paid for Google Maps service.
-- [Llyft IPO Prospectus](https://www.sec.gov/Archives/edgar/data/1759509/000119312519091446/d721841d424b4.htm){:target="_blank"}: Also, Lyft mentions Google Maps as a critical service they rely on. The document also states how big share Alphabet Inc has in the company.
+- [Uber IPO Prospectus]({:target="_blank"}){:target="_blank"}: Contains how big equity share Google has in Uber and also how much it paid for Google Maps service and how much Uber spend on Google Maps services.
+- [Lyft IPO Prospectus](https://www.sec.gov/Archives/edgar/data/1759509/000119312519091446/d721841d424b4.htm){:target="_blank"}: Lyft mentions Google Maps as a critical service they rely on. The document also states how big share Alphabet Inc has in the company.
 
 *Disclaimer: Although I use third party trademarks and logos in this article and its visuals, kamilfranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
