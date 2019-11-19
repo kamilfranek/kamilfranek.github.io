@@ -29,21 +29,21 @@ Google does not disclose details about Google Maps revenue, and the numbers I sh
 Before we get into how Google Maps makes money, let me just quickly remind you of the scale of functionalities that Google Maps currently offer to its users and businesses because Google added a lot of new stuff lately.
 
 ### What you can use Google Maps for?
-- Search local places and business listings (restaurants, shops, dentists, car repair shops, etc.). Google Maps listings also show up in standard Google Search results for local searches.
-- Use it as a normal map and explore it in a standard or satellite view.
-- 360° panoramic Street View (you can sometimes go even inside buildings)
-- Use route planning and navigation to get where you need with community-driven data on crashes, speed traps, and traffic slowdowns.
-- One of the newer features is Live View navigation using [augmented reality](https://support.google.com/maps/thread/11554255?hl=en){:target="_blank"}
+- **Search local places** and business listings (restaurants, shops, dentists, car repair shops, etc.). Google Maps listings also show up in standard Google Search results for local searches.
+- **Use it as a normal map** and explore it in a standard or satellite view.
+- **360° panoramic Street View** (you can sometimes go even inside buildings)
+- Use **route planning and navigation** to get where you need with community-driven data on crashes, speed traps, and traffic slowdowns.
+- One of the newer features is **Live View** navigation using [augmented reality](https://support.google.com/maps/thread/11554255?hl=en){:target="_blank"}
 - Businesses can add their locations to Google Maps through the "Google My Business" service.
 
 ### What you can use Google Maps API for?
-- Create your custom maps, adjust it to your needs, and embed it on your web page ar application.
-- Visualize data as an overlay on top of Google Maps
-- Use Google Maps in a backend of your application or service like ridesharing, gaming, or asset tracking. For example, Uber's app uses the Google Maps API.
+- Create your **custom maps**, adjust it to your needs, and embed it on your web page ar application.
+- **Visualize data** as an overlay on top of Google Maps
+- Use Google Maps in a backend of your application or service like **ridesharing, gaming, or asset tracking.** For example, Uber's app uses the Google Maps API.
 
 ## 💵 How Much Money Google Maps Makes and Why It Will Increase
 
-Google does not disclose detail about how much money Google Maps makes. One of the few numbers that Google discloses is the **number of users active each month**, which is [**1 billion**](https://cloud.google.com/maps-platform/){:target="_blank"}. That puts Google Maps **far ahead of its competitors** both worldwide and also in the United States. Google Maps had [154 million]( https://www.statista.com/statistics/865413/most-popular-us-mapping-apps-ranked-by-audience/users) in the US, which is a **6-time more** than its closest competitor. 
+Google does not disclose detail about how much money Google Maps makes. One of the few numbers that Google discloses is the **number of users active each month**, which is [**1 billion**](https://cloud.google.com/maps-platform/){:target="_blank"}. That puts Google Maps **far ahead of its competitors** both worldwide and also in the United States. Google Maps had [154 million]( https://www.statista.com/statistics/865413/most-popular-us-mapping-apps-ranked-by-audience/users){:target="_blank"} in the US, which is a **6-time more** than its closest competitor. 
 
 So how much is Google Maps' revenue?  Here is an infographic explaining how **Google Maps earns approximately $4.3 bn revenue a year** based on my rough estimates for next year. It consists of $3.5bn of revenue from advertising and $0.8bn in revenue from Google Maps API.
 
@@ -89,7 +89,7 @@ This feature is, of course, a paid feature, and you have to meet some minimum sp
 
 ### Using retail locations as a landmark in navigation
 
-Many users reported (see example of tweets belows) that when they were using Google Maps for navigation, they noticed that Google started to use local business locations as navigation points. So people were given directions like  ***"Turn right at the Starbucks"*** or **"Turn right after Burger King"**. Some of the users like that some of them not so much.
+Many users reported (see example of tweets belows) that when they were using Google Maps for navigation, they noticed that Google started to use local business locations as navigation points. So people were given directions like  ***"Turn right at the Starbucks"*** or ***"Turn right after Burger King"***. Some of the users like that some of them not so much.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google Maps just told me to “turn right after the Burger King.” Is that new? New advertising income stream?</p>&mdash; Stephen Fleming (@StephenFleming) <a href="https://twitter.com/StephenFleming/status/966792167875166209?ref_src=twsrc%5Etfw">February 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -109,7 +109,7 @@ Google does not disclose the revenue of Google Maps service. 3.5bn advertising r
 
 The only number but quite helpful that we have directly from Google is that **Google Maps has 1 billion active users.** So if we can somehow find out how much revenue Maps earn per one user, we can multiply it by 1bn, and we will have an annual revenue estimate for Google. Unfortunately, Goggle doesn't disclose it.
 
-### Step #2: Gather Reliable Data about similar businesses
+### Step #2: Gather Reliable Data about Similar Businesses (Benchmarks)
 
 So how to find out annual revenue per user for Google Maps when Google is quite secretive about it? One approach might be to **look around at some similar add-driven services for which we know revenue per user and use it as a benchmark of possible values.** We will never get to the exact answer, but the benchmark can limit the subjectiveness of our estimates and get us some reasonable range.
 
@@ -129,7 +129,7 @@ Now we have benchmarks that range from $25 for Facebook to $3.1 for Pinterest.  
 
 **Differences between Google Maps and benchmarks (Social Apps)** that I took into account are:
  - monetization level of Google Maps is currently low, and that should be a reason to put our estimate closed to Pinterest because it is also lightly monetized 
-- The time you spend on social media apps or sites  [is higher than the time you spend on Google Maps.](https://www.statista.com/statistics/248343/distribution-of-time-spent-ios-and-android-apps-by-category/)
+- The time you spend on social media apps or sites  [is higher than the time you spend on Google Maps.](https://www.statista.com/statistics/248343/distribution-of-time-spent-ios-and-android-apps-by-category/){:target="_blank"}
 
 - Another fact to take into account is that Google Maps ads are served to users right at the moment where the user is looking for a restaurant or hotel and is ready to buy. Therefore Google Maps should get higher revenue per add shown to compare to social media apps
 
@@ -159,7 +159,14 @@ The most prominent customers using Google Maps API are mobility apps Uber and Ly
 >
 >--from Uber's [IPO prospectus](https://www.sec.gov/Archives/edgar/data/1543151/000119312519144716/d647752d424b4.htm){:target="_blank"}.
 
-It is important to note that **Alphabet, Google's parent company, has a small equity share both in Lyft (4.4%) and Uber (4.2%).** Both of these companies, together with other mobility service providers, have a **deeper partnership with Google because their service is integrated directly in Google Maps.**  As you can see in the example below, You can see the availability of different taxi services in your location, and there are direct links to Lyft and Uber apps from within Google Maps. 
+It is important to note that **Alphabet, Google's parent company, has a small equity share both in Lyft (4.4%) and Uber (4.2%).** Both of these companies, together with other mobility service providers, have a **deeper partnership with Google because their service is integrated directly in Google Maps.**  As you can see in the example below, You can see the availability of different taxi services in your location, and there are direct links to Lyft and Uber apps from within Google Maps.
+
+Uber and Lyft are not the only partners (Uber was the first one since 2014). Other partners that are integrated in Google Maps are for example:
+- 99Taxis (Brazil)
+- Ola Cabs (India)
+- Hailo (U.K+Spain)
+- mytaxi(Germany+Spain) 
+- Gett(UK)
 
 
 ## 💵 How Much Money Google Maps Makes from Maps API and Partnerships
@@ -178,16 +185,16 @@ I do not expect that revenue above $1bn is too probable. Google says that the to
 
 Therefore, **my final estimate for Google Maps API revenue is $0.65 bn with a range from $0.3bn to $1bn.**
 
-## ⚖️ How Much Revenue Google Maps Eans Compared to Alphabet Inc. Revenue
+## ⚖️ How Much Revenue Google Maps Earns Compared to Alphabet Inc. Revenue
 
-Google Maps revenue, according to my estimate, is **$4.3bn a year**. It is impressive, but it is just a **small drop in Google's total revenue.** The total revenue for Alphabet Inc (Google's parent company) is $137bn in 2018.   Google Maps are just **3% of total revenue.**
+Google Maps revenue, according to my estimate, is **$4.3bn a year**. It is impressive, but it is just a **small drop in Google's total revenue.** The total revenue for Alphabet Inc (Google's parent company) is [$137bn](https://www.sec.gov/Archives/edgar/data/1652044/000165204419000004/goog10-kq42018.htm){:target="_blank"} in 2018.  Google Maps are just **3% of total revenue.**
 
 
 ![Stack Bar Chart showing the composition of Alphabet's (Google's) Revenu and how much of it is generated by Google Maps](/assets/images/alphabet_google_share_of_google_maps_on_revenue_chart.png)
 
 The reason why Google Maps is just a big opportunity is not that it is a large revenue generator right now. The main point is that this **revenue has a significant potential to double to $9 billion or even more in a couple of years.** That can help significantly in net income growth in the coming years.
 
-If you want to explore Google Financials further a recomment my article reviewing their recent [annual report.](https://www.kamilfranek.com/google-alphabet-financial-results/)
+If you want to explore Google Financials further a recommend my article reviewing their recent [annual report.](https://www.kamilfranek.com/google-alphabet-financial-results/)
 
 ## 💰 How Much Is Google Maps Worth: Valuation of Google Maps as a Standalone Business.
 
@@ -215,7 +222,7 @@ We will see how long will Waze survive because **Google Maps recently introduced
 
 ## 📚 Resources & Links
 - [Google Maps Platform](https://cloud.google.com/maps-platform/){:target="_blank"} homepage, where you can find more details and use cases for Google Maps API and also their current pricing.
-- [Uber IPO Prospectus]({:target="_blank"}){:target="_blank"}: Contains how big equity share Google has in Uber and also how much it paid for Google Maps service and how much Uber spend on Google Maps services.
+- [Uber IPO Prospectus](https://www.sec.gov/Archives/edgar/data/1543151/000119312519144716/d647752d424b4.htm){:target="_blank"}: Contains how big equity share Google has in Uber and also how much it paid for Google Maps service and how much Uber spend on Google Maps services.
 - [Lyft IPO Prospectus](https://www.sec.gov/Archives/edgar/data/1759509/000119312519091446/d721841d424b4.htm){:target="_blank"}: Lyft mentions Google Maps as a critical service they rely on. The document also states how big share Alphabet Inc has in the company.
 
 *Disclaimer: Although I use third party trademarks and logos in this article and its visuals, kamilfranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
