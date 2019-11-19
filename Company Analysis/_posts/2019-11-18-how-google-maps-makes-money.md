@@ -123,7 +123,7 @@ Here is a more detailed visualization where you can see both revenue per monthly
 
 I included in the comparison also YouTube, but number for youtube reveneu are also estimate, because Google (Alphabet) does not diclose it financials. If you want to know more about YouTube current performance, revenue a how much it is probably worth [check out my article about YouTube.](https://www.kamilfranek.com/how-much-google-paid-for-youtube/)
 
-### Step #3: How Benchmarks and Google Maps Differs
+### Step #3: How Benchmarks and Google Maps Differ
 
 Now we have benchmarks that range from $25 for Facebook to $3.1 for Pinterest.  This range is too extensive to make it usable for our estimate, but we have not finished yet anyway. We need to put together some facts about how Google Maps differs from the benchmark companies that can help ups to steer our estimate either to lower or higher benchmarks.
 
@@ -165,8 +165,8 @@ Uber and Lyft are not the only partners (Uber was the first one since 2014). Oth
 - 99Taxis (Brazil)
 - Ola Cabs (India)
 - Hailo (U.K+Spain)
-- mytaxi(Germany+Spain) 
-- Gett(UK)
+- mytaxi (Germany+Spain) 
+- Gett (UK)
 
 
 ## 💵 How Much Money Google Maps Makes from Maps API and Partnerships

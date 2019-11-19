@@ -2,10 +2,10 @@
 title: "How Much Google Paid for YouTube? Was It Worth It?"
 excerpt: "Details of how much Google paid for Youtube in 2006 and to whom. The article also shows a YouTube revenue history and current YouTube valuation estimate." 
 header: 
-  teaser: "assets/images/teasers/alphabet_google_how much_google_paid_for_youtube_teaser.png"
+  teaser: "assets/images/teasers/alphabet_google_how_much_google_paid_for_youtube_teaser.png"
 ---
 
-![Article Teaser: How Much Google Paid for YouTube? Was It Worth It?](/assets/images/teasers/alphabet_google_how much_google_paid_for_youtube_teaser.png)
+![Article Teaser: How Much Google Paid for YouTube? Was It Worth It?](/assets/images/teasers/alphabet_google_how_much_google_paid_for_youtube_teaser.png)
 
 YouTube acquisition by Google in 2006 was a high profile deal, and still is the 6th most significant acquisition Google did. YouTube deal also raised o lot of questions back then. Many analysts and commentators were hinting that Google probably paid too much for Youtube.
 
