@@ -160,7 +160,7 @@ Let's now put the numbers above together: **2,200 bn** (addressable market) **x 
 
 
 
-## 🟡 How Can Google Pay Earn Money from Ads and Financial Product Offers within Google Pay
+## ⚪ How Can Google Pay Earn Money from Ads and Financial Product Offers within Google Pay
 
 Advertising is how Google primarily makes money, and Google is good at it. Therefore it makes sense to consider also advertising as a way how Google Pay can earn money. 
 
