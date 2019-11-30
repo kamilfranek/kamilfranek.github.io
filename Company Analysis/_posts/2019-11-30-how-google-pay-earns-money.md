@@ -172,7 +172,7 @@ And I am not talking about using Google Pay data in ads targeting outside Google
 
 To have some benchmarks, you can check charts & data in [my article about Google Maps](https://www.kamilfranek.com/how-google-maps-makes-money/), where I compared annual revenue per customer for multiple social media sites.
 
-## 🟢 How Can Google Pay Make Money by Using Google Pay Data for Google Ads Targeting
+## 🔵 How Can Google Pay Make Money by Using Google Pay Data for Google Ads Targeting
 
 Another option that is not, in my opinion, very probable, is that Google can earn money from Google Pay if it uses users' data about their financial transactions. Google can then use it for ads targeting in Google Search, Youtube, and other webpages that show Google's ads.
 
