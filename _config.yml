@@ -14,7 +14,7 @@ title_separator          : "-"
 logo                     : "/assets/images/branding/logo_kamilfranek_small.png"
 masthead_title           : "Business <br/> Analytics"
 name                     : "Kamil Franek"
-description              : "Business Analytics Professional - Turning Data Into Business Insights"
+description              : "Business Analytics professional, who is turning data into business insights"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Kamil Franek"
   avatar           : "/assets/images/kamilfranek_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Business Analytics professional, turning data into business insights"
+  bio              : "Kamil Franek is a business analytics professional and owner & author at kamilfranek.com."
   location         : "Prague, Czech Republic"
   email            : 
   uri              :
