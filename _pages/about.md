@@ -11,17 +11,9 @@ permalink: /about/
 
 KamilFranek.com is a site that features articles about **business analytics** topics. 
 
-Articles are both about business analytics from the outside point of view by offering in-depth **analytics of public companies**, but also about business analytics from the inside with articles about **how to efficiently solve the most common business analytics task like measuring and tracking sales performance or visualizing financial statements and other.**
+Articles are both about business analytics from the outside point of view by offering in-depth **analytics of public companies**, but also about business analytics from the inside with articles about **how to efficiently solve the most common business analytics task** like measuring and tracking sales performance or visualizing financial statements and other.
 
-[![LinkedIn Logo](/assets/images/icons/social_linkedin.png)](https://www.linkedin.com/in/{{ site.author.linkedin }}){: .align-left}
-
-[![Twitter Logo](/assets/images/icons/social_twitter.png)](https://twitter.com/{{ site.author.twitter }}){: .align-left}
-
-[![Instagram Logo](/assets/images/icons/social_instagram.png)](https://instagram.com/{{ site.author.instagram }}){: .align-left}
-
-[![YouTube Logo](/assets/images/icons/social_youtube.png)]({{ site.author.youtube }}){: .align-left}
-
-[![Newsletter Logo](/assets/images/icons/social_newsletter.png)](http://eepurl.com/dPx9qz)
+[![LinkedIn Logo](/assets/images/icons/social_linkedin.png)](https://www.linkedin.com/in/{{ site.author.linkedin }}){: .align-left} [![Twitter Logo](/assets/images/icons/social_twitter.png)](https://twitter.com/{{ site.author.twitter }}){: .align-left} [![Instagram Logo](/assets/images/icons/social_instagram.png)](https://instagram.com/{{ site.author.instagram }}){: .align-left} [![YouTube Logo](/assets/images/icons/social_youtube.png)]({{ site.author.youtube }}){: .align-left} [![Newsletter Logo](/assets/images/icons/social_newsletter.png)](http://eepurl.com/dPx9qz)
 
 ## My Vision for This Site
 
@@ -41,7 +33,7 @@ This site started as a portfolio type blog, where I planned to show some practic
 
 - **Internal Business Analytics:** So far, I did not fully extend this part of the website, but it will include articles about sales performance visualization, planning, forecasting, and other practical business analytics areas.
 
-- **Fun Analytics:** Sometime, I might go outside what I usually write about do something outside the business area just for fun or because it intrigued me for other reasons. Like this, Youtube Video where are turn population pyramids into population X-mass trees. 
+- **Fun Analytics:** Sometime, I might go outside what I usually write about just for fun or because it intrigued me for other reasons. Like this, [YouTube video](https://www.youtube.com/watch?v=FK5_aD8OX6U) where are turn population pyramids into population X-mass trees. 
 
 If you like what you see and want to keep in touch, follow me on [LinkedIn](https://www.linkedin.com/in/kamilfranek/){:target="_blank"}, [Twitter](https://twitter.com/TheKamilFranek){:target="_blank"}, or [Instagram](https://www.instagram.com/TheKamilFranek/){:target="_blank"}. And I also recommend joining my [email newsletter.]("http://eepurl.com/dPx9qz){:target="_blank"}
 

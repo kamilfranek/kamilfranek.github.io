@@ -23,12 +23,4 @@ He lives in Prague, Czech Republic.
 <br>
 **Connect with Kamil on ...**
 
-[![LinkedIn Logo](/assets/images/icons/social_linkedin.png)](https://www.linkedin.com/in/{{ site.author.linkedin }}){: .align-left}
-
-[![Twitter Logo](/assets/images/icons/social_twitter.png)](https://twitter.com/{{ site.author.twitter }}){: .align-left}
-
-[![Instagram Logo](/assets/images/icons/social_instagram.png)](https://instagram.com/{{ site.author.instagram }}){: .align-left}
-
-[![YouTube Logo](/assets/images/icons/social_youtube.png)]({{ site.author.youtube }}){: .align-left}
-
-[![Newsletter Logo](/assets/images/icons/social_newsletter.png)](http://eepurl.com/dPx9qz)
+[![LinkedIn Logo](/assets/images/icons/social_linkedin.png)](https://www.linkedin.com/in/{{ site.author.linkedin }}){: .align-left} [![Twitter Logo](/assets/images/icons/social_twitter.png)](https://twitter.com/{{ site.author.twitter }}){: .align-left} [![Instagram Logo](/assets/images/icons/social_instagram.png)](https://instagram.com/{{ site.author.instagram }}){: .align-left} [![YouTube Logo](/assets/images/icons/social_youtube.png)]({{ site.author.youtube }}){: .align-left} [![Newsletter Logo](/assets/images/icons/social_newsletter.png)](http://eepurl.com/dPx9qz)
