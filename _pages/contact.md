@@ -9,7 +9,7 @@ permalink: /contact/
 |   |    |
 **Website:**      | kamilfranek.com
 **Contact Email:**| hello@kamilfranek.com
-**Address:**      | Pobřežní 249/46, 186 00, Praha 8 - Karlín, Czech Republic
+**Address:**      | Pobřežní 249/46, 186 00, Prague 8, Czech Republic
 
 
 Best way to contact me is through any of the following social channels:
