@@ -14,7 +14,7 @@ permalink: /about-kamilfranek/
              alt="Kamil Franek Photo">
 </figure>
 
-Kamil Franek is a business analytics professional and owner & author at **kamilfranek.com**. 
+Kamil Franek is a business analytics professional and owner & analyst at **kamilfranek.com**. 
 
 Kamil has 15 years of experience in different analytics positions in finance, risk and also sales. 
 

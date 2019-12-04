@@ -2,14 +2,12 @@
 main:
   - title: "Company Analysis"
     url: /company-analysis/
-  - title: "Other"
+  - title: "Other Posts"
     url: /other/
   - title: "About"
     url: /about/
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
