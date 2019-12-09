@@ -42,7 +42,7 @@ Let's look in more detail about how much it pays out relative to what it can and
 
 Although it is technically correct to say that Google does not payout dividends, it is wrong to say that id does return cash to shareholders. **Google is returning money to its shareholders through cash buybacks, which is just another form of how to return cash to them**, and it might also be preferable form in most cases.
 
-The chart below shows how much Alphabet Inc. paid out each year. Since 2015 Alphabet paid out more and more each ear, and based on the first three quarters of 2019 results, I can already confirm that it will continue to grow even in 2019.
+The chart below shows how much Alphabet Inc. paid out each year. Since 2015 Alphabet paid out more and more each ear, and based on the [first three quarters of 2019](https://www.sec.gov/ix?doc=/Archives/edgar/data/1652044/000165204419000032/goog10-qq32019.htm){:target="_blank"} results, I can already confirm that it will continue to grow even in 2019.
 
 ![Chart of How Much Google/Alphabet Pays Out in Dividends and Buybacks to Shareholders Each Year](/assets/images/alphabet_google_how_much_google_pays_out_in_dividends_and_buybacks_each_year_chart.png)
 

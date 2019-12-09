@@ -11,7 +11,7 @@ permalink: /about/
 
 KamilFranek.com is a site that features articles about **business analytics** topics. 
 
-Articles are both about business analytics from the outside point of view by offering in-depth **analytics of public companies**, but also about business analytics from the inside with articles about **how to efficiently solve the most common business analytics task** like measuring and tracking sales performance or visualizing financial statements and other.
+Articles are both about business analytics from the outside point of view by offering in-depth **analytics of public companies**, but also about business analytics from the inside with articles about **how to efficiently solve the most common business analytics tasks** like measuring and tracking sales performance, visualizing financial statements and other.
 
 [![LinkedIn Logo](/assets/images/icons/social_linkedin.png)](https://www.linkedin.com/in/{{ site.author.linkedin }}){: .align-left} [![Twitter Logo](/assets/images/icons/social_twitter.png)](https://twitter.com/{{ site.author.twitter }}){: .align-left} [![Instagram Logo](/assets/images/icons/social_instagram.png)](https://instagram.com/{{ site.author.instagram }}){: .align-left} [![YouTube Logo](/assets/images/icons/social_youtube.png)]({{ site.author.youtube }}){: .align-left} [![Newsletter Logo](/assets/images/icons/social_newsletter.png)](http://eepurl.com/dPx9qz)
 
