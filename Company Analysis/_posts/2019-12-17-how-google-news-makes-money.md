@@ -153,7 +153,7 @@ Based on the comment above and 100 million unique visitors of Flipboard, it mean
 
 I think NYT and Flipboard values above give us a reliable range for where we could expect Google News income per user to be. Of course, this will happen only if Google decides to monetize it through ads, which I don't expect to happen soon. If we just average those two benchmarks, **we get expected revenue per user $1.2 annually.** If we multiply $1.2 x 280m users for Google News, we get **estimated revenue from advertising and promoted articles 0.34bn a year.**
 
-## 🟡 How Google News Makes Money from the News in Standard Search Results
+## ⚪ How Google News Makes Money from the News in Standard Search Results
 
 Google News is not only a mobile and web application. Google News is also part of standard search results. Google shows news within its search results in several different ways:
 
@@ -218,7 +218,7 @@ These are the **main flaws of their estimate** of revenue Google earns from Goog
 
 I would be the last person to disregard calculation just because it is rough and straightforward. Simple, back of the envelope estimates can provide immense value, but it has to be based on some proper inputs & logic. This NMA "study" doesn't offer neither of that.
 
-## 🟢 What Other Indirect Benefits Does Google News Bring to Google and Alphabet.
+## ⚫ What Other Indirect Benefits Does Google News Bring to Google and Alphabet.
 
 As I've shown you above, Google News does not earn any money directly. The only revenue that can be attributed to Google News is ad income from some of the borderline "news" related queries where Google shows ads. These queries are quite rare.
 
