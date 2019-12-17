@@ -2,7 +2,7 @@
 title: About Kamil Franek
 layout: single
 author_profile: true
-permalink: /about-kamilfranek/
+permalink: /about-kamil-franek/
 ---
 
 
