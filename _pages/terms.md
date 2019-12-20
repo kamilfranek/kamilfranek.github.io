@@ -48,11 +48,18 @@ permalink: /terms/
 
 <p>Please read Privacy Policy.</p>
 
+## Use of third party trademarks and logos
+
+KamilFranek.com uses third-party trademarks and logos in its articles and visuals for educational and informational purposes. KamilFranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.
+
 ## No warranties
 
 <p>This Website is provided "as is," with all faults, and KamilFranek.com express no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.</p>
 
 ## Limitation of liability
+
+KamilFranek.com provides as part of the website also a broad range of information, commentary, and analytics about different businesses. KamilFranek.com does not warrant the completeness or accuracy of this content. The content of KamilFranek is for informational and educational purposes and should not be interpreted as providing any investment advice and recommendation. Therefore you
+acknowledge that any investment decisions you make in relation to the kamilfranek.com content will not be treated as advised by KamilFranek.com. You should seek a registered investment advisor.
 
 <p>In no event shall KamilFranek.com, nor any of its officers, directors, employees and authors, shall be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract.  KamilFranek.com, including its officers, directors, employees and authors shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.</p>
 
