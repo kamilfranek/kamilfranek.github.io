@@ -50,7 +50,7 @@ permalink: /terms/
 
 ## Use of third party trademarks and logos
 
-KamilFranek.com uses third-party trademarks and logos in its articles and visuals for educational and informational purposes. KamilFranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.
+KamilFranek.com uses third-party trademarks and logos in its articles and visuals for educational and informational purposes. KamilFranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks unless stated otherwise.
 
 ## No warranties
 
