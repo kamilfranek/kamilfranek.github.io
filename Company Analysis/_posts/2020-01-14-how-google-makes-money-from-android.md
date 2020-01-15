@@ -151,7 +151,8 @@ To get to some specific numbers, we have to know how much Google is paying to An
 |(in billions $)            | 2014     | 2015     | 2016     | 2017    | 2018 | 2019*  |   
 |-------------------------------|------:|------:|------:|------:|------:|------:|
 |TAC to distribution partners |  -3.6   |  -4.1   | -5.9  | -9.0    | -12.6    | -14.5|
-*2019 is estimated based on Q1-Q3 results
+
+**2019 is estimated based on Q1-Q3 results*
 
 Note that the total traffic acquisition costs (TAC) include not only costs for mobile but also other channels. But we know from Google's annual reports that mobile has higher traffic acquisition costs than desktop search, so we can assume that most of the cost is connected with mobile search.
 
