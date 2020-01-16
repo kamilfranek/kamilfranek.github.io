@@ -1,6 +1,6 @@
 ---
-title: "How Google Makes Money From Android: Business Model Explained"
-excerpt: "Detailed breakdown of how Android makes money for Google. With infographics, visuals, and revenue estimates for different Android business models."
+title: "How Google Makes Money from Android: Business Model Explained"
+excerpt: "Detailed breakdown of how Google makes money from Android. With infographics, visuals, and revenue estimates for different Android business models."
 header:
  teaser: "assets/images/teasers/alphabet_google_how_google_makes_money_from_android_teaser.png"
 ---
@@ -132,7 +132,7 @@ The problem with this is that it is **unrealistic**. If Android for some reason 
 
 Therefore, **Impact of Android on mobile search advertising revenue would be better estimated as an increase in traffic acquisition costs than as a revenue decrease.**  
 
-### How Much Google Pays to Apple and Samsung each year for traffic acquisition
+### How much Google pays to Apple and Samsung each year to use Google Search as default
 
 So my approach will be to estimate the value of Android from mobile search advertising **by determining how much more money Google would have to pay to smartphone manufacturers if Google would not have the advantage of owning Android.** My estimate is that this increase can be anywhere between 50% to 150%, and I will further work with **mid-value of 100% increase in traffic acquisition cost** that Google pays to phone manufacturers that currently use Android, which is presently mainly Samsung.
 
