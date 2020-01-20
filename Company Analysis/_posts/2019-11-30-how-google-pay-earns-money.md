@@ -135,7 +135,7 @@ Since Paypal will have to react to this new business model, and Apple Pay is als
 
 [Visa & Mastercard](https://www.bloomberg.com/news/articles/2019-10-22/visa-mastercard-amex-debut-competitor-to-paypal-apple-pay){:target="_blank"} **are also not waiting** for anything and are also offering ways how to **save your card and avoid entering card detail every time.**
 
-I should also mention that the US central bank (Fed) announced that it **plans to launch a new rapid payment scheme between banks called [FedNow](https://www.ft.com/content/98416ef8-bdbb-11e9-89e2-41e555e96722){:target="_blank"}.** It is expected to be launch in 2024, which would mean another simplifaction of the whole process. 
+I should also mention that the US central bank (Fed) announced that it **plans to launch a new rapid payment scheme between banks called [FedNow](https://www.ft.com/content/98416ef8-bdbb-11e9-89e2-41e555e96722){:target="_blank"}.** It is expected to be launch in 2024, which would mean another simplification of the whole process. 
 
 ### How might Google Pay earn money in the future from web & in-app payments leveraging a partnership with Citibank (+ revenue potential estimate)
 

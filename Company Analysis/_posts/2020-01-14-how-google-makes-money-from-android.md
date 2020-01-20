@@ -9,11 +9,11 @@ header:
 
 Android is a widely successful mobile operating system. It competes shoulder to shoulder with iOS, mainly in English speaking countries and dominates in non-English speaking ones. Android is open source, and Google mostly does not charge any licensing fee for it. So why Google spends billions of dollars each year for its development? How does Google make money from Android? Is Android profitable for Google?
 
-**Three main ways of how Google makes $19bn annually from Android:**
+**There are three main ways how Google makes money from Android ($19bn a year) :**
 
-- **Play Store and related revenue would not exist without Android ($9.1bn)**
-- **without Android Google would need to pay more to phone manufactures for keeping Google as a default search engine ($7.5bn)**
-- **part of Maps revenue is related to Android ($2.2bn)**
+- **Play Store: revenue would not exist without Android ($9.1bn)**
+- **Search: without Android, Google would need to pay more to phone manufactures for keeping it as a default search engine ($7.5bn)**
+- **Maps: part of the revenue is dependant on Android ($2.2bn)**
 
 ![Infographic with break down of how Google makes money from Android with revenue estimate for its core business models](/assets/images/alphabet_google_how_google_makes_money_from_android_infographic.png)
 
