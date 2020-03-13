@@ -1,6 +1,6 @@
 ---
 title: "7 Best Charts for Income Statement Presentation & Analysis"
-excerpt: "Overview of the seven best charts for income statement (P&L) presentation and analysis. With examples and comparison of strengths and weakness for each chart"
+excerpt: "Overview of the seven best charts for income statement (P&L) presentation and analysis. With examples and comparison of their strengths and weakness"
 header:
  teaser: "assets/images/teasers/best_charts_for_income_statement_presentation_and_analysis_teaser.png"
 ---
@@ -232,7 +232,7 @@ To sum up, **I don't see many reasons why somebody would choose this chart inste
 
 If you are using this chart within your team and are mentally used to it, that is absolutely fine, but I would avoid sharing it outside your team as a way to visualize an income statement. It is better to think about what exactly you want to focus on and chose more appropriate visualization. 
 
-If you have a hard time to understand my issues with this chart, I recommend reading [this blog post](https://www.equalexperts.com/blog/tech-focus/visualising-data/) I stumbled upon recently. Although it is about a slightly different version of this chart, it does a great job of explaining the issues I have with it and why I don't use it. What I particularly like about this post is not so much the final chart itself, but mainly the reasoning and thinking process that lead authors to their final design.
+If you have a hard time to understand my issues with this chart, I recommend reading [this blog post](https://www.equalexperts.com/blog/tech-focus/visualising-data/){:target="_blank"} I stumbled upon recently. Although it is about a slightly different version of this chart, it does a great job of explaining the issues I have with it and why I don't use it. What I particularly like about this post is not so much the final chart itself, but mainly the reasoning and thinking process that lead authors to their final design.
 
 ## 💭 Final Thoughts and General Tips
 
@@ -256,4 +256,4 @@ Although I tried to use the best practices (at least the one I know of) in the c
 
 - [How to Visually Redesign Your Income Statement (P&L):](/how-to-redesign-your-income-statement/) my older post focusing solely on visualizing income statement using waterfall chart, its advantages, and disadvantages and with a few tips on how to make them more useful
 
-- [Visualising data: the case for iteration](https://www.equalexperts.com/blog/tech-focus/visualising-data/){:target="_blank"} post that very well shows challenges we have to face when we are trying to show too many things in one chart. The best approach often is not to do it and eliminate some of the things which clear the way for others to stand out.
+- [Visualising data: the case for iteration:](https://www.equalexperts.com/blog/tech-focus/visualising-data/){:target="_blank"} post that very well shows challenges we have to face when we are trying to show too many things in one chart. The best approach often is not to do it and eliminate some of the things which clear the way for others to stand out.
