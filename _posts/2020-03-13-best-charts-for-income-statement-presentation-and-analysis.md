@@ -1,6 +1,6 @@
 ---
 title: "7 Best Charts for Income Statement Presentation & Analysis"
-excerpt: "Overview of the seven best charts for income statement (P&L) presentation and analysis. With examples and comparison of their strengths and weakness"
+excerpt: "Overview of the seven best charts for income statement (P&L) presentation and analysis. With examples and comparison of their strengths and weaknesses"
 header:
  teaser: "assets/images/teasers/best_charts_for_income_statement_presentation_and_analysis_teaser.png"
 ---
@@ -144,7 +144,7 @@ Above, you can see the area chart applied to two different splits of revenue. Th
 - <span style="color:#d7141a">**Shows selected P&L items separately out of the context of the whole p&L**</span>
 - <span style="color:#d7141a">**It can be confusing to interpret without absolute numbers.**</span>
 
-## 🔵Chart #5: Scatter plot of income statement changes vs. the previous period
+## 🔵 Chart #5: Scatter plot of income statement changes vs. the previous period
 
 I have to admit I like scatter plots (or bubble charts) a lot. **It is not an easy chart to digest**, **but if I should name one visualization that gave me over the years the most insights and "aha" moments, that would be scatter-plot.** But there is a price for that because a scatter plot is **not easy to read and understand.** You cannot just skim through it. It requires a careful explanation of what relative position of each data point means.
 
@@ -200,7 +200,7 @@ But although I like this table format for my own purposes, **I would rarely use 
 - <span style="color:#d7141a">**The proportion of items are not so evident as from charts**</span>
 - <span style="color:#d7141a">**Complex tables with differences are great for analysts & other finance nerds, but it is not a good ideat to put it into your presentation for a more general audience.**</span>
 
-## ⚪Chart #7: Key metrics dashboard for P&L summary
+## ⚪ Chart #7: Key metrics dashboard for P&L summary
 
 As the last item in this list of the best charts, I chose to include a **mini dashboard of the key metrics from the income statement.** It is **suitable for giving a quick overview** of the crucial most popular metrics from an income statement. These are usually the metric that gets the most attention in earning updates.
 
@@ -252,7 +252,7 @@ Although I tried to use the best practices (at least the one I know of) in the c
 
 **Maybe there is an interesting chart out there that you think is far better than the ones here. In that case, I would appreciate it if you can share it with me on Linkedin or Twitter.**
 
-## **📚 Resources & Links**
+## 📚 Resources & Links
 
 - [How to Visually Redesign Your Income Statement (P&L):](/how-to-redesign-your-income-statement/) my older post focusing solely on visualizing income statement using waterfall chart, its advantages, and disadvantages and with a few tips on how to make them more useful
 
