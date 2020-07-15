@@ -29,7 +29,7 @@ Microsoft is one of the world's most valuable companies, and its 2019 financial 
 
 Every annual report with financial statements within it, tells a story. And a story that Microsoft's annual report and financial statements tell is a classic "comeback" story. 
 
-**Microsoft's annual report story is about once a dominant company that ruled in the PC era and later got under pressure as consumers shifted from PC to smartphones. Moreover, its new cloud-based competitors emerged that threatened its business software dominance.**
+**Microsoft's story is about once a dominant company that ruled in the PC era and later got under pressure as consumers shifted from PC to smartphones. Moreover, new cloud-based competitors emerged that threatened Microsoft's business software dominance.**
 
 Microsoft went through several bad years. The issue was not primarily in company profits at the time, as it was able to keep making money from its legacy products. The problem was that its strategy for how it plans to become relevant in the new age was quite unclear. Everything culminated by the questionable [acquisition](https://news.microsoft.com/2013/09/03/microsoft-to-acquire-nokias-devices-services-business-license-nokias-patents-and-mapping-services/) of another struggling company that once dominated its market. The company name was Nokia. 
 
@@ -49,7 +49,9 @@ In this article, I will walk you through Microsoft's financial statements from i
 
 ## 🏢 What Business is Microsoft In? (Quick Overview)
 
-Before we jump into financial results from annual financial statements, let me give you a quick overview of what business Microsoft is in and what are its biggest revenue sources. The aim is to provide you with a rough idea of what company we are talking about.  
+Before we jump into financial results from annual financial statements, let me give you a quick overview of what business Microsoft is in and what are its biggest revenue sources. The aim is to provide you with a rough idea of what company we are talking about.
+
+![Microsoft revenue breakdown into segments (2019)](/assets/images/microsoft_revenue_percentage_segment_breakdown_chart.png)
 
 It might look that Microsoft does not need any introduction since everybody has heard of it. But the truth is that Microsoft's business changed significantly in the last five years. So What Business is Microsoft in, and where does its revenue come from? 
 
@@ -63,8 +65,6 @@ It might look that Microsoft does not need any introduction since everybody has 
 
 - The rest of the revenue is spread out into different smaller revenue sources.  The biggest from these other smaller streams are **Gaming** with a 9% share on revenue and **Search** (6% of revenue).
 
-![Microsoft revenue breakdown into segments (2019)](/assets/images/microsoft_revenue_percentage_segment_breakdown_chart.png)
-
 
 **Microsoft offers a wide variety of software products and cloud services. Their unifying theme is that they are all focused on business customers. Yes, it offers Windows and Office productivity tools to individual consumers too, but the consumer market is no longer the focus of the company.**
 
@@ -72,7 +72,7 @@ It might look that Microsoft does not need any introduction since everybody has 
 
 In line with its focus on commercial & productivity tools, the recent announcement by Microsoft that it is [closing Microsoft Store physical locations](https://news.microsoft.com/2020/06/26/microsoft-store-announces-new-approach-to-retail/) should not be a surprise. There are also many [more subtle changes](https://www.theverge.com/2020/2/28/21157816/microsoft-cortana-windows-10-productivity-skills-assistant-update) Microsoft is doing that suggests that consumers, at least for now, is not something it wants to focus on. 
 
-Sometimes some Microsoft's announcement might seem supporting the idea that Microsoft is trying to get get back to a consumer market. One example can be [Microsoft's new Surface Duo](https://www.microsoft.com/en-us/surface/devices/surface-duo) device. These attempts are focused mainly on "professionals" and productivity, which is in line with Microsoft's business focus. 
+Some Microsoft's announcement might seem supporting the idea that Microsoft is trying to get get back to a consumer market. One example can be [Microsoft's new Surface Duo](https://www.microsoft.com/en-us/surface/devices/surface-duo) device. These attempts are focused mainly on "professionals" and productivity, which is in line with Microsoft's business focus. 
 
 Apart from the important revenue streams mentioned above, Microsoft also has a few **smaller business-focused offerings** for hiring and learning (**LinkedIn**) or CRM (**Dynamics 365**). These are not a significant driver of profits nowadays, but it might change in a couple of years. And if other business needs arise in the future, that can be solved by a software tool or cloud service; I bet Microsoft will come after it.
 
@@ -81,8 +81,6 @@ That should be enough for a quick overview of what Microsoft's business is. If y
 ## ✈️ High-Level Overview of Microsoft's Financial Statements (Charts & Key Takeaways)
 
 In this part of the article, you can find a visual summary of key metrics from Microsoft's financial statements and also key takeaways from them. Below the takeaway, you will find different visualization of the income statement, cash flow statement, and balance sheet that you can explore. If you are more of a classic table person, I have you covered too. 
-
-Numbers source is [Microsoft's annual report (K-10)](https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm) that the company submits to the Security and Exchange Commission (SEC) and also other documents that Microsoft provided for investors. You can find them on [Microsoft's investor relation website](https://www.microsoft.com/en-us/investor), including conference call recordings and their transcripts.
 
 I intentionally won't go into too much detail here, since the purpose of this part of the article is to give you a bird eyes view of the main developments in Microsoft's financials. If you aren't satisfied with the level of detail, don't worry, we will soon get to it in the following part of the article.  
 
@@ -751,6 +749,8 @@ In case you are new to my posts about companies and visualizations, I published 
   </tr>
 </tbody>
 </table>
+
+Data source for the above visuals and tables is [Microsoft's annual report (K-10)](https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm) that the company submits to the Security and Exchange Commission (SEC) and also other documents that Microsoft provided for investors. You can find them on [Microsoft's investor relation website](https://www.microsoft.com/en-us/investor), including conference call recordings and their transcripts.
 
 ## 🔵 Breakdown & Analysis of Microsoft's Revenues (Income Statement)
 
