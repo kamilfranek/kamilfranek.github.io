@@ -27,6 +27,8 @@ header:
 
 Microsoft is one of the world's most valuable companies, and its 2019 financial results are record-breaking. But things did not look so well just a few years ago.
 
+![Microsoft revenue breakdown into segments (2019)](/assets/images/microsoft_income_statement_summarized_waterfall_chart.png)
+
 Every annual report with financial statements within it, tells a story. And a story that Microsoft's annual report and financial statements tell is a classic "comeback" story. 
 
 **Microsoft's story is about once a dominant company that ruled in the PC era and later got under pressure as consumers shifted from PC to smartphones. Moreover, new cloud-based competitors emerged that threatened Microsoft's business software dominance.**
@@ -43,17 +45,15 @@ Here you can have a vide version of Microsoft journey made by the Wall Street Jo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O2vnAhb-F7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-
-
 In this article, I will walk you through Microsoft's financial statements from its annual report. I will explain what is going on using custom charts and summarize key takeaways for you. I aim to show you the numbers simply and visually, but mainly tie the numbers to the "business" behind the numbers. I will cover both the income statement and key things from the balance sheet and cash flow statements.
 
 ## 🏢 What Business is Microsoft In? (Quick Overview)
 
 Before we jump into financial results from annual financial statements, let me give you a quick overview of what business Microsoft is in and what are its biggest revenue sources. The aim is to provide you with a rough idea of what company we are talking about.
 
-![Microsoft revenue breakdown into segments (2019)](/assets/images/microsoft_revenue_percentage_segment_breakdown_chart.png)
-
 It might look that Microsoft does not need any introduction since everybody has heard of it. But the truth is that Microsoft's business changed significantly in the last five years. So What Business is Microsoft in, and where does its revenue come from? 
+
+![Microsoft revenue breakdown into segments (2019)](/assets/images/microsoft_revenue_percentage_segment_breakdown_chart.png)
 
 **Nowadays, the main focus of Microsoft's software and cloud-based services for business, that can be divided into these areas:**
 
