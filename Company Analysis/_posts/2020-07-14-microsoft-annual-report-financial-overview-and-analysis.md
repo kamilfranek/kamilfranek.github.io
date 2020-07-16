@@ -27,7 +27,7 @@ header:
 
 Microsoft is one of the world's most valuable companies, and its 2019 financial results are record-breaking. But things did not look so well just a few years ago.
 
-![Microsoft revenue breakdown into segments (2019)](/assets/images/microsoft_income_statement_summarized_waterfall_chart.png)
+![Microsoft Summarized Income Statement Waterfall Chart 2019](/assets/images/microsoft_income_statement_summarized_waterfall_chart.png)
 
 Every annual report with financial statements within it, tells a story. And a story that Microsoft's annual report and financial statements tell is a classic "comeback" story. 
 
