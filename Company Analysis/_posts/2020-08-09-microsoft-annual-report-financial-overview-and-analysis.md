@@ -59,11 +59,11 @@ It might look that Microsoft does not need any introduction since everybody has 
 
 - **Business productivity:**  It is represented mainly by Microsoft Office, which offers a wide variety of office tools. These are not limited just to traditional Excel, Word, and PowerPoint. The Office also includes a note-taking tool (OneNote), communication tools (Microsoft Teams, Skype), or business intelligence tools (Power BI).
 
-- A second biggest part of Microsoft's business based on revenue are **server products and services.** It includes both traditional on-premise Microsoft Server and Microsoft SQL and also the modern Azure cloud. Traditional server products are still an essential revenue stream and even growing very slowly each year. Crown jewel, however, is fast-growing Azure cloud
+- The second biggest part of Microsoft's business based on revenue are **server products and services.** It includes both traditional on-premise Microsoft Server and Microsoft SQL and also the modern Azure cloud. Traditional server products are still an essential revenue stream and even growing very slowly each year. Crown jewel, however, is fast-growing Azure cloud
 
 - Two revenue sources mentioned above make together more than 60% of Microsoft revenue. The third important revenue source, but less than it used to be, is **Windows**, with a 16% share on Microsoft's revenue.
 
-- The rest of the revenue is spread out into different smaller revenue sources.  The biggest from these other smaller streams are **Gaming** with a 8% share on revenue and **Search** (5% of revenue).
+- The rest of the revenue is spread out into different smaller revenue sources.  The biggest from these other smaller streams are **Gaming** with an 8% share on revenue and **Search** (5% of revenue).
 
 **Microsoft offers a wide variety of software products and cloud services. Their unifying theme is that they are all focused on business customers. Yes, it offers Windows and Office productivity tools to individual consumers too, but the consumer market is no longer the focus of the company.**
 
@@ -71,7 +71,7 @@ It might look that Microsoft does not need any introduction since everybody has 
 
 In line with its focus on commercial & productivity tools, the recent announcement by Microsoft that it is [closing Microsoft Store physical locations](https://news.microsoft.com/2020/06/26/microsoft-store-announces-new-approach-to-retail/) should not be a surprise. There are also many [more subtle changes](https://www.theverge.com/2020/2/28/21157816/microsoft-cortana-windows-10-productivity-skills-assistant-update) Microsoft is doing that suggests that consumers, at least for now, is not something it wants to focus on. 
 
-Some Microsoft's announcement might seem supporting the idea that Microsoft is trying to get get back to a consumer market. One example can be [Microsoft's new Surface Duo](https://www.microsoft.com/en-us/surface/devices/surface-duo) device. These attempts are focused mainly on "professionals" and productivity, which is in line with Microsoft's business focus. 
+Some of Microsoft's announcements might seem supporting the idea that Microsoft is trying to get get back to a consumer market. One example can be [Microsoft's new Surface Duo](https://www.microsoft.com/en-us/surface/devices/surface-duo) device. These attempts are focused mainly on "professionals" and productivity, which is in line with Microsoft's business focus. 
 
 Apart from the important revenue streams mentioned above, Microsoft also has a few **smaller business-focused offerings** for hiring and learning (**LinkedIn**) or CRM (**Dynamics 365**). These are not a significant driver of profits nowadays, but it might change in a couple of years. And if other business needs arise in the future, that can be solved by a software tool or cloud service; I bet Microsoft will come after it.
 
@@ -97,7 +97,7 @@ In case you are new to my posts about companies and visualizations, I published 
 - Microsoft is predominantly **focused on** products & services from **business customers**. It sells its software like Office or Windows to consumers too, but it is just a small piece of total revenue.  The only remaining consumer-focused business is Gaming (Xbox product & services).
 - **LinkedIn's revenue grew by 20% to $8.1 bn** in 2020, which is **6% of total revenue**. On the operating income level, **LinkedIn is probably still losing money**. Microsoft acquired LinkedIn at the end of 2016 (2017 fiscal year).
 - Additional to 14% revenue growth, **Microsoft managed to keep the growth of expenses under control**. All expense groups grew slower than revenues, with the only exception of R&D expenses. **Total expenses grew by 9%** and therefore increasing even more Microsoft's respectful **operating margin to 37%** of revenues.
-- Microsoft's net income increase by $5bn compared to last year, continuing with stable increase as both revenue and operating margin increase.
+- Microsoft's net income increase by $5bn compared to last year, continuing with a stable increase as both revenue and operating margin increase.
 - Overall, Microsoft had a **great year**. And since Microsoft continues investing and innovating in areas of high growth cloud-based tools & services, it is hard to see why Microsoft's **financial results should continue in is current growth trajectory.**
 
 </div>
@@ -757,9 +757,9 @@ Data source for the above visuals and tables is [Microsoft's annual report (K-10
 
 ## 🔵 Breakdown & Analysis of Microsoft's Revenues (Income Statement)
 
-Microsoft earned $143bn in revenue in 2020, which was an annual growth of 14%.  Not bad for a company that also has large legacy product lines with slow growth rates. Let's dig deeper into Microsoft's revenue breakdown. What precisely this revenue consist of and where it comes from? How did it develop thorough the last five years? And what is driving its growth?
+Microsoft earned $143bn in revenue in 2020, which was an annual growth of 14%.  Not bad for a company that also has large legacy product lines with slow growth rates. Let's dig deeper into Microsoft's revenue breakdown. What precisely this revenue consists of and where it comes from? How did it develop thorough the last five years? And what is driving its growth?
 
-Microsoft's financial statement offers three different ways of how we can break down its revenues. We can split it into **products or services** or if it is coming from **the US or other countries**. However, the core **revenue breakdown** that offers the biggest detail and understanding of how Microsoft makes money is its **operating segments breakdown**, which should be in line with how Microsoft looks at its business internally.  
+Microsoft's financial statement offers three different ways of how we can break down its revenues. We can split it into **products or services** or if it is coming from **the US or other countries**. However, the core **revenue breakdown** that offers the biggest detail and understanding of how Microsoft makes money is its **operating segment breakdown**, which should be in line with how Microsoft looks at its business internally.  
 
 This breakdown divides Microsoft's business into **three segments that can be further broken down into product groups in the following way:** 
 
@@ -828,7 +828,7 @@ This development can drive the growth of revenue for a while at current levels, 
 
 LinkedIn is with Office and Dynamics tools (that I will describe later) part of the **Productivity and Business Processes** segment. Microsoft acquired LinkedIn in the 2017 fiscal year (end of the 2016 calendar year) for a whopping $27bn.  It was perceived as a surprising and questionable move, and the jury is still out on how smart move this acquisition has been.
 
-In 2020 **LinkedIn contributed $8.1bn to Microsoft's revenue**, which was 20% growth. It would be even higher but last quater growth slowed down to 10% y/y thanks to COVID-19. Eventhough people used LinkedIn more, companies used LinkedIn less to seek employees, which meant slower growth. 
+In 2020 **LinkedIn contributed $8.1bn to Microsoft's revenue**, which was 20% growth. It would be even higher but last quarter growth slowed down to 10% y/y thanks to COVID-19. Even though people used LinkedIn more, companies used LinkedIn less to seek employees, which meant slower growth. 
 
  However, revenue is not the main problem LinkedIn has, because it is probably **still losing around $1bn a year in operating income.** On top of that, synergies that were communicated as reasoning for doing the deal did not fully happen yet.
 
@@ -840,14 +840,14 @@ One of them is **the integration of LinkedIn Sales Navigator with Dynamics 365**
 
 Another synergy that was mention and that I see as a viable opportunity is an integration of **LinkedIn Learning content into Office.**  It will allow companies to create a custom learning plan that can be built from external content that LinkedIn hosts or can be structured as a combination of external content and internally created content. 
 
-This looks like a real value proposition for businesses that can make money, and integrating it with Office 365 can give Office even more customer stickiness. I was writing about this already last year but, it look that this will become even more real as was announced on 2020 Q4 earning call.
+This looks like a real value proposition for businesses that can make money, and integrating it with Office 365 can give Office even more customer stickiness. I was writing about this opportunity already last year but, it look that this will become even more real since it was specifically mentioned on 2020 Q4 earnings call.
 
 > "A new learning app in Teams will allow organizations to integrate LinkedIn Learning, as well as their own content, to create a continuous feedback loop between work, skills, and the learning to upskill and reskill employees."
 >
 >--- Satya Nadella, Microsoft's CEO, [Q4 2020 Earnings Call](https://www.microsoft.com/en-us/Investor/events/FY-2020/earnings-fy-2020-q4.aspx)
 
 
-To sum up, **LinkedIn is not a bad acquisition even with its current performance, but some synergies that were announced as a reason for the acquisition did not happen yet, eventhoug it looks the things are moving in the right direction. But it will be a slow process and it will take years before we see some of them bringing significant revenue.**
+To sum up, **LinkedIn is not a bad acquisition even with its current performance, but some synergies that were announced as a reason for the acquisition did not happen yet, even thoug it looks the things are moving in the right direction. But it will be a slow process and it will take years before we see some of them bringing significant revenue.**
 
 *Note: Growth in LinkedIn revenue between 2018 and 2017 is not comparable because the 2017 value is only for half of the year. LinkedIn was acquired at the end of the 2016 calendar year, but it falls into the 2017 fiscal year that ends in June 2017.*
 
@@ -865,13 +865,13 @@ The cloud version of Dynamics (Dynamics 365) generates $1.5bn in annual revenue 
 
 ![Server and cloud icon](/assets/images/icons/server_cloud.png){: .align-left}
 
-**Server Products and Services is the most significant revenue source ($41.4bn) and also the one with fast growth (27%).** Thanks to this combination, it was the single biggest absolute revenue growth reason in 2020.  Together with Office revenue source is the core driver of Microsoft's recent success. Let's look at it in a more detail.
+**Server Products and Services is the most significant revenue source ($41.4bn) and also the one with fast growth (27%).** Thanks to this combination, it was the single biggest absolute revenue growth reason in 2020.  Together with Office revenue source is the core driver of Microsoft's recent success. Let's look at it in more detail.
 
 Server Products and Services include:
 
 - **Traditional on-premise server products** are the biggest part of this category (around $21 bn annually) and are still growing, although very slowly.  This **includes products like Windows Server and SQL server**, which are mostly on-premise solutions or part of hybrid solutions.
 
-- **Azure is** Microsoft's cloud service that is the second biggest cloud after Amazon's AWS. Azure is an extremely fast-growing business, growing by 72% in 2019, and 56% in 2020, and it is poised to overcome on-premise server products in revenue next year.
+- **Azure is** Microsoft’s cloud service, which is the second-biggest cloud after Amazon's AWS. Azure is an extremely fast-growing business, growing by 72% in 2019, and 56% in 2020, and it is poised to overcome on-premise server products in revenue next year.
 
 **Azure is a Microsoft real success story with revenue of around $20bn a year and fast growth.** Current CEO Satya Nadella that replaced Steve Ballmer as CEO in 2014 deserves a lot of credit for how Microsoft managed to focus on Cloud solutions, including Azure and execute this strategy effectively. However, **we have to give credit also to the previous CEO, Steve Ballmer, for this**. 
 
@@ -896,7 +896,7 @@ It is a smaller, slow-growing revenue stream but which fits nicely within the Mi
 
 **Windows' importance for Microsoft revenue is slowly decreasing, and Windows currently has a 16% share on total revenue.** It is not a cornerstone of Microsoft's business anymore, but it is still crucial as part of its full business software offerings.
 
-**The biggest piece of Windows revenue is coming from Equipment manufactures (OEM)** like Lenovo, Dell, or HP that offer devices with a preinstalled Windows operating system. These OEM partners pay the licensing fee to Microsoft for that. These are both consumer-focused devices and business-focused devices. However, the majority of OEM Windows revenue is from devices with Windows Professional installed. OEM Licensing with Windows Professional is growing by around 11% annually compared with usually declining revenue from non-Professional OEM Windows licensing. In 2020 however, even non-professinall OEM segment was growing by 5% probably because of COVID-19.
+**The biggest piece of Windows revenue is coming from Equipment manufactures (OEM)** like Lenovo, Dell, or HP that offer devices with a preinstalled Windows operating system. These OEM partners pay the licensing fee to Microsoft for that. These are both consumer-focused devices and business-focused devices. However, the majority of OEM Windows revenue is from devices with Windows Professional installed. OEM Licensing with Windows Professional is growing by around 11% annually compared with usually declining revenue from non-Professional OEM Windows licensing. In 2020 however, even the non-professinall OEM segment was growing by 5% probably because of COVID-19.
 
 Another stream of Windows revenue is Commercial Licensing, where companies buy Windows licenses directly from Microsoft. It is a smaller part of Windows revenue (24%) but growing in double digits.
 
@@ -914,7 +914,7 @@ Surface devices were not an instant success when Microsoft introduced them, but 
 
 Gaming (Xbox) is the only solely consumer-focused business that might look out of place considering Microsoft's new business focus strategy. Therefore, rumors and comments about possible divestment of gaming business are flying around. 
 
-Xbox is a pretty **significant business with $11.6bn of annual revenue, but its growth is on a lower side and increased by $0.2bn in 2019**, which resulted from a 11% increase in services part of gaming revenue. Service revenue mainly came from sales of its own  and third-party games (Microsoft takes a cut from the price), and it was partially **offset by a decrease from the sale of Xbox hardware.** If you take into account that Q4 was very positively affected by COVID-19, not much to brag about.
+Xbox is a pretty **significant business with $11.6bn of annual revenue, but its growth is on a lower side and increased by $0.2bn in 2019**, which resulted from an 11% increase in services part of gaming revenue. Service revenue mainly came from sales of its own  and third-party games (Microsoft takes a cut from the price), and it was partially **offset by a decrease from the sale of Xbox hardware.** If you take into account that Q4 was very positively affected by COVID-19, not much to brag about.
 
 When Microsoft's CEO, Satya Nadella, was asked about the future of Gaming within Microsoft during the 2019 Q4 earnings call, this was his answer: (Note: X Cloud is Microsoft gaming streaming service).
 
@@ -926,13 +926,13 @@ So as you can see, although CEO id not confirmed or denied anything, as I see it
 
 I can also think of one other long term reason why gaming in Microsoft fits its strategy well. Microsoft is quite focused on educational tools both for non-business and business-focused, and the future of learning will be connected with gaming technology.
 
-Gaming for now looks like a weird fit, and its future is unclear. But let's keep in mind that even though the consumer market is not the company's focus right now, it does not mean that there is not a long-term aspiration within Microsoft to get back into it when the right opportunity presents itself. Recent announcement that Microsoft wants to [buy TikTok](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/) suggest that this might be the case. 
+Gaming for now looks like a weird fit, and its future is unclear. But let's keep in mind that even though the consumer market is not the company's focus right now, it does not mean that there is not a long-term aspiration within Microsoft to get back into it when the right opportunity presents itself. The recent announcement that Microsoft wants to [buy TikTok](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/) suggests that this might be the case. 
 
 ### Advertising Revenue
 
 ![Advertising icon](/assets/images/icons/advertising.png){: .align-left}
 
-Although Bing, which is Microsoft's search engine, market share is tiny, and Microsoft even outsourced monetization of search to Verizon, it still added nice $8bn to revenue in 2020. By the way, it is roughly the same as total revenue of LinkedIn that Microsoft paid $27bn for. Growth in 2020 was only 1% vs 9% last year driven mainly by CROVID-19 impact in Q3 and mainly Q4 2020 (-18% y/y growth)
+Although Bing, which is Microsoft's search engine, market share is tiny, and Microsoft even outsourced monetization of Search to Verizon, it still added nice $8bn to revenue in 2020. By the way, it is roughly the same as the total revenue of LinkedIn that Microsoft paid $27bn for. Growth in 2020 was only 1% vs. 9% last year driven mainly by CROVID-19 impact in Q3 and mainly Q4 2020 (-18% y/y growth)
 
 **Bing, however, is not important only because it earns a few billions of dollars from advertising. It is a strategic asset because of its underlying search technology.** It is crucial for Microsoft to have this expertise and continue to innovate in it inside Microsoft to be able to push search and understanding of natural language into its business-focused products.
 
@@ -940,7 +940,7 @@ Although Bing, which is Microsoft's search engine, market share is tiny, and Mic
 
 **The area charts below show how are different Microsoft revenue streams important for Microsoft's revenue and what are the trends during the last five years. Most obvious development is:**
 
-- **a decrease in the share of devices on total revenue in 2015 and 2016**, which resulted from the smartphone business exit. It decreased the revenue but also helped margins.
+- **a decrease in the share of devices on total revenue in 2015 and 2016**, which was caused by smartphone business exit. It decreased the revenue but also helped margins.
 - **Increase in Server Products and Services to 29% share on revenue.** As I mentioned before, this is driven mainly by the fast growth of Azure Cloud revenue and share of this revenue stream will continue to increase for the foreseeable future.
 - Another not so much a takeaway then just a reminder is that Windows, although not anymore cornerstone of **Windows** strategy, **is still an important revenue contributor with a 16% share on total revenues.**
 
@@ -954,8 +954,8 @@ You can also see how Microsoft splits its revenue based on if it is coming from 
 
 Finally, let me offer you a less traditional look at how different Microsoft's revenue source or product lines are growing. Aim of the bubble chart below is to visualize :
 
-- **how big are various revenue sources compared to each other** (visualized by the size of the circle). You can see that the most significant pieces are **Server Products and Services, Office Products and Services, and Windows** in the third place.
-- **How are different income streams growing in absolute revenue compared to the previous year** (more up is the bubble, the biggest revenue increase it represents)
+- **How big are various revenue sources compared to each other** (visualized by the size of the circle)?You can see that the most significant pieces are **Server Products and Services, Office Products and Services, and Windows** in the third place.
+- **How are different income streams growing in absolute revenue compared to the previous year?** (more up is the bubble, the biggest revenue increase it represents)
 - **How are different income streams growing relatively (in %) compared to the previous year.** The fastest-growing revenue sources are positioned on the right and slowest ones on the left.
 
 ![Visualization of Microsoft revenue segment changes in 2020 (scatter plot)](/assets/images/microsoft_revenue_segments_change_breakdown_scatter_chart.png)
@@ -972,7 +972,7 @@ Microsoft also reports gross and operating margin for these three operating segm
 
 **The overall growth of expenses is 9%, which is lower than 14% revenue growth.** That is good news and means the **operating margin increased to 37%**, which is very respectful, and it would be even higher if we did not count loss-making LinkedIn revenue and expenses. 
 
-![Chart of Microsoft's costs and expenses breakdown (2016 to 2020)](/assets/images/microsoft_costs_expenses_breakdown_chart.png)
+![Chart of Microsoft's costs and expenses breakdown (2016 to 2020)](/assets/images/microsoft_costs_expenses_primary_breakdown_chart.png)
 
 Let's look at the individual items closer, focusing on the ones that are not growing in line with revenues.
 
@@ -980,13 +980,13 @@ Let's look at the individual items closer, focusing on the ones that are not gro
 
 ![Cost icon](/assets/images/icons/costs.png){: .align-left}
 
-The cost of revenue for services is **growing by 13% compared to the cost of revenue for product growth of -2%.** This makes absolute sense, given the revenue split development between products and services and transformation Microsoft is going through. Products are usually legacy products that Microsoft doesn't develop so actively and company resources are shifting to services.  **The total cost of revenue is growing by 7%, which is below the revenue growth.**
+The cost of revenue for services is **growing by 13% compared to the cost of revenue for product growth of -2%.** This makes absolute sense, given the revenue split development between products and services and transformation Microsoft is going through. Products are usually legacy products that Microsoft doesn't develop so actively, and company resources are shifting to services.  **The total cost of revenue is growing by 7%, which is below the revenue growth.**
 
 ### Research and Development Expenses
 
 ![Development icon](/assets/images/icons/development.png){: .align-left}
 
-**Growth is in line with revenue (14%) and has increased significantly in the last three years, in line with total revenue growth.** The growth in 2020 is roughly in line with the increase in **the number of employees in research and development, which increased by 17% to 56 000 people.** Main reason for this increase was continued investment in cloud engineering and lso in LinkedIn and devices. Total Microsoft's headcount was 163 00 at the end of 2020.
+**Growth is in line with revenue (14%) and has increased significantly in the last three years, in line with total revenue growth.** The growth in 2020 is roughly in line with the increase in **the number of employees in research and development, which increased by 17% to 56 000 people.** The main reason for this increase was continued investment in cloud engineering and also in LinkedIn and devices. Total Microsoft's headcount was 163 00 at the end of 2020.
 
 ### Sales & Marketing Expenses
 
@@ -994,11 +994,13 @@ The cost of revenue for services is **growing by 13% compared to the cost of rev
 
 This cost category deserves our attention because although it increases its growth increase in 13% in before it slowed its growth in 2019 and 2020. The question is why. What happened there? 
 
+The answer is simple. This temporary increase was mainly driven by LinkedIn as it was incorporated into the result for the full year. 
+
 Let's compare  sales&marketing expenses growth with headcount growth in sales & marketing. Headcount grew between 6%-5% both in 2018, 2019 and 2020. Microsoft says that a 4% growth in sales and marketing expenses in 2019 was influence by an increase in a commercial sales capacity and is partially offset by a decrease in marketing expenses. In 2020 increase by 8% is driven by investments in LinkedIn and commercial sales, and an increase in bad debt expense.  
 
 In 2018 (vs. 2017), Microsoft provided a similar explanation that sales and marketing expenses are driven not only by commercial sales but also thanks to LinkedIn (full-year impact of acquisition)that was offset by decreasing marketing expenses.
 
-This tells us that **sales and marketing expenses in 2018 were temporarily impacted by LinkedIn**. General** trend is that sales & marketing expenses are growing more slowly because it combines growth in commercial sales capacity** (roughly in line with headcount growth),** and this growth is partially offset by other items**. 
+So although, **sales and marketing expenses in 2018 were temporarily impacted by LinkedIn**, general trend is that sales & marketing expenses are growing more slowly because it combines growth in a commercial sales capacity (roughly in line with headcount growth), and this growth is partially offset by other items. 
 
 ### General & Administrative Expenses
 
@@ -1016,17 +1018,17 @@ Expenses in 2015 and 2016 are related to the **closing of Microsoft's phone divi
 
 The chart below shows the same expense item we explored before as % of revenue for the last five years. You can see how **the cost of revenue and services offset each other** as services become more important for Microsoft.  **Research & Development expenses are staying roughly at a 13% share.**
 
-**What drives overall operating margin increase is lower growth in all expenses except Research & Development.**
+**What drives the overall operating margin increase is lower growth in all expenses except Research & Development.**
 
 What this chart also shows is the white area at the top, which is revenue that is not spent. In other words, it is the operating margin. The operating margin of Microsoft is increasing for the last couple of years, and in 2020 was at respectful 37% of revenues.
 
 Microsoft also offers in its financial statements a split of its margin across different high-level segments. It ranges from 40% for Productivity and Business Processes segment to 33% for the More Personal Computing segment. Intelligent Cloud operating margin is 38%. And all segments margin increased versus 2020.
 
-![Chart of Microsoft's costs and expenses as % of revenue (2016-2020)](/assets/images/microsoft_costs_expenses_percentage_breakdown_chart.png)
+![Chart of Microsoft's costs and expenses as % of revenue (2016-2020)](/assets/images/microsoft_costs_expenses_primary_percentage_breakdown_chart.png)
 
 ### Alternative visualization of Microsoft's Expenses Changes in 2020
 
-Visualization in the form of bubble chart below offers a summary of how different expense items are changing in 2020 compared to 2019. We can see the cost of revenue for services and R&D are items that are growing roughly at the same speed as revenue. Still, this growth is more than offset by lower growth in Sales and Marketing and lower growth in the cost of revenue for products. As I showed earlier, cost of revenue for proudct and cost of revenue for services are moving in different directin as services are usually new fater growing income streams compared to "legacy" products.
+Visualization in the form of bubble chart below offers a summary of how different expense items are changing in 2020 compared to 2019. We can see the cost of revenue for services and R&D are items that are growing roughly at the same speed as revenue. Still, this growth is more than offset by lower growth in Sales and Marketing and lower growth in the cost of revenue for products. As I showed earlier, the cost of revenue for prouducts and the cost of revenue for services are moving in different directions as services are usually new faster-growing income streams compared to "legacy" products.
 
 ![Visualization of Microsoft's costs and expenses changes in 2020 (scatter plot)](/assets/images/microsoft_costs_expenses_change_breakdown_scatter_chart.png)
 
@@ -1048,7 +1050,7 @@ We can see above that from $61bn, part of it ($15bn) was used to invest in prope
 
 By deducting investment into property and equipment, we arrive at **$45bn of free cash flow.  Free cash flow is one of the most crucial cash flow metrics, showing how much cash can Microsoft generate**. Everything that visualization above shows below the Free Cash Flow part is about how Microsoft spends its free cash flow.
 
-Just be aware that this is "standard" way and in my view not so great way how to calculate "Free Cash Flow". If you really want more proper number about how much "free" cash Microsoft has after investing we need to adjust Free cash flow for investing done throug leasing. And if you want o current free cash flow to estimate future one, you also need to adjust for stock-compansation. If we do all this adjustments Microsoft Free Cash Flow would be 34bn in 2020 and not 45. 
+Just be aware that this is a "standard" way and not so great one how to calculate "Free Cash Flow". If you really want a more proper number about how much "free" cash Microsoft has after investing, we need to adjust free cash flow for investing done through leasing. And if you want a current free cash flow to estimate future one, you also need to adjust for stock-compansation. If we do all these adjustments Microsoft Free Cash Flow would be $34bn in 2020 and not $45bn. 
 
 Let's ignore the smaller items and focus on the three main ways how Microsoft used its $45bn (or $34bn adjusted) 
 
@@ -1060,7 +1062,7 @@ If we add it up, then you can see  **from $45bn of free cash flow, $38bn was pai
 
 If we look at cash flow for the last five years, we can see that operating cash flow is growing every year, and even though Microsoft invests more money each ear into its data centers and offices, it still can increase its free cash flow.  
 
-Free cash flow is one of the most important metrics that show the cash that the company can generate and is one of the core inputs (the adjusted version) into how companies are valued. Investors expect this trend to continue for some time and then it is no surprise that Microsoft stock price just shot up at the same time and currently is competing with Amazon and Apple for the title of the most valuable company in the world.
+Free cash flow is one of the most important metrics that show the cash that the company can generate and is one of the core inputs (the adjusted version) into how companies are valued. Investors expect this trend to continue for some time, and then it is no surprise that Microsoft stock price just shot up at the same time and currently is competing with Amazon and Apple for the title of the most valuable company in the world.
 
 ![Chart of Microsoft's free cash flow breakdown (2016-2020)](/assets/images/microsoft_free_cash_flow_breakdown.png)
 
