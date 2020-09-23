@@ -33,7 +33,7 @@ Every annual report with financial statements within it, tells a story. And a st
 
 **Microsoft's story is about once a dominant company that ruled in the PC era and later got under pressure as consumers shifted from PC to smartphones. Moreover, new cloud-based competitors emerged that threatened Microsoft's business software dominance.**
 
-Microsoft went through several bad years. The issue was not primarily in company profits at the time, as it was able to keep making money from its legacy products. The problem was that its strategy for how it plans to become relevant in the new age was quite unclear. Everything culminated by the questionable [acquisition](https://news.microsoft.com/2013/09/03/microsoft-to-acquire-nokias-devices-services-business-license-nokias-patents-and-mapping-services/) of another struggling company that once dominated its market. The company name was Nokia. 
+Microsoft went through several bad years. The issue was not primarily in company profits at the time, as it was able to keep making money from its legacy products. The problem was that its strategy for how it plans to become relevant in the new age was quite unclear. Everything culminated by the questionable [acquisition](https://news.microsoft.com/2013/09/03/microsoft-to-acquire-nokias-devices-services-business-license-nokias-patents-and-mapping-services/){:target="_blank"} of another struggling company that once dominated its market. The company name was Nokia. 
 
 Nokia's acquisition sort of marks the low point for Microsoft, but since then, Microsoft was able to pull itself together. The company made a hard decision to leave smartphone business (and effectively consumer business) behind and refocus entirely on its business-focused productivity & server software.
 
@@ -69,13 +69,13 @@ It might look that Microsoft does not need any introduction since everybody has 
 
 > The key thing to realize is that Microsoft is not a consumer company anymore (except its gaming division). It is all about business customers.
 
-In line with its focus on commercial & productivity tools, the recent announcement by Microsoft that it is [closing Microsoft Store physical locations](https://news.microsoft.com/2020/06/26/microsoft-store-announces-new-approach-to-retail/) should not be a surprise. There are also many [more subtle changes](https://www.theverge.com/2020/2/28/21157816/microsoft-cortana-windows-10-productivity-skills-assistant-update) Microsoft is doing that suggests that consumers, at least for now, is not something it wants to focus on. 
+In line with its focus on commercial & productivity tools, the recent announcement by Microsoft that it is [closing Microsoft Store physical locations](https://news.microsoft.com/2020/06/26/microsoft-store-announces-new-approach-to-retail/){:target="_blank"} should not be a surprise. There are also many [more subtle changes](https://www.theverge.com/2020/2/28/21157816/microsoft-cortana-windows-10-productivity-skills-assistant-update){:target="_blank"} Microsoft is doing that suggests that consumers, at least for now, is not something it wants to focus on. 
 
-Some of Microsoft's announcements might seem supporting the idea that Microsoft is trying to get get back to a consumer market. One example can be [Microsoft's new Surface Duo](https://www.microsoft.com/en-us/surface/devices/surface-duo) device, altough these attempts are focused mainly on "professionals" and productivity, which is in line with Microsoft's business focus. More recently we have seen the news that Microsoft is interested into [acquisition of popular social app TikTok](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
+Some of Microsoft's announcements might seem supporting the idea that Microsoft is trying to get get back to a consumer market. One example can be [Microsoft's new Surface Duo](https://www.microsoft.com/en-us/surface/devices/surface-duo){:target="_blank"} device, altough these attempts are focused mainly on "professionals" and productivity, which is in line with Microsoft's business focus. More recently we have seen the news that Microsoft is interested into [acquisition of popular social app TikTok](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/){:target="_blank"}
 
 Apart from the important revenue streams mentioned above, Microsoft also has a few **smaller business-focused offerings** for hiring and learning (**LinkedIn**) or CRM (**Dynamics 365**). These are not a significant driver of profits nowadays, but it might change in a couple of years. And if other business needs arise in the future, that can be solved by a software tool or cloud service; I bet Microsoft will come after it.
 
-That should be enough for a quick overview of what Microsoft's business is. If you want to dig deeper into the history of Microsoft, then this [Wikipedia article](https://en.wikipedia.org/wiki/Microsoft) should cover you well. 
+That should be enough for a quick overview of what Microsoft's business is. If you want to dig deeper into the history of Microsoft, then this [Wikipedia article](https://en.wikipedia.org/wiki/Microsoft){:target="_blank"} should cover you well. 
 
 ## ✈️ High-Level Overview of Microsoft's Financial Statements (Charts & Key Takeaways)
 
@@ -753,7 +753,7 @@ In case you are new to my posts about companies and visualizations, I published 
 </tbody>
 </table>
 
-Data source for the above visuals and tables is [Microsoft's annual report (K-10)](https://www.sec.gov/ix?doc=/Archives/edgar/data/789019/000156459020034944/msft-10k_20200630.htm) that the company submits to the Security and Exchange Commission (SEC) and also other documents that Microsoft provided for investors. You can find them on [Microsoft's investor relation website](https://www.microsoft.com/en-us/investor), including conference call recordings and their transcripts.
+Data source for the above visuals and tables is [Microsoft's annual report (K-10)](https://www.sec.gov/ix?doc=/Archives/edgar/data/789019/000156459020034944/msft-10k_20200630.htm){:target="_blank"} that the company submits to the Security and Exchange Commission (SEC) and also other documents that Microsoft provided for investors. You can find them on [Microsoft's investor relation website](https://www.microsoft.com/en-us/investor){:target="_blank"}, including conference call recordings and their transcripts.
 
 ## 🔵 Breakdown & Analysis of Microsoft's Revenues (Income Statement)
 
@@ -834,7 +834,7 @@ In 2020 **LinkedIn contributed $8.1bn to Microsoft's revenue**, which was 20% gr
 
 With Microsoft behind LinkedIn and keeping its current momentum, Microsoft should be able to get its money back. But **getting its money back does not justify the reasoning behind this acquisition.** 
 
-**The LinkedIn acquisition was sold to investors by Microsoft as a significant opportunity for synergies between the companies.** If you can check Microsoft's [presentation](https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/InvestorPresentation.pptx?version=a19a08fd-6017-7f22-64c3-2f9aec438edf) on the LinkedIn deal, you will see that it contains a lot of vague corporate "mumbo jumbo" reasons, but between them, one can spot few "realistic" integration opportunities.
+**The LinkedIn acquisition was sold to investors by Microsoft as a significant opportunity for synergies between the companies.** If you can check Microsoft's [presentation](https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/InvestorPresentation.pptx?version=a19a08fd-6017-7f22-64c3-2f9aec438edf){:target="_blank"} on the LinkedIn deal, you will see that it contains a lot of vague corporate "mumbo jumbo" reasons, but between them, one can spot few "realistic" integration opportunities.
 
 One of them is **the integration of LinkedIn Sales Navigator with Dynamics 365**. This part already happened a can help differentiate Dynamics 365 on the market (More about Dynamic later).
 
@@ -844,7 +844,7 @@ This looks like a real value proposition for businesses that can make money, and
 
 > "A new learning app in Teams will allow organizations to integrate LinkedIn Learning, as well as their own content, to create a continuous feedback loop between work, skills, and the learning to upskill and reskill employees."
 >
->--- Satya Nadella, Microsoft's CEO, [Q4 2020 Earnings Call](https://www.microsoft.com/en-us/Investor/events/FY-2020/earnings-fy-2020-q4.aspx)
+>--- Satya Nadella, Microsoft's CEO, [Q4 2020 Earnings Call](https://www.microsoft.com/en-us/Investor/events/FY-2020/earnings-fy-2020-q4.aspx){:target="_blank"}
 
 
 To sum up, **LinkedIn is not a bad acquisition even with its current performance, but some synergies that were announced as a reason for the acquisition did not happen yet, even thoug it looks the things are moving in the right direction. But it will be a slow process and it will take years before we see some of them bringing significant revenue.**
@@ -920,13 +920,13 @@ When Microsoft's CEO, Satya Nadella, was asked about the future of Gaming within
 
 > "... it builds on the rest of the cloud investment. So, if you think about what we are doing with X Cloud, it's a hero workload on top of Azure. So, when we think about capital allocation, what's happening in the cloud, what's happening in the edge, how with build the network to optimize for streaming. The same infrastructure, for example, is what Sony has decided to use as well and be on Azure as well as use our AI capabilities."
 >
->--- Satya Nadella, Microsoft's CEO, [Q4 2020 Earnings Call](https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/TranscriptFY19Q4.docx?version=21b560a7-8457-c458-b565-816bc71cc9ad)
+>--- Satya Nadella, Microsoft's CEO, [Q4 2020 Earnings Call](https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/TranscriptFY19Q4.docx?version=21b560a7-8457-c458-b565-816bc71cc9ad){:target="_blank"}
 
 So as you can see, although CEO did not confirmed or denied anything, as I see it, he suggested that there are synergies with Azure cloud and that having Microsoft's gaming services running on Azure can be used to lure other businesses in the gaming sector into Azure.
 
 I can also think of one other long term reason why gaming in Microsoft fits its strategy well. Microsoft is quite focused on educational tools both for non-business and business-focused, and the future of learning will be connected with gaming technology.
 
-Gaming for now looks like a weird fit, and its future is unclear. But let's keep in mind that even though the consumer market is not the company's focus right now, it does not mean that there is not a long-term aspiration within Microsoft to get back into it when the right opportunity presents itself. The recent announcement that Microsoft wants to [buy TikTok](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/) suggests that this might be the case. 
+Gaming for now looks like a weird fit, and its future is unclear. But let's keep in mind that even though the consumer market is not the company's focus right now, it does not mean that there is not a long-term aspiration within Microsoft to get back into it when the right opportunity presents itself. The recent announcement that Microsoft wants to [buy TikTok](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/){:target="_blank"} suggests that this might be the case. 
 
 ### Advertising Revenue
 
@@ -1102,15 +1102,15 @@ The chart below shows how different balance sheet items moved in 2020, both abso
 
 **Official Annual Reports (K-10)**
 
-- [Microsoft's Annual Report 2020 (10-K)](https://www.sec.gov/ix?doc=/Archives/edgar/data/789019/000156459020034944/msft-10k_20200630.htm)
-- [Microsoft's Annual Report 2019 (10-K)](https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm)
-- [Microsoft's Annual Report 2018 (10-K)](https://www.sec.gov/Archives/edgar/data/789019/000156459018019062/msft-10k_20180630.htm)
-- [Microsoft's Annual Report 2017 (10-K)](https://www.sec.gov/Archives/edgar/data/789019/000156459017014900/msft-10k_20170630.htm)
+- [Microsoft's Annual Report 2020 (10-K)](https://www.sec.gov/ix?doc=/Archives/edgar/data/789019/000156459020034944/msft-10k_20200630.htm){:target="_blank"}
+- [Microsoft's Annual Report 2019 (10-K)](https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm){:target="_blank"}
+- [Microsoft's Annual Report 2018 (10-K)](https://www.sec.gov/Archives/edgar/data/789019/000156459018019062/msft-10k_20180630.htm){:target="_blank"}
+- [Microsoft's Annual Report 2017 (10-K)](https://www.sec.gov/Archives/edgar/data/789019/000156459017014900/msft-10k_20170630.htm){:target="_blank"}
 
 **Other**
 
-- [Microsoft's Investor Relation Website](http://www.microsoft.com/investor): Place where you can find earnings call transcripts and other supplemental documents and data.
-- [Historical Overview of Microsoft (Wikipedia)](https://en.wikipedia.org/wiki/Microsoft)
+- [Microsoft's Investor Relation Website](http://www.microsoft.com/investor){:target="_blank"}: Place where you can find earnings call transcripts and other supplemental documents and data.
+- [Historical Overview of Microsoft (Wikipedia)](https://en.wikipedia.org/wiki/Microsoft){:target="_blank"}
 
 
 *Disclaimer: Although I use third party trademarks and logos in this article and its visuals, kamilfranek.com is an independent site, and there is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
