@@ -44,7 +44,6 @@ Amazon is a formidable company that, even after 25+ years, is constantly innovat
 They then chose the more appropriate name, "Amazon.com." But looking back, we can now see that although the company was not named "relentless," it was and still is relentless in the way it operates. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKDo7maRwnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
 
 So what business is Amazon in, and what it actually does?
 
@@ -64,7 +63,7 @@ In the following older video, Jeff Bezos talks about Amazon, its vision, and how
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mk0qTPqaFcw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+
 
 As is evident from this interview and other older ones, it seems that Amazon did not have any master plan from day one how they will make money. They wanted to focus on the customer and figure out how to make money from it later by trying out different things and building on top of those that worked. And that is what happened.
 
@@ -131,7 +130,7 @@ Both big and small businesses with strong retail brands have started to focus mo
 
 This Economist Radio audio below very well describes the challenges with AWS, the Indian market, and re/energized competition. However, I disagree with them that the AWS spin-off is such a no-brainer and that it currently would be a move that would make good business sense from Amazon's point of view.
 
-<iframe title="Embed Player" width="100%" height="188px" src="[https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-](https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-)" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 Suppose you want to learn more about Amazon, including some of the controversy about the company. In that case, I recommend this documentary by Frontline. 
 
