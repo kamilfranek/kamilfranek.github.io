@@ -25,7 +25,7 @@ header:
 
 </style>
 
-Amazon is one of the most valuable companies in the world. It became a household name associated with a wide selection of goods, low prices, and quick delivery. Amazon is dominating e-commerce business and has recently started also creative disruption of physical retail business and other areas. 
+Amazon is one of the most valuable companies in the world. It became a household name associated with a wide selection of goods, low prices, and quick delivery. Amazon is dominating e-commerce business and has recently started also creative disruption of physical retail and other areas. 
 
 **Amazon is a unique company, and its financial statements from its annual report reflect that. Even after 25+ year in business, Amazon still focuses on growth, does not return money to investors, and primarily reinvests increasing amount of cash back into the business**
 
@@ -39,15 +39,15 @@ Let's start with a quick overview of what business Amazon is really in. Amazon's
 
 ## 🏢 **What Business is Amazon In? (Quick Overview)**
 
-Amazon is a formidable company that, even after 25+ years, is constantly innovating and pushing the online e-commerce and recently also physical retail business ahead.  As Jeff Bezos, Amazon founder, and CEO, often says in his interviews, one of the original names how to name Amazon was [relentless.com.](http://relentless.com){:target=" _blank"}
+Amazon is a formidable company that, even after 25+ years, is constantly innovating and pushing the online e-commerce and recently also physical retail business ahead.  As Jeff Bezos, Amazon founder, and CEO, often says in his interviews, one of the original ideas how to name Amazon was [relentless.com.](http://relentless.com){:target=" _blank"}
 
 They then chose the more appropriate name, "Amazon.com." But looking back, we can now see that although the company was not named "relentless," it was and still is relentless in the way it operates. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKDo7maRwnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+&nbsp;
 So what business is Amazon in, and what it actually does?
 
-What is important to realize is that even though Amazon started as an online bookstore and later as an online "everything" that sells directly to customers,  this business model is history. 
+What is important to realize is that even though Amazon started as an online bookstore and later as an online "everything" store that sells directly to customers,  this business model is history. 
 
 Currently, nearly [60% of physical product sales](https://docs.house.gov/meetings/JU/JU05/20200729/110883/HHRG-116-JU05-Wstate-BezosJ-20200729.pdf){:target=" _blank"} on Amazon are items sold by other third party businesses, not Amazon itself.
 
@@ -63,8 +63,7 @@ In the following older video, Jeff Bezos talks about Amazon, its vision, and how
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mk0qTPqaFcw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+&nbsp;
 As is evident from this interview and other older ones, it seems that Amazon did not have any master plan from day one how they will make money. They wanted to focus on the customer and figure out how to make money from it later by trying out different things and building on top of those that worked. And that is what happened.
 
 **Prime membership, AWS, and access to Amazon by third-party sellers were few of those experiments that at the end worked out. These experiments changed Amazon from an online retailer to an online retail platform with its fulfillment centers, planes, trucks, and delivery vans.** 
@@ -84,8 +83,8 @@ The chart below shows different revenue streams as % of the total. Note that abs
 As you can see above, Amazon's revenue is coming from the following sources:
 
 - **50% of revenue (not profits!) is coming from online stores.** This represents the value of goods that Amazons sells directly to its customers. Currently online stores are biggest part of revenue, but looking at the trend, it is clear that it will not be the biggest part of revenue for a long time.
-- **The second biggest revenue source is third-party seller services.** This revenue represents fees that other businesses pay to Amazon for access to its customers and for fulfilling customer orders, handling returns, and other services. It is only 19% of revenue, but we have to consider that this is only the value of fees Amazon charges, not the full price of the product sold. Currently, on Amazon, nearly [third parties sell 60% of goods](https://blog.aboutamazon.com/policy/statement-by-jeff-bezos-to-the-u-s-house-committee-on-the-judiciary){:target=" _blank"}, not directly by Amazon.
-- **The third important revenue stream is Amazon Web Services (AWS)**, where Amazon charges businesses for using its cloud infrastructure and services. For a long time, AWS was the only part of the business that was making a profit. Without that, Amazon would be loss-making until 2017.
+- **The second biggest revenue source is third-party seller services.** This revenue represents fees that other businesses pay to Amazon for access to its customers and for fulfilling customer orders, handling returns, and other services. It is only 19% of revenue, but we have to consider that this is only the value of fees Amazon charges, not the full price of the product sold. Currently, on Amazon, [third parties sell 60% of goods.](https://blog.aboutamazon.com/policy/statement-by-jeff-bezos-to-the-u-s-house-committee-on-the-judiciary){:target=" _blank"}
+- **The third important revenue stream is Amazon Web Services (AWS)**, where Amazon charges businesses for using its cloud infrastructure and services. For a long time, AWS was the only part of the business that was making a significant profit. Without that, Amazon would be loss-making until 2017.
 
 Revenue streams mentioned above (online stores, third-party services, AWS) currently make more than **80% of total revenue.** Other revenue streams, like Subscription services, Physical Stores, and Other (mostly advertising), are presently small. Still, based on Amazon's recent actions, they might play a more prominent role in the coming years. 
 
@@ -105,8 +104,6 @@ It can happen either by using your Fire TV remote or saying, "Alexa, buy me that
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PZ75QyqbKf4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
-
-
 Another thing to watch for in the coming years is Amazon's **push into a physical retail business through its own stores**, especially Whole Food, that they acquired in 2017 or Amazon Fresh. But **the main potential might come from renting out Amazon in-store cashier-less technology to other physical retailers.**  
 
 For some time, Amazon was testing its cashier-less technology in its Amazon Go stores. It recently launched Amazon Fresh stores, where you can use Amazon Dash Cart that Amazon developed. Amazon already officially offers this service to other businesses as a service at justwalkout.com.  
@@ -120,7 +117,7 @@ Amazon is well-positioned to provide excellent customer experience by merging on
 
 Another reason why Amazon's growth might slow down, and its journey for higher profits will be challenged, are its **re-energized competitors**. Amazon is no longer underestimated as before. Walmart, Amazon's biggest competitor in the US, looks like it finally figured out how to do e-commerce and is moving into Amazon's territory. 
 
-**Amazon's challenges are not limited to the US market. it already exited [China marketplace](https://www.ft.com/content/1ffe020c-6191-11e9-b285-3acd5d43599e){:target="_blank"} last year after 15 years of trying.** Amazon was not able to win in China thanks to fierce competition and reportedly also thanks to Amazon's attempts to run China from US headquarters. 
+**Amazon's challenges are not limited to the US market. It exited [China marketplace](https://www.ft.com/content/1ffe020c-6191-11e9-b285-3acd5d43599e){:target="_blank"} last year after 15 years of trying.** Amazon was not able to win in China thanks to fierce competition and reportedly also thanks to Amazon's attempts to run China from US headquarters. 
 
 **Even current attempts to double down on the Indian market might backfire.** Not only because of competition but also thanks to political risks.
 
@@ -128,7 +125,7 @@ There are also new services like Shopify that offer non-branded services for bus
 
 Both big and small businesses with strong retail brands have started to focus more on building their relationships with customers and staying away from Amazon. They correctly realize that it might not be in their best long term interest to sell their products there. 
 
-This Economist Radio audio below very well describes the challenges with AWS, the Indian market, and re/energized competition. However, I disagree with them that the AWS spin-off is such a no-brainer and that it currently would be a move that would make good business sense from Amazon's point of view.
+This Economist Radio episode below very well describes the challenges with AWS, the Indian market, and re/energized competition. However, I disagree with them that the AWS spin-off is such a no-brainer. I don't think it would be a move that would make good business sense for Amazon's at this time.
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
@@ -154,8 +151,10 @@ In case you are not familiar with the visualizations that I use in this article,
 
 ![Overview of Amazon's key earnings and cash flow metrics 2019](/assets/images/amazon_key_earnings_and_cashflow_metrics_summary.png)
 
+<div class="cardlist" markdown="1">
+
 - Amazon's **revenue increased by $48bn in 2019** (20% growth) **to $281 bn.**  **The Biggest driver** of this $48bn revenue growth was **"online store" (+$18bn)** that represents stuff directly sold by Amazon.
-- Other important growth contributors apart from "online stores were **third-party sellers services** (+$11bn) **and AWS** (+$9bn)
+- Other important growth contributors apart from "online stores" were **third-party sellers services** (+$11bn) **and AWS** (+$9bn)
 - **Total revenue grew by +20%** in 2019, which was a **result of slower growth (+14%) of direct online store sales** and quicker growth of third party services (26%), AWS (37%) advertising (39%), and subscription services (36%). The only revenue stream that did not grow at all was the physical store revenue stream. 
 - **Growth of revenue in 2017 nad 2018 was influenced by Whole Food acquisition and distorted comparison of long term growth rates.** By excluding physical stores from revenue, we can see that Amazon's revenue growth is slowly decreasing from  27% in 2017 to 25% growth in 2018 and 22% in 2019.
 - **Amazon.com sells nearly [60% of physical merchandise](https://docs.house.gov/meetings/JU/JU05/20200729/110883/HHRG-116-JU05-Wstate-BezosJ-20200729.pdf){:target="_blank"} through its third party seller channel.** Its direct online revenue is decreasing but is still 50% of the total. It reports as revenue only fees third-party sellers pay to Amazon, not a full value of goods sold.
@@ -166,6 +165,8 @@ In case you are not familiar with the visualizations that I use in this article,
 - **Non-AWS business from North America online and physical stores is slightly profitable**, earning $7bn in 2019, which is a 4% operating margin. But if we compare the North America segment with last year, we can see a decrease from 7.3bn to 7bn. Amazon's growth in revenue in this segment was not enough to cover the increase in operating expenses; even-though fulfillment expenses did not grow so quickly as before.
 - **Amazon's net income after taxes was in 2019 $11.6bn, which is a 15% increase.** That translates to a **$23.01 profit per share.**
 - Amazon's business model is no longer about selling stuff online. **Amazon pivoted to become a provider of e-commerce infrastructure for other businesses.** Amazon collects fees from other companies for using its services like fulfillment and delivery. But the main thing they are willing to pay for is, obviously, access to hundreds of millions of Amazon's customers.
+</div>
+
 
 ![Amazon income statement as Sankey diagram chart 2019 (visualization)](/assets/images/amazon_income_statement_sankey_chart.png)
 
@@ -356,6 +357,7 @@ In case you are not familiar with the visualizations that I use in this article,
 
 ### How Much Cash Amazon Earned and How Amazon Spent it (Cash Flow Statement Overview)
 
+<div class="cardlist" markdown="1">
 - Amazon was not a very profitable company in 2019. But if we look at the cash, it generates it is quite a different story. **Amazon's operating cash flow was $38.5bn, which is a growth of 25%.**
 - Even with sizable operating cash flow, **Amazon invests nearly all the cash back into the company.** Its capital expenditures are massive, but it is not easy to see from Amazon's cash flow statement directly. Amazon's capital expenditures are financed by leases. Leases are treated differently in the cash flow statement and, therefore, might be a source of confusion.
 - **The standard measure of Amazon's capital expenditure that you can find in its cash flow statement is $12bn.** **However, this number quite misrepresents the real scale of Amazon's capital expenditures** because it ignores investment finance by leases. If we included capital expenditures financed by leases, we would **get nearly triple the reported amount.**
@@ -364,6 +366,8 @@ In case you are not familiar with the visualizations that I use in this article,
 - Amazon's low free cash flow is not a bad thing. It is just a result of Amazon's aggressive investments even after 25+ years in business.
 - Since Amazon invests nearly every dollar earned back into the company, it is no surprise that **it does not pay any dividend and does even buyback its own shares**, as many other tech giants massively do. It simply does not have any cash left after its investments.
 - Amazon, compared to other tech giants, never spent a large amount on acquisitions. Amazon acquires mainly smaller companies, and its cash it spends each year on acquisitions is usually in low billions. The only exception was the $13.7bn acquisition of Whole Food in 2017.
+</div>
+
 
 ![Visualization of Amazon cash flow statement as Sankey diagram chart 2019](/assets/images/amazon_cash_flow_statement_sankey_chart.png)
 
@@ -589,9 +593,11 @@ In case you are not familiar with the visualizations that I use in this article,
 
 ![Overview of Amazon's key balance sheet metrics 2019](/assets/images/amazon_key_balance_sheet_metrics_summary.png)
 
+<div class="cardlist" markdown="1">
 - **Amazon's assets jumped up in 2019 by $63bn to $225bn.** (+38% growth). However, **the biggest piece of this jump ($25bn) was caused by US GAAP** changes that require companies to show also assets and obligations from operating leases as part of the balance sheet. Unlike with other changes, companies were not required to restate the previous period. Therefore, this change distorts the comparison of changes between 2019 and 2018, both in assets and liabilities.
 - Other significant changes that drive asset increase were **growth in property and equipment and short-term investments**.
 - On the balance sheet equity&liabilities side, the main driver of the increase, apart from the **leasing accounting change** described earlier, was an **increase in equity** that was mostly driven by current year profit and also increased capital thanks to stock-based compensation.
+</div>
 
 ![Amazon balance sheet visualization 2019](/assets/images/amazon_balance_sheet_visualization.png)
 
