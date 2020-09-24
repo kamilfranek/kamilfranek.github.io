@@ -19,7 +19,7 @@ Articles are both about business analytics from the outside point of view by off
 
 Hi,
 
-[Kamil](/about-kamilfranek/) here. Let me share with you my view of business analytics and what is my long term vision for this site.
+[Kamil](/about-kamil-franek/) here. Let me share with you my view of business analytics and what is my long term vision for this site.
 
 My approach to Business Analytics is that it is about **helping people to answer a question they have about their business so that they can make better decisions.** "Business" is an **essential ingredient** in it, 
 

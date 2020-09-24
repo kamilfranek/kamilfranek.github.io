@@ -16,7 +16,7 @@ permalink: /about-kamil-franek/
 
 Kamil Franek is a business analytics professional and owner & chief analyst at **kamilfranek.com**. 
 
-Kamil has 15 years of experience in different analytics positions in finance, risk and also sales. 
+Kamil has 15 years of experience in different analytics positions in finance, risk, and sales. 
 
 He lives in Prague, Czech Republic.
 
