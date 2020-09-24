@@ -31,6 +31,8 @@ Amazon is one of the most valuable companies in the world. It became a household
 
 The main thing to realize is that Amazon's core business is not selling stuff online anymore. At least not directly. It pivoted to offering Amazon.com as a platform for other companies to use.
 
+![Amazon's Summarized Income Statement Waterfall Chart 2019](/assets/images/amazon_income_statement_summarized_waterfall_chart.png)
+
 In this article, I will walk you through Amazon's financial statements from its annual report, using charts and key takeaways. After that, we will look at more detail on individual revenue streams and see how different parts of Amazon's business generate revenue. 
 
 I want to present you the financial numbers is simple and visual way, but also help you tie the numbers to the "business" behind them.
