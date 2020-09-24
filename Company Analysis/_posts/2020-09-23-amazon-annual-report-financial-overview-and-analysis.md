@@ -45,7 +45,7 @@ Amazon is a formidable company that, even after 25+ years, constantly innovates 
 
 They then chose a more appropriate name, "Amazon.com." But looking back, we can now see that although the company was not named "relentless," it was and still is relentless in the way it operates. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yKDo7maRwnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKDo7maRwnk" loading="lazy" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 So what business is Amazon in, and what it actually does?
@@ -65,7 +65,7 @@ Amazon's actual profits, even in 2019, were not very huge since it still heavily
 In the following older video, Jeff Bezos talks about Amazon, its vision, and how they approach their business. The central theme that pop-ups several times is "obsessive focus on the customer."
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mk0qTPqaFcw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mk0qTPqaFcw" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 As is evident from this interview and other older ones, it seems that Amazon did not have any master plan from day one how they will make money. They wanted to focus on the customer and figure out how to make money from it later by trying out different things and building on top of those that worked. And that is what happened.
@@ -106,14 +106,14 @@ By that, I mean **integrating advertising with content** that Amazon already off
 
 It can happen either by using your Fire TV remote or saying, "Alexa, buy me that thing." Apart from that, Amazon streaming content alone is a great acquisition channel for Prime members. The video below offers a peek into Amazon's media strategy.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PZ75QyqbKf4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PZ75QyqbKf4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 Another thing to watch for in the coming years is Amazon's **push into a physical retail business through its own stores**, especially Whole Food, that they acquired in 2017 or Amazon Fresh. But **the main potential might come from renting out Amazon in-store cashier-less technology to other physical retailers.**  
 
 For some time, Amazon was testing its cashier-less technology in its Amazon Go stores. It recently launched Amazon Fresh stores, where you can use Amazon Dash Cart that Amazon developed. Amazon already officially offers this service to other businesses as a service at justwalkout.com.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rQO9u6-KOJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQO9u6-KOJk" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 Amazon is well-positioned to provide excellent customer experience by merging online and offline word together. All of those things above and a combination of online retail, offline retail, and in-content advertising will allow Amazon to have even bigger insight into customer behavior through data it can collect. 
@@ -132,11 +132,11 @@ Both big and small businesses with strong retail brands have started to focus mo
 
 This Economist Radio episode below very well describes the challenges with AWS, the Indian market, and re-energized competition. However, I disagree with them that the AWS spin-off is such a no-brainer. I don't think it would be a move that would make good business sense for Amazon's at this time.
 
-<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
+<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-" loading="lazy" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 For people interested in more backround information, including many controversies about Amazon, I  recommend this documentary by Frontline.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVVfJVj5z8s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVVfJVj5z8s" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 For those of you who don't want to spend nearly two hours watching it, this [Wikipedia article about Amazon](https://en.wikipedia.org/wiki/Amazon_(company)){:target=" _blank"} should make you covered. 
@@ -861,7 +861,7 @@ Healthcare is one of the areas that Amazons started pushing into recently. It is
 
 Amazon is also working on applying machine learning to cancer research and on other healthcare-related projects. In 2020 it also launched new hardware called **Halo, a health and wellness tracker.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wInt2V1r_8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wInt2V1r_8A" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 #### **Amazon's Hardware**
@@ -903,7 +903,7 @@ It is interesting that although this became such a huge topic, **Amazon's revenu
 
 Not because approximately 500 Whole Food stores would create some significant threat to other retailers. But it was a sign that Amazon is serious about its push into the physical retail business, and buying Whole Food was probably just a first step on this journey.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Abs6wZgI2gQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Abs6wZgI2gQ" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 Whole Food acquisition was not the first Amazon experience with physical stores. The company was experimenting with different offline store concepts since 2015 when it launched the first Amazon Book store. Since then, it has introduced and experimented with many other different concepts like **Amazon Go, Amazon 4-star, Amazon Pop-Up stores**, and even something as weird as **Amazon Treasure Truck**. 
@@ -938,7 +938,7 @@ Revenue consists of fees that Amazon is charging to third-party sellers. This fe
 
 Here is a short video by Amazon that summarized what services it offers for sellers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XHqCMltcFyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XHqCMltcFyU" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 **Amazon also offers other services** like the ability to auction for the top position in product searches, which work similarly to Google's search engine. 
@@ -956,7 +956,7 @@ It was evident that it was "hearing" only by name. Many members did not seem eve
 This hearing was mostly a political theater, and Jeff Bezos did not have any space to explain anything in detail. Despite all of that, it was a good summary of most of Amazon's antitrust issues.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F4-Ke0PDmKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4-Ke0PDmKU" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 **Third-party seller services are also the cornerstone of what Amazon offers in India, where regulation does not allow Amazon to sell goods directly.** Therefore Amazon's business there is mainly about providing the marketplace and charging fees for this service. However, it has some minority ownership in several third-party sellers selling on www.amazon.in marketplace.
@@ -968,7 +968,7 @@ Competition in India is also incredibly challenging. Amazon's problems are not o
 Another issue in India is the really strong political power that local small retailers have. Amazon won't have it easy.  But the company is not holding back there and even started piloting food delivery and also online pharmacy (Against strong opposition from India's chemist & druggist organization) 
 
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aONna7ZgRTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aONna7ZgRTw" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 ### Amazon's Subscription Services Revenue
@@ -985,7 +985,7 @@ On the other hand, **Prime Video is a great acquisition channel** since it is a 
 
 Prime video is a crucial part of Prime membership. **Amazon is investing heavily in its content by licensing content and recently also by investing billions of dollars in creating its own movies and shows** through its own Amazon Studios.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PZ75QyqbKf4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PZ75QyqbKf4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 Prime membership also includes many other services like Prime Music, Prime Gaming, and Prime Reading. Amazon offers its members also many discounts and special deals both online and in Amazon's physical stores, including Whole Food.
@@ -1002,7 +1002,7 @@ Sometimes people find it weird that Amazon is in this business, but it is not ha
 
 The decision to offer access to Amazon's IT infrastructure to other businesses was a crucial decision for the company. **It was, for a long time, the only profitable business for Amazon.** **Amazon was able to use those profits and invest it in its fulfillment network and other non-AWS investments.** 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H3_ZqnqLyVo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H3_ZqnqLyVo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 There are many voices nowadays suggesting that it makes business sense to spin-off AWS from Amazon, but I am not one of them. 
@@ -1043,7 +1043,7 @@ Amazon is also the owner of sites like **[imdb.com](http://imdb.com){:target=" _
 
 The most recent and bold is **project Kuiper, Amazon's mega project, to launch over 3000 low-orbit satellites** to provide internet access around the globe. Kuiper is similar to "Starlink" by SpaceX, a company owned by Elon Musk.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qd3suMNNIVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qd3suMNNIVs" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 Kuiper is an infrastructure project that makes sense as a part of AWS and its internet of things (IoT) infrastructure. But in time, this project might also widen the pool of people who have access to the internet, which might also benefit the Amazon retail business by merely having a bigger customer pool.  
@@ -1114,7 +1114,7 @@ Recently **Amazon stopped relying solely on its delivery partners like FedEx, UP
 
 Amazon is also focusing on expanding its last-mile delivery. It launched a [delivery service partner program](https://logistics.amazon.com/){:target=" _blank"} and even financially motivated its employees to become delivery contractors for the company.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Efs3PyR8iBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Efs3PyR8iBw" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 Amazon currently **has around 60 000 trucks, truck trailers, and vans** and ordered another [100 000 electric vans](https://www.wsj.com/articles/amazon-to-add-100-000-electric-vehicles-as-part-of-climate-pledge-11568914649){:target="_blank"} from Rivina. Since it will take Rivian until 2022 to deliver first 10 000 vans, Amazon ordered also [1800 electric vans](https://www.cnbc.com/2020/08/28/amazon-orders-1800-electric-vans-from-mercedes-for-deliveries.html){:target="_blank"} from Mercedes.
@@ -1137,7 +1137,7 @@ Fulfillment expenses grew "only" by 18% compared to 35% growth in 2018 because t
 
 Amazon's fulfillment centers are a state of the art facilities. They smartly combine robots, people, and artificial intelligence to make fulfillment as efficient as possible.  You can get a peek of how it looks and works inside the fulfillment center in the video below. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TUx-ljgB-5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TUx-ljgB-5Q" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 **In 2018, Amazon decided to embrace [a $15 per hour minimum salary](https://blog.aboutamazon.com/working-at-amazon/amazon-raises-minimum-wage-to-15-for-all-us-employees){:target=" _blank"}**, which affected 250 000 employees and another 100 000 seasonal ones. That turned Amazon from a company ostracized for not paying their employees properly to the company where the minimum wage is higher than the retail industry median wage.
