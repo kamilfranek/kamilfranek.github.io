@@ -111,10 +111,7 @@ It can happen either by using your Fire TV remote or saying, "Alexa, buy me that
 
 Another thing to watch for in the coming years is Amazon's **push into a physical retail business through its own stores**, especially Whole Food, that they acquired in 2017 or Amazon Fresh. But **the main potential might come from renting out Amazon in-store cashier-less technology to other physical retailers.**  
 
-For some time, Amazon was testing its cashier-less technology in its Amazon Go stores. It recently launched Amazon Fresh stores, where you can use Amazon Dash Cart that Amazon developed. Amazon already officially offers this service to other businesses as a service at justwalkout.com.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rQO9u6-KOJk" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+For some time, Amazon was testing its cashier-less technology in its Amazon Go stores. It recently launched Amazon Fresh stores, where you can use Amazon [Dash Cart](https://www.youtube.com/watch?v=rQO9u6-KOJk){:target=" _blank"} that Amazon developed. Amazon already officially offers this service to other businesses as a service at justwalkout.com.  
 
 Amazon is well-positioned to provide excellent customer experience by merging online and offline word together. All of those things above and a combination of online retail, offline retail, and in-content advertising will allow Amazon to have even bigger insight into customer behavior through data it can collect. 
 
@@ -134,10 +131,7 @@ This Economist Radio episode below very well describes the challenges with AWS, 
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-" loading="lazy" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
-For people interested in more backround information, including many controversies about Amazon, I  recommend this documentary by Frontline.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVVfJVj5z8s" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+For people interested in more backround information, including many controversies about Amazon, I  recommend this documentary by [Frontline.](https://www.youtube.com/watch?v=RVVfJVj5z8s){:target=" _blank"}
 
 For those of you who don't want to spend nearly two hours watching it, this [Wikipedia article about Amazon](https://en.wikipedia.org/wiki/Amazon_(company)){:target=" _blank"} should make you covered. 
 
@@ -861,9 +855,6 @@ Healthcare is one of the areas that Amazons started pushing into recently. It is
 
 Amazon is also working on applying machine learning to cancer research and on other healthcare-related projects. In 2020 it also launched new hardware called **Halo, a health and wellness tracker.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wInt2V1r_8A" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
-
 #### **Amazon's Hardware**
 
 Part of Online store revenue is also Amazon's hardware. Mainly **[Amazon Echo Dot](https://en.wikipedia.org/wiki/Amazon_Echo){:target="_blank"}** but also many other Echo variations. It is estimated that Amazon **sold around [37 million smart speakers](https://www.canalys.com/newsroom/-global-smart-speaker-market-Q4-2019-forecasts-2020){:target=" _blank"}** in 2019 and has a **30% market share** in this category with Google in second place with a 20% market share.
@@ -966,11 +957,7 @@ This hearing was mostly a political theater, and Jeff Bezos did not have any spa
 Competition in India is also incredibly challenging. Amazon's problems are not only big players like Amazon's main competitors in India, Flipkart, which is owned by Walmart. The biggest competition are traditional, small, usually family-owned vendors. These small retailers control [around 90%](https://www.wsj.com/articles/indias-biggest-competitors-to-walmart-and-amazon-mom-and-pop-1527512400){:target=" _blank"} of the market, and even local corporations have a really hard time to compete with them.
 
 Another issue in India is the really strong political power that local small retailers have. Amazon won't have it easy.  But the company is not holding back there and even started piloting food delivery and also online pharmacy (Against strong opposition from India's chemist & druggist organization) 
-
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aONna7ZgRTw" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
-
 ### Amazon's Subscription Services Revenue
 
 ![Subscribe Icon](/assets/images/icons/subscribe.png){: .align-left}
@@ -985,9 +972,6 @@ On the other hand, **Prime Video is a great acquisition channel** since it is a 
 
 Prime video is a crucial part of Prime membership. **Amazon is investing heavily in its content by licensing content and recently also by investing billions of dollars in creating its own movies and shows** through its own Amazon Studios.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PZ75QyqbKf4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
-
 Prime membership also includes many other services like Prime Music, Prime Gaming, and Prime Reading. Amazon offers its members also many discounts and special deals both online and in Amazon's physical stores, including Whole Food.
 
 Although Prime membership is a core part of Amazon's subscription services revenue, we cannot forget about many other services outside Prime membership that are part of subscription revenue. That includes services like Kindle Unlimited (access to e-books), Amazon Audible (audiobooks), Amazon Music Unlimited (music streaming), and also Amazon Channels, which will allow you to purchase selected premium TV channels for a monthly fee.
@@ -1001,9 +985,6 @@ Although Prime membership is a core part of Amazon's subscription services reven
 Sometimes people find it weird that Amazon is in this business, but it is not hard to understand that.  Thanks to Amazon's size and specific needs, no other provider could offer this service at that time. They had to build their own data centers to support their own e-commerce business and even develop its own services that did not exist before. 
 
 The decision to offer access to Amazon's IT infrastructure to other businesses was a crucial decision for the company. **It was, for a long time, the only profitable business for Amazon.** **Amazon was able to use those profits and invest it in its fulfillment network and other non-AWS investments.** 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H3_ZqnqLyVo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
 
 There are many voices nowadays suggesting that it makes business sense to spin-off AWS from Amazon, but I am not one of them. 
 
@@ -1042,9 +1023,6 @@ One interesting service that is present withing Amazon infrastructure but does n
 Amazon is also the owner of sites like **[imdb.com](http://imdb.com){:target=" _blank"}**, a movie and TV show catalog with ratings and reviews. Amazon also owns [**Goodreads.com**](http://goodreads.com){:target="_blank"}, which is a similar catalog and rating site for books. Both services were not developed by Amazon but were acquired after they become successful.
 
 The most recent and bold is **project Kuiper, Amazon's mega project, to launch over 3000 low-orbit satellites** to provide internet access around the globe. Kuiper is similar to "Starlink" by SpaceX, a company owned by Elon Musk.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qd3suMNNIVs" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
 
 Kuiper is an infrastructure project that makes sense as a part of AWS and its internet of things (IoT) infrastructure. But in time, this project might also widen the pool of people who have access to the internet, which might also benefit the Amazon retail business by merely having a bigger customer pool.  
 
