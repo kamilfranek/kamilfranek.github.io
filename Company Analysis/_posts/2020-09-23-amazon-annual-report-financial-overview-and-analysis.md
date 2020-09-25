@@ -127,9 +127,7 @@ There are also new services like Shopify that offer non-branded services for bus
 
 Both big and small businesses with strong retail brands have started to focus more on building their relationships with customers and staying away from Amazon. They correctly realize that it might not be in their best long term interest to sell their products there. 
 
-This Economist Radio episode below very well describes the challenges with AWS, the Indian market, and re-energized competition. However, I disagree with them that the AWS spin-off is such a no-brainer. I don't think it would be a move that would make good business sense for Amazon's at this time.
-
-<iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-" loading="lazy" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
+This [Economist Radio episode](https://embed.acast.com/theeconomistmoneytalks/moneytalks-canamazonstilldeliver-){:target=" _blank"} very well describes the challenges with AWS, the Indian market, and re-energized competition. However, I disagree with them that the AWS spin-off is such a no-brainer. I don't think it would be a move that would make good business sense for Amazon's at this time.
 
 For people interested in more backround information, including many controversies about Amazon, I  recommend this documentary by [Frontline.](https://www.youtube.com/watch?v=RVVfJVj5z8s){:target=" _blank"}
 
@@ -849,7 +847,7 @@ I mentioned earlier that Amazon also owns several **e-commerce sites that have i
 
 Originally it was an online shoe seller that later diversified also into clothing. Zappos is famous mainly for its unique, expressive company culture. It was able to stay separate and keep this culture even after the acquisition.
 
-Another example might be the innovative **online-pharmacy [pillpack.com](https://www.pillpack.com/){:target="_blank"}**, which Amazon acquired in 2018. This company might be Amazon's attempt to revolutionize the U.S healthcare industry. PillPack revenue target for 2020 was reportedly [$1 billion](https://www.cnbc.com/2019/05/10/why-amazon-bought-pillpack-for-753-million-and-what-happens-next.html), but Amazon probably has much more aggressive plans with it in the future.
+Another example might be the innovative **online-pharmacy [pillpack.com](https://www.pillpack.com/){:target="_blank"}**, which Amazon acquired in 2018. This company might be Amazon's attempt to revolutionize the U.S healthcare industry. PillPack revenue target for 2020 was reportedly [$1 billion](https://www.cnbc.com/2019/05/10/why-amazon-bought-pillpack-for-753-million-and-what-happens-next.html){:target=" _blank"}, but Amazon probably has much more aggressive plans with it in the future.
 
 Healthcare is one of the areas that Amazons started pushing into recently. It is also working with **J.P. Morgan Chase and Berkshire Hathaway on a joint venture called [Haven](https://www.cnbc.com/2019/03/13/what-is-haven-amazon-jpmorgan-berkshire-revamp-health-care.html){:target=" _blank"}** that should improve care and bring down healthcare costs for employees of these companies. 
 
@@ -1006,7 +1004,7 @@ On the other hand, for regulators and the US government that complain about Amaz
 
 **Amazon's other revenue category consists mainly of advertising revenue. It was the fastest-growing part of revenue in 2019, growing by 39% to $14bn. Advertising includes revenue from display and video ads on Amazon's sites, and also video ads from various Amazons add supported streaming services like IMDB TV or Twitch.** 
 
-Amazon has become **the third-largest player in online advertising** after Google and Facebook, and there is a big potential for further growth. Some reports confirm that more than [50% of product searches](https://www.bloomberg.com/news/videos/2018-09-19/amazon-and-google-are-converging-on-ad-sales-jumpshot-ceo-says-video) online are initiated on Amazon sites and not on Google.
+Amazon has become **the third-largest player in online advertising** after Google and Facebook, and there is a big potential for further growth. Some reports confirm that more than [50% of product searches](https://www.bloomberg.com/news/videos/2018-09-19/amazon-and-google-are-converging-on-ad-sales-jumpshot-ceo-says-video){:target=" _blank"} online are initiated on Amazon sites and not on Google.
 
 Currently, Prime Video, Amazon's main video streaming platform, does not show ads within its content, but figuring out how to put advertising into video content is one of Amazon's immense growth potentials. 
 
