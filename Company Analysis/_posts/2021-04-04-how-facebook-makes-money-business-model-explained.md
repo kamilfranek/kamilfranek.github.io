@@ -36,7 +36,7 @@ However, the same aggressive approach that drove Facebook to the top, combined w
 
 Facebook business is very well focused around its vision of "building communities and connecting people together." It does that mainly through its family of apps  (Facebook, Messenger, Instagram, WhatsApp). Even Facebook's hardware devices and more future-based VR/AR  activities fit this vision very well.
 
-Mark Zuckerberg also has a clear ** long-term vision for Facebook that goes well beyond what Facebook is doing right now**. That includes social e-commerce and also artificial and augmented reality. He also has a track record of delivering things he says he will. Unfortunately, he also has a track record of messing things up along the way by disregarding user privacy and sometimes also saying one thing and doing another.
+Mark Zuckerberg also has a clear **long-term vision for Facebook that goes well beyond what Facebook is doing right now**. That includes social e-commerce and also artificial and augmented reality. He also has a track record of delivering things he says he will. Unfortunately, he also has a track record of messing things up along the way by disregarding user privacy and sometimes also saying one thing and doing another.
 
 This article will explore different parts of the Facebook Business model and how it makes money. It will be focused not only on advertising and various factors that drive advertising revenue, but I will also touch on other revenue sources, even though compared to revenue from advertising, they are currently tiny.
 
@@ -186,7 +186,7 @@ The question here is where the level of ads per hour will start deterring users 
 
 ![Coins Icon](/assets/images/icons/coins.png){: .align-left}
 
-** The last driver of Facebook revenue is the price per ad that advertisers pay to Facebook.** Facebook uses its auction system to price ads, and price per ad depends and changes based on the supply of ads and demand from advertisers. The price might be the most volatile part of the revenue formula, easily influenced but changes in other drivers.
+**The last driver of Facebook revenue is the price per ad that advertisers pay to Facebook.** Facebook uses its auction system to price ads, and price per ad depends and changes based on the supply of ads and demand from advertisers. The price might be the most volatile part of the revenue formula, easily influenced but changes in other drivers.
 
 For example, If companies start to move a more significant part of their budget to Facebook ads, this will drive the price up and increase Facebook revenue. 
 
@@ -212,7 +212,7 @@ Facebook already collects some revenue from fees it charges business customers f
 
 These paid messages have to be automatically generated based on templates that have to go through Facebook's approval to avoid misuses. 
 
-Revenue from these fees is currently tiny, but Facebook's plan is to build on top of this and offer a more comprehensive solution for businesses to communicate with their customers. ****We can't expect that revenue from this will be close to what Facebook makes from advertising. Still, it is a reasonable business model focused on Facebook's core customers, small businesses. 
+**Revenue from these fees is currently tiny, but Facebook's plan is to build on top of this and offer a more comprehensive solution for businesses to communicate with their customers.** We can't expect that revenue from this will be close to what Facebook makes from advertising. Still, it is a reasonable business model focused on Facebook's core customers, small businesses. 
 
 So far, Facebook was offering its small business customers highly targeted advertising. It will also provide them tools for customer service management through its messaging apps. On top of that, a simple e-commerce solution will be available in all of Facebook's apps, including WhatsApp. This focus on small businesses is a crucial part of Facebook's business model.
 

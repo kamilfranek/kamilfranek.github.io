@@ -35,7 +35,7 @@ Facebook is a company with a dominant presence in our digital lives. Around 3.3 
 
 Like other businesses with advertising-driven business models, Facebook has to juggle both its user's and advertisers' interests. An issue arises when both groups' interests come against each other, for example, when it comes to privacy. 
 
-Although Mark Zuckerberg, Facebook's CEO and controlling shareholder, publicly claims that he wants Facebook to become a privacy leader, ** Facebook's actions don't leave much space for doubt that advertisers' interests are more important for Facebook. After all, advertisers are the ones paying the bills.** 
+Although Mark Zuckerberg, Facebook's CEO and controlling shareholder, publicly claims that he wants Facebook to become a privacy leader, **Facebook's actions don't leave much space for doubt that advertisers' interests are more important for Facebook. After all, advertisers are the ones paying the bills.** 
 
 **Small businesses will become even more essential** for Facebook as it is trying to offer services that will turn Facebook into an e-commerce platform. 
 
@@ -55,7 +55,7 @@ There is much more to say about how Facebook makes money and about its business 
 
 This article will focus mainly on the breakdown of Facebook's financial statement from its annual report. My aim is to present you the financial numbers simply and visually and tie the numbers to what is happening in the real business behind them. 
 
-# ✈️ **Overview of Facebook's Financial Statements (Summary Charts & Key Takeaways)**
+## ✈️ **Overview of Facebook's Financial Statements (Summary Charts & Key Takeaways)**
 
 Below you will find charts, visualization, and key takeaways for each of Facebook's financial statements. It is intended to give you an overview of key facts and developments, and I will add more details and background for each financial statement in the following parts of the article.
 
@@ -74,8 +74,8 @@ In case you are new to my posts about companies and specific charts and visualiz
 - As the largest social media company on the planet, Facebook has **significant market share in the digital advertising market.** Its **market share in the US was 23%**, second to Google with 32%. Amazon, another tech giant, recently became an important digital advertising player too and reached a market share of 8%.
 - **Facebook had 3.3 billion monthly users at the end of 2020** across all of its products. Facebook is the most significant player by far among social media and messaging tools. COVID-19 pandemic drove more users to Facebook. **Its users grew 12% in 2020 compared to 8% growth the year before.**
 - Despite a lot of heat and toxicity around Facebook in the news, **Facebook's users continue to grow. Even in the US** **Facebook monthly users grew by 4% in 2020 and 2%in 2019**. **Fastest growing region was Asia-Pacific (+15%)**
-- Geographically, ** most significant part of Facebook's revenue (42%) came from United States**, even though the US **share of users is just around 8%**. Thanks to much lower revenue per user in the Asia-Pacific region, its share of revenue was just 23%, even though 43% of Facebook users came from the Asia-Pacific region.
-- ** Facebook's overall expenses grew 14% to $53bn in 2020. However, this 14% growth results from comparing 2020 expenses to the extraordinary year 2019** when Facebook booked a $5bn FTC penalty and another $0.55bn of settlement expenses. **Facebook's expense growth would be 36% in 2020**
+- Geographically, **most significant part of Facebook's revenue (42%) came from United States**, even though the US** share of users is just around 8%**. Thanks to much lower revenue per user in the Asia-Pacific region, its share of revenue was just 23%, even though 43% of Facebook users came from the Asia-Pacific region.
+- **Facebook's overall expenses grew 14% to $53bn in 2020. However, this 14% growth results from comparing 2020 expenses to the extraordinary year 2019** when Facebook booked a $5bn FTC penalty and another $0.55bn of settlement expenses. **Facebook's expense growth would be 36% in 2020**
 - **36% adjusted growth of expenses was driven mainly by continued growth (+30%) in the number of employees** to the total of 58 604 at the end of 2020 and also continuing investments in Facebook's data centers and technical infrastructure.
 - **Engineering and technical roles are the biggest group of Facebook's employees and also the fastest-growing one** (+40% in 2020). Growth in R&D employees is the main factor behind research and development expenses that are the largest expense item, growing by 36%.
 - **Facebook expenses were growing more than revenue.** Facebook expects that expenses will grow between 28% and 37% in 2021, which means that **operating margin (38% in  2020) will continue to decrease.** If this discrepancy continues for two years, the margin will drop to around 30%.
@@ -618,9 +618,9 @@ Another thing to note is that nearly all revenue in Facebook's income statement 
 
 **Overall, Facebook's revenue grew by 22% in 2020. At the end of 2019, when revenue grew by 27%, Facebook expected that this growth would slow down in 2020, but the reality was even more drastic thanks to the COVID-19 impact.**
 
-> **"We expect our revenue growth rate will continue to decline over time as our revenue increases to higher levels."
-
-— Facebook, 2019 10-K**
+> **"We expect our revenue growth rate will continue to decline over time as our revenue increases to higher levels."**
+>
+>**--- Facebook, 2019 10-K**
 
 The expectation of declining revenue growth seems understandable given Facebook's already high penetration among internet users, as the slower user growth will mean slower revenue growth. 
 
@@ -644,9 +644,9 @@ Share of the US's revenue is significant even though US & Canada users' share on
 
 Asia is a crucial region for Facebook and its future growth. Facebook was banned in China in  2009, and Mark Zuckerberg spent a lot of time and energy trying to get Facebook back there. He even started to learn Mandarin Chinese and met with Xi Jinping. As he told analyst in 2015: 
 
-> **“Obviously, you can’t have a mission of wanting to connect everyone in the world and leave out the biggest country.”
-
-— Mark Zuckerberg, Facebook's CEO**
+> **“Obviously, you can’t have a mission of wanting to connect everyone in the world and leave out the biggest country.”**
+>
+>**--- Mark Zuckerberg, Facebook's CEO**
 
 Recently, however, as Facebook realized this is not going to happen any time soon as the US approach to China changed, India became its main focus in Asia.
 
@@ -824,19 +824,19 @@ Facebook also reacted to the success of TikTok by launching Instagram Reel withi
 
 **Facebook and Instagram are the core revenue generators, but Facebook also has some other smaller advertising revenue sources.**
 
-For example, ** the Facebook Messenger app also shows ads**, contributing to Facebook advertising revenue in some small way.
+For example, **the Facebook Messenger app also shows ads**, contributing to Facebook advertising revenue in some small way.
 
 Facebook also makes money by running its **Audience Network**, which developers can use to monetize their app with ads. Facebook earns money by taking a one-third cut from advertising revenue that gets generated this way. **Net revenue contribution of Audience Network is probably around $1bn.**
 
 Facebook also announced that the new Apple iOS change planned for spring of 2021 would limit the possibility of user tracking. According to Facebook, complete removal of personalization from ads would decrease ad revenue by up to  60%. However real impact will be much milder because the changes limit only access to data outside Facebook. 
 
-## **Facebook's Other Revenue**
+### **Facebook's Other Revenue**
 
 Facebook business is primarily about advertising, but it also earns revenue from other non-advertising activities. This revenue is small today and was close to $2bn in 2020, which is 2% of total Facebook's revenue. 
 
 Until recently, this non-advertising revenue was not doing well and was decreasing slowly for years. It changed in 2018. And even though we can't expect other revenue to overcome advertising revenue any time soon, it will continue to grow.
 
-** Facebook's other non-advertising revenue grew by 72% in 2020 to  $2bn.**  **This revenue includes many different revenue streams, but the majority of it is hardware. Mainly Oculus and, to a lesser extent, also Portal. These devices are also the main drivers of revenue growth in the last two years.**
+**Facebook's other non-advertising revenue grew by 72% in 2020 to  $2bn.**  **This revenue includes many different revenue streams, but the majority of it is hardware. Mainly Oculus and, to a lesser extent, also Portal. These devices are also the main drivers of revenue growth in the last two years.**
 
 What is also important to note is that, unlike advertising, Facebook's other revenue is highly concentrated in the US & Canada, with a 64% share of non-advertising revenue.
 
@@ -971,7 +971,7 @@ This internal reasoning for acquisition as a way to eliminate emerging competito
 
 ### Workplace Revenue
 
-**[Workplace](https://www.workplace.com/){:target="_blank" is communication tool by Facebook to be used internally by companies. The main selling point for companies is that it offers familiar users experience since most people are used to it from their personal Facebook.** 
+**[Workplace](https://www.workplace.com/){:target="_blank"} is communication tool by Facebook to be used internally by companies. The main selling point for companies is that it offers familiar users experience since most people are used to it from their personal Facebook.** 
 
 Within Workplace, users can use Groups, Chats, Rooms, and Live video features similar to their personal Facebook apps. Similarity to Facebook app eliminates the learning curve and helps with adoption.
 
@@ -991,7 +991,7 @@ Some of them are even nearly unknown. For example, as Facebook builds many fiber
 
 Despite COVID-19, Facebook continued its hiring spree in 2020, increasing its employee count by 30% to 59 604. Facebook also continued its investment in data center capacity and related technical infrastructure.
 
-** Facebook's overall expenses grew 14% to $53bn in 2020. However, this 14% growth results from comparing 2020 expenses to the extraordinary year 2019 when Facebook booked a $5bn FTC penalty as an expense and another $0.55bn of settlement expenses.**
+**Facebook's overall expenses grew 14% to $53bn in 2020. However, this 14% growth results from comparing 2020 expenses to the extraordinary year 2019 when Facebook booked a $5bn FTC penalty as an expense and another $0.55bn of settlement expenses.**
 
 **If we disregard 2019 one-offs, Facebook expense growth would be 36% in 2020, which is far more than 22% growth in revenue. This expense growth was driven mainly by continued growth in the number of employees (+30%) and investments in Facebook's data centers and technical infrastructure.**
 
