@@ -98,7 +98,7 @@ In case you are new to my posts about companies and visualizations, I published 
 - **LinkedIn's revenue grew by 20% to $8.1 bn** in 2020, which is **6% of total revenue**. On the operating income level, **LinkedIn is probably still losing money**. Microsoft acquired LinkedIn at the end of 2016 (2017 fiscal year).
 - Additional to 14% revenue growth, **Microsoft managed to keep the growth of expenses under control**. All expense groups grew slower than revenues, with the only exception of R&D expenses. **Total expenses grew by 9%** and therefore increasing even more Microsoft's respectful **operating margin to 37%** of revenues.
 - Microsoft's net income increase by $5bn compared to last year, continuing with a stable increase as both revenue and operating margin increase.
-- Overall, Microsoft had a **great year** (again!). And since Microsoft continues investing and innovating in areas of high growth cloud-based tools & services, it is hard to see why Microsoft's **financial results should continue in is current growth trajectory.**
+- Overall, Microsoft had a **great year** (again!). And since Microsoft continues investing and innovating in areas of high growth cloud-based tools & services, it seems that Microsoft's **financial results should continue in its current growth trajectory.**
 
 </div>
 
