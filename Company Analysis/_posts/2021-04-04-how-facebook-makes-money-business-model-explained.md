@@ -13,7 +13,9 @@ Facebook is not a monopoly, but with its more than 3 billion users worldwide acr
 
 But why not let Mark Zuckerberg, Facebook CEO, explain Facebook's business model himself in one simple sentence in the video below 😉.
 
-[https://www.youtube.com/watch?v=n2H8wx1aBiQ](https://www.youtube.com/watch?v=n2H8wx1aBiQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+
 
 The Facebook business model is based on offering its tools and services mostly for free to billions of users and then making money by allowing businesses to show Facebook's users advertising. Advertisers pay the price to Facebook that is determined in an auction, based on demand and supply.
 
@@ -79,7 +81,10 @@ Facebook shows ads across Facebook, Instagram, and also Messenger. There are cur
 
 **Facebook Feed is still the core revenue contributor with nearly 60% share on advertising revenue. Instagram revenue represents around 30% of advertising revenue**. Although most of Instagram revenue comes from an Instagram feed, Instagram Stories became quite a significant part of it, bringing in one-third of the revenue of Instagram.
 
-[https://www.youtube.com/watch?v=zKk9to7Zcdg](https://www.youtube.com/watch?v=zKk9to7Zcdg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zKk9to7Zcdg" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+
 
 The video above is a little bit dated in terms of presented numbers but is a good summary of how Facebook makes money and how it targets its ads.
 
@@ -145,7 +150,7 @@ Let's consider each of the revenue drivers separately.
 
 ### ### Users
 
-![Users Icon](/assets/images/icons/group.png)
+![Users Icon](/assets/images/icons/group.png){: .align-left}
 
 The more users Facebook has, the more revenue it will earn. But this statement is true only if users increase across all geographies, segments, and products.  
 
@@ -161,7 +166,7 @@ From a short-term perspective adding ads to WhatsApp would mean more revenue, bu
 
 ### ### Time spend
 
-![Timer Icon](/assets/images/icons/timer.png)
+![Timer Icon](/assets/images/icons/timer.png){: .align-left}
 
 **More time people spend on Facebook using its different apps generally means Facebook has the potential to earn more revenue as it can show more ads to people.**
 
@@ -169,7 +174,7 @@ For example, during the COVID-19 pandemic, people used social media more, which 
 
 ### ### Ads per hour
 
-![Ads Icon](/assets/images/icons/ads.png)
+![Ads Icon](/assets/images/icons/ads.png){: .align-left}
 
 If we assume that other revenue formula factors will stay unchanged, then **more ads showed per hour on Facebook for an average user means more revenue for Facebook.** This is much more tricky in reality because a more extensive supply of spots for ads for advertisers can drive the price per ad down. 
 
@@ -181,7 +186,7 @@ The question here is where the level of ads per hour will start deterring users 
 
 ### ### Price per ad
 
-![Coins Icon](/assets/images/icons/coins.png)
+![Coins Icon](/assets/images/icons/coins.png){: .align-left}
 
 ** The last driver of Facebook revenue is the price per ad that advertisers pay to Facebook.** Facebook uses its auction system to price ads, and price per ad depends and changes based on the supply of ads and demand from advertisers. The price might be the most volatile part of the revenue formula, easily influenced but changes in other drivers.
 
@@ -195,7 +200,7 @@ The idea is that it will be a much seamless user experience, leading to more peo
 
 ## 💬How Facebook makes money from WhatsApp
 
-![WhatsApp Logo](/assets/images/icons/whatsapp.png)
+![WhatsApp Logo](/assets/images/icons/whatsapp.png){: .align-left}
 
 **One of the core Facebook apps is WhatsApp, with around 2 billion users worldwide. It is the most popular messaging app in the world, even though in the US it lags behind Facebook Messenger.**
 
@@ -215,7 +220,7 @@ So far, Facebook was offering its small business customers highly targeted adver
 
 ## 🥽 How Facebook makes money from Hardware (Bet on Virtual and Augmented Reality)
 
-![Virtual Reality Icon](/assets/images/icons/virtual-reality.png)
+![Virtual Reality Icon](/assets/images/icons/virtual-reality.png){: .align-left}
 
 **Facebook makes only around 2% of revenue from its non-advertising business, and one of the main parts of it is revenue from selling hardware**. However, Facebook probably does not make any profit from it, and the question is if it will ever do, but it fits Facebook's strategy in other ways.
 
@@ -229,7 +234,9 @@ It fits the Facebook strategy of connecting people together, but I would not exp
 
 **Oculus is a virtual reality headset that Facebook acquired in 2014**. In 2020 Facebook introduced [Oculus Quest 2](https://www.oculus.com/quest-2/){:target="_blank"}, upgrade to its previous model. It is currently **mainly focused on gaming**, but Facebook's ambition goes far beyond gaming devices.
 
-[https://www.youtube.com/watch?v=tXIcG3B7CsY](https://www.youtube.com/watch?v=tXIcG3B7CsY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXIcG3B7CsY" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+
 
 Market with these devices is still tiny, but Facebook is significantly gaining market share and **based on early numbers from 2020, its market share is 39%**. It puts Facebook ahead of  Sony, its main competitor in this area and leader in 2019.
 
@@ -366,7 +373,9 @@ Facebook already launched one important growth initiative in 2020. The company *
 
 It has quite a big potential. Facebook probably won't earn much direct revenue from the 5% payments fee it will charge, but the expectation is that this should increase ad conversion and, as a result, advertising income.
 
-[https://www.youtube.com/watch?v=kR8OwJhOKR4&t=58s](https://www.youtube.com/watch?v=kR8OwJhOKR4&t=58s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR8OwJhOKR4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+
 
 Another already launched activity comes from **Facebook Pay services** across its apps. In this area Facebook hit some regulatory roadblocks in Brazil and India recently, but it seems that it was just temporary. Facebook Pay won't be a revenue maker by itself, but it will help make payment transactions more seamless within Facebook apps, which is crucial for the push into e-commerce. 
 
@@ -380,7 +389,9 @@ One such change might be bigger focus on **private social platforms and more int
 
 Facebook is also heavily investing in several other opportunities, like **augmented reality and virtual reality.** Facebook is a leading company in these areas with its Oculus hardware and its development tools. Facebook even announced that it plans to introduce **AR glasses with cooperation with Ray-Ban.**
 
-[https://www.youtube.com/watch?v=o67td5HFghI](https://www.youtube.com/watch?v=o67td5HFghI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o67td5HFghI" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+
 
 It looks that **Oculus** is starting to see the first wins and is gaining market share. Its revenues are still relatively small compared to Facebook's advertising revenue, but it can become a viable platform with an ecosystem around it.
 
@@ -392,7 +403,7 @@ In the end, I have also to mention the general trend of advertising spending mov
 
 ### Related Articles
 
-- ["Facebook Financial Statements: Overview & Analysis"](/facebook-financial-statements-overview-and-analysisd/)
+- [Facebook Financial Statements: Overview & Analysis](/facebook-financial-statements-overview-and-analysisd/)
 
 ### Other Resources
 

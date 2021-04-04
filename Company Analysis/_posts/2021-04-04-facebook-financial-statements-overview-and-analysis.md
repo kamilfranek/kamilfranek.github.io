@@ -61,7 +61,7 @@ Below you will find charts, visualization, and key takeaways for each of Faceboo
 
 In case you are new to my posts about companies and specific charts and visualizations that I use, you can check my post [“7 Best Charts for Income Statement Presentation & Analysis”](/best-charts-for-income-statement-presentation-and-analysis/). In this post, I explain most of the financial statement visualizations that I use here. 
 
-## How Much Revenue and Profits Facebook Earned and Where it Came From (Income Statement Overview)
+### How Much Revenue and Profits Facebook Earned and Where it Came From (Income Statement Overview)
 
 ![Facebook's key income statement and cash flow metrics summary overview 2020](/assets/images/facebook_key_earnings_and_cashflow_metrics_summary.png)
 
@@ -381,7 +381,7 @@ In case you are new to my posts about companies and specific charts and visualiz
 </tbody>
 </table>
 
-## How Facebook’s Balance Sheet Changed? (Balances Sheet Overview)
+### How Facebook’s Balance Sheet Changed? (Balances Sheet Overview)
 
 ![Facebook's balance sheet metrics summary overview 2020](/assets/images/facebook_key_balance_sheet_metrics_summary.png)
 
@@ -578,7 +578,7 @@ In case you are new to my posts about companies and specific charts and visualiz
 
 Data source for the above visuals and tables are Facebook’s annual reports (K-10) that the company submits to the [Security and Exchange Commission](https://www.sec.gov/cgi-bin/browse-edgar?company=facebook&match=&filenum=&State=&Country=&SIC=&myowner=exclude&action=getcompany){:target="_blank"} (SEC) or other documents that [Facebook provides to investors.](https://investor.fb.com/){:target="_blank"}
 
-# 🔵 **Breakdown & Analysis of Microsoft’s Revenues (Income Statement)**
+## 🔵 **Breakdown & Analysis of Microsoft’s Revenues (Income Statement)**
 
 **Facebook's revenue was $86bn in 2020, growing by 22% annually. Advertising was responsible for nearly all of it, and only 2% of revenue was coming from other activities, primarily from hardware sales. Geographically, the biggest part of Facebook's revenue (42%) was from the United States.**
 
@@ -732,7 +732,7 @@ Another issue is that users that Facebook reports in its official number also in
 
 ## Facebook **Advertising Revenue: Facebook vs Instagram**
 
-![Advertising Icon](/assets/images/icons/advertising.png)
+![Advertising Icon](/assets/images/icons/advertising.png){: .align-left}
 
 Facebook earns most of its revenue from selling advertising mainly within its Facebook app and increasingly on Instagram. WhatsApp, the Facebook messaging platform it acquired in 2014, currently does not generate any advertising revenue.
 
@@ -774,7 +774,7 @@ If Facebook Shops will be successful, then the main benefit is a higher demand f
 
 ### **Advertising Revenue of "Blue" Facebook App**
 
-![Facebook Logo](/assets/images/icons/facebook.png)
+![Facebook Logo](/assets/images/icons/facebook.png){: .align-left}
 
 Facebook's original "blue" app is still the most important part of Facebook, having the most users and bringing in the most revenue. Facebook earns revenue mainly from selling advertising in the main Facebook feed, but it also earns revenue from advertising within the Market Place, Watch tab, and Facebook Stories. 
 
@@ -788,7 +788,7 @@ The company, on the one hand, touts that the number of Watch [users is over 1.25
 
 ### **Facebook Advertising Revenue from Instagram**
 
-![Instagram Logo](/assets/images/icons/instagram.png)
+![Instagram Logo](/assets/images/icons/instagram.png){: .align-left}
 
 Instagram is becoming a more and more important source of growth for Facebook, not only in user growth and engagement but also in revenue. Instagram stories alone were responsible for a large part of Facebook revenue growth in 2019. 
 
@@ -836,7 +836,7 @@ What is also important to note is that, unlike advertising, Facebook's other rev
 
 ### Virtual and Augmented Reality Revenue (VR & AR)
 
-![Virtual Reality Icon](/assets/images/icons/virtual-reality.png)
+![Virtual Reality Icon](/assets/images/icons/virtual-reality.png){: .align-left}
 
 Oculus is a virtual reality headset focused mainly on gaming. Its future might also be a new way to exercise Facebook's vision of connecting people together both at work and also at home. Facebook already build a virtual world [Facebook Horizon](https://www.oculus.com/facebook-horizon/){:target="_blank"} for Quest users, where they can meet each other and also build their own virtual worlds.
 
@@ -852,7 +852,8 @@ It seems that, unlike other public grandstands that Mark Zuckerberg announced an
 
 Facebook is investing a lot of resources into this. We are not talking only about the hardware itself but also about software and services surrounding it, including developers' tools. Facebook's vision is to build the whole self-sustaining ecosystem around AR&VR, with Facebook at the center of it.
 
-[https://www.youtube.com/watch?v=tXIcG3B7CsY](https://www.youtube.com/watch?v=tXIcG3B7CsY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXIcG3B7CsY" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
 
 Of course, we should not expect that Oculus will start making money any time soon. Its revenue might reach billions of dollars quite quickly, but taking into account the Oculus headset's pricing, this will probably be a low margin or maybe even loss-making product for some time. But in 10 to 15 years, this might be a real business.
 
@@ -868,7 +869,7 @@ Suppose this grand vision of meeting people and working in virtual worlds does n
 
 ### Portal Devices Revenue
 
-![Videoconference Icon](/assets/images/icons/videoconference.png)
+![Videoconference Icon](/assets/images/icons/videoconference.png){: .align-left}
 
 Portal is a name for a range of devices by Facebook focused on videoconferencing. This hardware is essentially a cheap strip-down tablet with some handy out-of-the-box features that makes videoconferencing more hassle-free and easy.
 
@@ -876,7 +877,9 @@ Portal is a name for a range of devices by Facebook focused on videoconferencing
 
 Facebook chose to make Portal open to be also used with third-party videoconferencing services apart from Facebook  Messenger and WhatsApp.  It also includes Amazon's Alexa voice assistant.
 
-[https://www.youtube.com/watch?v=49saKMgntN8](https://www.youtube.com/watch?v=49saKMgntN8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/49saKMgntN8" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+
 
 ### Facebook Shops Revenue
 
@@ -904,7 +907,7 @@ I think this is a huge business opportunity for Facebook, and the expectation is
 
 ### Payment Fees Revenue
 
-![Payments Icon](/assets/images/icons/payments.png)
+![Payments Icon](/assets/images/icons/payments.png){: .align-left}
 
 **Facebook earns hundreds of millions USD in net fees from developers that use Facebook's payment infrastructure.** 
 
@@ -931,7 +934,7 @@ From the users' perspective, advantages compared to standard Facebook Pay are no
 
 ### WhatsApp Revenue
 
-![WhatsApp Logo](/assets/images/icons/whatsapp.png)
+![WhatsApp Logo](/assets/images/icons/whatsapp.png){: .align-left}
 
 WhatsApp is one of Facebook's core apps, together with Facebook App, Instagram, and Messenger. I**t s the most popular messaging app worldwide with 2 billion users, although in the US, it is in second place after Facebook Messenger.**
 
@@ -1011,7 +1014,7 @@ Facebook claims that a big part of these expenses are investments in its AR/VR c
 
 ### Cost of Revenue
 
-![Costs Icon](/assets/images/icons/costs.png)
+![Costs Icon](/assets/images/icons/costs.png){: .align-left}
 
 **Facebook's cost of revenue grew by 31% to $17bn in 2020, outpacing revenue growth. The main factors driving this growth were expenses related to data centers and technical infrastructure and also higher costs associated with partner arrangements which contain traffic and content acquisition costs.** 
 
@@ -1046,7 +1049,7 @@ The hardware business is probably not profitable right now for Facebook, and it 
 
 ### Research & Development Expenses
 
-![Development Icon](/assets/images/icons/development.png)
+![Development Icon](/assets/images/icons/development.png){: .align-left}
 
 **Facebook spend $18bn on research & development in 2020, 36% more than the previous year. These expenses represent mainly compensation for employees working on new products or improving existing ones. Growth of R&D expenses by 36% in 2020 was driven by a 40% increase in employees in R&D.**
 
@@ -1062,7 +1065,7 @@ Since Facebook plans to continue recruiting software engineers and other technic
 
 ### Marketing and Sales Expenses
 
-![Sales Icon](/assets/images/icons/sales.png)
+![Sales Icon](/assets/images/icons/sales.png){: .align-left}
 
 **Facebook's marketing and sales expenses grew by $1.7bn (+17%) in 2020 to $12bn. This growth was much slower than the previous year and also much slower than revenue growth. Included in these expenses is also $2.3bn of advertising expenses that, considered separately, were growing by 44%.**
 
@@ -1102,11 +1105,12 @@ The unfortunate fact about content moderation is that although it might not be a
 
 If you are interested to know more, you can check out this documentary by Verge about the life of content moderators in one of Facebook subcontractors.
 
-[https://www.youtube.com/watch?v=bDnjiNCtFk4&feature=youtu.be](https://www.youtube.com/watch?v=bDnjiNCtFk4&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDnjiNCtFk4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
 
 ### General and Administrative Expenses
 
-![Administration Icon](/assets/images/icons/administration.png)
+![Administration Icon](/assets/images/icons/administration.png){: .align-left}
 
 **Facebook's general and administrative expenses significantly decreased by $3.9bn in 2020, from $10.5bn in 2019 to $6.6bn in 2020. However, the only reason why these expenses decreased is that in 2019 they included an extraordinary [$5bn FTC penalty](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} and also other booked settlement of $0.55bn.**
 
@@ -1222,8 +1226,8 @@ In terms of the equity & liabilities side of the balance sheet, you can see from
 - [Facebook's Investor Relation website](https://investor.fb.com/){:target="_blank"}
 - [Facebook's Press Releases](https://about.fb.com/news/){:target="_blank"}
 - [Digital 2021: Global Overview Report](https://datareportal.com/reports/digital-2021-global-overview-report){:target="_blank"}
-- [https://www.socialbakers.com/blog/social-media-trends-report-q4-2020](https://www.socialbakers.com/blog/social-media-trends-report-q4-2020){:target="_blank"}
-- [https://www.socialbakers.com/blog/webinar-q42020-trends](https://www.socialbakers.com/blog/webinar-q42020-trends){:target="_blank"}
+- [Socialbakers: Social Media Trends Report Q4](https://www.socialbakers.com/blog/social-media-trends-report-q4-2020){:target="_blank"}
+- [Socialbankers Webinar: The Social Media Trends You Need to Know](https://www.socialbakers.com/blog/webinar-q42020-trends){:target="_blank"}
 
 ## Technical Notes & Disclaimers
 
