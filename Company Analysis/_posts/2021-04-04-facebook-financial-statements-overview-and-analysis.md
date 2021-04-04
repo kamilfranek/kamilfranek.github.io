@@ -4,7 +4,6 @@ excerpt: "Overview of Facebooks's business through analysis of Facebook's financ
 header:
  teaser: "assets/images/teasers/facebook_financial_statements_overview_and_analysis_teaser.png"
 ---
-
 <style>
 .cardlist li {
   position: relative;
@@ -22,6 +21,7 @@ header:
 
 
 </style>
+
 
 ![Article Teaser: Facebook Financial Statements: Overview & Analysis 2020](/assets/images/teasers/facebook_financial_statements_overview_and_analysis_teaser.png)
 
@@ -65,6 +65,7 @@ In case you are new to my posts about companies and specific charts and visualiz
 
 ![Facebook's key income statement and cash flow metrics summary overview 2020](/assets/images/facebook_key_earnings_and_cashflow_metrics_summary.png)
 
+<div class="cardlist" markdown="1">
 - Facebook's **revenue was $86bn in 2020 growing by 22% and** **98%** of Facebook's revenue **came from advertising.**
 - Facebook's **advertising revenue was $84bn** in 2020 (**+21% growth**). This growth was driven by **increase in the number of ads served by Facebook by 33%, partially offset by a 10% decrease of price per ad.**  The main driver of this price decrease was a decline in demand in Q1 and Q2 because of the COVID-19 pandemic.
 - Based on advertisers' spend data, **biggest advertising revenue generator for Facebook is Facebook feed with 57% share, followed by Instagram feed with 16% share and Instagram Stories with 11% share.** All Instagram features combined generate approximately 29% of Facebook advertising revenue.
@@ -80,6 +81,7 @@ In case you are new to my posts about companies and specific charts and visualiz
 - **Facebook expenses were growing more than revenue.** Facebook expects that expenses will grow between 28% and 37% in 2021, which means that **operating margin (38% in  2020) will continue to decrease.** If this discrepancy continues for two years, the margin will drop to around 30%.
 - **Facebook's operating income grew by $8.7bn to $32.7bn in 2020 (+36%).** But this is not real growth and just a result of extraordinary low 2019 operating income thanks to $5bn FTC penalty and another 0$.55bn settlement charge.  Adjusted for these extraordinary items, the underlying growth of operating income in 2020 was just 11%.
 - **Facebook net income grew by $10.7bn to $29.1bn in 2020 (+58%)**, but when adjusted for extraordinary $5.55 of FTC penalty and settlements booked in 2019, we arrive at a much more realistic 21% growth of net income. **Earnings per share were $10.09** in 2020.
+</div>
 
 ![Facebook's income statement as Sankey diagram chart 2020 (visualization)](/assets/images/facebook_income_statement_sankey_chart.png)
 
@@ -260,14 +262,16 @@ In case you are new to my posts about companies and specific charts and visualiz
 </tbody>
 </table>
 
-## How Much Cash Facebook Earned and How It Was Spent (Cash Flow Statement Overview)
+### How Much Cash Facebook Earned and How It Was Spent (Cash Flow Statement Overview)
 
+<div class="cardlist" markdown="1">
 - **Facebook generated $38.7bn of operating cash flow** in 2020, which was **increase by $2.4bn (+7%)** compared to the previous year. Results are even better if you consider that this number includes payment of $5bn FTC penalty.
 - **Cash Facebook invested in property and equipment was $15.1bn** in 2020. It was the same amount as in 2019, but this was not what Facebook originally planned for 2020. Facebook originally planned to invest $17-$19bn but had to reevaluate this due to pandemic-related shelter-in-place orders.
 - Facebook will continue to invest heavily in its data center capacity, servers, network infrastructure, and office facilities.. **Facebook guidance for 2021 is that they will invest between $21bn and 23bn.**
 - **Facebook generated $23.6bn free cash flow in 2020** which was **11% increase.** This free cash flow was **used on equity investments ($6.4bn)** (majority of which was 9.99% stake in Jio Platform Ltd.) and also to **buy back stocks ($6.3bn)** but just enough to offset dilution from stock issued as part of employee compensation.
 - **Last time Facebook bought back stocks exceeding stock-based compensation was in 2018.** At the time, Facebook stock prices suffered, and Facebook probably used this to repurchase some equity cheaply.
 - **Significant part of Facebook's free cash flow was used to increase Facebook cash and its equivalents.** Facebook cash pile grew by $7.1bn to $62bn in 2020.
+</div>
 
 ![Facebook's cash flow statement as Sankey diagram chart 2020](/assets/images/facebook_cash_flow_statement_sankey_chart.png)
 
@@ -385,11 +389,13 @@ In case you are new to my posts about companies and specific charts and visualiz
 
 ![Facebook's balance sheet metrics summary overview 2020](/assets/images/facebook_key_balance_sheet_metrics_summary.png)
 
+<div class="cardlist" markdown="1">
 - **Facebook balance sheet increased by $26bn to $159bn in 2020. The main changes in assets were a $10.3bn increase in property and equipment, §7.1bn increase in Facebook "cash pile," and a $6.1bn increase in equity investments.**
 - **Increase of $10.3bn of Facebook's property and equipment** **was driven by** both **purchases of buildings** and **investment in networking equipment** that was **partially offset by depreciation**. Buildings included both data centers and also increase in office space.
 - **Facebook cash and cash equivalent ("cash pile") increased by $7.1bn to $62bn.** As is usual for technology companies, cash and cash equivalent has a high share of total assets. C**ash pile represented 39% of Facebook assets** at the end of 2020.
 - **Facebook has $19 billion of Goodwill on its balance sheet, and most of it is a result of WhatsApp acquisition** in 2014 for $19bn.
 - The most unusual part of Facebook's balance sheet is its assets and liabilities side, where **81% of the balance sheet is equity**. Facebook does not have any long-term debt except its lease liabilities.
+</div>
 
 ![Facebook's balance sheet visualization 2020](/assets/images/facebook_balance_sheet_visualization.png)
 
@@ -668,7 +674,7 @@ Suppose any part of the formula is growing. In that case, it usually means that 
 
 I go into more detail about this revenue formula and how Facebook makes money in my article "How Facebook Makes Money: Business Model Explained."
 
-## **Facebook's Users and Revenue Per User Breakdown**
+### **Facebook's Users and Revenue Per User Breakdown**
 
 **Facebook had 3.3 billion monthly users at the end of 2020 across all of its products, which makes Facebook the most significant player, by far, among social media and messaging tools. COVID-19 pandemic drove more users to Facebook. Its users grew 12% in 2020 compared to 8% growth the year before.**
 
@@ -730,7 +736,7 @@ There is one issue with the revenue per user data above. It considers all Facebo
 
 Another issue is that users that Facebook reports in its official number also include false and duplicate accounts. Facebook estimates that these accounts represent around 16% of Facebook's users.
 
-## Facebook **Advertising Revenue: Facebook vs Instagram**
+### Facebook **Advertising Revenue: Facebook vs Instagram**
 
 ![Advertising Icon](/assets/images/icons/advertising.png){: .align-left}
 
@@ -844,7 +850,7 @@ Facebook acquired Oculus in 2014 and introduced its first standalone Oculus Ques
 
 **With the introduction of Oculus Quest, Oculus adoption started rapidly growing, and in 2019 Facebook sold  1.7 million devices worldwide, giving Oculus 28% [market share](https://www.statista.com/statistics/755645/global-vr-device-market-share-by-vendor/){:target="_blank"} in VR devices. That puts Facebook in second place behind Sony, with a 37% market share.** 
 
-Early numbers from 2020 suggest that Oculus is now in the first spot [with a market share of 39%.](https://www.statista.com/statistics/742569/worldwide-vr-ar-headset-shipment/)
+Early numbers from 2020 suggest that Oculus is now in the first spot [with a market share of 39%.](https://www.statista.com/statistics/742569/worldwide-vr-ar-headset-shipment/){:target="_blank"}
 
 **In terms of revenue, my rough estimate is that from $2 billion of other income that Facebook reports, more than half of it comes from Oculus hardware. Facebook also gets some cut from software sold on Oculus platform but this revenue stream is [so far tiny](https://techcrunch.com/2020/05/18/oculus-surpasses-100-million-in-quest-content-sales/){:target="_blank"}.**
 
@@ -880,10 +886,9 @@ Facebook chose to make Portal open to be also used with third-party videoconfere
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49saKMgntN8" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-
 ### Facebook Shops Revenue
 
-![Mobile Shopping Icon](/assets/images/icons/mobile-shopping.png)
+![Mobile Shopping Icon](/assets/images/icons/mobile-shopping.png){: .align-left}
 
 Facebook Shops is a new service introduced in 2020 that allows small businesses to set up digital shops on Facebook.  These shops are simple but allow core features, including payment processing.
 
@@ -962,11 +967,11 @@ Even with all these activities combined, it hard to imagine future revenue gener
 
 That does not mean that the WhatsApp acquisition did not make business sense for Facebook. It clearly did.  Just the fact that by this, Facebook eliminated a competing platform and strengthened its position in messaging was worth it. Facebook at the time was aware that WhatsApp is big enough that it could potentially start introducing social network features and become Facebook's competitor in the future.
 
-This internal reasoning for acquisition as a way to eliminate emerging competitors is very well documented by many internal emails featuring Mark Zuckerberg that were made [public](https://judiciary.house.gov/uploadedfiles/0006322000063223.pdf). The acquisition of WhatsApp is at the center of a looming antitrust lawsuit against Facebook.
+This internal reasoning for acquisition as a way to eliminate emerging competitors is very well documented by many internal emails featuring Mark Zuckerberg that were made [public](https://judiciary.house.gov/uploadedfiles/0006322000063223.pdf){:target="_blank"}. The acquisition of WhatsApp is at the center of a looming antitrust lawsuit against Facebook.
 
 ### Workplace Revenue
 
-[**Workplace](https://www.workplace.com/){:target="_blank"} is communication tool by Facebook to be used internally by companies. The main selling point for companies is that it offers familiar users experience since most people are used to it from their personal Facebook.** 
+**[Workplace](https://www.workplace.com/){:target="_blank" is communication tool by Facebook to be used internally by companies. The main selling point for companies is that it offers familiar users experience since most people are used to it from their personal Facebook.** 
 
 Within Workplace, users can use Groups, Chats, Rooms, and Live video features similar to their personal Facebook apps. Similarity to Facebook app eliminates the learning curve and helps with adoption.
 
@@ -1129,7 +1134,7 @@ The $0.55bn settlement was related to a case claiming that Facebook facial recog
 - **salaries and benefits, and share-based compensation for legal, finance, human resources, corporate communications and policy, and other administrative employees**
 - **professional services**
 
-If you want to know more about the reasons behind the $5bn FTC penalty, you can check it out directly in [FTC press release](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions). This penalty did not come out of the blue, but it was the result of repeated systemic privacy failures on Facebook's side. 
+If you want to know more about the reasons behind the $5bn FTC penalty, you can check it out directly in [FTC press release](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} . This penalty did not come out of the blue, but it was the result of repeated systemic privacy failures on Facebook's side. 
 
 Back in 2012 Facebook [reached settlement with FTC](https://www.ftc.gov/news-events/press-releases/2012/08/ftc-approves-final-settlement-facebook){:target="_blank"} about its privacy failures at that time. FTC charged Facebook that "Facebook deceived consumers by telling them they could keep their information on Facebook private, and then repeatedly allowing it to be shared and made public."
 

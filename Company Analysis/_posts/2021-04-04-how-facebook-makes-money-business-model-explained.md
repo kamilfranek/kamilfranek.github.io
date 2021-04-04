@@ -16,7 +16,6 @@ But why not let Mark Zuckerberg, Facebook CEO, explain Facebook's business model
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n2H8wx1aBiQ" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-
 The Facebook business model is based on offering its tools and services mostly for free to billions of users and then making money by allowing businesses to show Facebook's users advertising. Advertisers pay the price to Facebook that is determined in an auction, based on demand and supply.
 
 That means that **people who use Facebook services (users) are not the ones who pay Facebook for it. Real customers are primarily small businesses advertising on some of Facebook's family of apps.** Facebook's focus on small businesses became an even more apparent part of the Facebook strategy as it introduced the first version of its e-commerce tools called Facebook Shops.
@@ -85,7 +84,6 @@ Facebook shows ads across Facebook, Instagram, and also Messenger. There are cur
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKk9to7Zcdg" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-
 The video above is a little bit dated in terms of presented numbers but is a good summary of how Facebook makes money and how it targets its ads.
 
 ## 🧑 Who are Facebook's customers? Users vs Advertisers
@@ -148,7 +146,7 @@ That being said, I like it as a way to summarize what Facebook business is actua
 
 Let's consider each of the revenue drivers separately.
 
-### ### Users
+### Users
 
 ![Users Icon](/assets/images/icons/group.png){: .align-left}
 
@@ -164,7 +162,7 @@ WhatsApp, however, currently does not show any ads to its users, which means no 
 
 From a short-term perspective adding ads to WhatsApp would mean more revenue, but Facebook needs to consider also how this decision would affect user attrition. Facebook's initial idea to launch ads on WhatsApp was scraped. The company plans to monetize WhatsApp by charging businesses that use WhatsApp as a communication channel with its customers. 
 
-### ### Time spend
+### Time spend
 
 ![Timer Icon](/assets/images/icons/timer.png){: .align-left}
 
@@ -172,7 +170,7 @@ From a short-term perspective adding ads to WhatsApp would mean more revenue, bu
 
 For example, during the COVID-19 pandemic, people used social media more, which generally means higher revenue. In this case, however, pandemic also depressed prices of ads so that it more than offset the positive effect for more time spend on Facebook. Revenue growth thus slowed down compared to previous periods.
 
-### ### Ads per hour
+### Ads per hour
 
 ![Ads Icon](/assets/images/icons/ads.png){: .align-left}
 
@@ -184,7 +182,7 @@ In 2018 and earlier, much more revenue growth came from a price increase and les
 
 The question here is where the level of ads per hour will start deterring users from using the app and how close to this level Facebook currently is, especially in the US market.
 
-### ### Price per ad
+### Price per ad
 
 ![Coins Icon](/assets/images/icons/coins.png){: .align-left}
 
@@ -226,7 +224,7 @@ So far, Facebook was offering its small business customers highly targeted adver
 
 ### Portal
 
-Let's first look at the smaller part of the Facebook hardware business, it's Portal device. In 2019 Facebook sold around **[1 million** of Portal devices](https://www.cnet.com/news/facebook-portal-is-a-hit-during-the-coronavirus-lockdown-thanks-to-your-grandparents/){:target="_blank"} which main focus is to server as dedicated communicator. It supports connecting with others through Facebook's apps but also through other popular apps. Portal also includes Amazon's Alexa voice assistant.
+Let's first look at the smaller part of the Facebook hardware business, it's Portal device. In 2019 Facebook sold around [**1 million** of Portal devices](https://www.cnet.com/news/facebook-portal-is-a-hit-during-the-coronavirus-lockdown-thanks-to-your-grandparents/){:target="_blank"} which main focus is to server as dedicated communicator. It supports connecting with others through Facebook's apps but also through other popular apps. Portal also includes Amazon's Alexa voice assistant.
 
 It fits the Facebook strategy of connecting people together, but I would not expect this to become anything significant going forward. 
 
@@ -236,7 +234,6 @@ It fits the Facebook strategy of connecting people together, but I would not exp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXIcG3B7CsY" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
-
 
 Market with these devices is still tiny, but Facebook is significantly gaining market share and **based on early numbers from 2020, its market share is 39%**. It puts Facebook ahead of  Sony, its main competitor in this area and leader in 2019.
 
@@ -376,7 +373,6 @@ It has quite a big potential. Facebook probably won't earn much direct revenue f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR8OwJhOKR4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-
 Another already launched activity comes from **Facebook Pay services** across its apps. In this area Facebook hit some regulatory roadblocks in Brazil and India recently, but it seems that it was just temporary. Facebook Pay won't be a revenue maker by itself, but it will help make payment transactions more seamless within Facebook apps, which is crucial for the push into e-commerce. 
 
 Separate from standard Facebook Pay is **Facebook's Diem digital currency** and payment system formerly called Libra. Facebook messed up its introduction by constructing it in a way that looked totally unacceptable to regulators, and many original backers deserted the project as quickly as they joined it.  Now it seems company is pushing through with it anyway after some changes.
@@ -392,7 +388,6 @@ Facebook is also heavily investing in several other opportunities, like **augmen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o67td5HFghI" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-
 It looks that **Oculus** is starting to see the first wins and is gaining market share. Its revenues are still relatively small compared to Facebook's advertising revenue, but it can become a viable platform with an ecosystem around it.
 
 This is a risky long-term bet, but AR/VR fits nicely into the company's focus on connecting people and helping them communicate with each other. It might also mean an even **bigger role for Facebook in gaming.**
@@ -403,7 +398,7 @@ In the end, I have also to mention the general trend of advertising spending mov
 
 ### Related Articles
 
-- [Facebook Financial Statements: Overview & Analysis](/facebook-financial-statements-overview-and-analysisd/)
+- [Facebook Financial Statements: Overview & Analysis](/facebook-financial-statements-overview-and-analysis/)
 
 ### Other Resources
 
