@@ -9,7 +9,7 @@ header:
 
 Facebook is not a monopoly, but with its more than 3 billion users worldwide across Facebook, Instagram and WhatsApp, it has a dominant market presence among social media and messaging tools.  Facebook's gigantic user penetration worldwide is what makes it such a valuable company. Still, when it comes to Facebook's business model and how it makes money, users are not paying Facebook anything. At least not directly.
 
-**Facebook makes money predominantly by showing ads from advertisers within its Facebook and Instagram apps. Advertising represented 98% of Facebook's [$86bn revenue in 2020](https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000132680121000014/fb-20201231.htm){:target="_blank"}. Remaining 2% of revenue came mainly from selling Oculus and Portal devices and also payment fees from developers.**
+**Facebook makes money predominantly by showing ads from advertisers within its Facebook and Instagram apps. Advertising represented 98% of Facebook's [$86bn revenue in 2020](https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000132680121000014/fb-20201231.htm){:target="_blank"}. The remaining 2% of revenue came mainly from selling Oculus and Portal devices and also payment fees from developers.**
 
 But why not let Mark Zuckerberg, Facebook CEO, explain Facebook's business model himself in one simple sentence in the video below 😉.
 
@@ -18,9 +18,9 @@ But why not let Mark Zuckerberg, Facebook CEO, explain Facebook's business model
 
 The Facebook business model is based on offering its tools and services mostly for free to billions of users and then making money by allowing businesses to show Facebook's users advertising. Advertisers pay the price to Facebook that is determined in an auction, based on demand and supply.
 
-That means that **people who use Facebook services (users) are not the ones who pay Facebook for it. Real customers are primarily small businesses advertising on some of Facebook's family of apps.** Facebook's focus on small businesses became an even more apparent part of the Facebook strategy as it introduced the first version of its e-commerce tools called Facebook Shops.
+That means that **people who use Facebook services (users) are not the ones paying Facebook for it. Real customers are primarily small businesses advertising on some of Facebook's family of apps.** Facebook's focus on small businesses became an even more apparent part of the Facebook strategy as it introduced the first version of its e-commerce tools called Facebook Shops.
 
-Facebook is not the first nor the last business with a similar business model, but Facebook is an excellent example that **this business model is not without issues when interests of users and customers (advertisers) are not in line.** 
+Facebook is not the first nor the last business with a similar business model. Still, Facebook is an excellent example that **this business model is not without issues when the interests of users and customers (advertisers) are not in line.** 
 
 Over the years, Mark Zuckerberg, Facebook founder, CEO, and controlling shareholder in one person,  aggressively grew  Facebook from a small project founded in his college dorm room into a social media giant. 
 
@@ -32,17 +32,17 @@ However, the same aggressive approach that drove Facebook to the top, combined w
 
 ![Facebook's income statement and cash flow statement key metrics - summary overview](/assets/images/facebook_key_earnings_and_cashflow_metrics_summary.png)
 
-**Facebook's [market share](https://www.emarketer.com/content/google-ad-revenues-drop-first-time){:target="_blank"} on ad revenue in the US in 2019 was 23%,** making it the second biggest player after Google (with 32% market share). Compared to Google, Facebook experienced much higher growth in 2019. **Total size of US market was around $130bn anually.**
+**Facebook's [market share](https://www.emarketer.com/content/google-ad-revenues-drop-first-time){:target="_blank"} on ad revenue in the US in 2019 was 23%,** making it the second-biggest player after Google (with a 32% market share). Compared to Google, Facebook experienced much higher growth in 2019. **The total size of the US market was around $130bn annually.**
 
 Facebook business is very well focused around its vision of "building communities and connecting people together." It does that mainly through its family of apps  (Facebook, Messenger, Instagram, WhatsApp). Even Facebook's hardware devices and more future-based VR/AR  activities fit this vision very well.
 
 Mark Zuckerberg also has a clear **long-term vision for Facebook that goes well beyond what Facebook is doing right now**. That includes social e-commerce and also artificial and augmented reality. He also has a track record of delivering things he says he will. Unfortunately, he also has a track record of messing things up along the way by disregarding user privacy and sometimes also saying one thing and doing another.
 
-This article will explore different parts of the Facebook's business model and how it makes money. It will be focused not only on advertising and various factors that drive advertising revenue, but I will also touch on other revenue sources, even though they are currently tiny, compared to revenue from advertising.
+This article will explore different parts of Facebook's business model and how it makes money. It will be focused not only on advertising and various factors that drive advertising revenue, but I will also touch on other revenue sources, even though they are currently tiny, compared to revenue from advertising.
 
 I will also spend some time on Facebook's different controversies, which go far beyond Facebook's inherent privacy issues. Addressing these controversies is core for Facebook's future. If not appropriately addressed, they can be a reason why Mark Zuckerberg's grand vision for Facebook's future might not materialize.
 
-If you would like to see more number-based analysis of Facebook financials, you can go through my article ["Facebook Financial Statements: Overview & Analysis"](/facebook-financial-statements-overview-and-analysis/)
+If you would like to see more number-based analysis of Facebook financials, you can go through my article ["Facebook Financial Statements: Overview & Analysis".](/facebook-financial-statements-overview-and-analysis/)
 
 ## ⚙️How Does Facebook Make Money from Advertising
 
@@ -66,9 +66,9 @@ Of course, these predictions are not 100% accurate but are accurate enough to be
 
 ![Visualization of How Facebook Makes Money from Advertising](/assets/images/facebook_how_facebook_makes_money_from_advertising.png)
 
-**There are around 10 million advertisers that use Facebook's ad platform** and they are primarily small businesses. Facebook Ad platform allows them not only to show the ads to targeted users, but it also offers detailed performance tracking on how different campaigns and different types of visuals work. Based on that, businesses can test what kind of campaign and for what type of users work best.
+**There are around 10 million advertisers that use Facebook's ad platform**, and they are primarily small businesses. Facebook Ad platform allows them not only to show the ads to targeted users, but it also offers detailed performance tracking on how different campaigns and different types of visuals work. Based on that, businesses can test what kind of campaign and for what type of users work best.
 
-Similar to Google, Facebook's biggest competitor for ad dollars, **price that businesses pay for ads on Facebook is determined by action where advertisers compete with each other.** To win the auction, it is not only about price advertisers offer to Facebook when user clicks on their add. 
+Similar to Google, Facebook's biggest competitor for ad dollars, **a price that businesses pay for ads on Facebook is determined by action where advertisers compete with each other.** To win the auction, it is not only about price advertisers offer to Facebook when user clicks on their add. 
 
 It would not make much sense for Facebook to show ad campaigns that offered the highest price per click when people would not click on those ads very often. Therefore, an auction considers how often users will click on ads, and it is designed to prefer advertisements that will make the most money for Facebook.
 
@@ -84,11 +84,11 @@ Facebook shows ads across Facebook, Instagram, and also Messenger. There are cur
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKk9to7Zcdg" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-The video above is a little bit dated in terms of presented numbers but it is a good summary of how Facebook makes money and how it targets its ads.
+The video above is a little bit dated in terms of presented numbers, but it is a good summary of how Facebook makes money and how it targets its ads.
 
 ## 🧑 Who are Facebook's customers? Users vs Advertisers
 
-Facebook's over **3 billion users** is what makes it such a valuable business. This market presence was helped a lot by the **"network effects" that make it naturally harder for users to leave Facebook for another platform**. 
+Facebook's over **3 billion users** are what makes it such a valuable business. This market presence was helped a lot by the **"network effects" that make it naturally harder for users to leave Facebook for another platform**. 
 
 Still, to keep its business model working, Facebook has strong motivation to provide users a great experience and listen to what they want and need. But there is another group whose needs and wishes are critical to Facebook, and those are advertisers. 
 
@@ -106,13 +106,13 @@ This content is not illegal, but advertisers don't want to be associated with it
 
 Facebook's advantage in these confrontations with advertisers is that it is not dependent on a few big companies. Its customer base is much more granular, consisting of a lot of smaller businesses. 
 
-When many household name companies announce that tehy will stop advertising on Facebook, as we could experience from time to time, it does not significantly affect Facebook's revenue. 
+When many household name companies announce that they will stop advertising on Facebook, as we could experience from time to time, it does not significantly affect Facebook's revenue. 
 
 That being said, Facebook eventually does what any successful company has to do to stay successful, which is listening to its customers and making sure their needs are met. And in Facebook's case, customers are advertisers.
 
 **At the end of the day, whatever Mark Zuckerberg and Facebook management say about wanting Facebook to have a reputation for privacy going forward, we need to realize that Facebook's business is based on collecting as much data as possible without significantly alienating its users.**
 
-Apart from advertisers and users, another counterparty Facebook needs to consider when running its business are regulators and politicians. The issue is not only its **antitrust lawsuit** that is coming, but also the whole discussion about the **role Facebook and other social media should play in moderation of speech on the internet** and where is a line for content that should not be acceptable. 
+Apart from advertisers and users, another counterparty Facebook needs to consider when running its business are regulators and politicians. The issue is not only its **antitrust lawsuit** that is coming. It is also about defining the **role Facebook, and other social media players should play in the moderation of speech on the internet** and defining where is a line for content that should not be acceptable. 
 
 Facebook found itself in a very tricky position where there is general agreement that Facebook is doing things wrong. But different groups have pretty opposing views on if Facebook should allow more free speech or less. 
 
@@ -120,11 +120,11 @@ Mark Zuckerberg gave a speech in 2019 in Georgetown, where he made good points a
 
 More than one year after that speech, when we look at what Facebook actually did, we can see again that Facebook's actions were far more pragmatic for its bottom line. It opted for less controversy, which is far better for business and advertisers, even though it was against the ideals, Mark shared during his Georgetown speech. 
 
-Facebook's position is that there is no conflict of interest between users and advertisers, as you can read it in Mark Zuckerberg's post ["Understanding Facebook’s Business Model"](https://about.fb.com/news/2019/01/understanding-facebooks-business-model/){:target="_blank"}. 
+Facebook's position is that there is no conflict of interest between users and advertisers, as you can read in Mark Zuckerberg's post ["Understanding Facebook’s Business Model."](https://about.fb.com/news/2019/01/understanding-facebooks-business-model/){:target="_blank"} 
 
-I beg to differ on this because based on just looking at what Facebook does compare to what it says it wants to do, **when it comes to privacy, Facebook is on advertisers' side**. They showed it on many occasions. 
+I beg to differ on this. Based on just looking at what Facebook does compare to what it says it wants to do **when it comes to privacy, Facebook is on the advertisers’ side.** They showed it on many occasions. 
 
-For example, recent [full-page newspaper ads](https://www.bloomberg.com/news/articles/2020-12-16/facebook-attacks-apple-s-ios-changes-in-full-page-newspaper-ads){:target="_blank"} that attacked Apple changes that forced iOS apps to ask users consent before tracking them outside of the app clearly shows that when there is a conflict between what advertisers want and what users want, they chose advertisers. They even launched [separate campaign](https://about.fb.com/news/2021/02/lets-talk-about-why-personalized-ads-matter/){:target="_blank"} where Facebook promoted benefits of targeted advertising.
+For example, recent [full-page newspaper ads](https://www.bloomberg.com/news/articles/2020-12-16/facebook-attacks-apple-s-ios-changes-in-full-page-newspaper-ads){:target="_blank"} that attacked Apple changes that forced iOS apps to ask users consent before tracking them outside of the app clearly shows that when there is a conflict between what advertisers want and what users want, they chose advertisers. They even launched [a separate campaign](https://about.fb.com/news/2021/02/lets-talk-about-why-personalized-ads-matter/){:target="_blank"} where Facebook promoted the benefits of targeted advertising.
 
 That by itself does not make Facebook, an evil company. Many companies offer services for free and make money on the backend from advertising or other fees. Also, there are far more situations where users' and advertisers' interests are in line, like eliminating hateful content. But privacy is obviously not one of them, and we should be aware that if legally allowed, Facebook will most probably side with advertisers. 
 
@@ -134,7 +134,7 @@ Facebook's dedication to its around 10 million advertisers is even more striking
 
 **Core drivers of Facebook advertising revenue are how many people use Facebook, how much time these users spend on Facebook, how many ads Facebook shows to its users per certain time, and finally, how much Facebook charges for one ad placement.** 
 
-To make it more apparent how those revenue drivers work together, we can put them all into **revenue "formula"**, as you can see below. 
+To make it more apparent how those revenue drivers work together, we can put them all into **revenue "formula,"** as you can see below. 
 
 ![Facebook's revenue formula breakdown](/assets/images/facebook_revenue_breakdown_formula.png)
 
@@ -166,15 +166,15 @@ From a short-term perspective adding ads to WhatsApp would mean more revenue, bu
 
 ![Timer Icon](/assets/images/icons/timer.png){: .align-left}
 
-**More time people spend on Facebook using its different apps generally means Facebook has the potential to earn more revenue as it can show more ads to people.**
+**More time people spend on Facebook using its different apps generally means Facebook can earn more revenue as it can show more ads to people.**
 
-For example, during the COVID-19 pandemic, people used social media more, which generally means higher revenue. In this case, however, pandemic also depressed prices of ads so that it more than offset the positive effect for more time spend on Facebook. Revenue growth thus slowed down compared to previous periods.
+For example, during the COVID-19 pandemic, people used social media more, which generally means higher revenue. However, in this case, pandemic also depressed prices of ads so that it more than offset the positive effect for more time spend on Facebook. Revenue growth thus slowed down compared to previous periods.
 
 ### Ads per hour
 
 ![Ads Icon](/assets/images/icons/ads.png){: .align-left}
 
-If we assume that other revenue formula factors will stay unchanged, then **more ads are showed per hour on Facebook means more revenue for Facebook.** This is much more tricky in reality because a more extensive supply of spots for ads can drive the price per ad down. 
+If we assume that other revenue formula factors will stay unchanged, then **more ads are showed per hour on Facebook, more revenue Facebook earns.** This is much more tricky in reality because a more extensive supply of spots for ads can drive the price per ad down. 
 
 Recently, the number of ads was the lever Facebook was using to drive revenue up. Pushing more ads in 2019 and 2020 also meant that the average price per ad was slightly decreasing, partially offsetting the revenue growth thanks to serving more ads.
 
@@ -192,7 +192,7 @@ For example, If companies start to move a more significant part of their budget 
 
 **Facebook can influence the price per ad by changing the number of ads (supply) to maximize revenue**.
 
-Facebook can also drive the price per ad up by making them more valuable for businesses. That is, for example, the reasoning behind Facebook's recent introduction of e-commerce functionality into its apps allowing businesses to set up [shops](https://about.fb.com/news/2020/05/introducing-facebook-shops/){:target="_blank"} within Facebook, Instagram or WhatsApp. 
+Facebook can also drive the price per ad up by making them more valuable for businesses. That is, for example, the reasoning behind Facebook's recent introduction of e-commerce functionality into its apps allowing businesses to set up [shops](https://about.fb.com/news/2020/05/introducing-facebook-shops/){:target="_blank"} within Facebook, Instagram, or WhatsApp. 
 
 The idea is that it will be a more seamless user experience, leading to more people who click on a particular ad ending up purchasing the product. That will drive prices per ad up and increase Facebook revenue.
 
@@ -200,13 +200,13 @@ The idea is that it will be a more seamless user experience, leading to more peo
 
 ![WhatsApp Logo](/assets/images/icons/whatsapp.png){: .align-left}
 
-**One of the core Facebook apps is WhatsApp, with around 2 billion users worldwide. It is the most popular messaging app in the world, even though in the US it lags behind Facebook Messenger.**
+**One of the core Facebook apps is WhatsApp, with around 2 billion users worldwide. It is the most popular messaging app globally, even though it lags behind Facebook Messenger in the US.**
 
 Facebook purchased WhatsApp in [2014 for **$19bn**](https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/){:target="_blank"} but did not make much money from it yet.
 
 Initially, Facebook planned to make money from advertising on WhatsApp, similar to what Facebook did in Facebook Messenger. But Facebook scrapped these plans. Currently, Facebook says that it will pursue a different business model for WhatsApp.
 
-**Based on Facebook's current plans, WhatsApp won't be making money from advertising, but Facebook will earn money by providing [tools for business](https://www.wsj.com/articles/whatsapp-outlines-future-payday-from-users-messaging-with-businesses-11603371604){:target="_blank"} to communicate with customers through WhatsApp. The same will be valid also for Facebook Messenger.**
+**Based on Facebook's current plans, WhatsApp won't be making money from advertising, but Facebook will earn money by providing [tools for businesses](https://www.wsj.com/articles/whatsapp-outlines-future-payday-from-users-messaging-with-businesses-11603371604){:target="_blank"} to communicate with customers through WhatsApp. The same will be valid also for Facebook Messenger.**
 
 Facebook already collects some revenue from fees it charges business customers for using its WhatsApp API interface for sending messages to their customers. Customers can use it to send messages for free within 24 hours from the time customer contacted them, but after that period expires, WhatsApp charges businesses between 0.5 and 1 cent per message.
 
@@ -214,7 +214,7 @@ These paid messages have to be automatically generated based on templates that h
 
 **Revenue from these fees is currently tiny, but Facebook's plan is to build on top of this and offer a more comprehensive solution for businesses to communicate with their customers.** We can't expect that revenue from this will be close to what Facebook makes from advertising. Still, it is a reasonable business model focused on Facebook's core customers, small businesses. 
 
-So far, Facebook was offering its small business customers highly targeted advertising. It will also provide them tools for customer service management through its messaging apps. On top of that, a simple e-commerce solution will be available in all of Facebook's apps, including WhatsApp. This focus on small businesses is a crucial part of Facebook's business model.
+So far, Facebook was offering its small business customers highly targeted advertising. It also provides tools for customer service management through its messaging apps. On top of that, a simple e-commerce solution will be available in all of Facebook's apps, including WhatsApp. This focus on small businesses is a crucial part of Facebook's business model.
 
 ## 🥽 How Facebook makes money from Hardware (Bet on Virtual and Augmented Reality)
 
@@ -224,22 +224,22 @@ So far, Facebook was offering its small business customers highly targeted adver
 
 ### Portal
 
-Let's first look at the smaller part of the Facebook hardware business, it's Portal device. In 2019 Facebook sold around [**1 million** of Portal devices](https://www.cnet.com/news/facebook-portal-is-a-hit-during-the-coronavirus-lockdown-thanks-to-your-grandparents/){:target="_blank"} which main focus is to serve as a dedicated communicator. It supports connecting with others through Facebook's apps but also through other popular video-conferencion apps. Portal also includes Amazon's Alexa voice assistant.
+Let's first look at the smaller part of the Facebook hardware business, which is Portal devices. In 2019 Facebook sold around [**1 million** Portal devices](https://www.cnet.com/news/facebook-portal-is-a-hit-during-the-coronavirus-lockdown-thanks-to-your-grandparents/){:target="_blank"} whoose main focus is to serve as a dedicated communicator. It supports connecting with others through Facebook's apps but also through other popular video-conferencing apps. Portal also includes Amazon's Alexa voice assistant.
 
 It fits the Facebook strategy of connecting people together, but I would not expect this to become anything significant going forward. 
 
 ### Oculus and Facebook Glasses (VR&AR)
 
-**Oculus is a virtual reality headset that Facebook acquired in 2014**. In 2020 Facebook introduced [Oculus Quest 2](https://www.oculus.com/quest-2/){:target="_blank"}, upgrade to its previous model. It is currently **mainly focused on gaming**, but Facebook's ambition goes far beyond gaming devices.
+**Oculus is a virtual reality headset that Facebook acquired in 2014**. In 2020 Facebook introduced [Oculus Quest 2](https://www.oculus.com/quest-2/){:target="_blank"}, an upgrade to its previous model. It is currently **mainly focused on gaming**, but Facebook's ambition goes far beyond gaming devices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXIcG3B7CsY" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-Market with these devices is still tiny, but Facebook is significantly gaining market share and **based on early numbers from 2020, its market share is 39%**. It puts Facebook ahead of  Sony, its main competitor in this area and leader in 2019.
+Market with these devices is still tiny, but Facebook is significantly gaining market share, and **based on early numbers from 2020, its market share is 39%**. It puts Facebook ahead of  Sony, its main competitor in this area and leader in 2019.
 
 In terms of revenue, **Oculus probably brings the majority from 2% of non-advertising revenue** Facebook earns. It is not a small number, but Facebook is probably not making any money from this and might never do, at least not directly.
 
-Facebook is not trying to build a hardware business here. Its ambition is to create the **whole new ecosystem of devices and software that will be AR/VR focused**. Currently, it focuses mainly on gaming and fun stuff, but given that Facebook's motto of connecting people together, gaming is just a start. 
+Facebook is not trying to build a hardware business here. Its ambition is to create **a whole new ecosystem of devices and software that will be AR/VR focused**. Currently, it focuses mainly on gaming and fun stuff, but given that Facebook's motto of connecting people together, gaming is just a start. 
 
 It looks like a big opportunity. The question is how Facebook will make money from it and what will be its business model.
 
@@ -257,7 +257,7 @@ Recently Facebook announced that they would introduce **AR glasses in cooperatio
 
 Apart from advertising, hardware sales, and WhatsApp API fees that I mentioned, there are also other ways how Facebook currently makes money. The revenue from these is super tiny, but it makes sense to be at least aware of them:
 
-- One such revenue source are developers that use **Facebook's payment services.**
+- One such revenue source consists of developers that use **Facebook's payment services.**
 - **Facebook rents out unused capacity in its fiber network** that connects its data centers worldwide.
 - Facebook charges a **subscription fee** for its **Workplace** tool, which can be best described as a private Facebook that companies use for internal communication.
 
@@ -265,7 +265,7 @@ Apart from advertising, hardware sales, and WhatsApp API fees that I mentioned, 
 
 There is a saying that unless you have a group of people who hate you, you are not really successful. By this measure, Facebook is one of the most successful companies in the world. 
 
-**Number of people who "shame" Facebook online or offline in everyday conversations is mind gobbling. Unsurprisingly, recent [WSJ rating](https://www.wsj.com/articles/warning-signs-in-the-best-managed-companies-11607785916){:target="_blank"} of US companies showed Facebook as the worst one in customer satisfaction among the top 100 in their raking.** 
+**The Number of people who "shame" Facebook online or offline in everyday conversations is mind gobbling. Unsurprisingly, the recent [WSJ rating](https://www.wsj.com/articles/warning-signs-in-the-best-managed-companies-11607785916){:target="_blank"} of US companies showed Facebook as the worst one in customer satisfaction among the top 100 in their ranking.** 
 
 > **"My goal was never really to make Facebook cool. I am not a cool person."**
 >
@@ -303,7 +303,7 @@ Their approach will be to meet all the requirements there, but they will hardly 
 
 It is understandable, but Facebook probably should not confuse people with its privacy "leadership" talk.
 
-For example, privacy reputation and leadership is not reconcilable with recent Facebook's [public attacks](https://www.theverge.com/2020/12/17/22180102/facebook-new-newspaper-ad-apple-ios-14-privacy-prompt){:target="_blank"} on Apple because of its plan to ensure users can choose whether or not they allow an app to track them.  **Facebook is not fighting for privacy here. It is openly fighting against it.** 
+For example, privacy reputation and leadership are not reconcilable with recent Facebook's [public attacks](https://www.theverge.com/2020/12/17/22180102/facebook-new-newspaper-ad-apple-ios-14-privacy-prompt){:target="_blank"} on Apple because of its plan to ensure users can choose whether or not they allow an app to track them.  **Facebook is not fighting for privacy here. It is openly fighting against it.** 
 
 Again, this does not make Facebook evil.  In this fight with Apple, Facebook is simply fighting for itself and its core customers. Facebook customers are not its users, but rather around 10 million, primarily small businesses that advertise on Facebook and Instagram.  
 
@@ -312,20 +312,20 @@ There are many more controversies about Facebook outside of privacy and security
 **Facebooks controversies and issues that might impact it going forward:**
 
 - **Security:** Avoiding anything that resembles Facebook's past security breaches or disregarding commitments to regulators should be the top priority for Facebook. The consequences of not doing so are so dare that I am confident that Facebook's commitment to this is genuine.
-**Privacy:** Mark Zuckerberg claims that he wants Facebook to build a strong reputation for privacy over the next decade. This, in my view, is just an empty statement that is contrary both to Facebook's business model and also Facebook's recent actions. Facebook is openly pushing for less choice for users when it comes to privacy. The only other explanation is that Marks's definition of "privacy" very much differs from what usually people understand by it
-- **Antitrust lawsuit:**  Facebook looming antitrust lawsuit is another defining moment for the company. It focuses on Facebook's market power, especially its acquisitions of Instagram and WhatsApp, which helped solidify Facebook's already dominant market position.
+- **Privacy:** Mark Zuckerberg claims that he wants Facebook to build a strong reputation for privacy over the next decade. This, in my view, is just an empty statement that is contrary both to Facebook's business model and also Facebook's recent actions. Facebook is openly pushing for less choice for users when it comes to privacy. The only other explanation is that Marks's definition of "privacy" very much differs from what usually people understand by it.
+- **Antitrust lawsuit:**  Facebook's looming antitrust lawsuit is another defining moment for the company. It focuses on Facebook's market power, especially its acquisitions of Instagram and WhatsApp, which helped solidify Facebook's already dominant market position.
 
     Based on Facebook's internal emails, these acquisitions' openly stated purpose was to eliminate possible competition before it becomes too big. It is questionable if this lawsuit will achieve something, but Facebook acquisitions will be heavily scrutinized going forward, and Facebook won't be able to simply acquire future competitors.  
 
 - **Content moderation:** Big part of "toxicity" around Facebook is the presence of hateful content and misinformation. Facebook is ramping up its effort in content moderation, making sure this content is taken down and that certain content is not actively promoted to people's feeds. But let's face it, this is an impossible task.
 
-    There is undoubtedly still space for how Facebook can still improve its AI algorithms to help with that.  Mainly by stopping actively promoting a certain type of political posts that create heated emotional discussion even at our dinner tables. But it is just not realistic to expect that it can work 100%. Like our email spam filters, it works very well most of the time, but spam will show up in your inbox from time to time.
+    There is undoubtedly still space for how Facebook can still improve its AI algorithms to help with that.  Mainly by stopping to actively promote a certain type of political posts that create heated emotional discussion even at our dinner tables. But it is just not realistic to expect that it can work 100%. Like our email spam filters, it works very well most of the time, but spam will show up in your inbox from time to time.
 
     The issue here is that different groups of people have different ideas where to draw a line for "toxic" content. Some groups advocate that Facebook is doing far too little and should broaden the range of content that is not allowed on the platform. On the other hand, some groups warn that Facebook is taking down too much content. 
 
     These issues and connected disagreements are not going away anytime soon. Since Facebook's customers are advertisers, who want to stay as far from questionable content as possible, the most probable outcome here is that Facebook will become more and more restrictive to create a less controversial place. Facebook's recent announcement that it will deprioritize political content is just confirmation of this trend, similarly to other content decisions it made recently.
 
-    Another level of issues with content moderation is that more countries worldwide apply more restrictive laws limiting free political speech. Something that was seen only in a few countries like, for example, China, became much more common. Facebook has a choice to apply local laws in a given country which can be highly undemocratic. Alternative is to refuse to take the content down and face consequences that, in an extreme case, can lead to exit of Facebook from given country.
+    Another level of issues with content moderation is that more countries worldwide apply more restrictive laws limiting free political speech. Something that was seen only in a few countries like, for example, China, became much more common. Facebook has a choice to apply local laws in a given country which can be highly undemocratic. The alternative is to refuse to take the content down and face the consequences that, in an extreme case, can lead to the exit of Facebook from a given country.
 
 The issues mentioned above are defining for Facebook's future.  But let's now look at more business and product-related activities that Facebook is working on, affecting it going forward.
 
@@ -333,7 +333,7 @@ The issues mentioned above are defining for Facebook's future.  But let's now lo
 
 Facebook is in the middle of many controversies, and it is clearly not a "love brand."  Interestingly, when you look at Facebook's users' growth, you don't see an exodus happening. 
 
-**Number of users of core Facebook and Messenger apps is still growing. It grew 12% to 2.8 bn users worldwide in 2020.  For a company with such a vast market presence already, this is a success.** 
+**The number of users of core Facebook and Messenger apps is still growing. It grew 12% to 2.8 bn users worldwide in 2020.  For a company with such a vast market presence already, this is a success.** 
 
 ![Facebook's monthly active users breakdown chart](/assets/images/facebook_fb_monthly_active_users_breakdown_chart.png)
 
@@ -349,7 +349,7 @@ And it is not just the number of users. Facebook is also doing well in growing i
 
 That does not mean that there are not some challenges ahead that Facebook will need to navigate carefully.
 
-One challenge Facebook is facing is **weaker position among younger users**. Facebook is still an important player for younger users thanks to its Instagram app, but its position is not so dominant as among the older population. In the US, the most popular social network app among teenagers is Snapchat, followed closely by Instagram.  
+One challenge Facebook is facing is **a weaker position among younger users**. Facebook is still an important player for younger users thanks to its Instagram app, but its position is not so dominant as among the older population. In the US, the [most popular](https://www.emarketer.com/content/three-charts-on-tiktok-penetration-among-gen-z-users){:target="_blank"} social network app among teenagers is Snapchat, followed closely by Instagram.  
 
 This does not have to mean an immediate issue for Facebook since even if this continues, it will take decades to impact Facebook's overall market share. 
 
@@ -359,13 +359,13 @@ Facebook's most popular past tactic to eliminate its completion by buying them o
 
 ## 🔮Facebook's Business Outlook and Future Plans
 
-**First thing we should be prepared for in the next few years is that Facebook will become a much less profitable company in terms of relative operating margin.**  
+**The first thing we should be prepared for in the next few years is that Facebook will become a much less profitable company in terms of relative operating margin.**  
 
 Facebook publicly stated that we could expect that expense growth will exceed revenue growth, resulting in a significant margin decrease. 
 
 The decline in margin does not have to be bad news. In the past, Facebook's operating margin was north of 40%, and last year, it was 38% during a pandemic year.  
 
-With such a high operating margin to start with, **Facebook can afford to grow its expenses at a higher rate than its revenue for a few years** and still, increase its nominal profits.  Revenue and expense growth will need to come closer together eventually. Otherwise, nominal profit decrease is inevitable.
+With such a high operating margin to start with, **Facebook can afford to grow its expenses at a higher rate than its revenue for a few years** and still increase its nominal profits.  Revenue and expense growth will need to come closer together eventually. Otherwise, nominal profit decrease is inevitable.
 
 Facebook already launched one important growth initiative in 2020. The company **implemented e-commerce functionality across Facebook, Instagram, and WhatsApp.** Facebook Shops, as it is called, will allow small businesses to offer their products for purchase right within a family of Facebook apps, including the ability to accept payments. 
 
@@ -376,26 +376,26 @@ It can also help to introduce more small businesses to the power of Facebook adv
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR8OwJhOKR4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-Another already launched activity comes from **Facebook Pay services** across its apps. In this area Facebook hit some regulatory roadblocks in Brazil and India recently, but it seems that it was just temporary. Facebook Pay won't be a revenue maker by itself, but it will help make payment transactions more seamless within Facebook apps, which is crucial for the push into e-commerce. 
+Another already launched activity comes from **Facebook Pay services** across its apps. In this area, Facebook hit some regulatory roadblocks in Brazil and India recently, but it seems that it was just temporary. Facebook Pay won't be a revenue maker by itself, but it will help make payment transactions more seamless within Facebook apps, which is crucial for the push into e-commerce. 
 
-Separate from standard Facebook Pay is **Facebook's Diem digital currency** and payment system (formerly called Libra). Facebook messed up its introduction by constructing it in a way that looked totally unacceptable to regulators, and many original backers deserted the project as quickly as they joined it.  Now it seems company is pushing through with it anyway after some changes.
+Separate from standard Facebook Pay is **Facebook's Diem digital currency** and payment system (formerly called Libra). Facebook messed up its introduction by constructing it in a way that looked totally unacceptable to regulators, and many original backers deserted the project as quickly as they joined it.  Now it seems the company is pushing through with it anyway after some changes.
 
 Facebook has a well-defined long-term **vision of connecting people together**, with concrete initiatives expected to give them the edge in the future. 
 
 Facebook's business is currently defined around Facebook's "blue" app and Instagram as a core revenue driver. Looking several years ahead, this might change.
 
-One such change might be bigger focus on **private social platforms and more intimate communities.** Facebook said this is the area where they see the most significant growth, and they plan to build Messenger and WhatsApp into private social platforms where you can communicate with your family and friends without sharing it with the whole world. 
+One such change might be a bigger focus on **private social platforms and more intimate communities.** Facebook said this is the area where they see the most significant growth, and they plan to build Messenger and WhatsApp into private social platforms where you can communicate with your family and friends without sharing it with the whole world. 
 
-Facebook is also heavily investing in several other opportunities, like **augmented reality and virtual reality.** Facebook is a leading company in these areas with its Oculus hardware and its development tools. Facebook even announced that it plans to introduce **AR glasses with cooperation with Ray-Ban.**
+Facebook is also heavily investing in several other opportunities, like **augmented reality and virtual reality.** Facebook is a leading company in these areas with its Oculus hardware and its development tools. Facebook even announced that it plans to introduce **AR glasses in cooperation with Ray-Ban.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o67td5HFghI" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-It looks that **Oculus** is starting to see the first wins and is gaining market share. Its revenues is still relatively small compared to Facebook's advertising revenue, but it can become a viable platform with an ecosystem around it.
+It looks that **Oculus** is starting to see the first wins and is gaining market share. Its revenue is still relatively small compared to Facebook's advertising revenue, but it can become a viable platform with an ecosystem around it.
 
 This is a risky long-term bet, but AR/VR fits nicely into the company's focus on connecting people and helping them communicate with each other. It might also mean an even **bigger role for Facebook in gaming.**
 
-In the end, I have also to mention the general trend of advertising spending moving online, which benefits the whole sector, including Facebook.
+In the end, I also have to mention the general trend of advertising spending moving online, which benefits the whole sector, including Facebook.
 
 ## 📚 **Resources & Links**
 
@@ -411,5 +411,5 @@ In the end, I have also to mention the general trend of advertising spending mov
 
 ## Technical Notes & Disclaimers
 
-- *Although I use third party trademarks and logos in this article and its visuals, [kamilfranek.com](http://www.kamilfranek.com/){:target="_blank"} is an independent site. There is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
+- *Although I use third-party trademarks and logos in this article and its visuals, [kamilfranek.com](http://www.kamilfranek.com/){:target="_blank"} is an independent site. There is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
 - *At the time of writing this article, I had a long position in Facebook.*
