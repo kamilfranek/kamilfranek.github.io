@@ -286,14 +286,10 @@ In case you are new to my posts about companies and specific charts and visualiz
 <th style="border-bottom:hidden" colspan="1"></th>
 <th style="border-bottom:hidden" colspan="1"></th>
 <th style="border-bottom:hidden" colspan="1"></th>
-<th style="border-bottom:hidden" colspan="1"></th>
-<th style="border-bottom:hidden" colspan="1"></th>
 <th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2"><div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">2020 vs 2019</div></th>
 </tr>
   <tr>
    <th style="text-align:left;">   </th>
-   <th style="text-align:right;"> 2016 </th>
-   <th style="text-align:right;"> 2017 </th>
    <th style="text-align:right;"> 2018 </th>
    <th style="text-align:right;"> 2019 </th>
    <th style="text-align:right;"> 2020 </th>
@@ -304,8 +300,6 @@ In case you are new to my posts about companies and specific charts and visualiz
 <tbody>
   <tr>
    <td style="text-align:left;border: 0"> Net income </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(201, 223, 235, 0.92)">10.2</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(171, 206, 224, 0.87)">15.9</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(138, 187, 213, 0.83)">22.1</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(157, 198, 220, 0.85)">18.5</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(101, 165, 200, 0.77)">29.1</span> </td>
@@ -313,19 +307,47 @@ In case you are new to my posts about companies and specific charts and visualiz
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+58%</span> </td>
   </tr>
   <tr>
-   <td style="text-align:left;border: 0"> Adjustments Total </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(227, 239, 245, 0.96)">5.1</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(221, 235, 242, 0.95)">6.4</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(209, 228, 238, 0.93)">8.7</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(199, 222, 235, 0.91)">10.6</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(190, 217, 231, 0.9)">12.3</span> </td>
+   <td style="text-align:left;border: 0"> Depreciation and amortization </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(232, 241, 246, 0.96)">4.3</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(224, 237, 244, 0.95)">5.7</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(218, 233, 242, 0.95)">6.9</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+1.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+20%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Stock-based compensation </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(233, 242, 247, 0.96)">4.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(229, 240, 245, 0.96)">4.8</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(220, 234, 242, 0.95)">6.5</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+1.7</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+16%</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+35%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Deferred income taxes </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 254, 254, 1)">0.3</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">-0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 252, 244, 0.98)">-1.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-1.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+3 122%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Tax benefit from share-based award activity </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(255, 255, 255, 1)">0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(255, 255, 255, 1)">0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(255, 255, 255, 1)">0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: black">0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Other </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">-0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+203%</span> </td>
   </tr>
   <tr>
    <td style="text-align:left;border: 0"> Changes in oper. assets &amp; liab. </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(251, 252, 253, 0.99)">0.8</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(245, 249, 251, 0.98)">1.9</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 252, 242, 0.98)">-1.5</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(216, 232, 241, 0.94)">7.2</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 250, 231, 0.97)">-2.7</span> </td>
@@ -334,8 +356,6 @@ In case you are new to my posts about companies and specific charts and visualiz
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #f4f4f4 !important;border: 0"> Net operating cash flow </td>
-   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #6e6e6e">16.1</span> </td>
-   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #595959">24.2</span> </td>
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #4b4b4b">29.3</span> </td>
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #393939">36.3</span> </td>
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #333333">38.7</span> </td>
@@ -343,29 +363,111 @@ In case you are new to my posts about companies and specific charts and visualiz
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #009F6B">+7%</span> </td>
   </tr>
   <tr>
-   <td style="text-align:left;border: 0"> Net investing cash flow </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 233, 155, 0.88)">-11.8</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(251, 218, 85, 0.8)">-20.1</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 234, 156, 0.88)">-11.6</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(251, 219, 87, 0.8)">-19.9</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(250, 201, 1, 0.7)">-30.1</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-10.2</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+51%</span> </td>
+   <td style="text-align:left;border: 0"> Purchases of property and equip. </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(252, 230, 137, 0.86)">-13.9</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(252, 227, 127, 0.85)">-15.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(252, 227, 127, 0.85)">-15.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+0%</span> </td>
   </tr>
   <tr>
-   <td style="text-align:left;border: 0"> Net financing cash flow </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 252, 1)">-0.3</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 245, 210, 0.95)">-5.2</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(252, 227, 123, 0.84)">-15.6</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 241, 193, 0.93)">-7.3</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 236, 168, 0.89)">-10.3</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-3.0</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+41%</span> </td>
+   <td style="text-align:left;border: 0"> Proceeds from P&amp;E (sales &amp; incentives) </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> -    </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> -    </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> -    </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span></span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: #f4f4f4 !important;border: 0"> Free Cash Flow (standard) </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #707070">15.4</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #616161">21.2</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #5a5a5a">23.6</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #009F6B">+2.4</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #009F6B">+11%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Acquisitions </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 253, 1)">-0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 250, 0.99)">-0.5</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 251, 1)">-0.4</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-24%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Net purchases of marketable secur. </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(241, 247, 250, 0.98)">2.5</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 247, 219, 0.96)">-4.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 240, 186, 0.92)">-8.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-4.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+95%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Purchase of equity investments </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">-0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">-0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 243, 201, 0.93)">-6.4</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-6.3</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+10 328%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Other investing activities (net) </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> -    </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> -    </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">-0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span></span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: #f4f4f4 !important;border: 0"> Net investing cash flow </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(208, 132, 135, 0.75)">-11.6</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(211, 82, 86, 0.57)">-19.9</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(215, 20, 26, 0.35)">-30.1</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #d7141a">-10.2</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #009F6B">+51%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Taxes: Share settl. of equity awards </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 249, 227, 0.96)">-3.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 250, 235, 0.98)">-2.3</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 248, 224, 0.96)">-3.6</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-1.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+53%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Principal payments on finance leases </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(255, 255, 255, 1)">0.0</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 250, 0.99)">-0.6</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 253, 249, 0.99)">-0.6</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+9%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Common stock repurchased (Class A) </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(252, 231, 146, 0.87)">-12.9</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 247, 219, 0.96)">-4.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 243, 202, 0.93)">-6.3</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-2.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+49%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border: 0"> Other (net) </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(252, 253, 254, 0.99)">0.5</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 253, 1)">-0.2</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">0.1</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #009F6B">+0.4</span> </td>
+   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="color: #d7141a">-171%</span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;background-color: #f4f4f4 !important;border: 0"> Net financing cash flow </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(209, 108, 111, 0.66)">-15.6</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(206, 159, 160, 0.84)">-7.3</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(207, 140, 143, 0.78)">-10.3</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #d7141a">-3.0</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #009F6B">+41%</span> </td>
   </tr>
   <tr>
    <td style="text-align:left;border: 0"> Effect of FX rate </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">-0.1</span> </td>
-   <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 254, 254, 1)">0.2</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 253, 1)">-0.2</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(254, 254, 254, 1)">0.0</span> </td>
    <td style="text-align:right;color: #333333 !important;border: 0"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: rgba(253, 254, 254, 1)">0.3</span> </td>
@@ -374,11 +476,9 @@ In case you are new to my posts about companies and specific charts and visualiz
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;background-color: #f4f4f4 !important;border: 0"> Change in cash &amp; equivalents </td>
-   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #8e8e8e">3.9</span> </td>
-   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(211, 78, 82, 0.55)">-0.9</span> </td>
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #939393">1.9</span> </td>
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #808080">9.2</span> </td>
-   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(215, 20, 26, 0.35)">-1.3</span> </td>
+   <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: rgba(204, 195, 196, 0.97)">-1.3</span> </td>
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #d7141a">-10.5</span> </td>
    <td style="text-align:right;font-weight: bold;background-color: #f4f4f4 !important;color: #333333 !important;border: 0"> <span style="color: #d7141a">-114%</span> </td>
   </tr>
