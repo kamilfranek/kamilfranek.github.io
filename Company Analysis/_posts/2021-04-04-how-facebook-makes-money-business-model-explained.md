@@ -44,7 +44,7 @@ I will also spend some time on Facebook's different controversies, which go far 
 
 If you would like to see more number-based analysis of Facebook financials, you can go through my article ["Facebook Financial Statements: Overview & Analysis".](/facebook-financial-statements-overview-and-analysis/)
 
-## ⚙️How Does Facebook Make Money from Advertising
+## ⚙️ How Does Facebook Make Money from Advertising
 
 **Facebook makes money by auctioning off space for ads within Facebook and Instagram users' feeds and stories. Advertising represents 98% of Facebook revenue. The remaining 2% comes from other activities, primarily from selling Oculus and Portal hardware products.**
 
@@ -130,7 +130,7 @@ That by itself does not make Facebook, an evil company. Many companies offer ser
 
 Facebook's dedication to its around 10 million advertisers is even more striking and intriguing when we consider that Apple and Google's decision to make it harder to track people on the internet outside of one app or service can actually solidify Facebook's position in targeted advertising in the long run.
 
-## 💵Facebook Revenue Drivers (Revenue Formula)
+## 💵 Facebook Revenue Drivers (Revenue Formula)
 
 **Core drivers of Facebook advertising revenue are how many people use Facebook, how much time these users spend on Facebook, how many ads Facebook shows to its users per certain time, and finally, how much Facebook charges for one ad placement.** 
 
@@ -196,7 +196,7 @@ Facebook can also drive the price per ad up by making them more valuable for bus
 
 The idea is that it will be a more seamless user experience, leading to more people who click on a particular ad ending up purchasing the product. That will drive prices per ad up and increase Facebook revenue.
 
-## 💬How Facebook makes money from WhatsApp
+## 💬 How Facebook makes money from WhatsApp
 
 ![WhatsApp Logo](/assets/images/icons/whatsapp.png){: .align-left}
 
@@ -253,7 +253,7 @@ But we are just at the beginning, and there will be other ways how Facebook coul
 
 Recently Facebook announced that they would introduce **AR glasses in cooperation with Ray-Ban**. Hence, it looks that they are serious about this and are trying to make sure they dominate AR/VR space going forward before it becomes a thing.
 
-## ❔Other Ways How Facebook Makes Money You Might Not Know About
+## ❔ Other Ways How Facebook Makes Money You Might Not Know About
 
 Apart from advertising, hardware sales, and WhatsApp API fees that I mentioned, there are also other ways how Facebook currently makes money. The revenue from these is super tiny, but it makes sense to be at least aware of them:
 
@@ -357,7 +357,7 @@ Facebook is aware of this danger and tries to plug this hole by aggressively cop
 
 Facebook's most popular past tactic to eliminate its completion by buying them out is not possible anymore since regulators already woke up to these tactics. Facebook is also not David challenging incumbent Goliaths in digital advertising anymore. Facebook is the Goliath now.
 
-## 🔮Facebook's Business Outlook and Future Plans
+## 🔮 Facebook's Business Outlook and Future Plans
 
 **The first thing we should be prepared for in the next few years is that Facebook will become a much less profitable company in terms of relative operating margin.**  
 
@@ -397,7 +397,7 @@ This is a risky long-term bet, but AR/VR fits nicely into the company's focus on
 
 In the end, I also have to mention the general trend of advertising spending moving online, which benefits the whole sector, including Facebook.
 
-## 📚 **Resources & Links**
+## 📚 Resources & Links
 
 ### Related Articles
 
