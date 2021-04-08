@@ -19,7 +19,6 @@ header:
   cursor: pointer;
 }   */
 
-
 </style>
 
 
@@ -39,13 +38,13 @@ Although Mark Zuckerberg, Facebook's CEO and controlling shareholder, publicly c
 
 **Small businesses will become even more essential** for Facebook as it is trying to offer services that will turn Facebook into an e-commerce platform. 
 
-Facebook is also a company with a lot of **controversy and "toxicity" around it**. Some of it is thanks to its past privacy issues and Cambridge Analytica scandal that lead to a $5bn FTC penalty in 2019. But Facebook controversies do not end with privacy issues. Facebook is in the middle of **antitrust lawsuit that questions its acquisition of WhatsApp and Instagram.** 
+Facebook is also a company with a lot of **controversy and "toxicity" around it**. Some of it is thanks to its past privacy issues and Cambridge Analytica scandal that lead to a $5bn FTC penalty in 2019. But Facebook controversies do not end with privacy issues. Facebook is in the middle of **an antitrust lawsuit that questions its acquisition of WhatsApp and Instagram.** 
 
 We also cannot forget Facebook's **controversies around content moderation**, where Facebook is **cough in the middle of a fight about the limit of free expression online** and where the lines should be drawn. As you can expect, different groups have different ideas about it. 
 
 Facebook is not just an innocent bystander here because its algorithms rewarding engagement has helped in the active promotion of more radical political posts and Facebook groups.
 
-Mark Zuckerberg is the person trying to navigate Facebook through these challenging times. Its public image is as controversial as the company itself. He is not only Facebook's founder and CEO, but also **controlling shareholder with 53% share on voting rights** and 13% share on Facebook's equity.
+Mark Zuckerberg is the person trying to navigate Facebook through these challenging times. Its public image is as controversial as the company itself. He is not only Facebook's founder and CEO but also **a controlling shareholder with a 53% share on voting rights** and a 13% share on Facebook's equity.
 
 Despite all its past and current issues, Facebook's business is performing exceptionally well. Its users are sticking with it. The number of users is still growing and so are revenue and profits.
 
@@ -66,21 +65,21 @@ In case you are new to my posts about companies and specific charts and visualiz
 ![Facebook's key income statement and cash flow metrics summary overview 2020](/assets/images/facebook_key_earnings_and_cashflow_metrics_summary.png)
 
 <div class="cardlist" markdown="1">
-- Facebook's **revenue was $86bn in 2020 growing by 22%. 98%** of Facebook's revenue **came from advertising.**
-- Facebook's **advertising revenue was $84bn** in 2020 (**+21% growth**). This growth was driven by **increase in the number of ads served by Facebook by 33%, partially offset by a 10% decrease of price per ad.**  The main driver of this price decrease was a decline in demand in Q1 and Q2 because of the COVID-19 pandemic.
-- Based on advertisers' spend data, **biggest advertising revenue generator for Facebook is Facebook Feed with 57% share, followed by Instagram Feed with 16% share and Instagram Stories with 11% share.** All Instagram features combined generate approximately 29% of Facebook advertising revenue.
+- Facebook's **revenue was $86bn in 2020, growing by 22%. 98%** of Facebook's revenue **came from advertising.**
+- Facebook's **advertising revenue was $84bn** in 2020 (**+21% growth**). This growth was driven by **an increase in the number of ads served by Facebook by 33%, partially offset by a 10% decrease in price per ad.**  The main driver of this price decrease was a decline in demand in Q1 and Q2 because of the COVID-19 pandemic.
+- Based on advertisers' spend data, **the biggest advertising revenue generator for Facebook is Facebook Feed with 57% share, followed by Instagram Feed with 16% share and Instagram Stories with 11% share.** All Instagram features combined generate approximately 29% of Facebook advertising revenue.
 - **Instagram advertising revenue is estimated to be $24bn in 2020 and has a 29% share of total advertising revenue.** However, compared to 2019, Instagram revenue growth decreased significantly, and its revenue growth in 2020 was similar to the core Facebook app.
-- **Facebook's non-advertising revenue was 1.8bn in 2020 and grew by 72%.**  Most non-advertising revenue came from  **sales of Oculus and Portal hardware** and increased by 72%.
-- As the largest social media company on the planet, Facebook has **significant market share in the digital advertising market.** Its **market share in the US was 23%**, second to Google with 32%. Amazon, another tech giant, recently became an important digital advertising player too and reached a market share of 8%.
+- **Facebook's non-advertising revenue was 1.8bn in 2020 and grew by 72%.** Most of the non-advertising revenue came from  **sales of Oculus and Portal hardware** and increased by 72%.
+- As the largest social media company on the planet, Facebook has **a significant market share in the digital advertising market.** Its **market share in the US was 23%**, second to Google with 32%. Amazon, another tech giant, recently became an important digital advertising player too and reached a market share of 8%.
 - **Facebook had 3.3 billion monthly users at the end of 2020** across all of its products. Facebook is the most significant player by far among social media and messaging tools. COVID-19 pandemic drove more users to Facebook. **Its users grew 12% in 2020 compared to 8% growth the year before.**
-- Despite a lot of heat and toxicity around Facebook in the news, **Facebook's users continue to grow. Even in the US** **Facebook monthly users grew by 4% in 2020 compared to 2% in 2019**. **Fastest growing region was Asia-Pacific (+15%)**
-- Geographically, **most significant part of Facebook's revenue (42%) came from United States**, even though **the US share of users is just around 8%**. Thanks to much lower revenue per user in the Asia-Pacific region, its share of revenue was just 23%, even though 43% of Facebook users came from the Asia-Pacific region.
+- Despite a lot of heat and toxicity around Facebook in the news, **Facebook's users continue to grow. Even in the US,** **Facebook monthly users grew by 4% in 2020 compared to 2% in 2019**. **The fastest-growing region was Asia-Pacific (+15%)**
+- Geographically, **the most significant part of Facebook's revenue (42%) came from the United States**, even though **the US share of users is just around 8%**. Thanks to much lower revenue per user in the Asia-Pacific region, its share of revenue was just 23%, even though 43% of Facebook users came from the Asia-Pacific region.
 - **Facebook's overall expenses grew 14% to $53bn in 2020. However, this 14% growth results from comparing 2020 expenses to the extraordinary year 2019** when Facebook booked a $5bn FTC penalty and another $0.55bn of settlement expenses. Adjusted for these, **Facebook's expense growth would be +36% in 2020**
-- **36% adjusted growth of expenses was driven mainly by continued growth (+30%) in the number of employees** to the total of 58 604 at the end of 2020 and also continuing investments in Facebook's data centers and technical infrastructure.
+- **36% adjusted growth of expenses was driven mainly by continued growth (+30%) in the number of employees** to 58 604 at the end of 2020 and continuing investments in Facebook's data centers and technical infrastructure.
 - **Engineering and technical roles are the biggest group of Facebook's employees and also the fastest-growing one** (+40% in 2020). Growth in R&D employees is the main factor behind research and development expenses that are the largest expense item, growing by 36%.
-- **Facebook expenses were growing more than revenue.** Facebook expects that expenses will grow between 28% and 37% in 2021, which means that **operating margin (38% in  2020) will continue to decrease.** If this discrepancy continues for two years, the operating margin will drop to around 30%.
-- **Facebook's operating income grew by $8.7bn to $32.7bn in 2020 (+36%).** But this is not real growth and just a result of extraordinary low 2019 operating income thanks to $5bn FTC penalty and another $0.55bn settlement charge.  Adjusted for these extraordinary items, the underlying growth of operating income in 2020 was just 11%.
-- **Facebook net income grew by $10.7bn to $29.1bn in 2020 (+58%)**, but when adjusted for extraordinary $5.55 of FTC penalty and settlements booked in 2019, we arrive at a much more realistic 21% growth of net income. **Earnings per share were $10.09** in 2020.
+- **Facebook expenses were growing more than revenue.** Facebook expects that expenses will grow between 28% and 37% in 2021, which means that **the operating margin (38% in  2020) will continue to decrease.** If this discrepancy continues for two years, the operating margin will drop to around 30%.
+- **Facebook's operating income grew by $8.7bn to $32.7bn in 2020 (+36%).** But this is not real growth and just a result of extraordinary low 2019 operating income thanks to a $5bn FTC penalty and another $0.55bn settlement charge.  Adjusted for these extraordinary items, the underlying growth of operating income in 2020 was just 11%.
+- **Facebook net income grew by $10.7bn to $29.1bn in 2020 (+58%)**, but when adjusted for an extraordinary $5.55 of FTC penalty and settlements booked in 2019, we arrive at a much more realistic 21% growth of net income. **Earnings per share were $10.09** in 2020.
 </div>
 
 ![Facebook's income statement as Sankey diagram chart 2020 (visualization)](/assets/images/facebook_income_statement_sankey_chart.png)
@@ -267,10 +266,10 @@ In case you are new to my posts about companies and specific charts and visualiz
 <div class="cardlist" markdown="1">
 - **Facebook generated $38.7bn of operating cash flow** in 2020, which was **an increase by $2.4bn (+7%)** compared to the previous year. Results are even better if you consider that this number includes payment of $5bn FTC penalty.
 - **Cash Facebook invested in property and equipment was $15.1bn** in 2020. It was the same amount as in 2019, but this was not what Facebook originally planned for 2020. Facebook originally planned to invest $17-$19bn but had to reevaluate this due to pandemic-related shelter-in-place orders.
-- Facebook will continue to invest heavily in its data center capacity, servers, network infrastructure, and office facilities.. **Facebook guidance for 2021 is that they will invest between $21bn and $23bn.**
-- **Facebook generated $23.6bn free cash flow in 2020** which was **11% increase.** This free cash flow was **used on equity investments ($6.4bn)** (majority of which was 9.99% stake in Jio Platform Ltd.) and also to **buy back stocks ($6.3bn)** but just enough to offset dilution from stock issued as part of employee compensation.
-- **Last time Facebook bought back stocks exceeding stock-based compensation was in 2018.** At the time, Facebook stock prices suffered, and Facebook probably used this to repurchase some equity cheaply.
-- **Significant part of Facebook's free cash flow was used to increase Facebook's cash and its equivalents.** Facebook cash pile grew by $7.1bn to $62bn in 2020.
+- Facebook will continue to invest heavily in its data center capacity, servers, network infrastructure, and office facilities. **Facebook guidance for 2021 is that they will invest between $21bn and $23bn.**
+- **Facebook generated $23.6bn free cash flow in 2020,** which was **a 11% increase.** This free cash flow was **used on equity investments ($6.4bn)** (majority of which was 9.99% stake in Jio Platform Ltd.) and also to **buy back stocks ($6.3bn)** but just enough to offset dilution from stock issued as part of employee compensation.
+- **The last time Facebook bought back stocks exceeding stock-based compensation was in 2018.** At the time, Facebook stock prices suffered, and Facebook probably used this to repurchase some equity cheaply.
+- **A significant part of Facebook's free cash flow was used to increase Facebook's cash and its equivalents.** Facebook cash pile grew by $7.1bn to $62bn in 2020.
 </div>
 
 ![Facebook's cash flow statement as Sankey diagram chart 2020](/assets/images/facebook_cash_flow_statement_sankey_chart.png)
@@ -490,9 +489,9 @@ In case you are new to my posts about companies and specific charts and visualiz
 ![Facebook's balance sheet metrics summary overview 2020](/assets/images/facebook_key_balance_sheet_metrics_summary.png)
 
 <div class="cardlist" markdown="1">
-- **Facebook balance sheet increased by $26bn to $159bn in 2020. The main changes in assets were a $10.3bn increase in property and equipment, $7.1bn increase in Facebook "cash pile," and a $6.1bn increase in equity investments.**
-- **Increase of $10.3bn of Facebook's property and equipment** **was driven by** both **purchases of buildings** and **investment in networking equipment** that was **partially offset by depreciation**. Buildings included both data centers and also increase in office space.
-- **Facebook's cash and cash equivalents ("cash pile") increased by $7.1bn to $62bn.** As is usual for technology companies, cash and cash equivalent have a high share of total assets. **Cash pile represented 39% of Facebook's assets** at the end of 2020.
+- **Facebook balance sheet increased by $26bn to $159bn in 2020. The main changes in assets were a $10.3bn increase in property and equipment, a $7.1bn increase in Facebook "cash pile," and a $6.1bn increase in equity investments.**
+- **An increase of $10.3bn of Facebook's property and equipment** **was driven by** both **purchases of buildings** and **investment in networking equipment** that was **partially offset by depreciation**. Buildings included both data centers and also increase in office space.
+- **Facebook's cash and cash equivalents ("cash pile") increased by $7.1bn to $62bn.** As is usual for technology companies, cash and cash equivalent have a high share of total assets. **The cash pile represented 39% of Facebook's assets** at the end of 2020.
 - **Facebook has $19 billion of Goodwill on its balance sheet, and most of it is a result of WhatsApp acquisition** in 2014 for $19bn.
 - The most unusual part of Facebook's balance sheet is its assets and liabilities side, where **81% of the balance sheet is equity**. Facebook does not have any long-term debt except its lease liabilities.
 </div>
@@ -694,7 +693,7 @@ Facebook is quite cautious when giving guidance about its future revenue growth.
 
 **The first is the ongoing shift to online commerce, and** the second is the **shift in consumer demand towards products and away from services.** These shifts provided a boost to Facebook's advertising business in the second half of 2020, and if some of those trends reverse, it might drag the revenue growth in 2021.
 
-On top of that, 2021 will bring another negative event that will push revenue growth down.  I refer to theprivacy changes in  **iOS 14.5** and **"evolving regulatory landscape"** as Facebook nicely calls its antitrust and content moderation issues.
+On top of that, 2021 will bring another negative event that will push revenue growth down.  I refer to the privacy changes in  **iOS 14.5** and the **"evolving regulatory landscape,"** as Facebook nicely calls its antitrust and content moderation issues.
 
 The level of detail that Facebook offers about its revenue in its financial statements is relatively low. Facebook does not break down how much revenue is coming from Instagram, Facebook, or WhatsApp. The only segment split that the company offers is split into advertising revenue and fees. That does not give a lot of clarity, as you can see, or more precisely not see, from the chart below.
 
@@ -704,13 +703,13 @@ The only notable points to make from the chart above are that Facebook earns the
 
 Fortunately, we don't need to rely only on Facebook's official data. We can get some reasonably good estimate of where the revenue is coming from based on aggregated data of thousands of advertisers that use Facebook's ad platform.
 
-For example, we can use [Social Media Trend Report](https://www.socialbakers.com/blog/social-media-trends-report-q4-2020){:target="_blank"} by Socialbakers to see that at the end of 2020, the **biggest revenue generator was Facebook feed with 57% share on ad spend. It was followed by Instagram feed with 16% share and Instagram stories with 11% share on ad spend.** 
+For example, we can use [Social Media Trend Report](https://www.socialbakers.com/blog/social-media-trends-report-q4-2020){:target="_blank"} by Socialbakers to see that at the end of 2020, the **biggest revenue generator was Facebook feed with a 57% share on ad spend. It was followed by Instagram feed with 16% share and Instagram stories with 11% share on ad spend.** 
 
-When we add Instagram share from feed and stories together with small share spend on Instagram explore tab ads, we get **total Instagram share on Facebook advertising revenue 29%, which translates into $24bn annual revenue in 2020.** 
+When we add Instagram share from feed and stories together with small share spend on Instagram explore tab ads, we get **a total Instagram share on Facebook advertising revenue of 29%, which translates into $24bn annual revenue in 2020.** 
 
-In 2019 share of Instagram ad spend was also around 29% which would mean **$20bn annual revenue in 2019.** 
+In 2019 share of Instagram ad spend was also around 29% which would mean **$20bn annual revenue.** 
 
-Bloomberg [reported](https://www.bloomberg.com/news/articles/2020-02-04/instagram-generates-more-than-a-quarter-of-facebook-s-sales){:target="_blank"} the same $20bn revenue amount based on some "unknow source", so our estimate is in line with thath.
+Bloomberg [reported](https://www.bloomberg.com/news/articles/2020-02-04/instagram-generates-more-than-a-quarter-of-facebook-s-sales){:target="_blank"} the same $20bn revenue amount based on some "unknown source," so our estimate is in line with that.
 
 You can see that **in 2020, Instagram was not such an impressive revenue growth driver as in 2019** when it was growing much more quickly than Facebook. At this moment, it is hard to speculate if it is because of specific pandemic-related factors or some more fundamental change of trends. 
 
@@ -728,17 +727,17 @@ However, even revenue growth of around 20% would still be formidable for such a 
 
 Regarding the level of detail based on geography, Facebook offers reasonable detail directly in its financial statements, similar to what other companies provide.
 
-**Biggest geographical region in terms of revenue was the United States with $36bn revenue in 2020**. We can see from the chart below that revenue growth is roughly consistent across most of the regions, but revenue in Asia-Pacific countries is experiencing higher growth. Still, the biggest share of revenue is coming from developed countries.
+**The biggest geographical region in terms of revenue was the United States, with $36bn revenue in 2020**. We can see from the chart below that revenue growth is roughly consistent across most of the regions, but revenue in Asia-Pacific countries is experiencing higher growth. Still, the biggest share of revenue is coming from developed countries.
 
 ![Facebook's revenue breakdown by geography chart 2020](/assets/images/facebook_revenue_geography_breakdown_chart.png)
 
-Asia-Pacific region's share of revenue is increasing over the years while the combined share of developed countries decreases. This development is mainly a result **of much faster growth of users in the Asia-Pacific region compared to growth of users in developed countries.**
+Asia-Pacific region's share of revenue is increasing over the years while the combined share of developed countries decreases. This development is mainly a result **of much faster growth of users in the Asia-Pacific region compared to the growth of users in developed countries.**
 
 Higher growth in Asia compared to traditionally developed countries is not just some temporary impact from the pandemic. In 2019 growth of developing regions was around 30% and of developed countries around 20%. 
 
 ![Facebook's geographical revenue breakdown as % of revenue chart 2020](/assets/images/facebook_revenue_geographical_percentage_breakdown_chart.png)
 
-Share of the US revenue is significant even though US & Canada users' share on total monthly active users was "only" 9%. **This discrepancy between share on users and share on revenue exists because average user in the US is much more valuable for advertisers than an average Asia-pacific user.** 
+Share of the US revenue is significant even though US & Canada users' share on total monthly active users was "only" 9%. **This discrepancy between share on users and share on revenue exists because the US's average user is much more valuable for advertisers than an average Asia-pacific user.** 
 
 ![Visualization of Facebook's revenue segment changes in 2020 (scatter chart)](/assets/images/facebook_revenue_geography_change_breakdown_scatter_chart.png)
 
@@ -754,7 +753,7 @@ Recently, however, as Facebook realized this is not going to happen any time soo
 
 Facebook was first trying to lure Indians into its "Free basic" service, which allowed users access to a data-light version of Facebook and some other apps for free, without a need for a data plan. India blocked this attempt in 2016 since it violated net naturality.
 
-Facebook also had issues when trying to launch payment services within WhatsApp using India's centralized UPI system. Facebook partially succeeded in 2020, and [WhatsApp payments were approved](https://about.fb.com/news/2020/11/send-payments-in-india-with-whatsapp/){:target="_blank"} but with the caveat of 20 million user cap. Given that India's WhatsApp user base is in hundreds of millions, this cap will become a limiting factor very soon.
+Facebook also had issues when trying to launch payment services within WhatsApp using India's centralized UPI system. Facebook partially succeeded in 2020, and [WhatsApp payments were approved](https://about.fb.com/news/2020/11/send-payments-in-india-with-whatsapp/){:target="_blank"} but with the caveat of a 20 million user cap. Given that India's WhatsApp user base is in hundreds of millions, this cap will become a limiting factor very soon.
 
 Recently, Facebook acquired 9.99% in company Jio Platform Ltd that brought fast and cheap internet to hundreds o millions of Indians, and is currently the top mobile data provider in India. 
 
@@ -762,7 +761,7 @@ This new partnership should allow WhatsApp users to easily purchase goods throug
 
 **Core drivers of Facebook's advertising revenue are how many people use Facebook, how much time these users spend on Facebook, how many ads Facebook shows to its users per specific time, and finally, how much Facebook charges for one ad placement.** 
 
-To make it more apparent how those revenue drivers work together in Facebook's income statement, we can put them all into **revenue formula**, as you can see below. 
+To make it more apparent how those revenue drivers work together in Facebook's income statement, we can put them all into the **revenue formula**, as you can see below. 
 
 ![Facebook's revenue formula visualization](/assets/images/facebook_revenue_breakdown_formula.png)
 
@@ -780,13 +779,13 @@ I go into more detail about this revenue formula and how Facebook makes money in
 
 The year 2020 was an outlier in terms of user growth. Facebook is so big that its users usually grow in line with the number of internet users worldwide. However, in 2020, Facebook users' growth outpaced internet users' growth.
 
-Lets put these numbers into perspective based on [Digital 2021: Global Overview Report](https://datareportal.com/reports/digital-2021-global-overview-report){:target="_blank"} by datareportal.com.  
+Let's put these numbers into perspective based on [Digital 2021: Global Overview Report](https://datareportal.com/reports/digital-2021-global-overview-report){:target="_blank"} by datareportal.com.  
 
 There are **4.7bn internet users** currently, who make up 59.5% of the world population. 
 
-The vast majority (90%) of people who have internet access are also active on social media. **Total number of social media users worldwide is 4.2 billion, which is 54% of the world population.**
+The vast majority (90%) of people who have internet access are also active on social media. **The total number of social media users worldwide is 4.2 billion, which is 54% of the world population.**
 
-That all means that **with 3.3bn users, Facebook dominates** social media field as more than **three-quarters of people who use social media use Facebook, Instagram or WhatsApp.** 
+That all means that **with 3.3bn users, Facebook dominates** the social media field as more than **three-quarters of people who use social media use Facebook, Instagram, or WhatsApp.** 
 
 Facebook started to report the total number of monthly active users across all of its apps ($3.3bn in 2020). However, since it does not offer too much detail split for this number, I will focus on the older metric that includes only users who use the Facebook app or Messenger. The number is very close, reaching 2.8bn at the end of 2020 since users who do not use the Facebook app and use only Instagram or WhatsApp are rare.
 
@@ -798,9 +797,9 @@ The above's chart main point is that Facebook is still **growing strongly in the
 
 The number of users dropped slightly at the end of 2020 based on quarterly data, but even with this drop, they grew more than the year before.
 
-**We cannot expect 12% user growth to continue** and it will probably drop back to high single digits. That means that Facebook will be able to hold on to its high market share among users, and its growth will be mainly thanks to general growth in the number of people who use the internet. In the case of a Facebook's size company, just keeping its market share stable is a great achievement. 
+**We cannot expect 12% user growth to continue,** and it will probably drop back to high single digits. That means that Facebook will be able to hold on to its high market share among users, and its growth will be mainly thanks to general growth in the number of people who use the internet. In the case of a Facebook's size company, just keeping its market share stable is a great achievement. 
 
-**Dependence of Facebook users' growth on internet users' growth is also one reason behind the growth difference in North America and Europe compared to Asi-Pacific and the rest of the world**. 
+**The dependence of Facebook users' growth on the internet users' growth is also one reason behind the growth difference in North America and Europe compared to Asia-Pacific and the rest of the world**. 
 
 The majority of people in more countries like the US and western Europe are already online, and user growth is in the low single digits. On the other hand, the Asia-Pacific region and the rest of the world are growing more quickly, driven by a lower proportion of the population with access to the internet. 
 
@@ -810,11 +809,11 @@ The growth of internet users will continue going forward, and it will be slowly 
 
 **It might look that Facebook's position as a dominant platform is strong and impenetrable. However, the same "stickiness" of users and network effects that helped Facebook so far to build and hold on to its dominance will weaken it going forward because of its weakness among younger users.**
 
-Facebook is still strong among younger users, thanks to its Instagram app, but its position is not so dominant as among the older population. **In the US,** [**the most popular social network app**](https://www.emarketer.com/content/three-charts-on-tiktok-penetration-among-gen-z-users){: .align-left} **among teenagers is Snapchat, followed closely by Instagram.**  
+Facebook is still strong among younger users, thanks to its Instagram app, but its position is not so dominant as among the older population. **In the US,** [**the most popular social network app **](https://www.emarketer.com/content/three-charts-on-tiktok-penetration-among-gen-z-users){: .align-left} **among teenagers is Snapchat, followed closely by Instagram.**  
 
 The probability of some new acquisition that would plug this weakness and increase Facebook's market share among the younger generation is not very probable amid current antitrust pressure. 
 
-That means that the same network effect that once helped Facebook keep its dominance among older users, will now play against them among the younger generation. 
+That means that the same network effect that once helped Facebook keep its dominance among older users will now play against them among the younger generation. 
 
 That does not mean that Facebook is on the verge of an inevitable decline in users. Demographic changes will take decades and will only slowly offset general growth thanks to growth in internet users. 
 
@@ -852,7 +851,7 @@ In terms of the number of ads, 33% growth was similar to the previous year. Howe
 
 If we look more years back, then we would see that Facebook achieved revenue growth through a combination of growth in ads delivered and an increase in price per ad. 
 
-It seems that for the last two years, Facebook increased the frequency of ads within people's feeds or stories. 
+It seems that in the last two years, Facebook increased the frequency of ads within people's feeds or stories. 
 
 The prices per ad decreased in 2019 mainly because ads offered as Stories ads are cheaper than standard "feed" ads, and their proportion increased. Reasons for the 2020 decrease are similar, just with added pandemic impact during the first half of 2020.
 
@@ -868,13 +867,13 @@ From this perspective, it is hard to speak of monopoly.
 
 Facebook does not provide investors the split of revenue for how much from $84bn of advertising revenue is generated by the Facebook app and how much by Instagram.
 
-Fortunately, we can estimate this based on on [data on how advertisers spend money](https://www.socialbakers.com/website/storage/2020/02/Socialbakers-Social-Media-Trends-Report-Q42019.pdf){:target="_blank"} between Facebook and Instagram.
+Fortunately, we can estimate this based on [data on how advertisers spend money](https://www.socialbakers.com/website/storage/2020/02/Socialbakers-Social-Media-Trends-Report-Q42019.pdf){:target="_blank"} between Facebook and Instagram.
 
-**Based on ad spend data, it looks that Facebook app share on total revenue at the end of 2020 was 59% without counting video-related ad revenue, compared to 66% just a two year ago. Instagram share on advertising spend at the end of 2020 was 29% compared to 26% two years ago.** 
+**Based on ad spend data, it looks that Facebook's app share on total revenue at the end of 2020 was 59% without counting video-related ad revenue, compared to 66% just a two year ago. Instagram share on advertising spend at the end of 2020 was 29% compared to 26% two years ago.** 
 
 That leaves around 15% share for other advertising revenue, including revenue from video, Facebook Audience Network, and others.
 
-Going forward, the demand for ads can increase thanks to Facebook's introduction of [Facebook Shops,](https://about.fb.com/news/2020/05/introducing-facebook-shops/){:target="_blank"} that should enable users to have a much more pleasant experience since everything, including check out would be handled within the app where the customer currently is.
+Going forward, the demand for ads can increase thanks to Facebook's introduction of [Facebook Shops,](https://about.fb.com/news/2020/05/introducing-facebook-shops/){:target="_blank"} which should enable users to have a much more pleasant experience since everything, including check out, would be handled within the app where the customer currently is.
 
 If Facebook Shops will be successful, then the main benefit is a higher demand for ads, which means higher prices and higher revenue.  
 
@@ -884,7 +883,7 @@ If Facebook Shops will be successful, then the main benefit is a higher demand f
 
 Facebook's original "blue" app is still the most important part of Facebook, having the most users and bringing in the most revenue. Facebook earns revenue mainly from selling advertising in the main Facebook feed, but it also earns revenue from advertising within the Market Place, Watch tab, and Facebook Stories. 
 
-**Estimated share of core Facebook app on advertising revenue is around 59%, and the core part of this (57%) is Facebook Feed. About 1% is attributable to Market Place ad revenue, which is growing strongly but is still quite a small revenue stream.** 
+**The estimated share of core Facebook app on advertising revenue is around 59%, and the core part of this (57%) is Facebook Feed. About 1% is attributable to Market Place ad revenue, which is growing strongly but is still quite a small revenue stream.** 
 
 We should not forget about Facebook Stories, but their share of advertising revenue is estimated to be below 0.5%. 
 
@@ -900,7 +899,7 @@ Instagram is becoming a more and more important source of growth for Facebook. N
 
 Instagram currently has over 1 billion users, and even without Facebook, it would belong among top social media companies.
 
-**Estimated share of Instagram on total Facebook's advertising revenue was 29% at the end of 2020. Around 16% of total Facebook revenue is generated through Instagram Feed and  11% through Instagram Stories.** 
+**The estimated share of Instagram on total Facebook's advertising revenue was 29% at the end of 2020. Around 16% of total Facebook revenue is generated through Instagram Feed and  11% through Instagram Stories.** 
 
 **Even in the volatile pandemic year 2020, revenue related to stories grew faster than revenue from classic feeds and increased share from 10% of advertising revenue to 11%.** 
 
@@ -910,7 +909,7 @@ Instagram serves advertising also on its "Explore" tab, but its share on Faceboo
 
 **Instagram revenue did not grow so rapidly in 2020 as in the previous year, and its share of total revenue did not change significantly.** 
 
-By applying a 29% share to $84bn of advertising revenue, we will arrive at **estimate of Instagram revenue of $24bn in 2020.** 
+By applying a 29% share to $84bn of advertising revenue, we will arrive at **an estimate of Instagram revenue of $24bn in 2020.** 
 
 Of course, this is an estimated number based on third-party data, which does not have to be entirely representative. However, the same approach in 2019 delivered an estimate of around $20bn, which is precisely the same number that was [leaked to Bloomberg](https://www.bloomberg.com/news/articles/2020-02-04/instagram-generates-more-than-a-quarter-of-facebook-s-sales?sref=yBaTdxlg){:target="_blank"}. 
 
@@ -926,7 +925,7 @@ Facebook also reacted to the success of TikTok by launching Instagram Reel withi
 
 For example, **the Facebook Messenger app also shows ads**, contributing to Facebook advertising revenue in some small way.
 
-Facebook also makes money by running its **Audience Network**, which developers can use to monetize their app with ads. Facebook earns money by taking a one-third cut from advertising revenue that gets generated this way. **Net revenue contribution of Audience Network is probably around $1bn.**
+Facebook also makes money by running its **Audience Network**, which developers can use to monetize their app with ads. Facebook earns money by taking a one-third cut from advertising revenue that gets generated this way. **The net revenue contribution of Audience Network is probably around $1bn.**
 
 Facebook also announced that the new Apple iOS change planned for spring of 2021 would limit the possibility of user tracking. According to Facebook, complete removal of personalization from ads would decrease ad revenue by up to  60%. However real impact will be much milder because the changes limit only access to data outside Facebook. 
 
@@ -948,11 +947,11 @@ Oculus is a virtual reality headset focused mainly on gaming. Its future might a
 
 Facebook acquired Oculus in 2014 and introduced its first standalone Oculus Quest device in 2018. It followed in 2020 with Oculus Quest 2. The company also sells Oculus Rift that is not a standalone product and works only as an extension of a computer.
 
-**With the introduction of Oculus Quest, Oculus adoption started rapidly growing, and in 2019 Facebook sold  1.7 million devices worldwide, giving Oculus 28% [market share](https://www.statista.com/statistics/755645/global-vr-device-market-share-by-vendor/){:target="_blank"} in VR devices. That puts Facebook in second place behind Sony, with a 37% market share.** 
+**With the introduction of Oculus Quest, Oculus adoption started rapidly growing, and in 2019 Facebook sold  1.7 million devices worldwide, giving Oculus a 28% [market share](https://www.statista.com/statistics/755645/global-vr-device-market-share-by-vendor/){:target="_blank"} in VR devices. That puts Facebook in second place behind Sony, with a 37% market share.** 
 
 Early numbers from 2020 suggest that Oculus is now in the first spot [with a market share of 39%.](https://www.statista.com/statistics/742569/worldwide-vr-ar-headset-shipment/){:target="_blank"}
 
-**In terms of revenue, my rough estimate is that from $2 billion of other income that Facebook reports, more than half of it comes from Oculus hardware. Facebook also gets some cut from software sold on Oculus platform but this revenue stream is [so far tiny](https://techcrunch.com/2020/05/18/oculus-surpasses-100-million-in-quest-content-sales/){:target="_blank"}.**
+**In terms of revenue, my rough estimate is that from $2 billion of other income that Facebook reports, more than half of it comes from Oculus hardware. Facebook also gets some cut from software sold on the Oculus platform, but this revenue stream is [so far tiny](https://techcrunch.com/2020/05/18/oculus-surpasses-100-million-in-quest-content-sales/){:target="_blank"}.**
 
 It seems that, unlike other public grandstands that Mark Zuckerberg announced and were later followed by Facebook doing the exact opposite, Facebook's determination to be dominating force in AR and VR future looks real. The company is not only talking about it, but we can see some real progress made.
 
@@ -979,7 +978,7 @@ Suppose this grand vision of meeting people and working in virtual worlds does n
 
 Portal is a name for a range of devices by Facebook focused on videoconferencing. This hardware is essentially a cheap strip-down tablet with some handy out-of-the-box features that makes videoconferencing more hassle-free and easy.
 
-**Estimates are that in 2019 Facebook sold [1 million](https://www.cnet.com/news/facebook-portal-to-add-zoom-and-other-conferencing-apps-to-its-video-chat-devices/){:target="_blank"} of these devices, which with the average price around $100 would mean it earned $0.1bn revenue, which is only a very tiny drop within Facebook revenue and probably loss-making.**  
+**Estimates are that in 2019 Facebook sold [1 million](https://www.cnet.com/news/facebook-portal-to-add-zoom-and-other-conferencing-apps-to-its-video-chat-devices/){:target="_blank"} of these devices, which with an average price of around $100 would mean it earned $0.1bn revenue, which is only a very tiny drop within Facebook revenue and probably loss-making.**  
 
 Facebook chose to make Portal open to be also used with third-party videoconferencing services apart from Facebook  Messenger and WhatsApp.  It also includes Amazon's Alexa voice assistant.
 
@@ -996,9 +995,9 @@ Facebook Shops will be accessible through businesses' profiles across Facebook, 
 
 Facebook shops are free to set up, but Facebook will charge a 5% commission from each realized purchase. This commission already includes payment fees. For shipments of $8 and less, Facebook will charge a flat fee of $0.40. However, Facebook announced that it wouldn't charge this fee during 2020.
 
-**Direct revenue contribution of Facebook Shops in 2020 was $0 because Facebook waved the 5% fee. Estimating revenue for 2021 at this moment would be just a guesswork. I can say that I expect it to be a noticeable part of non-advertising revenue. Still, overall, I don't expect significant revenue coming from Facebook Shops directly.** 
+**The direct revenue contribution of Facebook Shops in 2020 was $0 because Facebook waved the 5% fee. Estimating revenue for 2021 at this moment would be just guesswork. I can say that I expect it to be a noticeable part of non-advertising revenue. Still, overall, I don't expect significant revenue coming from Facebook Shops directly.** 
 
-**That being said, I still think this is a huge revenue opportunity going forward, just not because of its 5% commission from sales, but rather because of additional advertising revenue, Facebook Shops will bring.**  
+**That being said, I still think this is a huge revenue opportunity going forward, just not because of its 5% commission from sales, but rather because of additional advertising revenue Facebook Shops will bring.**  
 
 Facebook Shops' strength both for businesses and Facebook is that Facebook Shops are good for user experience. Users won't be directed outside their app to some external website when they stumble upon some product they like. Everything will happen within the app, and there will also be no need to re-enter your payment information. 
 
@@ -1020,13 +1019,13 @@ Several years back, this was the primary source of non-advertising revenue befor
 
 Just be aware that this is different from Facebook Pay which is a service introduced in 2019 and allows users to send money to each other for free across Facebook's apps. 
 
-Another payment initiative in preparation, where Facebook showed how bad it is when it comes to PR and communication, is **payment initiative called Libra (later renamed to Diem)** that was supposed to be a new worldwide currency and digital wallet based on blog-chain technology.
+Another payment initiative in preparation, where Facebook showed how bad it is when it comes to PR and communication, is **a payment initiative called Libra (later renamed to Diem)** that was supposed to be a new worldwide currency and digital wallet based on blog-chain technology.
 
-I will not expand here about Libra itself, but allow me just a few comments about the way it was introduced and that in the end, it is not so important for Facebook. For more info about Libra check [Wikipedia](https://en.wikipedia.org/wiki/Diem_(digital_currency)){:target="_blank"} which has a good summary of it.
+I will not expand here about Libra itself, but allow me just a few comments about the way it was introduced and that in the end, it is not so important for Facebook. For more info about Libra, check [Wikipedia,](https://en.wikipedia.org/wiki/Diem_(digital_currency)){:target="_blank"} which has a good summary of it.
 
-Libra's introduction got into the news and caused a big wave among politicians, bankers, and financial regulators. The reasons it got so much attention when it was just an introduction of more or less standard digital wallet were driven mainly by the fact that it was introduced by Facebook, a company renowned for many privacy breaches. 
+Libra's introduction got into the news and caused a big wave among politicians, bankers, and financial regulators. The reason it got so much attention when it was just an introduction of more or less standard digital wallet was that it was  introduced by Facebook, a company renowned for many privacy breaches. 
 
-Libra introduction was also a direct threat to the banking and payment cartel-like industry. Bankers and their regulators obviously were not very welcoming to the idea and managed to scare away most of Libra's original partners.
+Libra's introduction was also a direct threat to the banking and payment cartel-like industry. Bankers and their regulators obviously were not very welcoming to the idea and managed to scare away most of Libra's original partners.
 
 One has to truly admire the audacity of Facebook to introduce Libra at a time when it still did not recover from its various data breaches. They did not see the issue in announcing that they would now like to take care also of people's money and make transaction data secure. That is admirable and terrifying at the same time. 
 
@@ -1047,7 +1046,7 @@ WhatsApp is one of Facebook's core apps, together with Facebook App, Instagram, 
 
 Apart from eliminating potential competition, the original plan that was in place was to monetize WhatsApp through ads, as they did with Messenger and Instagram. Facebook was working on launching ads and was planning to start slowly and cautiously by introducing ads as part of WhatsApp Status. 
 
-In the end, this plan was scrapped in 2020, and **company is trying to find a new way of making money from WhatsApp. Currently pursued strategy is to [charge businesses](https://www.wsj.com/articles/whatsapp-outlines-future-payday-from-users-messaging-with-businesses-11603371604){:target="_blank"} for using WhatsApp to communicate with their customers.**
+In the end, this plan was scrapped in 2020, and **the company is trying to find a new way of making money from WhatsApp. The currently pursued strategy is to [charge businesses](https://www.wsj.com/articles/whatsapp-outlines-future-payday-from-users-messaging-with-businesses-11603371604){:target="_blank"} for using WhatsApp to communicate with their customers.**
 
 WhatsApp is mainly used as a personal chat app. But many users, mainly in developing nations where WhatsApp has a high market share, use the platform also for commerce and communication with businesses.
 
@@ -1057,7 +1056,7 @@ Sending a message is free within 24 hours from the time the customer contacted b
 
 **Facebook said that around 175 million people reach out every day to businesses using WhatsApp, but most of the interactions will probably be within a 24-hour window. The resulting revenue from messages after 24 hours is small, and my rough estimate puts it around $100 million. Given the market position of WhatsApp, hardly anything close to what its potential is.**
 
-Facebook is not stopping here and announced plans to host messages for companies. Facebook also [acquired company Kustomer](https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=searchresults_pos15&page=2){:target="_blank"}, that fits to this strategy well.
+Facebook is not stopping here and announced plans to host messages for companies. Facebook also [acquired company Kustomer](https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=searchresults_pos15&page=2){:target="_blank"}, which fits this strategy well.
 
 Acquisition of Kustomer suggests that the company is taking a more holistic approach and will introduce business messaging services and tools available across all Facebook messaging apps, including WhatsApp, Messenger, and Instagram. 
 
@@ -1071,13 +1070,13 @@ This internal reasoning for acquisition as a way to eliminate emerging competito
 
 ### Workplace Revenue
 
-**[Workplace](https://www.workplace.com/){:target="_blank"} is a communication tool by Facebook to be used internally by companies. The main selling point for companies is that it offers familiar user experience since most people are used to it from their personal Facebook.** 
+**[Workplace](https://www.workplace.com/){:target="_blank"} is a communication tool by Facebook to be used internally by companies. The main selling point for companies is that it offers a familiar user experience since most people are used to it from their personal Facebook.** 
 
 Within Workplace, users can use Groups, Chats, Rooms, and Live video features similar to their personal Facebook apps. Similarity to Facebook app eliminates the learning curve and helps with adoption.
 
 The obvious issue here is the Facebook image in terms of privacy and security, which might deter many companies from Facebook's business services. What Facebook can offer is its user-friendly technology for internal business communication that is being used by billions of users daily. 
 
-The company claims that **Workplace has 5 million paying subscribers and charges them $4 to 8$ a month per person before discounts.** Assuming average price after discounts is $4, that would mean **annual revenue in 0.2bn in 2020**.  
+The company claims that **Workplace has 5 million paying subscribers and charges them $4 to 8$ a month per person before discounts.** Assuming the average price after discounts is $4, that would mean **annual revenue in 0.2bn in 2020**.  
 
 So far tiny part of Facebook but definitely the one to watch. Users grew quite quickly through the COVID-19 pandemic from 3m to 5m users.
 
@@ -1097,17 +1096,17 @@ Despite COVID-19, Facebook continued its hiring spree in 2020, increasing its em
 
 ![Facebook's costs and expenses breakdown chart 2020](/assets/images/facebook_costs_expenses_primary_breakdown_chart.png)
 
-**Biggest piece of Facebook's overall expenses are employee-related expenses.** This includes salaries, benefits, and share-based compensation for nearly 60 000 employees.
+**The biggest piece of Facebook's overall expenses are employee-related expenses.** This includes salaries, benefits, and share-based compensation for nearly 60 000 employees.
 
-**Majority of Facebook employees work in engineering and technical roles** so it should be no surprise that research and development is the biggest Facebook expense item in its income statement. Research and development represent 35% of expenses. 
+**The majority of Facebook employees work in engineering and technical roles,** so it should be no surprise that research and development is the biggest Facebook expense item in its income statement. Research and development represent 35% of expenses. 
 
-Another important expense item, which is growing quickly in the last couple of years, is **cost of revenue**. Its growth is driven by **investments in data centers and other technical infrastructure** that Facebook needs to serve its 3.3bn users worldwide.
+Another important expense item, which is growing quickly in the last couple of years, is the **cost of revenue**. Its growth is driven by **investments in data centers and other technical infrastructure** that Facebook needs to serve its 3.3bn users worldwide.
 
 **Cost of revenue and research and development expenses are not only the biggest expense categories for Facebook, but they are also the fastest-growing ones**. These items are growing far more quickly than Facebook revenue. The only expense item growing more rapidly is advertising expenses, but its contribution to total expense growth is not material thanks to its smaller total size.
 
 ![Visualization of Facebook's costs and expenses changes in 2020 (scatter chart)](/assets/images/facebook_costs_expenses_change_breakdown_scatter_chart.png)
 
-**Main theme of Facebook expense growth is that for several years now, expense growth significantly outpaced revenue growth, which is driving Facebook's margin down**.
+**The main theme of Facebook expense growth is that for several years now, expense growth significantly outpaced revenue growth, which is driving Facebook's margin down**.
 
 Facebook expects its operating margin to decrease going forward. It expects a slow down in revenue growth and continuation of high expense growth. **Facebook announced that they expect total expenses in 2021 to be in the range of $68-73 billion. That would mean 28% to 37% expense growth in 2021 and a decrease in operating margin.**
 
@@ -1123,7 +1122,7 @@ Facebook claims that a big part of these expenses are investments in its AR/VR c
 
 **Facebook's cost of revenue grew by 31% to $17bn in 2020, outpacing revenue growth. The main factors driving this growth were expenses related to data centers and technical infrastructure and also higher costs associated with partner arrangements which contain traffic and content acquisition costs.** 
 
-**Smaller driver was also an increase in costs of consumer hardware sold that was connected with Facebook's increased sales of its Oculus and Portal devices.**
+**The smaller driver was also an increase in costs of consumer hardware sold that was connected with Facebook's increased sales of its Oculus and Portal devices.**
 
 So we know that data centers and partnership agreements were the main drivers of growth of cost of revenue. Now, let's look at what exactly is part of this  $17bn cost item called cost of revenue. 
 
@@ -1134,11 +1133,11 @@ So we know that data centers and partnership agreements were the main drivers of
 - **credit card and other transaction fees related to processing customer transactions**
 - **cost of consumer hardware devices sold**
 
-Expenses from Facebook's income statement related to **operation of data centers and technical infrastructure are the biggest piece of the cost of revenue**. It includes not only **data centers facility and server equipment depreciation**, but also **salaries, benefits, and share-based compensation for employees** on Facebook operations teams and also **energy and bandwidth costs** related to data centers.
+Expenses from Facebook's income statement related to the **operation of data centers and technical infrastructure are the biggest piece of the cost of revenue**. It includes not only **data centers facility and server equipment depreciation**, but also **salaries, benefits, and share-based compensation for employees** on Facebook operations teams and also **energy and bandwidth costs** related to data centers.
 
 Other components of cost of revenue are traffic acquisition and content costs. **Content costs are mainly related to payments to video and music content providers.** Since 2017, Facebook has started to invest a lot into original shows and other video content made available as part of the Facebook Watch tab.
 
-Based on some [reports](https://www.theinformation.com/articles/facebook-cuts-back-on-original-programming-for-watch-video){:target="_blank"}, **budget for 2020 was $1.4bn compared to 2017 budget of 1bn.** This is not an official number, but it can give us an idea of these expenses' scale. It looks that content costs continue to grow in time, but lately, less of it goes towards original scripted shows, and Facebook is reportedly more focusing on talks shows and short TV and sports clips.  
+Based on some [reports](https://www.theinformation.com/articles/facebook-cuts-back-on-original-programming-for-watch-video){:target="_blank"}, **the budget for 2020 was $1.4bn compared to the 2017 budget of 1bn.** This is not an official number, but it can give us an idea of these expenses' scale. It looks that content costs continue to grow in time, but lately, less of it goes towards original scripted shows, and Facebook is reportedly more focusing on talks shows and short TV and sports clips.  
 
 Another item that is part of Facebook's cost of revenue are **traffic acquisition costs.** Currently, I cannot give you more details of what precisely these expenses are connected to. 
 
@@ -1146,7 +1145,7 @@ Facebook may have some revenue-sharing agreement with hardware manufacturers abo
 
 Another minor component of the cost of revenue are **credit card and other transaction fees** related to processing customer transactions. These costs are about the fees Facebook incurs when it accepts payment from its advertisers or facilitates payments between its users. 
 
-The last and smaller item that is part of the cost of revenue are **costs of consumer hardware** that Facebook sells.
+The last and smaller item that is part of the cost of revenue are **the costs of consumer hardware** that Facebook sells.
 
 Hardware is something Facebook is far more active recently as it launched Oculus Quest in 2019 and Oculus Quest 2 a year later. To a lesser extent, costs also increased thanks to the introduction of a range of different Portal devices designed primarily for videoconferencing. 
 
@@ -1174,11 +1173,11 @@ Since Facebook plans to continue recruiting software engineers and other technic
 
 **Facebook's marketing and sales expenses grew by $1.7bn (+17%) in 2020 to $12bn. This growth was much slower than the previous year and also much slower than revenue growth. Included in these expenses is also $2.3bn of advertising expenses that, considered separately, were growing by 44%.**
 
-Facebook did not outright stated this year what the main driver of 44% advertising expense increases was. It was most probably driven by campaigns focused on Facebook's hardware products like Oculus and Portal. At least, this was the reason behind the 2019 advertising expense growth.
+Facebook did not outright state this year what the main driver of 44% advertising expense increases was. It was most probably driven by campaigns focused on Facebook's hardware products like Oculus and Portal. At least, this was the reason behind the 2019 advertising expense growth.
 
 **Marketing expenses were the main driver behind the $1.7bn expense increase, which includes advertising expenses.** 
 
-Another driver was **16% increase in employee headcount in marketing and sales functions** which increased payroll and benefit expenses. This increase was partially offset by a decrease in travel-related expenses influenced by the COVID-19 pandemic.
+Another driver was a **16% increase in employee headcount in marketing and sales functions** which increased payroll and benefit expenses. This increase was partially offset by a decrease in travel-related expenses influenced by the COVID-19 pandemic.
 
 Growth of headcount in marketing and sales function by 16% was much slower than the previous year and much slower than in any other expense category. It was the only expense category of Facebook with lower growth than 22% revenue growth. 
 
@@ -1198,7 +1197,7 @@ However, in 2019 and also 2018, community operation, which is a term that Facebo
 
 Content reviewers are an important part of the Facebook content moderation approach. It is true that Facebook heavily relies on its algorithms to take down as much "bad" content as possible before anyone sees it, but content reviewers are a very important part of the mix. 
 
-They take-down content that algorithms cannot decisively categorize themselves as content violating Facebook's rules or where content gets flagged by users. 
+They take down content that algorithms cannot decisively categorize themselves as content violating Facebook's rules or where content gets flagged by users. 
 
 **Content reviewers are also an important way how Facebook's algorithms learn what they should look for**.
 
@@ -1219,7 +1218,7 @@ If you are interested to know more, you can check out this documentary by Verge 
 
 ![Administration Icon](/assets/images/icons/administration.png){: .align-left}
 
-**Facebook's general and administrative expenses significantly decreased by $3.9bn in 2020, from $10.5bn in 2019 to $6.6bn in 2020. However, the only reason why these expenses decreased is that in 2019 they included an extraordinary [$5bn FTC penalty](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} and also other booked settlement of $0.55bn.**
+**Facebook's general and administrative expenses significantly decreased by $3.9bn in 2020, from $10.5bn in 2019 to $6.6bn in 2020. However, the only reason why these expenses decreased is that in 2019 they included an extraordinary [$5bn FTC penalty](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} and also other booked settlements of $0.55bn.**
 
 **When we adjust the numbers for these extraordinary items, then general and administrative expenses grew by 36%, which is more than revenue growth**. 
 
@@ -1236,17 +1235,17 @@ The $0.55bn settlement was related to a case claiming that Facebook facial recog
 - **salaries and benefits, and share-based compensation for legal, finance, human resources, corporate communications and policy, and other administrative employees**
 - **professional services**
 
-If you want to know more about the reasons behind the $5bn FTC penalty, you can check it out directly in [FTC press release](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} . This penalty did not come out of the blue, but it was the result of repeated systemic privacy failures on Facebook's side. 
+If you want to know more about the reasons behind the $5bn FTC penalty, you can check it out directly in the [FTC press release.](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} This penalty did not come out of the blue, but it was the result of repeated systemic privacy failures on Facebook's side. 
 
-Back in 2012 Facebook [reached settlement with FTC](https://www.ftc.gov/news-events/press-releases/2012/08/ftc-approves-final-settlement-facebook){:target="_blank"} about its privacy failures at that time. FTC charged Facebook that "Facebook deceived consumers by telling them they could keep their information on Facebook private, and then repeatedly allowing it to be shared and made public."
+Back in 2012, Facebook [reached a settlement with FTC](https://www.ftc.gov/news-events/press-releases/2012/08/ftc-approves-final-settlement-facebook){:target="_blank"} about its privacy failures at that time. FTC charged Facebook that "Facebook deceived consumers by telling them they could keep their information on Facebook private, and then repeatedly allowing it to be shared and made public."
 
 At the time, FTC just wagged a finger at Facebook, and there was no monetary penalty attached. The settlement required Facebook to live up to its own promises about privacy and security, especially obtaining consent from consumers before sharing their information beyond their privacy settings.
 
-Facebook did not live up to those promises, and after the Cambridge Analytica scandal, FTC launched another investigation that culminated in [$5bn penalty and another settlement order.](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} 
+Facebook did not live up to those promises, and after the Cambridge Analytica scandal, FTC launched another investigation that culminated in a [$5bn penalty and another settlement order.](https://www.ftc.gov/news-events/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions){:target="_blank"} 
 
 ### Expenses as % of Revenue and Operating Margin Development
 
-**Facebook's operating margin was 38% in 2020, which was an improvement compared to 34% margin in 2019. However, the lower margin in 2019 was caused by an extraordinary $5bn FTC penalty for Facebook privacy breaches. The overall trend over the years is that Facebook's operating margin is gradually decreasing.**
+**Facebook's operating margin was 38% in 2020, which was an improvement compared to the 34% margin in 2019. However, the lower margin in 2019 was caused by an extraordinary $5bn FTC penalty for Facebook privacy breaches. The overall trend over the years is that Facebook's operating margin is gradually decreasing.**
 
 You can see this trend in the chart below, which shows expenses as % of revenue, and the empty white area below 100% line represents the revenue not spend on expenses, which is, in other words, operating margin. 
 
@@ -1266,7 +1265,7 @@ The current 38% margin is respectable for a company of the Facebook size, and th
 
 The issue is that given Facebook's significant use of lease financing, especially in 2019, the standard definition of free cash flow is not very helpful and misrepresents reality. If we adjust 2020 free cash flow for operating lease financing and stock-based compensation, we will arrive at a free cash flow of 16.7bn which was a significant increase compared to $11.7bn in 2019. 
 
-**Jump in adjusted free cash flow was driven mainly by Facebook investing less through lease financing** in 2020 than in 2019.
+**The jump in adjusted free cash flow was driven mainly by Facebook investing less through lease financing** in 2020 than in 2019.
 
 Looking at Facebook's cash flow statement is essential for better insight into how the company spends cash that it generates.
 
@@ -1284,12 +1283,12 @@ Facebook's own **guidance about 2021 capital expenditures from its annual report
 
 **After deduction of capital expenditures, we arrive at $23.6bn of free cash flow.** Let's now focus on only the most important items in the cash flow statement and see how Facebook used $23.6bn of free cash flow it generated in 2020:
 
-- **Facebook bought $6.4bn of equity investments.** Most of it ($5.8bn) was the purchase of **9.99% stake in Jio Platform Limited**. This company brought fast and cheap internet to hundreds of millions of Indians and is currently the top mobile data provider in India.
+- **Facebook bought $6.4bn of equity investments.** Most of it ($5.8bn) was the purchase of a **9.99% stake in Jio Platform Limited**. This company brought fast and cheap internet to hundreds of millions of Indians and is currently the top mobile data provider in India.
 
     There are plans for cooperation between Facebook and Jio on e-commerce offers for Indian small businesses, but currently, not too many details about this cooperation were made publicly available. Facebook was no the only big tech investor in Jio, though. Google purchased a stake too.
 
 - **Facebook returned $6.3bn cashback to its investors through buying back their own stocks.** This is not a particularly big number and is just enough to offset $6.5bn of stock-based compensation that would otherwise have a diluting effect on current shareholders.
-- Apart from some other smaller items, the rest of the free cash flow was used to **increase Facebook cash pile to $62bn.**
+- Apart from some other smaller items, the rest of the free cash flow was used to **increase the Facebook cash pile to $62bn.**
 
 ## ⚖️ Breakdown and Analysis of Facebook’s Balance Sheet
 
@@ -1338,5 +1337,5 @@ In terms of the equity & liabilities side of the balance sheet, you can see from
 
 ## Technical Notes & Disclaimers
 
-- *Although I use third party trademarks and logos in this article and its visuals, [kamilfranek.com](http://www.kamilfranek.com/){:target="_blank"} is an independent site. There is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
+- *Although I use third-party trademarks and logos in this article and its visuals, [kamilfranek.com](http://www.kamilfranek.com/){:target="_blank"} is an independent site. There is no relationship, sponsorship, or endorsement between this site and the owners of those trademarks.*
 - *At the time of writing this article, I had a long position in Facebook.*
