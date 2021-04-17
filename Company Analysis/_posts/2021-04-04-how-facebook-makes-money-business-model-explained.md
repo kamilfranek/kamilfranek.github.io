@@ -307,6 +307,9 @@ For example, privacy reputation and leadership are not reconcilable with recent 
 
 Again, this does not make Facebook evil.  In this fight with Apple, Facebook is simply fighting for itself and its core customers. Facebook customers are not its users, but rather around 10 million, primarily small businesses that advertise on Facebook and Instagram.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHqlRYJsXGQ" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+
 There are many more controversies about Facebook outside of privacy and security. I won't fully cover them in this article, but let at least summarize the main areas.
 
 **Facebooks controversies and issues that might impact it going forward:**
