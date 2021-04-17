@@ -1,6 +1,7 @@
 ---
 title: "Facebook Financial Statements: Overview & Analysis 2020"
 excerpt: "Overview of Facebooks's business through analysis of Facebook's financial statements from its annual report. The article offers charts & key takeaways for Facebook's income statement, cash flow statement, balance sheet and also more detailed analysis of revenue and expenses."
+redirect_from: /facebook-earnings-report/
 header:
  teaser: "assets/images/teasers/facebook_financial_statements_overview_and_analysis_teaser.png"
 ---
