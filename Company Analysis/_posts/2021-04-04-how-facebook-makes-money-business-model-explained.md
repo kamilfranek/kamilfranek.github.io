@@ -4,11 +4,6 @@ excerpt: "Detailed breakdown of how Facebook makes money and explanation of Face
 header:
  teaser: "assets/images/teasers/facebook_how_facebook_makes_money_teaser.png"
 ---
-<style>
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
-</style>
 
 ![Article Teaser: How Facebook Makes Money: Business Model Explained](/assets/images/teasers/facebook_how_facebook_makes_money_teaser.png)
 
@@ -85,9 +80,9 @@ Facebook shows ads across Facebook, Instagram, and also Messenger. There are cur
 
 **Facebook Feed is still the core revenue contributor with nearly 60% share on advertising revenue. Instagram revenue represents around 30% of advertising revenue**. Although most of Instagram revenue comes from an Instagram Feed, Instagram Stories became quite a significant part of it, bringing in one-third of the revenue of Instagram.
 
-<div class='embed-container'>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKk9to7Zcdg" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+&nbsp;
 
 The video above is a little bit dated in terms of presented numbers, but it is a good summary of how Facebook makes money and how it targets its ads.
 
