@@ -810,7 +810,7 @@ The growth of internet users will continue going forward, and it will be slowly 
 
 **It might look that Facebook's position as a dominant platform is strong and impenetrable. However, the same "stickiness" of users and network effects that helped Facebook so far to build and hold on to its dominance will weaken it going forward because of its weakness among younger users.**
 
-Facebook is still strong among younger users, thanks to its Instagram app, but its position is not so dominant as among the older population. **In the US,** [**the most popular social network app**](https://www.emarketer.com/content/three-charts-on-tiktok-penetration-among-gen-z-users){: .align-left} **among teenagers is Snapchat, followed closely by Instagram.**  
+Facebook is still strong among younger users, thanks to its Instagram app, but its position is not so dominant as among the older population. **In the US,** [**the most popular social network app**](https://www.emarketer.com/content/three-charts-on-tiktok-penetration-among-gen-z-users){: .align-left}**among teenagers is Snapchat, followed closely by Instagram.**  
 
 The probability of some new acquisition that would plug this weakness and increase Facebook's market share among the younger generation is not very probable amid current antitrust pressure. 
 
