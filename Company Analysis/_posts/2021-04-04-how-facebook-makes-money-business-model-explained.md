@@ -233,8 +233,9 @@ It fits the Facebook strategy of connecting people together, but I would not exp
 
 **Oculus is a virtual reality headset that Facebook acquired in 2014**. In 2020 Facebook introduced [Oculus Quest 2](https://www.oculus.com/quest-2/){:target="_blank"}, an upgrade to its previous model. It is currently **mainly focused on gaming**, but Facebook's ambition goes far beyond gaming devices.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXIcG3B7CsY" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 Market with these devices is still tiny, but Facebook is significantly gaining market share, and **based on early numbers from 2020, its market share is 39%**. It puts Facebook ahead of  Sony, its main competitor in this area and leader in 2019.
 
@@ -308,8 +309,9 @@ For example, privacy reputation and leadership are not reconcilable with recent 
 
 Again, this does not make Facebook evil.  In this fight with Apple, Facebook is simply fighting for itself and its core customers. Facebook customers are not its users, but rather around 10 million, primarily small businesses that advertise on Facebook and Instagram.  
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lHqlRYJsXGQ" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 There are many more controversies about Facebook outside of privacy and security. I won't fully cover them in this article, but let at least summarize the main areas.
 
@@ -377,8 +379,9 @@ It has quite a big potential. Facebook probably won't earn much direct revenue f
 
 It can also help to introduce more small businesses to the power of Facebook advertising.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR8OwJhOKR4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 Another already launched activity comes from **Facebook Pay services** across its apps. In this area, Facebook hit some regulatory roadblocks in Brazil and India recently, but it seems that it was just temporary. Facebook Pay won't be a revenue maker by itself, but it will help make payment transactions more seamless within Facebook apps, which is crucial for the push into e-commerce. 
 
@@ -392,8 +395,9 @@ One such change might be a bigger focus on **private social platforms and more i
 
 Facebook is also heavily investing in several other opportunities, like **augmented reality and virtual reality.** Facebook is a leading company in these areas with its Oculus hardware and its development tools. Facebook even announced that it plans to introduce **AR glasses in cooperation with Ray-Ban.**
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o67td5HFghI" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 It looks that **Oculus** is starting to see the first wins and is gaining market share. Its revenue is still relatively small compared to Facebook's advertising revenue, but it can become a viable platform with an ecosystem around it.
 

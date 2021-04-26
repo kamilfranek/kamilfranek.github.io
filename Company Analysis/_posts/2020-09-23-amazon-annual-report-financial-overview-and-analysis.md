@@ -45,8 +45,9 @@ Amazon is a formidable company that, even after 25+ years, constantly innovates 
 
 They then chose a more appropriate name, "Amazon.com." But looking back, we can now see that although the company was not named "relentless," it was and still is relentless in the way it operates. 
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKDo7maRwnk" loading="lazy" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 So what business is Amazon in, and what it actually does?
 
@@ -64,9 +65,9 @@ Amazon's actual profits, even in 2019, were not very huge since it still heavily
 
 In the following older video, Jeff Bezos talks about Amazon, its vision, and how they approach their business. The central theme that pop-ups several times is "obsessive focus on the customer."
 
-
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mk0qTPqaFcw" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 As is evident from this interview and other older ones, it seems that Amazon did not have any master plan from day one how they will make money. They wanted to focus on the customer and figure out how to make money from it later by trying out different things and building on top of those that worked. And that is what happened.
 
@@ -106,8 +107,9 @@ By that, I mean **integrating advertising with content** that Amazon already off
 
 It can happen either by using your Fire TV remote or saying, "Alexa, buy me that thing." Apart from that, Amazon streaming content alone is a great acquisition channel for Prime members. The video below offers a peek into Amazon's media strategy.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PZ75QyqbKf4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 Another thing to watch for in the coming years is Amazon's **push into a physical retail business through its own stores**, especially Whole Food, that they acquired in 2017 or Amazon Fresh. But **the main potential might come from renting out Amazon in-store cashier-less technology to other physical retailers.**  
 
@@ -892,8 +894,9 @@ It is interesting that although this became such a huge topic, **Amazon's revenu
 
 Not because approximately 500 Whole Food stores would create some significant threat to other retailers. But it was a sign that Amazon is serious about its push into the physical retail business, and buying Whole Food was probably just a first step on this journey.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Abs6wZgI2gQ" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 Whole Food acquisition was not the first Amazon experience with physical stores. The company was experimenting with different offline store concepts since 2015 when it launched the first Amazon Book store. Since then, it has introduced and experimented with many other different concepts like **Amazon Go, Amazon 4-star, Amazon Pop-Up stores**, and even something as weird as **Amazon Treasure Truck**. 
 
@@ -927,8 +930,9 @@ Revenue consists of fees that Amazon is charging to third-party sellers. This fe
 
 Here is a short video by Amazon that summarized what services it offers for sellers.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XHqCMltcFyU" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 **Amazon also offers other services** like the ability to auction for the top position in product searches, which work similarly to Google's search engine. 
 
@@ -944,9 +948,9 @@ It was evident that it was "hearing" only by name. Many members did not seem eve
 
 This hearing was mostly a political theater, and Jeff Bezos did not have any space to explain anything in detail. Despite all of that, it was a good summary of most of Amazon's antitrust issues.
 
-
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F4-Ke0PDmKU" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 **Third-party seller services are also the cornerstone of what Amazon offers in India, where regulation does not allow Amazon to sell goods directly.** Therefore Amazon's business there is mainly about providing the marketplace and charging fees for this service. However, it has some minority ownership in several third-party sellers selling on www.amazon.in marketplace.
 
@@ -1090,8 +1094,9 @@ Recently **Amazon stopped relying solely on its delivery partners like FedEx, UP
 
 Amazon is also focusing on expanding its last-mile delivery. It launched a [delivery service partner program](https://logistics.amazon.com/){:target=" _blank"} and even financially motivated its employees to become delivery contractors for the company.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efs3PyR8iBw" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 Amazon currently **has around 60 000 trucks, truck trailers, and vans** and ordered another [100 000 electric vans](https://www.wsj.com/articles/amazon-to-add-100-000-electric-vehicles-as-part-of-climate-pledge-11568914649){:target="_blank"} from Rivina. Since it will take Rivian until 2022 to deliver first 10 000 vans, Amazon ordered also [1800 electric vans](https://www.cnbc.com/2020/08/28/amazon-orders-1800-electric-vans-from-mercedes-for-deliveries.html){:target="_blank"} from Mercedes.
 
@@ -1113,8 +1118,9 @@ Fulfillment expenses grew "only" by 18% compared to 35% growth in 2018 because t
 
 Amazon's fulfillment centers are a state of the art facilities. They smartly combine robots, people, and artificial intelligence to make fulfillment as efficient as possible.  You can get a peek of how it looks and works inside the fulfillment center in the video below. 
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TUx-ljgB-5Q" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 **In 2018, Amazon decided to embrace [a $15 per hour minimum salary](https://blog.aboutamazon.com/working-at-amazon/amazon-raises-minimum-wage-to-15-for-all-us-employees){:target=" _blank"}**, which affected 250 000 employees and another 100 000 seasonal ones. That turned Amazon from a company ostracized for not paying their employees properly to the company where the minimum wage is higher than the retail industry median wage.
 

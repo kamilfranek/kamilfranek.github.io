@@ -76,8 +76,9 @@ Although a waterfall graph is good at visualizing differences, it **sucks in vis
 
 A few years ago, I wrote a **[post solely about waterfall charts and their advantages to visualize an income statement](/how-to-redesign-your-income-statement/)**. I recommend you check it out. I even created a short teaser video for it :-).
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yqSP9gkXKu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 The waterfall chart is probably is not the chart that I would use for presenting the income statement to the audience that is not accustomed to seeing financial reports. But for people that are used to financial reports, the waterfall chart is very familiar, because it shows data is similar grid as traditional table format of an income statement.
 

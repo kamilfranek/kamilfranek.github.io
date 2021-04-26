@@ -41,9 +41,9 @@ Nokia's acquisition sort of marks the low point for Microsoft, but since then, M
 
 Here you can have a video version of Microsoft journey made by the Wall Street Journal. It is only over 2 minutes but gives you the main idea.
 
-
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O2vnAhb-F7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 In this article, I will walk you through Microsoft's financial statements from its annual report. I will explain what is going on using custom charts and will summarize key takeaways for you. My aim is to show you the numbers simply and visually, but mainly tie the numbers to the "business" behind the numbers. I will cover both the income statement and key things from the balance sheet and cash flow statements.
 
@@ -877,8 +877,9 @@ Server Products and Services include:
 
 Microsoft was pushing and working on Azure and also Office 365 even during Ballmer tenure (Satya Nadella managed Azure as a vice president). The fact that Microsoft board recognized the importance of cloud for the future of Microsoft might have been the important reason why Nadella was chosen for the top job to continue pushing the cloud further. To Satya Nadella's credit, he is quite open about it, as shown in the following video clip.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Aab4ERXlis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 When comparing Microsoft Cloud business to AWS or Google's Cloud, it is often too narrowly focused only on Azure because it is easily comparable to AWS.
 

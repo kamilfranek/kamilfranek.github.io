@@ -958,8 +958,9 @@ It seems that, unlike other public grandstands that Mark Zuckerberg announced an
 
 Facebook is investing a lot of resources into this. We are not talking only about the hardware itself but also about software and services surrounding it, including developers' tools. Facebook's vision is to build the whole self-sustaining ecosystem around AR&VR, with Facebook at the center of it.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXIcG3B7CsY" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 Of course, we should not expect that Oculus will start making money any time soon. Its revenue might reach billions of dollars quite quickly, but taking into account the Oculus headset's pricing, this will probably be a low margin or maybe even loss-making product for some time. But in 10 to 15 years, this might be a real business.
 
@@ -983,8 +984,9 @@ Portal is a name for a range of devices by Facebook focused on videoconferencing
 
 Facebook chose to make Portal open to be also used with third-party videoconferencing services apart from Facebook  Messenger and WhatsApp.  It also includes Amazon's Alexa voice assistant.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49saKMgntN8" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 ### Facebook Shops Revenue
 
@@ -1212,8 +1214,9 @@ The unfortunate fact about content moderation is that although it might not be a
 
 If you are interested to know more, you can check out this documentary by Verge about the life of content moderators in one of Facebook subcontractors.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bDnjiNCtFk4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 ### General and Administrative Expenses
 

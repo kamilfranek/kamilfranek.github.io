@@ -29,9 +29,9 @@ Google news shows you pictures and headlines of the articles. **If you click on 
 
 Google News has two **different ways of how to access it.** One way is to access it through the **web or mobile application** that will show you all the categories as I described and serves as your daily news provider. Here is a short video from Google explaining the main benefits.
 
-
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wArETCVkS4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 Another way to **access Google News is through the standard Google Search** web page. Although you can search articles also within the Google News app, and it will give you nearly identical results, Google Search interface is far easier to use when you are searching for more specific news topics. It also allows you to discover older articles. 
 
@@ -55,7 +55,9 @@ Google News mobile & web app does not include full news articles. It is just hea
 
 Subscribing to the newspapers can be a tedious process. Therefore **Google found a way how to make it easier for users to subscribe to digital publications** without complicated signup and payment process. They introduced [Subscribe with Google](https://blog.google/topics/google-news-initiative/introducing-subscribe-google/){:target="_blank"} option, which will allow you to subscribe and pay only in a few clicks, and you won't even need to remember any new passwords, as long as you are signed into Google. Test results for Subscribe with Google showed [30% better results](https://whatsnewinpublishing.com/after-30-uplift-in-subscriptions-financial-times-and-other-publishers-roll-out-subscribe-with-google){:target="_blank"} than the standard sign-up process.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2N04xgq7EsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### How Much Money Does Google News Maks from "Subscribe with Google" Option? 
 

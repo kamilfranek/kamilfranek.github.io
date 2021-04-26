@@ -31,9 +31,9 @@ One example worth mentioning is Amazon's Fire Phone that was based on "bare" And
 
 Another manufacturer that was forced to use bare Android recently is Huawei. For them, it was not a choice but merely an unwanted result of China vs. US trade war. Below you will find a great video from MKBHD where he very well explains issues Huawei faces by being forced to use bare Android.
 
-
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZGpmWrVSaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;
+</div>
 
 So If we disregard this "bare" Android version than we can clearly say that **Android is not open source but proprietary Google's software.** To use it, the manufacturer does not need to pay anything, but they need to comply with many of Google's conditions to be able to use the full version of Android with Play and other Google's apps.
 
@@ -211,7 +211,9 @@ As I explained earlier, before 2018, Android, with all its main features, was ha
 
 In the following video, EU Commissioner Margrethe Vestager announces €4.34bn fine for Google and offers a clear explanation of Google's illegal practices and what specifically Google needs to change to avoid penalty payments.
 
+<div class='responsive-video-container'>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1-2qxLuWK6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Licensing fees would differ for different phones based on its screen resolution, which is a way how to make it dependent on price.  Based on some reports, it would [range between 40$ for most pricey phones to $10 for phones with low screen resolution](https://www.theverge.com/2018/10/19/17999366/google-eu-android-licensing-terms){:target="_blank"}. For lower-end phone in selected countries, it might be even as low as $2.5.
 
