@@ -1230,14 +1230,14 @@ Unfortunately, companies were not required to restate their previous period fina
 
 ## 📚 **Resources & Links**
 
-### Official Annual Reports (K-10)
+**Official Annual Reports (K-10)**
 
 - [Amazon's Quarterly results documents](https://ir.aboutamazon.com/quarterly-results/default.aspx){:target="_blank"}
 - [Amazon's Annual Report 2019 (10-K)](https://www.sec.gov/ix?doc=/Archives/edgar/data/1018724/000101872420000004/amzn-20191231x10k.htm){:target="_blank"}
 - [Amazon's Annual Report 2018 (10-K)](https://www.sec.gov/Archives/edgar/data/0001018724/000101872419000004/amzn-20181231x10k.htm){:target="_blank"}
 - [Amazon's Annual Report 2017 (10-K)](https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/amzn-20171231x10k.htm){:target="_blank"}
 
-### Other
+**Other**
 
 - [Jeff Bezos' 2020 Letter to Shareholders](https://s2.q4cdn.com/299287126/files/doc_financials/2020/ar/2019-Shareholder-Letter.pdf){:target="_blank"}
 - [Amazon's Investor Relations Webpage](https://ir.aboutamazon.com/overview/default.aspx){:target="_blank"}

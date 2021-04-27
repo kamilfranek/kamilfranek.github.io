@@ -415,11 +415,11 @@ In the end, I also have to mention the general trend of advertising spending mov
 
 ## 📚 Resources & Links
 
-### Related Articles
+**Related Articles**
 
 - [Facebook Financial Statements: Overview & Analysis](/facebook-financial-statements-overview-and-analysis/)
 
-### Other Resources
+**Other Resources**
 
 - [Facebook's Investor Relation website](https://investor.fb.com/){:target="_blank"}
 - [Facebook Press Releases](https://about.fb.com/news/){:target="_blank"}
