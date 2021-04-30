@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Kamil Franek"
-  avatar           : "/assets/images/kamilfranek_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/branding/kamilfranek_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Business analytics professional | owner & chief analyst at kamilfranek.com"
   location         : "Prague, Czech Republic"
   email            : 
