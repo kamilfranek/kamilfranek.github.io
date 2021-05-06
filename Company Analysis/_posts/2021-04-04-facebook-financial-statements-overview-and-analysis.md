@@ -33,10 +33,6 @@ Facebook is a company with a dominant presence in our digital lives. Around 3.3 
 
 **The main way how Facebook makes money is by showing targeted advertising to its 3.3bn users and getting paid for it by advertisers, primarily small businesses. Advertising represents 98% of its revenue.**
 
-<!-- Ezoic - intro_small - incontent_20 -->
-<div id="ezoic-pub-ad-placeholder-152"> </div>
-<!-- End Ezoic - intro_small - incontent_20 -->
-
 Like other businesses with advertising-driven business models, Facebook has to juggle both its users' and advertisers' interests. An issue arises when both groups' interests come against each other, for example, when it comes to privacy. 
 
 Although Mark Zuckerberg, Facebook's CEO and controlling shareholder, publicly claims that he wants Facebook to become a privacy leader, **Facebook's actions don't leave much space for doubt that advertisers' interests are more important for Facebook. After all, advertisers are the ones paying the bills.** 

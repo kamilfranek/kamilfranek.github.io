@@ -21,10 +21,6 @@ The Facebook business model is based on offering its tools and services mostly f
 
 That means that **people who use Facebook services (users) are not the ones paying Facebook for it. Real customers are primarily small businesses advertising on some of Facebook's family of apps.** Facebook's focus on small businesses became an even more apparent part of the Facebook strategy as it introduced the first version of its e-commerce tools called Facebook Shops.
 
-<!-- Ezoic - intro_small - incontent_20 -->
-<div id="ezoic-pub-ad-placeholder-152"> </div>
-<!-- End Ezoic - intro_small - incontent_20 -->
-
 Facebook is not the first nor the last business with a similar business model. Still, Facebook is an excellent example that **this business model is not without issues when the interests of users and customers (advertisers) are not in line.** 
 
 Over the years, Mark Zuckerberg, Facebook founder, CEO, and controlling shareholder in one person,  aggressively grew  Facebook from a small project founded in his college dorm room into a social media giant. 
@@ -318,10 +314,6 @@ Again, this does not make Facebook evil.  In this fight with Apple, Facebook is 
 </div>
 
 There are many more controversies about Facebook outside of privacy and security. I won't fully cover them in this article, but let at least summarize the main areas.
-
-<!-- Ezoic - incontent_manual_01 - incontent_21 -->
-<div id="ezoic-pub-ad-placeholder-153"> </div>
-<!-- End Ezoic - incontent_manual_01 - incontent_21 -->
 
 **Facebooks controversies and issues that might impact it going forward:**
 
