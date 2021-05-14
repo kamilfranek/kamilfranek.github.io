@@ -25,15 +25,13 @@ header:
 
 </style>
 
-Microsoft is one of the world's most valuable companies, and its 2020 financial results are record-breaking again. But things did not look so well just a few years ago.
-
-![Microsoft Summarized Income Statement Waterfall Chart 2020](/assets/images/microsoft_income_statement_summarized_waterfall_chart.png)
-
-Every annual report with financial statements within it, tells a story. And a story that Microsoft's annual report and financial statements tell is a classic "comeback" story. 
+Microsoft is one of the world's most valuable companies, and its 2020 financial results are record-breaking again. But things did not look so well just a few years ago. Every annual report with financial statements within it, tells a story. And a story that Microsoft's annual report and financial statements tell is a classic "comeback" story. 
 
 **Microsoft's story is about once a dominant company that ruled in the PC era and later got under pressure as consumers shifted from PC to smartphones. Moreover, new cloud-based competitors emerged that threatened Microsoft's business software dominance.**
 
 Microsoft went through several bad years. The issue was not primarily in company profits at the time, as it was able to keep making money from its legacy products. The problem was that its strategy for how it plans to become relevant in the new age was quite unclear. Everything culminated by the questionable [acquisition](https://news.microsoft.com/2013/09/03/microsoft-to-acquire-nokias-devices-services-business-license-nokias-patents-and-mapping-services/){:target="_blank"} of another struggling company that once dominated its market. The company name was Nokia. 
+
+![Microsoft Summarized Income Statement Waterfall Chart 2020](/assets/images/microsoft_income_statement_summarized_waterfall_chart.png)
 
 Nokia's acquisition sort of marks the low point for Microsoft, but since then, Microsoft was able to pull itself together. The company made a hard decision to leave smartphone business (and effectively consumer business) behind and refocus entirely on its business-focused productivity & server software.
 

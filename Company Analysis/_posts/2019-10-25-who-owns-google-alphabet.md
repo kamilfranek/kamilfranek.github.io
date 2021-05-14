@@ -18,9 +18,7 @@ header:
 
 ![Article Teaser: Who Onws Google/Alphabet](/assets/images/teasers/alphabet_google_who_owns_google_teaser.png){: .teaser-center}
 
-Decades ago, ownership of publicly traded companies used to be simple. You counted how many shares you own and how a big proportion of the total number of shares it is. The resulting percentage determined both **share on capital (and dividends)** and also **voting power.** 
-
-Nowadays, **Alphabet (Google)** and many other companies have very often **different classes of shares that have different voting power**. Because of that, defining who is the owner of the company became a little bit more complicated. In this article, we will look at the Alphabet's (Google's) ownership structure. Who owns it and who is in control.
+Decades ago, ownership of publicly traded companies used to be simple. You counted how many shares you own and how a big proportion of the total number of shares it is. The resulting percentage determined both **share on capital (and dividends)** and also **voting power.** Nowadays, **Alphabet (Google)** and many other companies have very often **different classes of shares that have different voting power**. Because of that, defining who is the owner of the company became a little bit more complicated. In this article, we will look at the Alphabet's (Google's) ownership structure. Who owns it and who is in control.
 
 So who owns Alphabet (Google)? **Top shareholders are Vanguard with a 6.4% share on equity, followed by Google's founders Larry Page (5.7%) and Sergey Brin (5.5%). However, thanks to "super-voting" stocks,  Larry and Sergey have 51% of all votes. Therefore they have control over Alphabet Inc.**
 

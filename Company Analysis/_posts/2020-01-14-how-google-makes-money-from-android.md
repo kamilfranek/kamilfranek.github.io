@@ -16,7 +16,6 @@ Android is a widely successful mobile operating system. It competes shoulder to 
 
 ![Infographic with break down of how Google makes money from Android with revenue estimate for its core business models](/assets/images/alphabet_google_how_google_makes_money_from_android_infographic.png)
 
-
 As you can see, even though Google does not make money from Android directly through licensing, it earns a sizable part of Google's (Alphabet's) revenue from Android. In the rest of this article, I will breakdown  different Android revenue streams and walk your throug its business model. I will also show you that the Android that most consumers use is far from "open source," and Google keeps a very tight grip around it.
 
 ## ⚙️Android How You Know It Is Not Open Source
