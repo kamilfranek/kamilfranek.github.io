@@ -1,0 +1,16 @@
+/* ==========================================================================
+   CUSTOM CLASSES
+   ========================================================================== */
+
+/*
+   Visibility
+   ========================================================================== */
+
+/* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
+
+.teaser-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%
+}

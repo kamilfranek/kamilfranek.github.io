@@ -23,7 +23,7 @@ header:
 </style>
 
 
-![Article Teaser: Facebook Financial Statements: Overview & Analysis 2020](/assets/images/teasers/facebook_financial_statements_overview_and_analysis_teaser.png)
+![Article Teaser: Facebook Financial Statements: Overview & Analysis 2020](/assets/images/teasers/facebook_financial_statements_overview_and_analysis_teaser.png){: .teaser-center}
 
 Facebook is a company with a dominant presence in our digital lives. Around 3.3 billion people worldwide used at least one of Facebook's apps at the end of 2020. Based on Facebook's financial statements, the company looks like a great business with double-digit growth.  But Facebook is also at the center of many privacy issues and other controversies that might hinder its future if not addressed properly. 
 

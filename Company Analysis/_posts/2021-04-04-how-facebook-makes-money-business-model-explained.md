@@ -5,7 +5,7 @@ header:
  teaser: "assets/images/teasers/facebook_how_facebook_makes_money_teaser.png"
 ---
 
-![Article Teaser: How Facebook Makes Money: Business Model Explained](/assets/images/teasers/facebook_how_facebook_makes_money_teaser.png)
+![Article Teaser: How Facebook Makes Money: Business Model Explained](/assets/images/teasers/facebook_how_facebook_makes_money_teaser.png){: .teaser-center}
 
 Facebook is not a monopoly, but with its more than 3 billion users worldwide across Facebook, Instagram and WhatsApp, it has a dominant market presence among social media and messaging tools.  Facebook's gigantic user penetration worldwide is what makes it such a valuable company. Still, when it comes to Facebook's business model and how it makes money, users are not paying Facebook anything. At least not directly.
 
