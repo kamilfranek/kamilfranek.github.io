@@ -22,7 +22,6 @@ header:
   cursor: pointer;
 }   */
 
-
 </style>
 
 Microsoft is one of the world's most valuable companies, and its 2020 financial results are record-breaking again. But things did not look so well just a few years ago. Every annual report with financial statements within it, tells a story. And a story that Microsoft's annual report and financial statements tell is a classic "comeback" story. 
