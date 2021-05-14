@@ -5,7 +5,7 @@ header:
   teaser: "assets/images/teasers/alphabet_google_what_companies_it_owns_teaser.png"
 ---
 
-![Article Teaser](/assets/images/teasers/alphabet_google_what_companies_it_owns_teaser.png)
+![Article Teaser](/assets/images/teasers/alphabet_google_what_companies_it_owns_teaser.png){: .teaser-center}
 
 For understanding any company better, I think it is essential to understand also what subsidiary companies it owns and how they are organized.  In this article, I would like to share with you what I was able to learn from available public resources about Alphabet/Google subsidiaries. 
 

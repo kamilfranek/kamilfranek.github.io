@@ -5,7 +5,7 @@ header:
  teaser: "assets/images/teasers/microsoft_annual_report_financial_overview_and_analysis_teaser.png"
 ---
 
-![Article Teaser: Microsoft Annual Report: Financial Overview & Analysis 2020](/assets/images/teasers/microsoft_annual_report_financial_overview_and_analysis_teaser.png)
+![Article Teaser: Microsoft Annual Report: Financial Overview & Analysis 2020](/assets/images/teasers/microsoft_annual_report_financial_overview_and_analysis_teaser.png){: .teaser-center}
 
 <style>
 .cardlist li {

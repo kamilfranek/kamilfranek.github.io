@@ -11,7 +11,7 @@ header:
 }
 </style>
 
-![Article Teaser: How Google Pay Earns Money](/assets/images/teasers/alphabet_google_how_google_pay_earns_money_teaser.png)
+![Article Teaser: How Google Pay Earns Money](/assets/images/teasers/alphabet_google_how_google_pay_earns_money_teaser.png){: .teaser-center}
 
 Google Pay adoption is growing strongly, but the question that bugged me for some time was how exactly Google Pay earns money for Google (Alphabet), and how much revenue it makes. This article is a result of a more in-depth look at current and future Google Pay business model.
 

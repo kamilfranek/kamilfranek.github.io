@@ -12,7 +12,7 @@ header:
 
 </style>
 
-![Article Teaser: How Google Maps makes money?](/assets/images/teasers/alphabet_google_how_google_maps_makes_money_teaser.png)
+![Article Teaser: How Google Maps makes money?](/assets/images/teasers/alphabet_google_how_google_maps_makes_money_teaser.png){: .teaser-center}
 
 
 Google Maps has dominated the online mapping business for more than a decade. Service was launched in February 2005 and quickly became the most prominent mapping service. Everybody somehow got used to the fact that it is excellent, detailed, free, and mostly without adds.  

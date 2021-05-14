@@ -5,7 +5,7 @@ header:
  teaser: "assets/images/teasers/best_charts_for_income_statement_presentation_and_analysis_teaser.png"
 ---
 
-![Article Teaser: 7 Best Charts for Income Statement Presentation & Analysis](/assets/images/teasers/best_charts_for_income_statement_presentation_and_analysis_teaser.png)
+![Article Teaser: 7 Best Charts for Income Statement Presentation & Analysis](/assets/images/teasers/best_charts_for_income_statement_presentation_and_analysis_teaser.png){: .teaser-center}
 
 **Income statement** that is also often called **Profit and Loss (P&L) statement** is one of the **core financial reports.** It shows **how much profit is the company making and how this profit is created.** If you need to present specific insights or findings based on the income statement with others, you need to choose the best income statement chart or visualization. Ideally, the one that will present your point to your audience in the most efficient manner.
 

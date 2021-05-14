@@ -16,7 +16,7 @@ header:
 
 </style>
 
-![Article Teaser: How Much Google/Alphabet Pays Out in Dividends and Buybacks](/assets/images/teasers/alphabet_google_how_much_google_pays_out_in_dividends_and_buybacks_teaser.png)
+![Article Teaser: How Much Google/Alphabet Pays Out in Dividends and Buybacks](/assets/images/teasers/alphabet_google_how_much_google_pays_out_in_dividends_and_buybacks_teaser.png){: .teaser-center}
 
 I often read complaints that Google or, more precisely, its holding company Alphabet Inc. does not pay dividends and that it should start doing so and return capital to its shareholders. However, the fact is that Google/Alphabet has already begun returning money to its stockholders. So how much money in dividends, and by other means, does Google payout to its shareholders?  
 

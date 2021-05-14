@@ -5,7 +5,7 @@ header:
  teaser: "assets/images/teasers/alphabet_google_how_google_makes_money_from_android_teaser.png"
 ---
 
-![Article Teaser: How Google Makes Money from Android](/assets/images/teasers/alphabet_google_how_google_makes_money_from_android_teaser.png)
+![Article Teaser: How Google Makes Money from Android](/assets/images/teasers/alphabet_google_how_google_makes_money_from_android_teaser.png){: .teaser-center}
 
 Android is a widely successful mobile operating system. It competes shoulder to shoulder with iOS, mainly in English speaking countries and dominates in non-English speaking ones. Android is open source, and Google mostly does not charge any licensing fee for it. So why Google spends billions of dollars each year for its development? How does Google make money from Android? Is Android profitable for Google?
 

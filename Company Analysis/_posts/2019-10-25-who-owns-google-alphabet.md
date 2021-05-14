@@ -16,7 +16,7 @@ header:
 
 </style>
 
-![Article Teaser: Who Onws Google/Alphabet](/assets/images/teasers/alphabet_google_who_owns_google_teaser.png)
+![Article Teaser: Who Onws Google/Alphabet](/assets/images/teasers/alphabet_google_who_owns_google_teaser.png){: .teaser-center}
 
 Decades ago, ownership of publicly traded companies used to be simple. You counted how many shares you own and how a big proportion of the total number of shares it is. The resulting percentage determined both **share on capital (and dividends)** and also **voting power.** 
 

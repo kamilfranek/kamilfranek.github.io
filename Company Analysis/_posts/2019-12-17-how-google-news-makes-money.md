@@ -5,7 +5,7 @@ header:
  teaser: "assets/images/teasers/alphabet_google_how_google_news_makes_money_teaser.png"
 ---
 
-![Article Teaser: How Google News Makes Money](/assets/images/teasers/alphabet_google_how_google_news_makes_money_teaser.png)
+![Article Teaser: How Google News Makes Money](/assets/images/teasers/alphabet_google_how_google_news_makes_money_teaser.png){: .teaser-center}
 
 Google News is a very successful news aggregation service. It aggregates news headlines from many publishers into topics and categories. It then serves it to the users either within the mobile or web application or as a part of Google Search results. It is successful in terms of the number of users, but what is the Google News business model? Does Google News make money at all? 
 

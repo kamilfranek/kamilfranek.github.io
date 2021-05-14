@@ -5,7 +5,7 @@ header:
  teaser: "assets/images/teasers/amazon_annual_report_financial_overview_and_analysis_teaser.png"
 ---
 
-![Article Teaser: Amazon Annual Report: Financial Overview & Analysis 2019](/assets/images/teasers/amazon_annual_report_financial_overview_and_analysis_teaser.png)
+![Article Teaser: Amazon Annual Report: Financial Overview & Analysis 2019](/assets/images/teasers/amazon_annual_report_financial_overview_and_analysis_teaser.png){: .teaser-center}
 
 <style>
 .cardlist li {
