@@ -6,17 +6,11 @@ tags:
 excerpt: "Visualization and overview of P&L for FAANG companies (Facebook, Apple, Amazon, Netflix, and Alphabet/Google) using 2017 annual income statements"
 draft:
 header: 
- teaser: "assets/images/faang_logos.png"
+ teaser: "assets/images/teasers/faang_logos_teaser.png"
 ---
+![FAANG companies: Facebook, Apple, Amazon, Netflix, and Alphabet (Google)](/assets/images/teasers/faang_logos_teaser.png){: .teaser-center}
 
 **FAANG**  is an acronym commonly used to represent five technological giants **F**acebook, **A**pple, **A**mazon, **N**etflix, and **A**lphabet (Google). Acronyms for a group of countries or companies are quite popular. There is the BAT, referring to top Chinese internet companies Baidu, Alibaba, and Tencent and for countries the most prominent is probably BRICS, referring to emerging economies Brazil, Russia, India, China, and South Africa. 
-
-<figure>
-    <a href="/assets/images/faang_logos.png">
-        <img src="/assets/images/faang_logos.png" 
-             alt="FAANG companies: Facebook, Apple, Amazon, Netflix, and Alphabet (Google)">
-    </a>
-</figure>
 
 Several weeks ago I published an article about <a href="/how-to-redesign-your-income-statement/">how to visually redesign the income statement using waterfall chart </a> and I also added a couple of examples using publicly traded companies. Between the examples were also two FAANG companies (Apple & Amazon). If you haven't checked it out, I highly recommend it as a first step before you continue further.
 

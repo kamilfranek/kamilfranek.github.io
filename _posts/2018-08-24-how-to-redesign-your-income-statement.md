@@ -6,9 +6,11 @@ tags:
 excerpt: "Dump your old P&L design and use waterfall instead for clearer income statement overview & comparison"
 draft:
 header: 
- teaser: "assets/images/waterfall_income_statement_header.png"
+ teaser: "assets/images/teasers/waterfall_income_statement_teaser.png"
 
 ---
+![Article Teaser: How to Visually Redesign Your Income Statement (P&L)](/assets/images/teasers/waterfall_income_statement_teaser.png){: .teaser-center}
+
 
 "Income statement" or also called "Profit & Loss Statment (P&L)" or "Consolidated statements of operations" is an essential way how to look at your business. Together with the Cash Flow statement probably the most important one. Income statement gives us a high-level overview of how much money did a company, product line or customer segment make in the last quarter or year and compare it with previous periods.
 

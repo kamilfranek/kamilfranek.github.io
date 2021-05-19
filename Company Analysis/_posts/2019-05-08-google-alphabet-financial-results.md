@@ -3,12 +3,10 @@ title: "Google Financial Results: Guided Overview & Analysis (2018)"
 excerpt: "Explanation and analysis of Alphabet/Google (GOOGL) financial statements from the annual earnings report. All with added charts, detailed revenue breakdown, income statement (P&L) visualization, and key takeaways."
 draft:
 header: 
-  teaser: "assets/images/alphabet_google_earnings_report_teaser.png"
+  teaser: "assets/images/teasers/alphabet_google_earnings_report_teaser.png"
 ---
-<figure style="width: 50%; padding: 0" class="align-right"> 
-        <img src="/assets/images/alphabet_google_logo.png" 
-             alt="Google and Alphabet logo">
-</figure>
+
+![Article Teaser: oogle Financial Results: Guided Overview & Analysis](/assets/images/teasers/alphabet_google_earnings_report_teaser.png){: .teaser-center}
 
 
 <style>

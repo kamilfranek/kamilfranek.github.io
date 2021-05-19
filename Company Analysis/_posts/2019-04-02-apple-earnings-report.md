@@ -3,12 +3,8 @@ title: "How Does Apple Make Money: Earnings Report 2018"
 excerpt: "Analysis of Apple's (AAPL) Annual Earnings Report (2018) with visualization of Apple's income statement (P&L)"
 draft:
 header: 
-  teaser: "assets/images/apple_earnings_review_teaser.png"
+  teaser: "assets/images/teasers/apple_earnings_review_teaser.png"
 ---
-<figure style="width: 30%" class="align-right"> 
-        <img src="/assets/images/apple_logo.png" 
-             alt="Apple logo">
-</figure>
 
 <style>
 .cardlist li {
@@ -28,6 +24,7 @@ header:
 
 </style>
 
+![Article Teaser: How Does Apple Make Money: Earnings Report](/assets/images/teasers/apple_earnings_review_teaser.png){: .teaser-center}
 
 Apple Inc. is an iconic company with even more iconic pricing & business strategy that makes it **the most profitable public company in the world.** Apple is often included in one group with other technology giants. Although Apple is a technology company, it is also a matured business with huge revenue, profit and market share, but also limited growth potential. 
 

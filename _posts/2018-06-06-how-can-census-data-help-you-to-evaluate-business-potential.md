@@ -6,9 +6,11 @@ tags:
 excerpt: "Census data can help you to evaluate business potential of a particular city or sales territories. Bigger city/territory population does not automatically mean more customers for your business. "
 draft:
 header: 
- teaser: "assets/images/population_top10_activity.png"
+ teaser: "assets/images/teasers/population_top10_activity_teaser.png"
  
 ---
+![Article Teaser: How Census Data Can Help You to Evaluate Business Potential](/assets/images/teasers/population_top10_activity_teaser.png){: .teaser-center}
+
 A few months ago I put together a very basic overview of where people live in the Czech Republic in an article <a href="http://www.kamilfranek.com/where-do-your-czech-customers-live/">“Where do your Czech Customers live”</a>. It was a short post with basic metrics and visualizations about what are the biggest Czech cities, where is the biggest population density and that Pareto 20/80 really works. However, I felt that I need to get back to this topic and try to go one step deeper. Suggesting that biggest businesses potential (at least for retail) is in the biggest cities by population appeared just too simplistic. 
 
 >Though it might be a good rule of thumb, a larger city doesn't always mean that it has bigger customer potential. 

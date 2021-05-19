@@ -5,9 +5,11 @@ categories:
 tags:
 excerpt: "Who are your best salespeople and who are the worst ones? Do you reward salespeople for luck or skill? Here are 3 sales analytics tips to evaluate the performance of your sales team. It is about using the right metrics and appropriate data visualization."
 header: 
- teaser: "assets/images/performance_vs_growth_matrix_teaser.png"
+ teaser: "assets/images/teasers/performance_vs_growth_matrix_teaser.png"
  
 ---
+![Article Teaser: 3 Essential Tips How To Evaluate Your Sales Team Performance](/assets/images/teasers/performance_vs_growth_matrix_teaser.png){: .teaser-center}
+
 If you are a sales leader, sales manager or a sales analytics professional, one question that you will need to answer is who are your best salespeople and who are the worst ones. It is not a straightforward task to tackle, and the situation in your company will profoundly influence it. That being said, in practice, one *"straightforward"* solution is very often used in the form of traditional sales leaderboard.  We all love Leaderboards, don't we? However, are they really the right tool for ranking of your salespeople? 
 
 >I will argue that although there is nothing wrong with a leaderboard as such, it is misused in practice. The main problem is not the leaderboard itself but metric that is used in it. I will suggest three alternatives which I find more appropriate.
